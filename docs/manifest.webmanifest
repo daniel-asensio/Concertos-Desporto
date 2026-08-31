@@ -1,0 +1,10 @@
+{
+  "name": "Arquivo Desportivo",
+  "short_name": "Arquivo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f7f5",
+  "theme_color": "#0d512d",
+  "description": "Consulta do histórico do Radar Desportivo por data, local, atleta e clube.",
+  "icons": []
+}

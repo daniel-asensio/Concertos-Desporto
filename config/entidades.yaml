@@ -1,0 +1,156 @@
+# Entidades reconhecidas pelo arquivo.
+#
+# A correspondência é feita sem acentos, sem maiúsculas e com fronteiras de
+# palavra ("marcou" já não conta como "arco"). Os "alias" são formas
+# alternativas do mesmo nome; "ignorar_se" retira primeiro essas expressões
+# do texto, para evitar falsos positivos.
+
+atletas:
+  # Ciclismo
+  - {nome: Tadej Pogačar, modalidade: ciclismo, alias: [Pogacar]}
+  - {nome: Jonas Vingegaard, modalidade: ciclismo, alias: [Vingegaard]}
+  - {nome: Remco Evenepoel, modalidade: ciclismo, alias: [Evenepoel]}
+  - {nome: Mathieu van der Poel, modalidade: ciclismo}
+  - {nome: Wout van Aert, modalidade: ciclismo}
+  - {nome: Demi Vollering, modalidade: ciclismo}
+  - {nome: Lotte Kopecky, modalidade: ciclismo}
+  - {nome: João Almeida, modalidade: ciclismo}
+  - {nome: Rui Costa, modalidade: ciclismo}
+  - {nome: Iúri Leitão, modalidade: ciclismo}
+  - {nome: António Morgado, modalidade: ciclismo}
+  # Atletismo e corrida
+  - {nome: Faith Kipyegon, modalidade: atletismo, alias: [Kipyegon]}
+  - {nome: Jakob Ingebrigtsen, modalidade: atletismo, alias: [Ingebrigtsen]}
+  - {nome: Femke Bol, modalidade: atletismo}
+  - {nome: Sydney McLaughlin-Levrone, modalidade: atletismo, alias: [McLaughlin-Levrone]}
+  - {nome: Mondo Duplantis, modalidade: atletismo, alias: [Duplantis, Armand Duplantis]}
+  - {nome: Letsile Tebogo, modalidade: atletismo, alias: [Tebogo]}
+  - {nome: Ruth Chepngetich, modalidade: atletismo}
+  - {nome: Eliud Kipchoge, modalidade: atletismo, alias: [Kipchoge]}
+  - {nome: Pedro Pichardo, modalidade: atletismo, alias: [Pichardo]}
+  - {nome: Patrícia Mamona, modalidade: atletismo, alias: [Mamona]}
+  - {nome: Isaac Nader, modalidade: atletismo}
+  - {nome: Salomé Afonso, modalidade: atletismo}
+  # Basquetebol
+  - {nome: Nikola Jokić, modalidade: basquetebol, alias: [Jokic]}
+  - {nome: Luka Dončić, modalidade: basquetebol, alias: [Doncic]}
+  - {nome: Victor Wembanyama, modalidade: basquetebol, alias: [Wembanyama]}
+  - {nome: Giannis Antetokounmpo, modalidade: basquetebol, alias: [Antetokounmpo]}
+  - {nome: Stephen Curry, modalidade: basquetebol}
+  - {nome: Caitlin Clark, modalidade: basquetebol}
+  - {nome: A'ja Wilson, modalidade: basquetebol}
+  - {nome: Breanna Stewart, modalidade: basquetebol}
+  - {nome: Neemias Queta, modalidade: basquetebol, alias: [Queta]}
+  # Automobilismo e motociclismo
+  - {nome: Max Verstappen, modalidade: automobilismo, alias: [Verstappen]}
+  - {nome: Lando Norris, modalidade: automobilismo}
+  - {nome: Charles Leclerc, modalidade: automobilismo, alias: [Leclerc]}
+  - {nome: Lewis Hamilton, modalidade: automobilismo}
+  - {nome: Kalle Rovanperä, modalidade: automobilismo, alias: [Rovanpera]}
+  - {nome: Miguel Oliveira, modalidade: motociclismo}
+  - {nome: António Félix da Costa, modalidade: automobilismo, alias: [Felix da Costa]}
+
+clubes:
+  - nome: Sporting CP
+    alias: [Sporting Clube de Portugal, Sporting, Leões, Leoas, Alcochete]
+    ignorar_se: [Sporting de Braga, SC Braga, Sp. Braga, Sporting Braga, Sporting de Gijón, Sporting Gijon, Sporting Kansas City]
+  - nome: Portugal (selecções)
+    alias: [seleção portuguesa, selecção portuguesa, seleção de Portugal, selecção de Portugal,
+            seleção nacional, selecção nacional, equipa das quinas,
+            equipa portuguesa, por Portugal, representa Portugal,
+            atleta português, atleta portuguesa, campeão português, campeã portuguesa,
+            Portugal vence, Portugal perde, Portugal bate, Portugal defronta,
+            Portugal apura, Portugal apurado, Portugal apurada, Portugal conquista,
+            Portugal na final, Portugal termina]
+
+competicoes:
+  - {nome: Jogos Olímpicos, alias: [Olympic Games, Olimpíadas]}
+  - {nome: Jogos Paralímpicos, alias: [Paralympic Games]}
+  - {nome: Campeonato do Mundo, alias: [campeonato do mundo, world championship, world championships, Mundial de]}
+  - {nome: Campeonato da Europa, alias: [campeonato da Europa, European championship, European championships, Europeu de]}
+  - {nome: Taça do Mundo, alias: [World Cup]}
+  # Ciclismo
+  - {nome: Tour de France, alias: [Volta a França]}
+  - {nome: Giro d'Italia, alias: [Volta a Itália]}
+  - {nome: Vuelta a España, alias: [La Vuelta, Volta a Espanha]}
+  - {nome: Volta a Portugal}
+  - {nome: Paris-Roubaix, alias: [Paris Roubaix]}
+  - {nome: Liège-Bastogne-Liège, alias: [Liege-Bastogne-Liege]}
+  - {nome: Il Lombardia}
+  - {nome: Tour of Flanders, alias: [Volta à Flandres, Ronde van Vlaanderen]}
+  - {nome: Milan-San Remo, alias: [Milão-San Remo, Milan-Sanremo]}
+  - {nome: Strade Bianche}
+  - {nome: WorldTour}
+  # Corrida
+  - {nome: Maratona de Boston, alias: [Boston Marathon]}
+  - {nome: Maratona de Londres, alias: [London Marathon]}
+  - {nome: Maratona de Berlim, alias: [Berlin Marathon]}
+  - {nome: Maratona de Chicago, alias: [Chicago Marathon]}
+  - {nome: Maratona de Nova Iorque, alias: [New York City Marathon]}
+  - {nome: Maratona de Tóquio, alias: [Tokyo Marathon]}
+  - {nome: Western States}
+  - {nome: UTMB}
+  - {nome: Spartathlon}
+  - {nome: Comrades Marathon}
+  - {nome: Diamond League}
+  # Futebol e pavilhão
+  - {nome: Liga Portugal, alias: [Liga Portugal Betclic, campeonato português]}
+  - {nome: Liga dos Campeões, alias: [Champions League]}
+  - {nome: Liga Europa, alias: [Europa League]}
+  - {nome: Taça de Portugal}
+  - {nome: Euroliga, alias: [Euroleague, EuroLeague]}
+  - {nome: NBA}
+  - {nome: WNBA}
+  # Motores
+  - {nome: Fórmula 1, alias: [Formula 1, F1]}
+  - {nome: MotoGP}
+  - {nome: WRC, alias: [Mundial de Ralis]}
+  - {nome: Fórmula E, alias: [Formula E]}
+
+# A modalidade de um item vem, por esta ordem: do campo "sport" do radar,
+# da modalidade do atleta reconhecido, ou de uma destas palavras no texto.
+modalidades:
+  atletismo: [atletismo, athletics, maratona, marathon, meia-maratona]
+  natação: [natação, swimming]
+  ciclismo: [ciclismo, cycling, ciclista, peloton, pelotão]
+  ginástica: [ginástica, gymnastics]
+  remo: [remo, rowing]
+  canoagem: [canoagem, canoe sprint, canoísta]
+  vela: [vela, sailing]
+  triatlo: [triatlo, triathlon]
+  judo: [judo, judoca]
+  luta: [luta olímpica, wrestling]
+  taekwondo: [taekwondo]
+  esgrima: [esgrima, fencing]
+  halterofilismo: [halterofilismo, weightlifting]
+  tiro: [tiro desportivo]
+  tiro com arco: [tiro com arco, archery]
+  equestre: [equestre, equestrian, hipismo]
+  pentatlo moderno: [pentatlo, pentathlon]
+  basquetebol: [basquetebol, basketball, NBA, WNBA]
+  voleibol: [voleibol, volleyball, voleibolista]
+  andebol: [andebol, handball]
+  hóquei: [hóquei, hockey]
+  rugby: [rugby, râguebi]
+  futebol: [futebol, football, soccer, futebolista]
+  ténis de mesa: [ténis de mesa, table tennis]
+  badminton: [badminton]
+  boxe: [boxe, boxing, pugilista]
+  escalada: [escalada, climbing]
+  skate: [skate, skateboarding]
+  surf: [surf, surfing, surfista]
+  golfe: [golfe, golf]
+  basebol: [basebol, baseball]
+  softbol: [softbol, softball]
+  críquete: [críquete, cricket]
+  flag football: [flag football]
+  squash: [squash]
+  lacrosse: [lacrosse]
+  esqui: [esqui, skiing, snowboard]
+  patinagem: [patinagem, skating]
+  biatlo: [biatlo, biathlon]
+  curling: [curling]
+  bobsleigh: [bobsleigh, skeleton]
+  luge: [luge]
+  automobilismo: [automobilismo, Fórmula 1, F1, rali, rally, WRC]
+  motociclismo: [motociclismo, MotoGP]
