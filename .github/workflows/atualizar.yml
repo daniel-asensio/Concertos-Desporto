@@ -49,6 +49,9 @@ jobs:
     needs: atualizar
     continue-on-error: true
     runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
     permissions:
       pages: write
       id-token: write

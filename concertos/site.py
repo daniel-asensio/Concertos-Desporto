@@ -1,5 +1,6 @@
 """Gera docs/index.html: um site estático de consulta dos espetáculos,
-pronto a publicar no GitHub Pages (Settings → Pages → branch, pasta /docs)."""
+publicado automaticamente no GitHub Pages pelo workflow "Atualizar
+espetáculos" (job "publicar", via GitHub Actions)."""
 
 import json
 from datetime import date
@@ -38,6 +39,9 @@ h1{font-size:26px;margin:8px 0 2px}
 .contagem{color:var(--suave);font-size:13px;margin:14px 0 4px}
 .mes{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
   color:var(--realce);margin:26px 0 8px;border-bottom:1px solid var(--linha);padding-bottom:4px}
+.nav-irmao{margin:0 0 14px}
+.nav-irmao a{color:var(--realce);text-decoration:none;font-size:13px;font-weight:600}
+.nav-irmao a:hover{text-decoration:underline}
 .evento{background:var(--cartao);border:1px solid var(--linha);border-radius:10px;
   padding:12px 14px;margin:8px 0}
 .evento a{color:inherit;text-decoration:none}
@@ -55,6 +59,7 @@ footer{margin-top:40px;color:var(--suave);font-size:12px;border-top:1px solid va
 <div class="envelope">
 <h1>🎭 Espetáculos em Portugal</h1>
 <p class="sub">__SUBTITULO__</p>
+<p class="nav-irmao"><a href="desporto/">🏟️ Ver o Arquivo Desportivo →</a></p>
 <div class="filtros">
   <input id="pesquisa" type="search" placeholder="Pesquisar artista, espetáculo, sala…">
   <select id="cidade"><option value="">Cidade</option></select>

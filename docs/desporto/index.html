@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0d512d">
+<link rel="manifest" href="manifest.webmanifest">
+<title>Arquivo Desportivo</title>
+<style>
+:root{--green:#0d512d;--green2:#177544;--mint:#dff2e7;--ink:#14221a;--muted:#66736b;--bg:#f5f7f5;--card:#fff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 system-ui}
+header{background:linear-gradient(135deg,#073a21,var(--green2));color:#fff;padding:26px 18px}
+header>div,main{max-width:960px;margin:auto}
+h1{margin:0;font-size:1.6rem}
+.sub{opacity:.85;margin-top:4px}
+.nav-irmao{margin-top:10px}
+.nav-irmao a{color:#fff;font-size:.85rem;font-weight:600;text-decoration:none;opacity:.9}
+.nav-irmao a:hover{text-decoration:underline;opacity:1}
+main{padding:0 14px 40px}
+
+.painel{background:var(--card);border-radius:14px;padding:14px;margin:16px 0;box-shadow:0 2px 10px #15351e0c}
+.linha{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0}
+input[type=search]{flex:1;min-width:220px;border:1px solid #c8d6cc;border-radius:10px;padding:10px 12px;font:inherit;background:#fbfdfb}
+select,input[type=date]{border:1px solid #c8d6cc;border-radius:10px;padding:8px 10px;font:inherit;background:#fbfdfb;color:var(--ink);max-width:100%}
+select{flex:1;min-width:130px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chips button{border:0;border-radius:20px;padding:8px 13px;background:#eef4ef;color:var(--ink);font:inherit;cursor:pointer}
+.chips button.on{background:var(--green);color:#fff}
+.limpar{background:none;border:0;color:var(--green);font:inherit;cursor:pointer;padding:6px 0;text-decoration:underline}
+
+.resumo{color:var(--muted);font-size:.9rem;margin:14px 2px}
+h2.dia{font-size:1rem;color:var(--green);margin:22px 2px 8px;border-bottom:2px solid var(--mint);padding-bottom:5px;text-transform:capitalize}
+.card{background:var(--card);border-radius:14px;margin:10px 0;padding:14px 15px;box-shadow:0 2px 10px #15351e0c;border-left:5px solid #9db8a6}
+.card.evento{border-left-color:#1b8650}
+.card a.titulo{color:var(--green);font-weight:700;text-decoration:none}
+.card a.titulo:hover{text-decoration:underline}
+.meta{color:var(--muted);font-size:.88rem;margin:5px 0 0}
+.etiquetas{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.etiquetas button{border:0;border-radius:7px;padding:4px 8px;font:.82rem system-ui;background:var(--mint);color:var(--green);cursor:pointer}
+.etiquetas button.mod{background:#eef0e6;color:#5a6b3f}
+.etiquetas button.comp{background:#e9eef7;color:#2c4a7c}
+.watch{background:var(--mint);display:inline-block;padding:5px 8px;border-radius:7px;margin-top:8px;font-size:.88rem}
+.local{font-size:.88rem;color:var(--muted);margin-top:6px}
+.vazio{text-align:center;color:var(--muted);padding:40px 0}
+.mais{display:block;margin:20px auto;border:0;border-radius:20px;padding:10px 20px;background:var(--green);color:#fff;font:inherit;cursor:pointer}
+footer{padding:30px;text-align:center;color:var(--muted);font-size:.9rem}
+footer a{color:var(--green)}
+</style>
+</head>
+<body>
+<header><div>
+  <h1>Arquivo Desportivo</h1>
+  <div class="sub">Tudo o que o Radar apanhou — por data, local, atleta e clube</div>
+  <div class="nav-irmao"><a href="../">🎭 Ver Espetáculos em Portugal →</a></div>
+</div></header>
+<main>
+  <div class="painel">
+    <div class="linha">
+      <input id="pesquisa" type="search" placeholder="Pesquisar no arquivo…" autocomplete="off">
+    </div>
+    <div class="linha">
+      <select id="f-atleta"><option value="">Atleta</option></select>
+      <select id="f-clube"><option value="">Clube / Selecção</option></select>
+      <select id="f-modalidade"><option value="">Modalidade</option></select>
+      <select id="f-competicao"><option value="">Competição</option></select>
+    </div>
+    <div class="linha">
+      <select id="f-fonte"><option value="">Fonte</option></select>
+      <select id="f-local"><option value="">Local</option></select>
+      <span class="chips" id="tipo">
+        <button data-v="" class="on">Tudo</button>
+        <button data-v="news">Notícias</button>
+        <button data-v="event">Eventos</button>
+      </span>
+    </div>
+    <div class="linha">
+      <span class="chips" id="periodo">
+        <button data-v="hoje">Hoje</button>
+        <button data-v="7">7 dias</button>
+        <button data-v="30">30 dias</button>
+        <button data-v="tudo" class="on">Tudo</button>
+        <button data-v="futuro">Futuro 📅</button>
+      </span>
+      <input type="date" id="data-de" title="Desde">
+      <input type="date" id="data-ate" title="Até">
+      <button class="limpar" id="limpar">limpar filtros</button>
+    </div>
+  </div>
+  <div class="resumo" id="resumo">A carregar o arquivo…</div>
+  <section id="itens"></section>
+</main>
+<footer id="rodape"></footer>
+<script>
+"use strict";
+const TZ = "Europe/Lisbon";
+const POR_PAGINA = 60;
+let itens = [], indice = null, mostrar = POR_PAGINA;
+const estado = { texto:"", atleta:"", clube:"", modalidade:"", competicao:"",
+                 fonte:"", local:"", tipo:"", periodo:"tudo", de:"", ate:"" };
+
+const $ = id => document.getElementById(id);
+const normalizar = t => t.normalize("NFKD").replace(/[̀-ͯ]/g,"").toLowerCase();
+const dataDe = item => new Date(item.start || item.published);
+
+const fmtDia = new Intl.DateTimeFormat("pt-PT",{timeZone:TZ,weekday:"long",day:"numeric",month:"long",year:"numeric"});
+const fmtHora = new Intl.DateTimeFormat("pt-PT",{timeZone:TZ,hour:"2-digit",minute:"2-digit"});
+const fmtDiaISO = new Intl.DateTimeFormat("en-CA",{timeZone:TZ,year:"numeric",month:"2-digit",day:"2-digit"});
+
+async function carregar(){
+  indice = await (await fetch("dados/indice.json",{cache:"no-store"})).json();
+  const meses = Object.keys(indice.meses||{});
+  const listas = await Promise.all(meses.map(m =>
+    fetch(`dados/${m}.json`,{cache:"no-store"}).then(r=>r.json())));
+  itens = listas.flat();
+  itens.forEach(i => { i._data = dataDe(i); i._texto = normalizar(
+    [i.title,i.summary,i.source,i.local,...(i.atletas||[]),...(i.clubes||[]),
+     ...(i.competicoes||[]),i.modalidade].filter(Boolean).join(" ")); });
+  preencherFiltros();
+  const q = new URLSearchParams(location.hash.slice(1));
+  for (const chave of Object.keys(estado)) if (q.has(chave)) estado[chave] = q.get(chave);
+  reflectirControlos();
+  desenhar();
+  $("rodape").innerHTML = `Actualizado em ${new Intl.DateTimeFormat("pt-PT",
+    {timeZone:TZ,dateStyle:"short",timeStyle:"short"}).format(new Date(indice.actualizado))}
+    · ${indice.total} itens no arquivo · alimentado pelo
+    <a href="https://github.com/daniel-asensio/radar-desportivo">Radar Desportivo</a>`;
+}
+
+function opcoes(selecionador, contagens){
+  const sel = $(selecionador);
+  for (const [nome, n] of Object.entries(contagens||{})){
+    if (!nome) continue;
+    const o = document.createElement("option");
+    o.value = nome; o.textContent = `${nome} (${n})`;
+    sel.appendChild(o);
+  }
+}
+function preencherFiltros(){
+  opcoes("f-atleta", indice.atletas);
+  opcoes("f-clube", indice.clubes);
+  opcoes("f-modalidade", indice.modalidades);
+  opcoes("f-competicao", indice.competicoes);
+  opcoes("f-fonte", indice.fontes);
+  opcoes("f-local", indice.locais);
+}
+
+function filtrados(){
+  const agora = new Date();
+  const hoje = fmtDiaISO.format(agora);
+  let de = null, ate = null;
+  if (estado.periodo === "hoje") de = ate = hoje;
+  else if (estado.periodo === "7")  de = fmtDiaISO.format(new Date(agora-6*864e5)), ate = hoje;
+  else if (estado.periodo === "30") de = fmtDiaISO.format(new Date(agora-29*864e5)), ate = hoje;
+  else if (estado.periodo === "futuro") de = hoje;
+  if (estado.de)  de  = estado.de;
+  if (estado.ate) ate = estado.ate;
+  const texto = normalizar(estado.texto.trim());
+
+  const lista = itens.filter(i => {
+    if (estado.tipo && i.kind !== estado.tipo) return false;
+    if (estado.atleta && !(i.atletas||[]).includes(estado.atleta)) return false;
+    if (estado.clube && !(i.clubes||[]).includes(estado.clube)) return false;
+    if (estado.modalidade && i.modalidade !== estado.modalidade) return false;
+    if (estado.competicao && !(i.competicoes||[]).includes(estado.competicao)) return false;
+    if (estado.fonte && i.source !== estado.fonte) return false;
+    if (estado.local && i.local !== estado.local) return false;
+    const dia = fmtDiaISO.format(i._data);
+    if (de && dia < de) return false;
+    if (ate && dia > ate) return false;
+    if (texto && !i._texto.includes(texto)) return false;
+    return true;
+  });
+  const ascendente = estado.periodo === "futuro";
+  lista.sort((a,b) => ascendente ? a._data-b._data : b._data-a._data);
+  return lista;
+}
+
+const esc = t => String(t).replace(/[&<>"']/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function etiqueta(classe, valor, filtro){
+  return `<button class="${classe}" data-filtro="${filtro}" data-valor="${esc(valor)}">${esc(valor)}</button>`;
+}
+function cartao(i){
+  const icone = i.kind === "event" ? "📅 " : "";
+  const etiquetas = [
+    ...(i.atletas||[]).map(a=>etiqueta("", a, "atleta")),
+    ...(i.clubes||[]).map(c=>etiqueta("", c, "clube")),
+    ...(i.competicoes||[]).map(c=>etiqueta("comp", c, "competicao")),
+    ...(i.modalidade && i.modalidade!=="geral" ? [etiqueta("mod", i.modalidade, "modalidade")] : []),
+  ].join("");
+  return `<article class="card ${i.kind==="event"?"evento":""}">
+    ${icone}<a class="titulo" href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+    <div class="meta">${fmtHora.format(i._data)} · ${esc(i.source)}</div>
+    ${i.local ? `<div class="local">📍 ${esc(i.local)}</div>` : ""}
+    ${etiquetas ? `<div class="etiquetas">${etiquetas}</div>` : ""}
+    ${(i.where_to_watch||[]).length ? `<div class="watch">📺 ${i.where_to_watch.map(esc).join(" · ")}</div>` : ""}
+  </article>`;
+}
+
+function desenhar(){
+  const lista = filtrados();
+  const alvo = $("itens");
+  const visiveis = lista.slice(0, mostrar);
+  let html = "", diaAnterior = "";
+  for (const i of visiveis){
+    const dia = fmtDia.format(i._data);
+    if (dia !== diaAnterior){ html += `<h2 class="dia">${dia}</h2>`; diaAnterior = dia; }
+    html += cartao(i);
+  }
+  if (!lista.length) html = `<div class="vazio">Nada encontrado com estes filtros.</div>`;
+  if (lista.length > mostrar) html += `<button class="mais" id="mais">Mostrar mais (${lista.length - mostrar})</button>`;
+  alvo.innerHTML = html;
+  const eventos = lista.filter(i=>i.kind==="event").length;
+  $("resumo").textContent = `${lista.length} de ${itens.length} itens` +
+    (eventos ? ` · ${eventos} eventos` : "");
+  const q = new URLSearchParams();
+  for (const [chave,valor] of Object.entries(estado))
+    if (valor && !(chave==="periodo" && valor==="tudo")) q.set(chave, valor);
+  history.replaceState(null,"", q.toString() ? "#"+q.toString() : location.pathname);
+  const botao = $("mais");
+  if (botao) botao.onclick = () => { mostrar += POR_PAGINA; desenhar(); };
+}
+
+function reflectirControlos(){
+  $("pesquisa").value = estado.texto;
+  $("f-atleta").value = estado.atleta; $("f-clube").value = estado.clube;
+  $("f-modalidade").value = estado.modalidade; $("f-competicao").value = estado.competicao;
+  $("f-fonte").value = estado.fonte; $("f-local").value = estado.local;
+  $("data-de").value = estado.de; $("data-ate").value = estado.ate;
+  for (const b of $("tipo").children) b.classList.toggle("on", b.dataset.v === estado.tipo);
+  for (const b of $("periodo").children) b.classList.toggle("on", b.dataset.v === estado.periodo);
+}
+function mudar(chave, valor){ estado[chave] = valor; mostrar = POR_PAGINA; reflectirControlos(); desenhar(); }
+
+$("pesquisa").addEventListener("input", e => mudar("texto", e.target.value));
+$("f-atleta").addEventListener("change", e => mudar("atleta", e.target.value));
+$("f-clube").addEventListener("change", e => mudar("clube", e.target.value));
+$("f-modalidade").addEventListener("change", e => mudar("modalidade", e.target.value));
+$("f-competicao").addEventListener("change", e => mudar("competicao", e.target.value));
+$("f-fonte").addEventListener("change", e => mudar("fonte", e.target.value));
+$("f-local").addEventListener("change", e => mudar("local", e.target.value));
+$("data-de").addEventListener("change", e => mudar("de", e.target.value));
+$("data-ate").addEventListener("change", e => mudar("ate", e.target.value));
+$("tipo").addEventListener("click", e => { if (e.target.dataset.v !== undefined) mudar("tipo", e.target.dataset.v); });
+$("periodo").addEventListener("click", e => { if (e.target.dataset.v) { estado.de = estado.ate = ""; mudar("periodo", e.target.dataset.v); } });
+$("itens").addEventListener("click", e => {
+  const b = e.target.closest("button[data-filtro]");
+  if (b) mudar(b.dataset.filtro, b.dataset.valor);
+});
+$("limpar").addEventListener("click", () => {
+  Object.assign(estado, { texto:"", atleta:"", clube:"", modalidade:"", competicao:"",
+                          fonte:"", local:"", tipo:"", periodo:"tudo", de:"", ate:"" });
+  mostrar = POR_PAGINA; reflectirControlos(); desenhar();
+});
+
+carregar().catch(erro => {
+  $("resumo").textContent = "Não foi possível carregar o arquivo: " + erro;
+});
+</script>
+</body>
+</html>
