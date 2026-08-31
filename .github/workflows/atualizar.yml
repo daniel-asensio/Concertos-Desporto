@@ -1,0 +1,42 @@
+name: Atualizar espetáculos
+
+on:
+  schedule:
+    # Diariamente às 06:23 UTC, depois de o monitor de alertas já ter corrido.
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-espetaculos
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Importar o snapshot do monitor de alertas
+        run: python -m concertos importar
+
+      - name: Enriquecer eventos (datas, salas, artistas)
+        run: python -m concertos enriquecer --limite 60
+
+      - name: Gerar o site de consulta
+        run: python -m concertos site
+
+      - name: Guardar alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dados docs
+          git diff --cached --quiet && echo "Sem alterações." && exit 0
+          git commit -m "Atualização automática dos espetáculos"
+          git push
