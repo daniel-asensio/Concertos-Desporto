@@ -39,7 +39,11 @@ jobs:
           git add dados docs
           git diff --cached --quiet && echo "Sem alterações." && exit 0
           git commit -m "Atualização automática dos espetáculos"
-          git push
+          # O workflow "Atualizar desporto" também escreve em docs/ (noutra
+          # subpasta) e corre de hora a hora: reintegrar antes de publicar
+          # evita "rejected (fetch first)" se os dois caírem ao mesmo tempo.
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
 
   # Publica docs/ no GitHub Pages. O GitHub não permite que o workflow ative
   # o Pages sozinho ("Resource not accessible by integration"): é preciso
