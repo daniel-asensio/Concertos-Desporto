@@ -7,19 +7,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Heavenwood",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-22",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Coliseu",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/heavenwood-porto-15158",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0282099260addbbe3d34c9a7": {
     "id": "0282099260addbbe3d34c9a7",
@@ -52,19 +52,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Rádio Macau",
     "categoria": "música",
-    "data": null,
+    "data": "2026-10-15",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Coliseu",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/radio-macau-porto-12013",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "04f0b2031035b405056706d0": {
     "id": "04f0b2031035b405056706d0",
@@ -74,7 +74,7 @@
     "kind": "Grande sala",
     "artista": "Patrulha Pata",
     "categoria": "música",
-    "data": null,
+    "data": "2026-12-08",
     "hora": null,
     "data_texto": null,
     "sala": "MEO Arena",
@@ -85,8 +85,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0502021e4de6f08bf6d4cea6": {
     "id": "0502021e4de6f08bf6d4cea6",
@@ -96,8 +96,8 @@
     "kind": "Promotora",
     "artista": "NOS ALIVE’27",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2027-07-08",
+    "hora": "15:00",
     "data_texto": null,
     "sala": null,
     "cidade": null,
@@ -107,8 +107,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0525a39e5a4e72e65a945b34": {
     "id": "0525a39e5a4e72e65a945b34",
@@ -118,10 +118,10 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Mimi Froes",
     "categoria": "música",
-    "data": null,
+    "data": "2027-03-10",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Casa da Música",
     "cidade": "Porto",
     "distrito": "Porto",
     "bilhetes": null,
@@ -129,8 +129,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "05af43a34c81b21a9c752bd9": {
     "id": "05af43a34c81b21a9c752bd9",
@@ -151,8 +151,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "05d05632f466f438ca05b3a1": {
     "id": "05d05632f466f438ca05b3a1",
@@ -162,19 +162,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "PARAÍSO, HOJE",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-11-06",
+    "hora": "10:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2026/07/Paraisohoje.jpg",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "068b0ab78f0d0592d35b7517": {
     "id": "068b0ab78f0d0592d35b7517",
@@ -184,8 +184,8 @@
     "kind": "Porto",
     "artista": "Coracao Ferido",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-27",
+    "hora": "18:00",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -195,8 +195,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "06afb6bd3e735ce8ffb8404f": {
     "id": "06afb6bd3e735ce8ffb8404f",
@@ -229,19 +229,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "João Paulo Rodrigues",
     "categoria": "música",
-    "data": null,
+    "data": "2026-12-02",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Teatro Sá da Bandeira",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/joao-paulo-rodrigues-porto-14307",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "06f6df80231248e145d888fd": {
     "id": "06f6df80231248e145d888fd",
@@ -251,19 +251,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Terceiro Ciclo e Secundário",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-02",
+    "hora": "10:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/terceirocicloservicoeducativoprogramvinculardestaque.jpg",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "078e219662d2286a5f6004b4": {
     "id": "078e219662d2286a5f6004b4",
@@ -273,19 +273,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Gb Porto 13570",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-10",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "RCA (Radioclube Agramonte)",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/gb-porto-13570",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0790263c3ef886d9ae2b1a01": {
     "id": "0790263c3ef886d9ae2b1a01",
@@ -295,10 +295,10 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Max Cooper",
     "categoria": "música",
-    "data": null,
+    "data": "2026-11-06",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Hard Club",
     "cidade": "Porto",
     "distrito": "Porto",
     "bilhetes": null,
@@ -306,8 +306,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "07d14e22789b98ed10114464": {
     "id": "07d14e22789b98ed10114464",
@@ -317,8 +317,8 @@
     "kind": "Porto",
     "artista": "Lise De La Salle",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-29",
+    "hora": "19:30",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -328,8 +328,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "07e8e1b42d31d49475aa46e2": {
     "id": "07e8e1b42d31d49475aa46e2",
@@ -339,8 +339,8 @@
     "kind": "Porto",
     "artista": "Knobil Jazzanova",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-10-16",
+    "hora": "23:00",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -350,8 +350,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "08024d93362f874fd6d62d79": {
     "id": "08024d93362f874fd6d62d79",
@@ -361,19 +361,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Mercado CCB",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-12",
+    "hora": "10:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2021/04/2000x940_MercadoSET26.jpg",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "081070d2816b2604b208ef7b": {
     "id": "081070d2816b2604b208ef7b",
@@ -383,19 +383,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Nuno Loureiro ᛫ Amuleto Apotropaico",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-18",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "RCA (Radioclube Agramonte)",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/nuno-loureiro-porto-15378",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "08fce2db53ed442ceb867b64": {
     "id": "08fce2db53ed442ceb867b64",
@@ -405,8 +405,8 @@
     "kind": "Porto",
     "artista": "Retro Gaming Sinfonico",
     "categoria": "clássica",
-    "data": null,
-    "hora": null,
+    "data": "2026-10-03",
+    "hora": "18:00",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -416,8 +416,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "096324fd72292710d1a3262e": {
     "id": "096324fd72292710d1a3262e",
@@ -427,19 +427,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Ricardo Ribeiro",
     "categoria": "música",
-    "data": null,
+    "data": "2027-01-29",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Coliseu",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/ricardo-ribeiro-porto-12191",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "09c066017ddebd27b51a5a88": {
     "id": "09c066017ddebd27b51a5a88",
@@ -449,8 +449,8 @@
     "kind": "Porto",
     "artista": "Fischer Z",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-05",
+    "hora": "21:00",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -460,8 +460,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0a57f5561f768e8d58391e70": {
     "id": "0a57f5561f768e8d58391e70",
@@ -471,19 +471,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Whitney Johnson & Lia Kohl & Macie Stewart",
     "categoria": "música",
-    "data": null,
+    "data": "2026-10-02",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "RCA (Radioclube Agramonte)",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/whitney-johnson-lia-kohl-macie-stewart-porto-13468",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0a69ad5f9463f750413ba61a": {
     "id": "0a69ad5f9463f750413ba61a",
@@ -493,8 +493,8 @@
     "kind": "Porto",
     "artista": "Rita Redshoes",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-10-24",
+    "hora": "21:30",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -504,8 +504,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0a98d5c85f559709f66d5070": {
     "id": "0a98d5c85f559709f66d5070",
@@ -526,8 +526,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0bbd222930d5359e75f0359b": {
     "id": "0bbd222930d5359e75f0359b",
@@ -560,19 +560,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Toy",
     "categoria": "música",
-    "data": null,
+    "data": "2027-04-30",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Pavilhão Rosa Mota",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/toy-porto-13880",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0bde19f9354dd0a08b13936c": {
     "id": "0bde19f9354dd0a08b13936c",
@@ -593,8 +593,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0c5dad079c3714d7d1b73892": {
     "id": "0c5dad079c3714d7d1b73892",
@@ -604,19 +604,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "May I Help You? Posso ajudar?",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-01",
+    "hora": "10:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2025/11/May-I-Help-You_MAC_CCB2-creditoAntonioJorgeSilva-scaled.jpg",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0cbfa0a6205809b169d878ba": {
     "id": "0cbfa0a6205809b169d878ba",
@@ -626,19 +626,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Kadebostany",
     "categoria": "música",
-    "data": null,
+    "data": "2027-02-06",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Casa da Música",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/kadebostany-porto-15685",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0ccc3c847f3b12f86682e349": {
     "id": "0ccc3c847f3b12f86682e349",
@@ -648,19 +648,19 @@
     "kind": "Aveiro",
     "artista": "One Vision Tributo A Queen Europarque",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-10-18",
+    "hora": "17:00",
     "data_texto": null,
     "sala": "Europarque",
     "cidade": "Santa Maria da Feira",
     "distrito": "Aveiro",
-    "bilhetes": null,
-    "imagem": null,
+    "bilhetes": "https://www.bol.pt/Comprar/Bilhetes/184109-one_vision_tributo_a_queen-europarque/",
+    "imagem": "https://bolimg.blob.core.windows.net/producao/imagens/espectaculos/cartaz158244.jpeg?v=1",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0d6bdd53c94133a5c6d829c9": {
     "id": "0d6bdd53c94133a5c6d829c9",
@@ -670,8 +670,8 @@
     "kind": "Porto",
     "artista": "Ana Lua Caiano",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2027-01-28",
+    "hora": "21:30",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -681,8 +681,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0d9595c73d8507ac99013538": {
     "id": "0d9595c73d8507ac99013538",
@@ -692,10 +692,10 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Blood Red Shoes",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-29",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Mouco",
     "cidade": "Porto",
     "distrito": "Porto",
     "bilhetes": null,
@@ -703,8 +703,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0e0ff70dec3bdd3802cedb65": {
     "id": "0e0ff70dec3bdd3802cedb65",
@@ -726,7 +726,7 @@
     "ultima_vez": "2026-08-31",
     "ativo": true,
     "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "tentativas_enriquecimento": 1
   },
   "0e47e16a8ee03a46167ab86d": {
     "id": "0e47e16a8ee03a46167ab86d",
@@ -758,19 +758,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Sigur Rós",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-13",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Coliseu",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/sigur-ros-porto-12245",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0f8046758af7f5cf93b4e279": {
     "id": "0f8046758af7f5cf93b4e279",
@@ -780,19 +780,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Deva Premal & Miten",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-12",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Coliseu dos Recreios",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/deva-premal-miten-lisboa-11299",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0fb0c0bb753d7c4515c9bbc7": {
     "id": "0fb0c0bb753d7c4515c9bbc7",
@@ -802,19 +802,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Visitas Guiadas",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-01",
+    "hora": "08:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2024/09/museumacccbcreditoEstelleValente-1.jpg",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "0fe303239aee915e8b2f14c5": {
     "id": "0fe303239aee915e8b2f14c5",
@@ -824,8 +824,8 @@
     "kind": "Porto",
     "artista": "Coro Infantil Casa Da Musica 3",
     "categoria": "clássica",
-    "data": null,
-    "hora": null,
+    "data": "2026-12-20",
+    "hora": "10:30",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -835,8 +835,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "111ddc12f22da268b78d3c62": {
     "id": "111ddc12f22da268b78d3c62",
@@ -846,8 +846,8 @@
     "kind": "Promotora",
     "artista": "Placebo 30th Anniversary Tour",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-28",
+    "hora": "18:30",
     "data_texto": null,
     "sala": null,
     "cidade": null,
@@ -857,8 +857,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "111e4b7844a0d701a79f40da": {
     "id": "111e4b7844a0d701a79f40da",
@@ -868,8 +868,8 @@
     "kind": "Porto",
     "artista": "Pensar A Arte E A Cultura De T S Eliot As Industrias Criativas",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-21",
+    "hora": "17:30",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -879,8 +879,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "113beb83d9e5146fa878caba": {
     "id": "113beb83d9e5146fa878caba",
@@ -890,19 +890,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Al di Meola",
     "categoria": "música",
-    "data": null,
+    "data": "2026-11-29",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Casa da Música",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/al-di-meola-porto-12110",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "11641b78d0ed25289f41a421": {
     "id": "11641b78d0ed25289f41a421",
@@ -912,19 +912,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Musicas Da Revolucao Musica No Museu",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2027-01-16",
+    "hora": "16:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2026/06/Maat_2000x940-1.jpg",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "1211b9d15d4c884c4efbaf98": {
     "id": "1211b9d15d4c884c4efbaf98",
@@ -945,8 +945,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "121401c33469a11c08e08eeb": {
     "id": "121401c33469a11c08e08eeb",
@@ -956,10 +956,10 @@
     "kind": "Agenda complementar do Porto",
     "artista": "U.D.O",
     "categoria": "música",
-    "data": null,
+    "data": "2027-01-29",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Hard Club",
     "cidade": "Porto",
     "distrito": "Porto",
     "bilhetes": null,
@@ -967,8 +967,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "1285df4beca4677e5bf82b78": {
     "id": "1285df4beca4677e5bf82b78",
@@ -989,8 +989,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "12dc280bcf4d27a3bf65fc5f": {
     "id": "12dc280bcf4d27a3bf65fc5f",
@@ -1000,19 +1000,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Pedro Abrunhosa ᛫ Tiago Nacarato ᛫ Rita Rocha",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-11",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Jardins do Palácio de Cristal",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/pedro-abrunhosa-noites-dos-jardins-do-palacio-porto-15001",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "12f1b7fc692be4ecde837df6": {
     "id": "12f1b7fc692be4ecde837df6",
@@ -1022,19 +1022,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Mariza",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-12",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Praça do Comércio",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/mariza-lisboa-14170",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "13590f8dcbbafd63c60d775c": {
     "id": "13590f8dcbbafd63c60d775c",
@@ -1044,8 +1044,8 @@
     "kind": "Porto",
     "artista": "Tempo De Natal 20261222",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-12-22",
+    "hora": "21:00",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -1055,8 +1055,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "13800273a950f81f93dcdd2a": {
     "id": "13800273a950f81f93dcdd2a",
@@ -1066,19 +1066,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Curso Uma Viagem Atlântica através da Arte Moderna",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-10-24",
+    "hora": "10:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2025/03/Antonio-JorgeSilvaUma-Deriva-Atlantida-L-CCB-4K.jpg",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "13f867555a41158711f28537": {
     "id": "13f867555a41158711f28537",
@@ -1088,7 +1088,7 @@
     "kind": "Grande sala",
     "artista": "Hybrid Theory 10 Anos Depois",
     "categoria": "música",
-    "data": null,
+    "data": "2027-03-20",
     "hora": null,
     "data_texto": null,
     "sala": "MEO Arena",
@@ -1099,8 +1099,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "145759d6b1b345c682c1a784": {
     "id": "145759d6b1b345c682c1a784",
@@ -1110,19 +1110,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Stephen O'Malley & Contrechamps",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-13",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Fundação de Serralves",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/stephen-o-malley-contrechamps-porto-15357",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "15132a975e55ac7a06d3a6f5": {
     "id": "15132a975e55ac7a06d3a6f5",
@@ -1132,19 +1132,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Nuna",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-13",
+    "hora": "16:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2026/06/Please-Do-Not-Touchcredito-diogo-camoes.jpg",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "1546b3cdc946fd3563d8e361": {
     "id": "1546b3cdc946fd3563d8e361",
@@ -1154,19 +1154,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Canta-me Uma História",
     "categoria": "música",
-    "data": null,
+    "data": "2026-11-07",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Pavilhão Rosa Mota",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/canta-me-uma-historia-porto-11901",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "15a7dd032d56f43fac5941c8": {
     "id": "15a7dd032d56f43fac5941c8",
@@ -1176,19 +1176,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Black Heritage Choir",
     "categoria": "música",
-    "data": null,
+    "data": "2026-12-12",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Vilar Oporto Hotel",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/black-heritage-choir-porto-12980",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "16c5b772f5f61d8dc50ae498": {
     "id": "16c5b772f5f61d8dc50ae498",
@@ -1232,8 +1232,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "17766c5c206c76159172fdc5": {
     "id": "17766c5c206c76159172fdc5",
@@ -1254,8 +1254,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "178f1bec4f0d098706b94b8e": {
     "id": "178f1bec4f0d098706b94b8e",
@@ -1288,19 +1288,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Programa Ludico Servico Educativo Museu Macccb",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-08-31",
+    "hora": "08:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2024/10/ServicoEducativo2892_ritacarmo.jpg",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "18871869c9a868cd9ab471ec": {
     "id": "18871869c9a868cd9ab471ec",
@@ -1310,8 +1310,8 @@
     "kind": "Porto",
     "artista": "Berlioz Em Italia",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-20",
+    "hora": "12:00",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -1321,8 +1321,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "19318cc1728120dbbb39859f": {
     "id": "19318cc1728120dbbb39859f",
@@ -1332,8 +1332,8 @@
     "kind": "Porto",
     "artista": "Siloe",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2027-02-20",
+    "hora": "21:30",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -1343,8 +1343,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "1995e0d3bcfbce4351ab6435": {
     "id": "1995e0d3bcfbce4351ab6435",
@@ -1354,19 +1354,19 @@
     "kind": "Aveiro",
     "artista": "Raphael Ghanem O Rugido Do Leao Stand Up Comedy Europarque",
     "categoria": "teatro",
-    "data": null,
-    "hora": null,
+    "data": "2027-02-14",
+    "hora": "20:00",
     "data_texto": null,
     "sala": "Europarque",
     "cidade": "Santa Maria da Feira",
     "distrito": "Aveiro",
-    "bilhetes": null,
-    "imagem": null,
+    "bilhetes": "https://www.bol.pt/Comprar/Bilhetes/181437-raphael_ghanem_o_rugido_do_leao_stand_up_comedy-europarque/",
+    "imagem": "https://bolimg.blob.core.windows.net/producao/imagens/espectaculos/cartaz155879.jpg?v=2",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "1ad3b19e0a85e67bc2bcb175": {
     "id": "1ad3b19e0a85e67bc2bcb175",
@@ -1376,19 +1376,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Niklas Paschburg",
     "categoria": "música",
-    "data": null,
+    "data": "2026-11-20",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Casa da Música",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/niklas-paschburg-porto-12401",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "1b38632c05db98e9715a8f16": {
     "id": "1b38632c05db98e9715a8f16",
@@ -1409,8 +1409,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "1b4d2249c3b349593adfd17a": {
     "id": "1b4d2249c3b349593adfd17a",
@@ -1420,19 +1420,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Great Straits",
     "categoria": "música",
-    "data": null,
+    "data": "2027-02-28",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Coliseu",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/great-straits-porto-14757",
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "1b61ea7e2781d41f07d3481b": {
     "id": "1b61ea7e2781d41f07d3481b",
@@ -1453,8 +1453,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
   },
   "1b958f05b3b6a7f0578aa83a": {
     "id": "1b958f05b3b6a7f0578aa83a",
