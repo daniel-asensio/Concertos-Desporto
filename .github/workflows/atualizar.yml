@@ -1,0 +1,76 @@
+name: Atualizar espetáculos
+
+on:
+  schedule:
+    # Diariamente às 06:23 UTC, depois de o monitor de alertas já ter corrido.
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-espetaculos
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Importar o snapshot do monitor de alertas
+        run: python -m concertos importar
+
+      - name: Enriquecer eventos (datas, salas, artistas)
+        run: python -m concertos enriquecer --limite 60
+
+      - name: Gerar o site de consulta
+        run: python -m concertos site
+
+      - name: Guardar alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dados docs
+          git diff --cached --quiet && echo "Sem alterações." && exit 0
+          git commit -m "Atualização automática dos espetáculos"
+          git push
+
+  # Publica docs/ no GitHub Pages. O GitHub não permite que o workflow ative
+  # o Pages sozinho ("Resource not accessible by integration"): é preciso
+  # ativá-lo uma vez em Settings → Pages → Source: GitHub Actions. Até lá,
+  # este passo falha sem afetar a atualização diária dos dados.
+  publicar:
+    needs: atualizar
+    continue-on-error: true
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    permissions:
+      pages: write
+      id-token: write
+      contents: read
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

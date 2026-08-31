@@ -24,7 +24,7 @@ from pathlib import Path
 from .enrich import Entidades
 
 RAIZ = Path(__file__).resolve().parent.parent
-PASTA_DADOS = RAIZ / "docs" / "dados"
+PASTA_DADOS = RAIZ / "docs" / "desporto" / "dados"
 CONFIG_ENTIDADES = RAIZ / "config" / "entidades.yaml"
 API_SNAPSHOT = (
     "https://api.github.com/repos/daniel-asensio/radar-desportivo"

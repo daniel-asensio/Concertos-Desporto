@@ -1,6 +1,7 @@
-# Começar aqui
+# Começar aqui — Arquivo Desportivo
 
-Três passos e o arquivo fica a funcionar sozinho.
+Dois passos e o arquivo fica a funcionar sozinho. (O GitHub Pages já é
+tratado pelo workflow dos concertos — não é preciso configurá-lo à parte.)
 
 ## 1. Dar acesso ao radar (token de leitura)
 
@@ -23,28 +24,23 @@ token para ler o `docs/events.json`:
 > *variable* (não secret) `RADAR_EVENTS_URL` com
 > `https://daniel-asensio.github.io/radar-desportivo/events.json`.
 
-## 2. Activar o GitHub Pages
-
-Neste repositório → **Settings** → **Pages** → *Build and deployment*:
-
-- **Source**: Deploy from a branch
-- **Branch**: `main`, pasta `/docs`
-
-O painel fica em `https://daniel-asensio.github.io/Concertos-Desporto/`.
-Podes "instalá-lo" no telemóvel (Adicionar ao ecrã principal).
-
-## 3. Primeira execução
+## 2. Primeira execução
 
 Depois de fazer merge para `main`:
 
-- **Actions** → **Arquivo Desportivo** → *Run workflow*.
+- **Actions** → **Atualizar desporto** → *Run workflow*.
 
 A partir daí corre sozinho de hora a hora (minuto 22, logo a seguir às
-passagens do radar) e faz commit apenas quando há novidades.
+passagens do radar) e faz commit e publica só quando há novidades.
+
+O site fica em <https://daniel-asensio.github.io/Concertos-Desporto/desporto/>
+(se o GitHub Pages ainda não estiver ativo, ativa-o uma vez em
+**Settings → Pages → Source: GitHub Actions** — o mesmo passo que os
+concertos já precisam).
 
 ## Manutenção
 
 - Novos atletas/clubes/competições: basta editar `config/entidades.yaml`.
   Na execução seguinte o arquivo inteiro é re-enriquecido, por isso as
   alterações aplicam-se também aos itens antigos.
-- O arquivo nunca apaga nada; cada mês vive em `docs/dados/AAAA-MM.json`.
+- O arquivo nunca apaga nada; cada mês vive em `docs/desporto/dados/AAAA-MM.json`.

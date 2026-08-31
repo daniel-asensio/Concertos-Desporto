@@ -1,7 +1,7 @@
 import unittest
 
-from arquivo.enrich import Entidades
-from arquivo.harvest import CONFIG_ENTIDADES, fundir, mes_do_item
+from desporto.enrich import Entidades
+from desporto.harvest import CONFIG_ENTIDADES, fundir, mes_do_item
 
 AGORA = "2026-08-31T18:00:00+00:00"
 
