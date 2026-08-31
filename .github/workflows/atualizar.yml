@@ -41,9 +41,13 @@ jobs:
           git commit -m "Atualização automática dos espetáculos"
           git push
 
-  # Publica docs/ no GitHub Pages (ativa o Pages sozinho na primeira execução).
+  # Publica docs/ no GitHub Pages. O GitHub não permite que o workflow ative
+  # o Pages sozinho ("Resource not accessible by integration"): é preciso
+  # ativá-lo uma vez em Settings → Pages → Source: GitHub Actions. Até lá,
+  # este passo falha sem afetar a atualização diária dos dados.
   publicar:
     needs: atualizar
+    continue-on-error: true
     runs-on: ubuntu-latest
     permissions:
       pages: write

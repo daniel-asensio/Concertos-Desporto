@@ -53,9 +53,9 @@ As pesquisas ignoram maiúsculas e acentos ("opera" encontra "Ópera").
 ## Site de consulta
 
 `docs/index.html` é um ficheiro único com filtros por texto, cidade, sala,
-categoria e mês. O workflow publica-o automaticamente no GitHub Pages em
-<https://daniel-asensio.github.io/Concertos-Desporto/> (o Pages é ativado
-sozinho na primeira execução do workflow).
+categoria e mês. Depois de ativar o Pages uma vez (**Settings → Pages →
+Source: GitHub Actions**), o workflow diário publica-o automaticamente em
+<https://daniel-asensio.github.io/Concertos-Desporto/>.
 
 ## Atualização automática
 
