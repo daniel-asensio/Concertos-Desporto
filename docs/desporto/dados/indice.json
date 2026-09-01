@@ -1,38 +1,40 @@
 {
- "actualizado": "2026-09-01T07:52:47+00:00",
- "total": 55,
+ "actualizado": "2026-09-01T13:32:31+00:00",
+ "total": 69,
  "meses": {
-  "2026-08": 55
+  "2026-08": 55,
+  "2026-09": 14
  },
  "atletas": {
-  "Tadej Pogačar": 16,
+  "Tadej Pogačar": 18,
   "Mathieu van der Poel": 2,
   "Remco Evenepoel": 1
  },
  "clubes": {
-  "Portugal (selecções)": 6
+  "Portugal (selecções)": 8
  },
  "competicoes": {
-  "Vuelta a España": 10,
-  "Campeonato do Mundo": 6,
-  "Taça do Mundo": 1,
-  "WorldTour": 1
+  "Vuelta a España": 12,
+  "Campeonato do Mundo": 9,
+  "WorldTour": 2,
+  "Campeonato da Europa": 1,
+  "Taça do Mundo": 1
  },
  "modalidades": {
-  "ciclismo": 24,
-  "futebol": 12,
-  "geral": 9,
-  "canoagem": 5,
+  "ciclismo": 30,
+  "futebol": 14,
+  "geral": 12,
+  "canoagem": 6,
+  "basquetebol": 2,
+  "voleibol": 2,
   "atletismo": 1,
-  "basquetebol": 1,
   "judo": 1,
-  "surf": 1,
-  "voleibol": 1
+  "surf": 1
  },
  "fontes": {
-  "RTP Desporto": 26,
-  "Cyclingnews": 14,
-  "Ciclismo watchlist": 10,
+  "RTP Desporto": 35,
+  "Cyclingnews": 18,
+  "Ciclismo watchlist": 11,
   "BBC Sport": 4,
   "Atletismo watchlist": 1
  },
