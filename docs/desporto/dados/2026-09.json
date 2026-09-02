@@ -922,7 +922,7 @@
  },
  {
   "title": "Benfica defronta Pafos no caminho dos campeões da Youth League",
-  "url": "https://www.rtp.pt/noticias/futebol-internacional/benfica-defronta-pafos-no-caminho-dos-campeoes-da-youth-league_d1762834",
+  "url": "https://www.rtp.pt/noticias/benfica/benfica-defronta-pafos-no-caminho-dos-campeoes-da-youth-league_d1762834",
   "source": "RTP Desporto",
   "published": "2026-09-01T20:24:44+00:00",
   "summary": "  \n      O Benfica vai enfrentar os cipriotas do Pafos, na segunda ronda do caminho dos campeões da Youth League em futebol, ditou o sorteio desta terça-feira, realizado em Nyon, na Suíça.\n ",
@@ -1015,5 +1015,110 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-09-01T23:22:31+00:00"
+ },
+ {
+  "title": "Woods to change plea after March's crash arrest",
+  "url": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-02T00:26:08+00:00",
+  "summary": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: golfe"
+  ],
+  "where_to_watch": [],
+  "id": "e66b765a1a106a7a5a87",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-02T09:42:52+00:00"
+ },
+ {
+  "title": "\"Tadej Pogacar poderá retornar na Il Lombardia, não no Mundial\" diretor de lenda do ciclismo prevê retorno de Pogacar, assista o vídeo - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaVVqZGlBeG90WE9ray1SWFBSYnJVUmlfUV9RVTU5RHpXcWNWUnNfWlN2T3VWUGhlMWQwaDhBV1cwZlBOTEpnR2liLXVGZlhMcGNENDdaLUtUZ2s3TFc1Ri0tcmR3azhEck1Yc213ajNVdEpuZFQ5WVFTRTRpazZXSDB3NFdXV1ZYeVA2akIzVlgySWRWSWlobjFuYkh1WTdjR0JUTW5qbS1iRXhVYW0xYllwR0h4dkljczBqYkdXbjlhZHlabE03YXd5TjdjVzFxM0I2Slowek9jZ3NVdXFTVVZKZm9HelRLVmFOMTdDMTA4QQ?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-09-02T06:30:00+00:00",
+  "summary": " \"Tadej Pogacar poderá retornar na Il Lombardia, não no Mundial\" diretor de lenda do ciclismo prevê retorno de Pogacar, assista o vídeo    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 15,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Ciclismo — grandes provas: Il Lombardia",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "87a17f1e2a03d29fd615",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Il Lombardia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-02T09:42:52+00:00"
+ },
+ {
+  "title": "Enzo Fernández no Manchester City por valor recorde",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/enzo-fernandez-no-manchester-city-por-valor-recorde_d1762923",
+  "source": "RTP Desporto",
+  "published": "2026-09-02T09:38:25+00:00",
+  "summary": "  \n      O internacional argentino Enzo Fernández foi contratado pelo Manchester City ao Chelsea no último dia da janela de verão, anunciaram hoje os dois clubes, numa transferência avaliada em 146 milhões de euros, verba recorde na Liga inglesa.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "cd2879b3ded015e65283",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-02T09:42:52+00:00"
+ },
+ {
+  "title": "Chelsea empresta Essugo ao Estrasburgo",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/chelsea-empresta-essugo-ao-estrasburgo_d1762924",
+  "source": "RTP Desporto",
+  "published": "2026-09-02T09:41:22+00:00",
+  "summary": "  \n      O internacional sub-21 português Dário Essugo vai representar o Estrasburgo, que é treinado pelo luso Hugo Oliveira, por empréstimo do Chelsea, num acordo válido por uma temporada.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "1eed507bbd4a5bf23e1f",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-02T09:42:52+00:00"
  }
 ]
