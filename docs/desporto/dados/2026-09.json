@@ -1238,11 +1238,11 @@
   "arquivado_em": "2026-09-02T14:33:23+00:00"
  },
  {
-  "title": "Vuelta a España stage 11 LIVE: The sprint teams are set to battle the breakaway on the road to Lorca",
+  "title": "As it happened: Another sprint finish on Vuelta a España stage 11 in Lorca",
   "url": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-11-live-the-sprint-team-are-set-to-battle-the-breakaway-on-the-road-to-lorca/",
   "source": "Cyclingnews",
   "published": "2026-09-02T11:07:43+00:00",
-  "summary": "\n                             The peloton tackles a largely flat 151.3km run from Cartagena \n                                                                                                            ",
+  "summary": "\n                             Matthew Brennan holds off Bryan Coquard and Jordi Meeus for stage win number three \n                                                                                                            ",
   "sport": "ciclismo",
   "kind": "news",
   "start": null,
@@ -1256,7 +1256,7 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "3a4b8b358061635d16f0",
+  "id": "3c075b4588eba8056ad8",
   "atletas": [],
   "clubes": [],
   "competicoes": [
@@ -1339,10 +1339,37 @@
   "arquivado_em": "2026-09-02T14:33:23+00:00"
  },
  {
+  "title": "Tour of Britain Men: Lewis Askey powers up Michaelgate cobbled climb to win Classics-style opening stage in Lincoln",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-britain-men-lewis-askey-powers-up-michaelgate-cobbled-climb-to-win-classics-style-opening-stage-in-lincoln/",
+  "source": "Cyclingnews",
+  "published": "2026-09-02T13:47:17+00:00",
+  "summary": "\n                             Filippo Ganna second, Tim Wellens second in thrilling finale as Askey takes his first win of the season and the leader's jersey \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "e7cef8fc0e78bf788eae",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-02T18:47:17+00:00"
+ },
+ {
   "title": "Woods banned from driving for five years after March's crash arrest",
   "url": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
   "source": "BBC Sport",
-  "published": "2026-09-02T13:31:32+00:00",
+  "published": "2026-09-02T14:40:20+00:00",
   "summary": "The golfer will accept a five-year driving ban and $1,000 fine as part of a plea agreement.",
   "sport": "geral",
   "kind": "news",
@@ -1361,5 +1388,140 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-09-02T09:42:52+00:00"
+ },
+ {
+  "title": "Carse left out of England squad for third Pakistan Test",
+  "url": "https://www.bbc.co.uk/sport/cricket/articles/cr4v2kzzvw0o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-02T15:13:06+00:00",
+  "summary": "England leave Brydon Carse out of their squad for the third and final Test against Pakistan at Edgbaston.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "d58f4e1abd556442d0ed",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-02T18:47:17+00:00"
+ },
+ {
+  "title": "Vuelta a España: Matthew Brennan nets hat-trick with victory on stage 11 using lead-out by Wout van Aert",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-matthew-brennan-nets-hat-trick-with-victory-on-stage-11-using-lead-by-wout-van-aert/",
+  "source": "Cyclingnews",
+  "published": "2026-09-02T15:32:39+00:00",
+  "summary": "\n                             Bryan Coquard and Jordi Meeus earn podium spots in Lorca \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Wout van Aert",
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "7e8052e2c3d0a94a71ce",
+  "atletas": [
+   "Wout van Aert"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-02T18:47:17+00:00"
+ },
+ {
+  "title": "Britain's Brennan claims third Vuelta stage win",
+  "url": "https://www.bbc.co.uk/sport/cycling/articles/cz6z1epwj14o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-02T16:45:52+00:00",
+  "summary": "Britain's Matthew Brennan powers to his third win at the Vuelta a Espana in a sprint finish on stage 11.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [],
+  "id": "9b2d834afa5e9efd5beb",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-02T18:47:17+00:00"
+ },
+ {
+  "title": "'Enric's in the best shape I've ever seen him' -  Former Vuelta a España winner Alejandro Valverde backs Mas to defend lead on Calar Alto summit finish and beyond",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/enrics-in-the-best-shape-ive-ever-seen-him-former-vuelta-a-espana-winner-alejandro-valverde-backs-mas-to-defend-lead-on-calar-alto-summit-finish-and-beyond/",
+  "source": "Cyclingnews",
+  "published": "2026-09-02T16:55:20+00:00",
+  "summary": "\n                             Spanish National trainer set to name Montréal Worlds line-up on Vuelta's second rest day \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "1a7f0cd543ca33788c98",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-02T18:47:17+00:00"
+ },
+ {
+  "title": "Patrícia Silva campeã nos 1.500 metros",
+  "url": "https://www.rtp.pt/noticias/atletismo/patricia-silva-campea-nos-1500-metros_d1763018",
+  "source": "RTP Desporto",
+  "published": "2026-09-02T18:16:37+00:00",
+  "summary": "  \n      Patrícia Silva sagrou-se quarta-feira campeã nos 1.500 metros dos Jogos do Mediterrâneo, somando a oitava medalha para o atletismo português em Taranto2026 e a 31.ª da Missão portuguesa na cidade italiana.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: atletismo"
+  ],
+  "where_to_watch": [],
+  "id": "12cc1cab02a2d0766e75",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "atletismo",
+  "local": "",
+  "arquivado_em": "2026-09-02T18:47:17+00:00"
  }
 ]
