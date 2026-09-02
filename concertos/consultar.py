@@ -47,6 +47,14 @@ def filtrar(eventos, argumentos):
             continue
         if argumentos.sem_data and data:
             continue
+        # Sem filtros de data explícitos, o que já passou fica fora da lista
+        # (continua acessível com --passados, --todos ou um filtro de datas).
+        esconder_passados = not (
+            argumentos.passados or argumentos.todos
+            or argumentos.de or argumentos.ate or argumentos.mes
+        )
+        if esconder_passados and data and data < date.today().isoformat():
+            continue
         resultado.append(evento)
     return resultado
 
@@ -123,7 +131,7 @@ def executar(argumentos):
     tem_filtros = any(
         getattr(argumentos, nome)
         for nome in ("artista", "local", "cidade", "categoria", "fonte",
-                     "texto", "mes", "de", "ate", "sem_data", "todos")
+                     "texto", "mes", "de", "ate", "sem_data", "todos", "passados")
     )
     if not tem_filtros and not argumentos.json:
         _mostrar_resumo(eventos)
