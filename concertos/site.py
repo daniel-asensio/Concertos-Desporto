@@ -52,6 +52,10 @@ h1{font-size:26px;margin:8px 0 2px}
   padding:1px 9px;font-size:12px}
 .badge.data{background:var(--realce-suave);color:var(--realce);font-weight:600}
 .vazio{color:var(--suave);text-align:center;padding:40px 0}
+details.arquivo{margin-top:34px}
+details.arquivo summary{cursor:pointer;color:var(--suave);font-size:13px;font-weight:600;
+  letter-spacing:.08em;text-transform:uppercase;border-bottom:1px solid var(--linha);padding-bottom:4px}
+details.arquivo summary:hover{color:var(--realce)}
 footer{margin-top:40px;color:var(--suave);font-size:12px;border-top:1px solid var(--linha);padding-top:12px}
 </style>
 </head>
@@ -82,6 +86,8 @@ const MESES = ["janeiro","fevereiro","março","abril","maio","junho",
 const DIAS = ["dom","seg","ter","qua","qui","sex","sáb"];
 const norm = t => (t||"").toLowerCase().normalize("NFD").replace(/[\\u0300-\\u036f]/g,"");
 const $ = id => document.getElementById(id);
+const HOJE = (()=>{const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;})();
 
 function opcoes(select, valores){
   [...new Set(valores.filter(Boolean))].sort((a,b)=>a.localeCompare(b,"pt"))
@@ -132,8 +138,10 @@ function atualizar(){
     if(soData && !e.data) return false;
     return true;
   });
-  const comData = vistos.filter(e => e.data)
+  const comData = vistos.filter(e => e.data && (fm || e.data >= HOJE))
     .sort((a,b) => (a.data + (a.hora||"")).localeCompare(b.data + (b.hora||"")));
+  const passados = fm ? [] : vistos.filter(e => e.data && e.data < HOJE)
+    .sort((a,b) => (b.data + (b.hora||"")).localeCompare(a.data + (a.hora||"")));
   const semData = vistos.filter(e => !e.data)
     .sort((a,b) => a.titulo.localeCompare(b.titulo, "pt"));
   let html = "", mesAtual = "";
@@ -150,9 +158,23 @@ function atualizar(){
     html += `<div class="mes">Sem data confirmada (${semData.length})</div>`;
     html += semData.map(cartao).join("");
   }
+  if(passados.length){
+    let arq = "", mesArq = "";
+    for(const e of passados){
+      const m = e.data.slice(0,7);
+      if(m !== mesArq){
+        mesArq = m;
+        const [ano, mes] = m.split("-");
+        arq += `<div class="mes">${MESES[+mes-1]} ${ano}</div>`;
+      }
+      arq += cartao(e);
+    }
+    html += `<details class="arquivo"><summary>📦 Arquivo — ${passados.length} espetáculos já realizados</summary>${arq}</details>`;
+  }
   $("lista").innerHTML = html || `<div class="vazio">Nenhum espetáculo corresponde aos filtros.</div>`;
   $("contagem").textContent =
-    `${vistos.length} espetáculos · ${comData.length} com data confirmada`;
+    `${comData.length + semData.length} em cartaz · ${comData.length} com data confirmada`
+    + (passados.length ? ` · ${passados.length} no arquivo` : "");
 }
 ["pesquisa","cidade","local","categoria","mes","so-com-data"].forEach(id =>
   $(id).addEventListener(id === "pesquisa" ? "input" : "change", atualizar));

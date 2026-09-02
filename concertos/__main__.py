@@ -45,6 +45,8 @@ def main():
     p_consultar.add_argument("--ate", help="Data máxima (2026-12-31).")
     p_consultar.add_argument("--sem-data", action="store_true", dest="sem_data",
                              help="Só eventos ainda sem data confirmada.")
+    p_consultar.add_argument("--passados", action="store_true",
+                             help="Inclui espetáculos com data já passada (arquivo).")
     p_consultar.add_argument("--todos", action="store_true",
                              help="Inclui eventos inativos (histórico).")
     p_consultar.add_argument("--json", action="store_true", help="Resultado em JSON.")

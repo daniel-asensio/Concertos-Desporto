@@ -183,6 +183,7 @@ def executar(argumentos):
         if e.get("ativo")
         and e.get("link", "").startswith("http")
         and (not e.get("data") or not e.get("sala"))
+        and (not e.get("data") or e["data"] >= modelo.hoje())
         and e.get("tentativas_enriquecimento", 0) < (999 if argumentos.forcar else MAX_TENTATIVAS)
     ]
     # Primeiro os que nunca foram tentados.
