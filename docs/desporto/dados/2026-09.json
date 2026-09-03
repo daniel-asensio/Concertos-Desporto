@@ -2022,7 +2022,7 @@
   "arquivado_em": "2026-09-03T14:37:49+00:00"
  },
  {
-  "title": "Vuelta a España stage 12 LIVE – The challenging Calar Alto awaits on a climb-packed day that could shake up the GC",
+  "title": "Vuelta a España stage 12 LIVE – Tough Calar Alto incoming, but will the win go to the peloton or the strong breakaway?",
   "url": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-2026-stage-12-live-updates/",
   "source": "Cyclingnews",
   "published": "2026-09-03T10:26:55+00:00",
@@ -2040,7 +2040,7 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "231797ba327688b2b5dd",
+  "id": "43a7dcba4309ce8f8f67",
   "atletas": [],
   "clubes": [],
   "competicoes": [
@@ -2182,6 +2182,30 @@
   "arquivado_em": "2026-09-03T14:37:49+00:00"
  },
  {
+  "title": "Iraola happy with signings as Barcola set for debut",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c14dx8eze1do?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-03T10:58:42+00:00",
+  "summary": "Manager Andoni Iraola discusses Liverpool's transfer business, the arrival of Bradley Barcola and keeping Cody Gakpo.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: arco"
+  ],
+  "where_to_watch": [],
+  "id": "2d960ab4c7c3d24a6960",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-03T18:45:24+00:00"
+ },
+ {
   "title": "Miguel Oliveira renova com BMW",
   "url": "https://www.rtp.pt/noticias/motores/miguel-oliveira-renova-com-bmw_d1763149",
   "source": "RTP Desporto",
@@ -2232,5 +2256,31 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-09-03T14:37:49+00:00"
+ },
+ {
+  "title": "Ferrari upgrade a step but not all we need - Hamilton",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgyqlne25do?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-03T13:41:52+00:00",
+  "summary": "Lewis Hamilton says an upgraded Ferrari engine for this weekend's Italian Grand Prix is a \"step forward but not the whole amount we need\".",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Lewis Hamilton"
+  ],
+  "where_to_watch": [],
+  "id": "3637310d0ec35edc8c97",
+  "atletas": [
+   "Lewis Hamilton"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-09-03T18:45:24+00:00"
  }
 ]

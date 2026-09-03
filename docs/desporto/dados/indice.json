@@ -1,15 +1,16 @@
 {
- "actualizado": "2026-09-03T14:37:49+00:00",
- "total": 137,
+ "actualizado": "2026-09-03T18:45:24+00:00",
+ "total": 139,
  "meses": {
   "2026-08": 56,
-  "2026-09": 81
+  "2026-09": 83
  },
  "atletas": {
   "Tadej Pogačar": 32,
   "Wout van Aert": 5,
   "Mathieu van der Poel": 3,
   "Lando Norris": 1,
+  "Lewis Hamilton": 1,
   "Miguel Oliveira": 1,
   "Remco Evenepoel": 1,
   "Rui Costa": 1
@@ -31,13 +32,13 @@
  },
  "modalidades": {
   "ciclismo": 65,
-  "geral": 32,
+  "geral": 33,
   "futebol": 23,
   "canoagem": 6,
   "atletismo": 3,
+  "automobilismo": 2,
   "basquetebol": 2,
   "voleibol": 2,
-  "automobilismo": 1,
   "judo": 1,
   "motociclismo": 1,
   "surf": 1
@@ -46,7 +47,7 @@
   "RTP Desporto": 60,
   "Cyclingnews": 44,
   "Ciclismo watchlist": 19,
-  "BBC Sport": 13,
+  "BBC Sport": 15,
   "Atletismo watchlist": 1
  },
  "locais": {}
