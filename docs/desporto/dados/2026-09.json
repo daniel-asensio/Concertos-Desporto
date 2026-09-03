@@ -1532,7 +1532,7 @@
  },
  {
   "title": "Patrícia Silva campeã nos 1.500 metros",
-  "url": "https://www.rtp.pt/noticias/outras-modalidades/patricia-silva-campea-nos-1500-metros_d1763018",
+  "url": "https://www.rtp.pt/noticias/atletismo/patricia-silva-campea-nos-1500-metros_d1763018",
   "source": "RTP Desporto",
   "published": "2026-09-02T18:16:37+00:00",
   "summary": "  \n      Patrícia Silva sagrou-se quarta-feira campeã nos 1.500 metros dos Jogos do Mediterrâneo, somando a oitava medalha para o atletismo português em Taranto2026 e a 31.ª da Missão portuguesa na cidade italiana.\n ",
@@ -1646,7 +1646,7 @@
  },
  {
   "title": "Irina Rodrigues de ouro no lançamento do disco",
-  "url": "https://www.rtp.pt/noticias/outras-modalidades/irina-rodrigues-de-ouro-no-lancamento-do-disco_d1763028",
+  "url": "https://www.rtp.pt/noticias/atletismo/irina-rodrigues-de-ouro-no-lancamento-do-disco_d1763028",
   "source": "RTP Desporto",
   "published": "2026-09-02T18:52:44+00:00",
   "summary": "  \n      A portuguesa Irina Rodrigues conquistou hoje a medalha de ouro no lançamento do disco dos Jogos do Mediterrâneo, ao fazer 62,51 metros para somar o segundo título do dia para o atletismo nacional em Taranto2026.\n ",
@@ -1821,7 +1821,7 @@
  },
  {
   "title": "Defesa central Tomás Araújo renova com Benfica até 2031",
-  "url": "https://www.rtp.pt/noticias/benfica/defesa-central-tomas-araujo-renova-com-benfica-ate-2031_d1763035",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/defesa-central-tomas-araujo-renova-com-benfica-ate-2031_d1763035",
   "source": "RTP Desporto",
   "published": "2026-09-02T20:50:38+00:00",
   "summary": "  \n      O defesa central internacional português e vice-capitão Tomás Araújo renovou contrato com o Benfica até junho de 2031, acrescentando dois anos ao anterior vínculo, anunciou hoje o clube da I Liga de futebol.\n ",
@@ -1845,7 +1845,7 @@
  },
  {
   "title": "Echeverri é reforço do Benfica por empréstimo do Manchester City",
-  "url": "https://www.rtp.pt/noticias/benfica/echeverri-e-reforco-do-benfica-por-emprestimo-do-manchester-city_d1763063",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/echeverri-e-reforco-do-benfica-por-emprestimo-do-manchester-city_d1763063",
   "source": "RTP Desporto",
   "published": "2026-09-02T22:05:25+00:00",
   "summary": "  \n      O médio ofensivo Claudio Echeverri é reforço do Benfica, com o argentino a chegar por empréstimo dos ingleses do Manchester City, anunciou hoje o clube da I Liga portuguesa de futebol.\n ",
@@ -1922,5 +1922,315 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-09-03T04:44:36+00:00"
+ },
+ {
+  "title": "Tadej Pogačar out of hospital after Vuelta a España crash and injuries but questions remain regarding World Championships",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-out-of-hospital-after-vuelta-a-espana-crash-and-injuries-but-questions-remain-regarding-world-championships/",
+  "source": "Cyclingnews",
+  "published": "2026-09-03T08:04:57+00:00",
+  "summary": "\n                             Slovenian set to recover at home from injuries, date on return yet to be announced \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 20,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Grandes eventos: world championships",
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "b5be2ee0fa66c1c68f36",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo",
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-03T14:37:49+00:00"
+ },
+ {
+  "title": "'It's changed a lot' – Paul Seixas raring to take on Canadian GPs and World Championships with Pogačar's possible absence opening up opportunities",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/its-changed-a-lot-paul-seixas-raring-to-take-on-canadian-gps-and-world-championships-with-pogacars-possible-absence-opening-up-opportunities/",
+  "source": "Cyclingnews",
+  "published": "2026-09-03T09:16:38+00:00",
+  "summary": "\n                             French star will return from post-Tour de France break at Grand Prix Québec before big goals of Worlds and Il Lombardia \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 20,
+  "reasons": [
+   "Ciclismo — referências: Pogacar",
+   "Grandes eventos: world championships",
+   "Ciclismo — grandes provas: Tour de France, Il Lombardia"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "d1ffecda0a6f13465775",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo",
+   "Tour de France",
+   "Il Lombardia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-03T14:37:49+00:00"
+ },
+ {
+  "title": "'We are still careful in speaking this out' – Primož Roglič in position to strike and win fifth Vuelta a España, say Red Bull, but pre-race crash keeps them realistic",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/we-are-still-careful-in-speaking-this-out-primoz-roglic-in-position-to-strike-and-win-fifth-vuelta-a-espana-say-red-bull-but-pre-race-crash-keeps-them-realistic/",
+  "source": "Cyclingnews",
+  "published": "2026-09-03T10:11:21+00:00",
+  "summary": "\n                             Sports director Vanthourenhout says Slovenian could still come unstuck after being hit by a driver and 'missing 10 important days' in preparation for Grand Tour \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "14d291c0eca4128837f2",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-03T14:37:49+00:00"
+ },
+ {
+  "title": "Vuelta a España stage 12 LIVE – The challenging Calar Alto awaits on a climb-packed day that could shake up the GC",
+  "url": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-2026-stage-12-live-updates/",
+  "source": "Cyclingnews",
+  "published": "2026-09-03T10:26:55+00:00",
+  "summary": "\n                             Vera to Calar Alto, 166.6km – Can Enric Mas defend red for another day? \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "231797ba327688b2b5dd",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-03T14:37:49+00:00"
+ },
+ {
+  "title": "Carlos Queiroz prolonga contrato com seleção do Gana",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/carlos-queiroz-prolonga-contrato-com-selecao-do-gana_d1763134",
+  "source": "RTP Desporto",
+  "published": "2026-09-03T10:27:15+00:00",
+  "summary": "  \n      Carlos Queiroz vai permanecer no comando técnico da seleção do Gana, depois de ter orientado a formação africana no Mundial2026, confirmou a assessoria de comunicação do treinador português, sem revelar a duração do novo contrato.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: vela, futebol"
+  ],
+  "where_to_watch": [],
+  "id": "8b0902b5055c3cd5e223",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-03T14:37:49+00:00"
+ },
+ {
+  "title": "João Mário em definitivo no AEK de Atenas",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/joao-mario-em-definitivo-no-aek-de-atenas_d1763139",
+  "source": "RTP Desporto",
+  "published": "2026-09-03T10:35:48+00:00",
+  "summary": "  \n      O médio internacional português João Mário vinculou-se em definitivo aos gregos do AEK, um ano após ter estado cedido pelos turcos do Besiktas, anunciou o campeão helénico de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "b0649de0a88bd5428ea6",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-03T14:37:49+00:00"
+ },
+ {
+  "title": "\"Foi difícil ver Tadej Pogacar cair, muita coisa mudará se ele não estiver no Mundial\" Paul Seixas comenta queda de Pogacar e admite mudança no Mundial - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUUVPRm5lbXh5VHVta1Fxbjg0LUdsYXlPaWlmclZlX0p6UTJTMWhMdW45R3ZjYlpYQzhKNWRnb18ydFRnQW1MbXlHMGF0YXB4dXVrb29CZ0FfRHkwUU84Tm9fTFJNVUJxbE4xU2RmeDN0a2dmdDY1Q1Y5LW9LSHhrbEw3YW9sc1VycVNRSTNEYXVVYThiRW5lWDRKN1c5aXo2a05NXzJYeFE1cTUzRW53S3AyS296d1E4LUUzWWl6QlFGNlZXNmZjcUZwdXUxUHhvaFN3TnN4TnlJdmJhVXozcVRocFQ4ODJjR3NlYklKLXZydmhfTHBHRXJkSktQZjJLNTdwN0Vjb0hYTnR5MXVF?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-09-03T10:39:40+00:00",
+  "summary": " \"Foi difícil ver Tadej Pogacar cair, muita coisa mudará se ele não estiver no Mundial\" Paul Seixas comenta queda de Pogacar e admite mudança no Mundial    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "43ddb272de8b8fadf1f5",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-03T14:37:49+00:00"
+ },
+ {
+  "title": "Francisco Conceição assina golo da temporada em Itália",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/francisco-conceicao-assina-golo-da-temporada-em-italia_d1763142",
+  "source": "RTP Desporto",
+  "published": "2026-09-03T10:47:04+00:00",
+  "summary": "  \n      O português Francisco Conceição, da Juventus, conquistou o prémio do melhor golo da Liga italiana em 2025/26, com um remate em 'vólei' à entrada da área que entrou no ângulo da baliza da Roma.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "b6cbb4dbc217aa2d8fae",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-03T14:37:49+00:00"
+ },
+ {
+  "title": "Florian Lipowitz returns to racing seven weeks on from Tour de France-ending crash – here's what's left of his season",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/florian-lipowitz-returns-to-racing-seven-weeks-on-from-tour-de-france-ending-crash-heres-whats-left-of-his-season/",
+  "source": "Cyclingnews",
+  "published": "2026-09-03T10:54:39+00:00",
+  "summary": "\n                             German racer makes comeback from Tour de France crash at Giro della Toscana, with Road Worlds also on his mind \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "28b2d3dfdbfc36565ae6",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-03T14:37:49+00:00"
+ },
+ {
+  "title": "Miguel Oliveira renova com BMW",
+  "url": "https://www.rtp.pt/noticias/motores/miguel-oliveira-renova-com-bmw_d1763149",
+  "source": "RTP Desporto",
+  "published": "2026-09-03T11:07:36+00:00",
+  "summary": "  \n      O piloto português Miguel Oliveira renovou contrato com a BMW e vai continuar a competir no Mundial de Superbikes em 2027 e nas épocas seguintes, anunciou o construtor alemão.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Miguel Oliveira"
+  ],
+  "where_to_watch": [],
+  "id": "0e3e6384547099501d88",
+  "atletas": [
+   "Miguel Oliveira"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "motociclismo",
+  "local": "",
+  "arquivado_em": "2026-09-03T14:37:49+00:00"
+ },
+ {
+  "title": "Farense pede adiamento do jogo com o Chaves por surto viral no plantel",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/farense-pede-adiamento-do-jogo-com-o-chaves-por-surto-viral-no-plantel_d1763161",
+  "source": "RTP Desporto",
+  "published": "2026-09-03T11:48:30+00:00",
+  "summary": "  \n      O Farense pediu o adiamento do jogo da II Liga frente ao Desportivo de Chaves, marcado para domingo, devido a um surto viral que afeta o plantel, disse hoje à Lusa fonte da SAD dos algarvios.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "4f2c54f4a8748ee9d55e",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-03T14:37:49+00:00"
  }
 ]
