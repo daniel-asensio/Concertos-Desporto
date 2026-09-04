@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-09-04T04:43:01+00:00",
- "total": 164,
+ "actualizado": "2026-09-04T09:43:51+00:00",
+ "total": 168,
  "meses": {
   "2026-08": 56,
-  "2026-09": 108
+  "2026-09": 112
  },
  "atletas": {
-  "Tadej Pogačar": 37,
+  "Tadej Pogačar": 38,
   "Wout van Aert": 5,
   "Mathieu van der Poel": 3,
   "Jonas Vingegaard": 1,
@@ -35,24 +35,25 @@
   "Taça do Mundo": 1
  },
  "modalidades": {
-  "ciclismo": 79,
-  "geral": 36,
-  "futebol": 30,
+  "ciclismo": 80,
+  "geral": 37,
+  "futebol": 31,
   "canoagem": 6,
   "atletismo": 3,
   "automobilismo": 2,
   "basquetebol": 2,
   "voleibol": 2,
+  "boxe": 1,
   "judo": 1,
   "motociclismo": 1,
   "portugal": 1,
   "surf": 1
  },
  "fontes": {
-  "RTP Desporto": 68,
+  "RTP Desporto": 69,
   "Cyclingnews": 52,
-  "Ciclismo watchlist": 25,
-  "BBC Sport": 17,
+  "Ciclismo watchlist": 26,
+  "BBC Sport": 19,
   "Atletismo watchlist": 1,
   "Portugal olímpico": 1
  },

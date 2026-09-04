@@ -2680,6 +2680,35 @@
   "arquivado_em": "2026-09-03T21:45:18+00:00"
  },
  {
+  "title": "Ciclista Tadej Pogacar teve alta de hospital em Barcelona após cirurgia - Açoriano Oriental",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmQySUpUTFp5ZEV0ZWMtWWV1YTBnSnc0NDFoNDZMYUhWaDZrWlY3Rm9xZEs4ZFFYY1RCc2VZRWRSZkZzU1VYUWZuTHRBRTdLdEdCdmlibzhhMlR6ZUpxRGgycXFvX3RLc0ZVb1ZMWEpTbGcwLWNWMDJyV3lxZE9rWHdnS2Y3akpicmxVMk5FalZpU2NVa1lLbTU3UEpBZkRTV3ZFTXg0WFgxOURFNzl1emt3S0RmckU2OGfSAb8BQVVfeXFMUDF4V0V4aUlyOGdVRTByaXQwU0c5bmQ4Rk5TSDRXVE1rQ2haRTZyajNJOVF0OXYtVDdFbkRfQnZncnJ6M2p4WWwxMGV2SXBGLUo0MFNZWUZydmt0dEZwSjZ3SXZPeFZtS2ZvOWo1ZTJXakpQcWx2OXREQVBIRmViZmM4SFpYQkdlWWIta043M2NIWlhEMExjNm1tNXc1aldhTy1CaHZTUW0xV0o4eVZGQVpjRGMzd3M1M0NhRlJ3TFU?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-09-03T17:51:00+00:00",
+  "summary": " Ciclista Tadej Pogacar teve alta de hospital em Barcelona após cirurgia    Açoriano Oriental ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "2842f6360c7ad0f01640",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T09:43:51+00:00"
+ },
+ {
   "title": "'We said that we are playing PlayStation' – Breaking Pogačar's record, Jakob Omrzel becomes Slovenia's youngest Grand Tour stage winner at Vuelta a España",
   "url": "https://www.cyclingnews.com/pro-cycling/racing/we-said-that-we-are-playing-playstation-breaking-pogacars-record-jakob-omrzel-becomes-slovenias-youngest-grand-tour-stage-winner-at-vuelta-a-espana/",
   "source": "Cyclingnews",
@@ -2968,7 +2997,7 @@
  },
  {
   "title": "LE. Benfica inscreve El Karouani, Palhinha e Echeverri para a fase de liga",
-  "url": "https://www.rtp.pt/noticias/benfica/le-benfica-inscreve-el-karouani-palhinha-e-echeverri-para-a-fase-de-liga_d1763287",
+  "url": "https://www.rtp.pt/noticias/liga-europa/le-benfica-inscreve-el-karouani-palhinha-e-echeverri-para-a-fase-de-liga_d1763287",
   "source": "RTP Desporto",
   "published": "2026-09-03T21:51:37+00:00",
   "summary": "  \n      O Benfica inscreveu os reforços Souffian El Karouani, João Palhinha e Claudio Echeverri na lista para a fase de liga da Liga Europa de futebol, cujo prazo terminou na quarta-feira e a UEFA divulgou hoje.\n ",
@@ -2991,5 +3020,77 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-09-03T21:45:18+00:00"
+ },
+ {
+  "title": "'I haven't delivered' - MVP set for final bout on UFC contract",
+  "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cwyz0vgk7e2o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-04T06:57:22+00:00",
+  "summary": "Michael 'Venom' Page says he needs to remind the UFC why they signed him, with his contract set to end after his UFC Paris bout on Saturday.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "302759b92246baffc9e9",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-04T09:43:51+00:00"
+ },
+ {
+  "title": "Tears and tricolours - inside Irish icon Taylor's final fight week",
+  "url": "https://www.bbc.co.uk/sport/boxing/articles/cq8j025n4wjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-04T07:02:07+00:00",
+  "summary": "An inside look at Katie Taylor's emotional final fight week as 80,000 fans prepare to salute Ireland's boxing icon at Croke Park on Saturday. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "1508e1812d280f0538d0",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "boxe",
+  "local": "",
+  "arquivado_em": "2026-09-04T09:43:51+00:00"
+ },
+ {
+  "title": "I Liga. FC Porto recebe Moreirense com reforços disponíveis para a estreia",
+  "url": "https://www.rtp.pt/noticias/desporto/i-liga-fc-porto-recebe-moreirense-com-reforcos-disponiveis-para-a-estreia_v1763332",
+  "source": "RTP Desporto",
+  "published": "2026-09-04T09:35:47+00:00",
+  "summary": "  \n      O Futebol Clube do Porto recebe esta sexta-feira o Moreirense para o campeonato, num jogo que pode marcar a estreia das últimas contratações.  ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "6ec2e2fbb173fa9cb5a7",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-04T09:43:51+00:00"
  }
 ]
