@@ -16,7 +16,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/heavenwood-porto-15158",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -38,7 +38,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -61,9 +61,31 @@
     "bilhetes": "https://agendadopedro.pt/concertos/radio-macau-porto-12013",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
+  },
+  "04dd0cbfdaffc1b2f1d92d1a": {
+    "id": "04dd0cbfdaffc1b2f1d92d1a",
+    "titulo": "José Pedro Croft - Reflexos, Enclaves, Desvios",
+    "link": "https://www.ccb.pt/evento/exposicao-jose-pedro-croft/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "José Pedro Croft",
+    "categoria": "música",
+    "data": "2026-09-05",
+    "hora": "10:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2025/11/credito-2026-Daniel-Malhaao.-Croft-2026.-CCB.-9648.jpg",
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
   },
   "04f0b2031035b405056706d0": {
@@ -83,7 +105,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -105,7 +127,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -127,7 +149,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -171,7 +193,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/07/Paraisohoje.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -193,7 +215,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -215,7 +237,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -238,7 +260,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/joao-paulo-rodrigues-porto-14307",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -260,7 +282,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/terceirocicloservicoeducativoprogramvinculardestaque.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -282,7 +304,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/gb-porto-13570",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -304,7 +326,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -326,7 +348,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -348,7 +370,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -370,7 +392,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2021/04/2000x940_MercadoSET26.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -392,7 +414,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/nuno-loureiro-porto-15378",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -414,9 +436,31 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
+  },
+  "095d92523b8c980a1c99e9e8": {
+    "id": "095d92523b8c980a1c99e9e8",
+    "titulo": "Polivalente ᛫ Berma",
+    "link": "https://agendadopedro.pt/concertos/polivalente-porto-16123/",
+    "fonte": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto",
+    "artista": "Polivalente ᛫ Berma",
+    "categoria": "música",
+    "data": "2026-09-14",
+    "hora": null,
+    "data_texto": null,
+    "sala": "RCA (Radioclube Agramonte)",
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": "https://agendadopedro.pt/concertos/polivalente-porto-16123",
+    "imagem": null,
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
   },
   "096324fd72292710d1a3262e": {
@@ -436,7 +480,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ricardo-ribeiro-porto-12191",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -458,7 +502,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -480,7 +524,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/whitney-johnson-lia-kohl-macie-stewart-porto-13468",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -502,7 +546,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -546,7 +590,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -569,7 +613,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/toy-porto-13880",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -635,7 +679,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/kadebostany-porto-15685",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -657,7 +701,7 @@
     "bilhetes": "https://www.bol.pt/Comprar/Bilhetes/184109-one_vision_tributo_a_queen-europarque/",
     "imagem": "https://bolimg.blob.core.windows.net/producao/imagens/espectaculos/cartaz158244.jpeg?v=1",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -679,7 +723,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -701,7 +745,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -745,7 +789,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -767,7 +811,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/sigur-ros-porto-12245",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -789,7 +833,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/deva-premal-miten-lisboa-11299",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -833,7 +877,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -855,7 +899,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -877,7 +921,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -899,7 +943,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/al-di-meola-porto-12110",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -921,7 +965,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/06/Maat_2000x940-1.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -965,7 +1009,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -987,7 +1031,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-03",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -1014,6 +1058,28 @@
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
   },
+  "12dbf3d82ee67fe01eb7cdd7": {
+    "id": "12dbf3d82ee67fe01eb7cdd7",
+    "titulo": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Primeiro Ciclo",
+    "categoria": "música",
+    "data": "2026-09-05",
+    "hora": "10:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/primeirociclo215-MAC-museu-abertocreditoJafuno.jpg",
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
+  },
   "12dc280bcf4d27a3bf65fc5f": {
     "id": "12dc280bcf4d27a3bf65fc5f",
     "titulo": "Pedro Abrunhosa ᛫ Tiago Nacarato ᛫ Rita Rocha",
@@ -1031,7 +1097,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/pedro-abrunhosa-noites-dos-jardins-do-palacio-porto-15001",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1053,7 +1119,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/mariza-lisboa-14170",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1075,7 +1141,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1097,7 +1163,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/03/Antonio-JorgeSilvaUma-Deriva-Atlantida-L-CCB-4K.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1119,7 +1185,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1141,7 +1207,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/stephen-o-malley-contrechamps-porto-15357",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1163,7 +1229,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/06/Please-Do-Not-Touchcredito-diogo-camoes.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1185,7 +1251,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/canta-me-uma-historia-porto-11901",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1207,7 +1273,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/black-heritage-choir-porto-12980",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1229,7 +1295,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -1296,7 +1362,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -1319,7 +1385,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2024/10/ServicoEducativo2892_ritacarmo.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1341,7 +1407,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1385,7 +1451,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1407,7 +1473,7 @@
     "bilhetes": "https://www.bol.pt/Comprar/Bilhetes/181437-raphael_ghanem_o_rugido_do_leao_stand_up_comedy-europarque/",
     "imagem": "https://bolimg.blob.core.windows.net/producao/imagens/espectaculos/cartaz155879.jpg?v=2",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1429,7 +1495,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/niklas-paschburg-porto-12401",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1473,7 +1539,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/great-straits-porto-14757",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1495,7 +1561,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1517,7 +1583,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/victoria-porto-15345",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1539,7 +1605,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1561,7 +1627,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/tiago-bettencourt-toranja-porto-14969",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1583,7 +1649,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/os-garotin-porto-12862",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1605,7 +1671,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1627,7 +1693,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1671,7 +1737,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/youn-sun-nah-porto-14040",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1693,7 +1759,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1715,7 +1781,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1737,7 +1803,7 @@
     "bilhetes": "https://www.bol.pt/Comprar/Bilhetes/181823-gala_lirica_com_olga_kulchynska-europarque/",
     "imagem": "https://bolimg.blob.core.windows.net/producao/imagens/espectaculos/cartaz156198.jpg?v=2",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1759,9 +1825,31 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
+  },
+  "220de9bd324c6a74292d85b9": {
+    "id": "220de9bd324c6a74292d85b9",
+    "titulo": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Primeiro Ciclo",
+    "categoria": "música",
+    "data": "2026-09-05",
+    "hora": "10:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/primeirociclo215-MAC-museu-abertocreditoJafuno.jpg",
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
   },
   "2219d8817b77bb6750a0ecca": {
@@ -1825,7 +1913,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1847,7 +1935,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1869,7 +1957,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/rodrigo-y-gabriela-porto-14364",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1891,7 +1979,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/05/website_2000x940.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1913,7 +2001,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1979,7 +2067,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2001,7 +2089,7 @@
     "bilhetes": "https://www.bol.pt/Comprar/Bilhetes/173755-os_quatro_e_meia_tour_interior-europarque/",
     "imagem": "https://bolimg.blob.core.windows.net/producao/imagens/espectaculos/cartaz149059.jpg?v=2",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2023,7 +2111,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2045,7 +2133,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/rodrigo-cuevas-porto-13626",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2067,7 +2155,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2089,7 +2177,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/keiyaa-porto-13777",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2111,7 +2199,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2133,7 +2221,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2155,7 +2243,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2199,7 +2287,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2221,7 +2309,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2243,7 +2331,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/Entrada-do-museu-MACCCB.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2265,7 +2353,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/penelope-isles-porto-14774",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2331,7 +2419,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/rodrigo-leao-porto-13433",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2353,7 +2441,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2375,7 +2463,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-01",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -2397,7 +2485,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/gilsons-porto-13754",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2441,7 +2529,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/arctween-porto-15896",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2463,7 +2551,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/orquestra-jazz-de-matosinhos-porto-15843",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2485,7 +2573,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/wet-bed-gang-gondomar-15837",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2507,7 +2595,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/azymuth-porto-12688",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2529,7 +2617,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2551,7 +2639,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2573,7 +2661,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/moonspell-porto-13093",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2618,9 +2706,31 @@
     "bilhetes": "https://agendadopedro.pt/concertos/paus-porto-13752",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
+    "tentativas_enriquecimento": 1
+  },
+  "2e9a1a68ae5107c3438d49ee": {
+    "id": "2e9a1a68ae5107c3438d49ee",
+    "titulo": "Sheherazaad",
+    "link": "https://agendadopedro.pt/concertos/sheherazaad-porto-16127/",
+    "fonte": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto",
+    "artista": "Sheherazaad",
+    "categoria": "música",
+    "data": "2027-02-11",
+    "hora": null,
+    "data_texto": null,
+    "sala": "RCA (Radioclube Agramonte)",
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": "https://agendadopedro.pt/concertos/sheherazaad-porto-16127",
+    "imagem": null,
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
   },
   "2f0eb48fe74db4b308c11b26": {
@@ -2662,7 +2772,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2706,7 +2816,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2728,7 +2838,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ivete-sangalo-guimaraes-13751",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2750,7 +2860,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ampm-porto-15347",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2772,7 +2882,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/11/Museu-MACCCB-2-scaled.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2794,7 +2904,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/paulo-ricardo-porto-12033",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2816,7 +2926,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/brux-porto-16021",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2838,7 +2948,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2860,7 +2970,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/tony-carreira-porto-11944",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2882,7 +2992,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2904,7 +3014,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/sara-correia-porto-13523",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2929,6 +3039,28 @@
     "ultima_vez": "2026-09-03",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
+    "tentativas_enriquecimento": 1
+  },
+  "3471f7c28ed8a4414f85df7e": {
+    "id": "3471f7c28ed8a4414f85df7e",
+    "titulo": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Visitas Guiadas",
+    "categoria": "música",
+    "data": "2026-09-05",
+    "hora": "08:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2024/09/museumacccbcreditoEstelleValente-1.jpg",
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
   },
   "34870a3ca65a243e9b9d8bb5": {
@@ -2970,7 +3102,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/joao-vasco-pedro-lopes-fernando-costa-porto-10734",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2992,7 +3124,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/banda-sinfonica-portuguesa-porto-13085",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3014,7 +3146,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ist-ist-porto-15321",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3036,7 +3168,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/jack-jack-porto-14264",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3058,7 +3190,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -3080,9 +3212,31 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
+    "tentativas_enriquecimento": 1
+  },
+  "361c5319e33b5dfae0b861fb": {
+    "id": "361c5319e33b5dfae0b861fb",
+    "titulo": "May I Help You? Posso ajudar?",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "May I Help You? Posso ajudar?",
+    "categoria": "música",
+    "data": "2026-09-05",
+    "hora": "10:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2025/11/May-I-Help-You_MAC_CCB2-creditoAntonioJorgeSilva-scaled.jpg",
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
   },
   "365b9e47223cdff9a33bca6c": {
@@ -3102,7 +3256,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3124,7 +3278,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3146,7 +3300,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3168,7 +3322,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3212,7 +3366,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/06/45-Ivo-Meco-_Jardins-Mac-ccbcreditojafuno-1-1-1.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3234,7 +3388,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3256,7 +3410,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3278,7 +3432,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -3301,7 +3455,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/mario-biondi-porto-13505",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3323,7 +3477,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3345,7 +3499,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3367,7 +3521,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3389,7 +3543,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/eliana-glass-porto-13216",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3411,9 +3565,31 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
+    "tentativas_enriquecimento": 1
+  },
+  "3e7124d286fd34d32327f85b": {
+    "id": "3e7124d286fd34d32327f85b",
+    "titulo": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Primeira Infância",
+    "categoria": "música",
+    "data": "2026-09-05",
+    "hora": "08:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2026/02/Primeira-infancia-ARTISTA-PLASTICO-POR-UM-DIA-MACcreditoJafuno.jpg",
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
   },
   "3e868855b1427ab918706440": {
@@ -3455,7 +3631,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3499,7 +3675,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3543,7 +3719,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3565,7 +3741,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3587,7 +3763,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/ensino-especialmuseumacccb-e1726737805568.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3697,7 +3873,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-02",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -3719,7 +3895,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/cock-robin-porto-15281",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3741,7 +3917,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3763,7 +3939,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/guga-porto-14035",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3785,7 +3961,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/filipe-karlsson-porto-14778",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3807,7 +3983,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3829,7 +4005,7 @@
     "bilhetes": "https://www.bol.pt/Comprar/Bilhetes/176604-antonio_zambujo_oracao_ao_tempo-europarque/",
     "imagem": "https://bolimg.blob.core.windows.net/producao/imagens/espectaculos/cartaz151629.jpg?v=3",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3851,7 +4027,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3873,7 +4049,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/08/2000x940_musicanomuseu_AhoraQuintet.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3917,7 +4093,7 @@
     "bilhetes": "https://www.bol.pt/Comprar/Bilhetes/182405-cinderela_o_musical-europarque/",
     "imagem": "https://bolimg.blob.core.windows.net/producao/imagens/espectaculos/cartaz156725.jpeg?v=1",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3939,7 +4115,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3961,7 +4137,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -3983,7 +4159,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -4006,7 +4182,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/the-twilight-sad-porto-12687",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4028,7 +4204,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/tiago-nacarato-porto-12967",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4050,7 +4226,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/04/DiaMuseus3102┬®RitaCarmo.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4072,7 +4248,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/the-watch-porto-14346",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4094,7 +4270,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4116,7 +4292,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/jayda-g-porto-15775",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4138,7 +4314,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4160,7 +4336,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4204,7 +4380,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/svaneborg-kardyb-porto-13217",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4248,7 +4424,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4270,7 +4446,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/sean-riley-the-slowriders-porto-14080",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4292,7 +4468,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ro-rosa-porto-13703",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4314,7 +4490,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4336,7 +4512,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2024/09/museumacccbcreditoEstelleValente-1.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4380,7 +4556,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4402,7 +4578,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4424,7 +4600,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/jake-bugg-lisboa-16104",
     "imagem": null,
     "primeira_vez": "2026-09-03",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -4468,7 +4644,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4490,7 +4666,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/agnes-nunes-porto-13762",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4512,7 +4688,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/08/Krump_2000x940.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4556,7 +4732,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4578,7 +4754,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/skinshape-porto-14623",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4644,7 +4820,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4666,7 +4842,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4710,7 +4886,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4732,7 +4908,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/rui-veloso-porto-11086",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4776,7 +4952,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4798,7 +4974,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/vincent-peirani-porto-12327",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4842,7 +5018,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/fingertips-porto-11436",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4864,7 +5040,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4908,7 +5084,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/jose-gonzalez-porto-11946",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4930,7 +5106,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/elba-ramalho-porto-14896",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4952,7 +5128,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/03/Antonio-JorgeSilvaUma-Deriva-Atlantida-L-CCB-4K.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -4974,7 +5150,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/norberto-lobo-porto-16105",
     "imagem": null,
     "primeira_vez": "2026-09-03",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -4996,7 +5172,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/zangao-porto-16052",
     "imagem": null,
     "primeira_vez": "2026-09-01",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5018,7 +5194,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/eme-porto-13891",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5040,7 +5216,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/heith-tarawangsawelas-porto-14540",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5062,7 +5238,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5084,7 +5260,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/city-of-the-sun-porto-14788",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5106,7 +5282,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5128,7 +5304,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/fresno-porto-15598",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5150,7 +5326,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -5173,7 +5349,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5239,7 +5415,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/alceu-valenca-porto-10772",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5261,7 +5437,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/the-mission-lisboa-16101",
     "imagem": null,
     "primeira_vez": "2026-09-02",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -5305,7 +5481,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/adriana-calcanhotto-porto-13431",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5327,7 +5503,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5349,7 +5525,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/gerardo-rodrigues-porto-13510",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5415,7 +5591,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/joao-goncalves-porto-15518",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5437,9 +5613,31 @@
     "bilhetes": "https://agendadopedro.pt/concertos/salvador-sobral-porto-15124",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
+    "tentativas_enriquecimento": 1
+  },
+  "5a5febc4facf8f6630d52e57": {
+    "id": "5a5febc4facf8f6630d52e57",
+    "titulo": "Simple Minds ᛫ Level 42",
+    "link": "https://agendadopedro.pt/concertos/simple-minds-porto-16107/",
+    "fonte": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto",
+    "artista": "Simple Minds ᛫ Level 42",
+    "categoria": "música",
+    "data": "2027-04-05",
+    "hora": null,
+    "data_texto": null,
+    "sala": "Pavilhão Rosa Mota",
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
   },
   "5a90fbfd19639608a8c1b36c": {
@@ -5503,7 +5701,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5525,7 +5723,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5547,7 +5745,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5569,7 +5767,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5591,7 +5789,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/imarhan-porto-13657",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5613,7 +5811,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5635,7 +5833,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -5657,7 +5855,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5679,7 +5877,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5701,7 +5899,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/01/Museu-em-partilhamuseumacccb-2.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5723,7 +5921,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5745,7 +5943,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/06/instalacao-artistica-de-james-webb_edited.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5767,7 +5965,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/joe-jackson-porto-10792",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5789,7 +5987,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/rouxinol-faduncho-porto-13864",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5811,7 +6009,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5877,7 +6075,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/fontaines-d-c-lisboa-16026",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5943,7 +6141,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/02/Primeira-infancia-ARTISTA-PLASTICO-POR-UM-DIA-MACcreditoJafuno.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -5987,7 +6185,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -6009,7 +6207,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6031,7 +6229,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6053,7 +6251,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/il-volo-porto-10068",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6075,7 +6273,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/06/NovaEra_2000x940-1.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6097,7 +6295,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/01/Museu-em-partilhamuseumacccb-2.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6119,7 +6317,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/johnny-hooker-porto-15507",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6141,7 +6339,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6163,7 +6361,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/nuno-prata-porto-14020",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6185,7 +6383,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6207,7 +6405,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/to-yo-porto-15288",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6251,7 +6449,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6273,7 +6471,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6317,7 +6515,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/vizinhos-porto-10466",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6339,7 +6537,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/geordie-greep-porto-15319",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6361,7 +6559,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6405,7 +6603,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6427,7 +6625,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/dominguinho-porto-14051",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6449,7 +6647,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/gnr-festival-entre-portas-lisboa-14048",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6471,7 +6669,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6493,7 +6691,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6515,9 +6713,31 @@
     "bilhetes": "https://agendadopedro.pt/concertos/resistencia-porto-11320",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
+    "tentativas_enriquecimento": 1
+  },
+  "6be447c793390309a176841f": {
+    "id": "6be447c793390309a176841f",
+    "titulo": "Universitário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/universitario/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Universitário",
+    "categoria": "música",
+    "data": "2026-09-05",
+    "hora": "10:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2023/11/Museu-MACCCB-2-scaled.jpg",
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
   },
   "6c0509482c23d59805ba8ac1": {
@@ -6537,7 +6757,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ricardo-coelho-quinteto-porto-15570",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6559,7 +6779,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/barananu-porto-13594",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6603,7 +6823,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6625,7 +6845,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/tomoki-sanders-porto-15560",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6669,7 +6889,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6691,7 +6911,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6713,7 +6933,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6735,7 +6955,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/sophia-chablau-e-uma-enorme-perda-de-tempo-porto-15320",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6757,7 +6977,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6779,7 +6999,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6801,7 +7021,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6823,7 +7043,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ed-porto-14320",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6845,7 +7065,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6889,7 +7109,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6911,7 +7131,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6933,7 +7153,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/the-glenn-miller-orchestra-porto-12293",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6955,7 +7175,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/06/2000x940_InesFilipe_2.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -6977,7 +7197,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/lisbon-film-orchestra-porto-15444",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -7087,7 +7307,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -7110,7 +7330,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -7133,7 +7353,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ana-carolina-porto-13545",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -7155,7 +7375,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -7177,7 +7397,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -7221,7 +7441,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7309,7 +7529,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7331,7 +7551,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/agir-paulo-de-carvalho-porto-15312",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7353,7 +7573,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/fears-porto-14348",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7375,7 +7595,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2020/03/visitasguiadasCCB©ritacarmo-7-scaled-e1695222526987.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7397,7 +7617,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7419,7 +7639,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/em-casa-d-amalia-porto-10422",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7441,7 +7661,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/lyzzard-porto-15414",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7463,7 +7683,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ao-porto-12520",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7507,7 +7727,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7551,7 +7771,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/rodrigo-correia-joao-barradas-porto-15559",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7573,7 +7793,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7661,7 +7881,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7683,7 +7903,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7705,7 +7925,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7727,7 +7947,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -7750,7 +7970,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7772,7 +7992,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7816,7 +8036,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7838,7 +8058,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7860,7 +8080,7 @@
     "bilhetes": "https://www.bol.pt/Comprar/Bilhetes/182854-o_quebra_nozes_imperial_heritage_ballet-europarque/",
     "imagem": "https://bolimg.blob.core.windows.net/producao/imagens/espectaculos/cartaz157165.jpg?v=2",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7948,7 +8168,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7970,7 +8190,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/antonio-zambujo-miguel-araujo-porto-14236",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -7992,7 +8212,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -8058,7 +8278,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -8080,7 +8300,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/antonio-zambujo-miguel-araujo-porto-14237",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -8146,7 +8366,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -8168,7 +8388,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -8190,7 +8410,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -8212,7 +8432,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -8234,7 +8454,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/jessica-moss-coimbra-15788",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -8256,7 +8476,7 @@
     "bilhetes": "https://www.bol.pt/Comprar/Bilhetes/184256-orquestra_3_efes_sofia_escobar_ricardo_afonso-europarque/",
     "imagem": "https://bolimg.blob.core.windows.net/producao/imagens/espectaculos/cartaz158367.jpg?v=1",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -8278,7 +8498,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-02",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -8291,19 +8511,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Ganso",
     "categoria": "música",
-    "data": null,
+    "data": "2026-11-27",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Hard Club",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/ganso-porto-16106",
     "imagem": null,
     "primeira_vez": "2026-09-03",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "878c07bef6dbf6924dc70a77": {
     "id": "878c07bef6dbf6924dc70a77",
@@ -8313,8 +8533,8 @@
     "kind": "Promotora",
     "artista": "European",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-06",
+    "hora": "18:00",
     "data_texto": null,
     "sala": null,
     "cidade": null,
@@ -8322,10 +8542,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "879f56eec98ac68dc035831b": {
     "id": "879f56eec98ac68dc035831b",
@@ -8335,8 +8555,8 @@
     "kind": "Promotora",
     "artista": "1ªparte",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-09",
+    "hora": "20:00",
     "data_texto": null,
     "sala": null,
     "cidade": null,
@@ -8344,10 +8564,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "87c3ffa1439f3bf1f9a291a4": {
     "id": "87c3ffa1439f3bf1f9a291a4",
@@ -8357,8 +8577,8 @@
     "kind": "Porto",
     "artista": "Myles Sanko 3",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-26",
+    "hora": "21:00",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -8366,10 +8586,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "87c79b9efb3733a08451e2f8": {
     "id": "87c79b9efb3733a08451e2f8",
@@ -8379,19 +8599,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Tt Lisboa 12055",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-05",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Coliseu dos Recreios",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/tt-lisboa-12055",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "87d62c3cd7ce1cba4c7c111a": {
     "id": "87d62c3cd7ce1cba4c7c111a",
@@ -8401,8 +8621,8 @@
     "kind": "Promotora",
     "artista": "Live",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2027-04-05",
+    "hora": "19:30",
     "data_texto": null,
     "sala": null,
     "cidade": null,
@@ -8410,10 +8630,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-03",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "87e4486ca72a79225d446dbe": {
     "id": "87e4486ca72a79225d446dbe",
@@ -8423,19 +8643,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Web",
     "categoria": "música",
-    "data": null,
+    "data": "2026-11-21",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Hard Club",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/web-porto-14082",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "87fc4221d291651f24d20f6e": {
     "id": "87fc4221d291651f24d20f6e",
@@ -8456,8 +8676,8 @@
     "primeira_vez": "2026-09-02",
     "ultima_vez": "2026-09-03",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8801cbeb349f4213457964ad": {
     "id": "8801cbeb349f4213457964ad",
@@ -8476,7 +8696,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -8490,8 +8710,8 @@
     "kind": "Porto",
     "artista": "Imarhan",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-10-19",
+    "hora": "21:00",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -8499,10 +8719,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "88b22d404b5ecc040555dbed": {
     "id": "88b22d404b5ecc040555dbed",
@@ -8512,8 +8732,8 @@
     "kind": "Porto",
     "artista": "Boulez E Zappa",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-12-02",
+    "hora": "19:30",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -8521,10 +8741,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "88ecffc1b78804a4b8601cf8": {
     "id": "88ecffc1b78804a4b8601cf8",
@@ -8534,19 +8754,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-05",
+    "hora": "10:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2024/10/ServicoEducativo2888_ritacarmo-1-e1730983416520.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "88f9e175594c18f925ba9a62": {
     "id": "88f9e175594c18f925ba9a62",
@@ -8565,10 +8785,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "88fa86c06b7799d80dcaa4a1": {
     "id": "88fa86c06b7799d80dcaa4a1",
@@ -8578,8 +8798,8 @@
     "kind": "Promotora",
     "artista": "Convidado",
     "categoria": "clássica",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-13",
+    "hora": "20:00",
     "data_texto": null,
     "sala": null,
     "cidade": null,
@@ -8587,10 +8807,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8978748c14d008ddbe3dca41": {
     "id": "8978748c14d008ddbe3dca41",
@@ -8600,19 +8820,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Fischer-Z",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-05",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Casa da Música",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/fischer-z-porto-11873",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "898c8f73c82db88466183cf9": {
     "id": "898c8f73c82db88466183cf9",
@@ -8622,8 +8842,8 @@
     "kind": "Porto",
     "artista": "Tempo De Natal 20251220",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-12-20",
+    "hora": "18:00",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -8631,10 +8851,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "89e60bf46c2fb78323be3efd": {
     "id": "89e60bf46c2fb78323be3efd",
@@ -8644,19 +8864,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Maria Reis",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-25",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "RCA (Radioclube Agramonte)",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/maria-reis-porto-15346",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8ab99965b26cd46f7c003f3e": {
     "id": "8ab99965b26cd46f7c003f3e",
@@ -8666,8 +8886,8 @@
     "kind": "Promotora",
     "artista": "TERESINHA LANDEIRO",
     "categoria": "festival",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-10",
+    "hora": "20:00",
     "data_texto": null,
     "sala": null,
     "cidade": null,
@@ -8675,10 +8895,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8b3f1ba45839dfba2df29bed": {
     "id": "8b3f1ba45839dfba2df29bed",
@@ -8688,19 +8908,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Festas de aniversário para crianças no Museu CCB, Lisboa",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-08",
+    "hora": "11:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2023/05/website_2000x940.jpg",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-08-31",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8b7e36fff68fc55ed8003965": {
     "id": "8b7e36fff68fc55ed8003965",
@@ -8710,19 +8930,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Spitgod ᛫ Vengeful Fate",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-27",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Maus Hábitos",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/spitgod-porto-16051",
     "imagem": null,
     "primeira_vez": "2026-09-01",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8b804657b53df312755eb5b4": {
     "id": "8b804657b53df312755eb5b4",
@@ -8732,8 +8952,8 @@
     "kind": "Porto",
     "artista": "Mimi Froes 3",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2027-03-10",
+    "hora": "21:00",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -8741,10 +8961,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8c38606b3e7506c2ae3eb43b": {
     "id": "8c38606b3e7506c2ae3eb43b",
@@ -8754,19 +8974,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Ângela Ferreira",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-10-25",
+    "hora": "10:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2025/11/14_AngelaFerreira©LaurentLecat.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8c4193f9ea5624839aa404db": {
     "id": "8c4193f9ea5624839aa404db",
@@ -8776,19 +8996,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Maria BC",
     "categoria": "música",
-    "data": null,
+    "data": "2026-11-26",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "RCA (Radioclube Agramonte)",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/maria-bc-porto-14347",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8c7aede0f08c7c03815b35a0": {
     "id": "8c7aede0f08c7c03815b35a0",
@@ -8798,19 +9018,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Mono",
     "categoria": "música",
-    "data": null,
+    "data": "2027-02-11",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Mouco",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/mono-porto-16025",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8c89c946e6f28a30b9f7c8ce": {
     "id": "8c89c946e6f28a30b9f7c8ce",
@@ -8820,8 +9040,8 @@
     "kind": "Porto",
     "artista": "Luisa Sobral",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-11-16",
+    "hora": "21:30",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -8829,10 +9049,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8cd25fb460c9937e80554918": {
     "id": "8cd25fb460c9937e80554918",
@@ -8842,19 +9062,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Worakls",
     "categoria": "música",
-    "data": null,
+    "data": "2026-12-12",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Casa da Música",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/worakls-porto-14242",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8d0da693f5485e7a731a40f3": {
     "id": "8d0da693f5485e7a731a40f3",
@@ -8864,7 +9084,7 @@
     "kind": "Promotora Porto",
     "artista": "14A Edicao Do Meo Sons Do Mar",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-04",
     "hora": null,
     "data_texto": null,
     "sala": null,
@@ -8875,8 +9095,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-09-03",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8d86030d378ac17a88d98ff7": {
     "id": "8d86030d378ac17a88d98ff7",
@@ -8897,8 +9117,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-09-03",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8dbb191918bd18fdd332bf5c": {
     "id": "8dbb191918bd18fdd332bf5c",
@@ -8908,19 +9128,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Visitas Guiadas",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-05",
+    "hora": "08:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2024/09/museumacccbcreditoEstelleValente-1.jpg",
     "primeira_vez": "2026-09-03",
     "ultima_vez": "2026-09-03",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8e2ce7a8bb8f0b2396ee2243": {
     "id": "8e2ce7a8bb8f0b2396ee2243",
@@ -8930,19 +9150,19 @@
     "kind": "Porto",
     "artista": "Cirque Du Soleil",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2027-01-06",
+    "hora": "20:30",
     "data_texto": null,
     "sala": "Super Bock Arena",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
-    "imagem": null,
+    "bilhetes": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-3/",
+    "imagem": "https://www.superbockarena.pt/wp-content/uploads/2026/06/cds_ovo_2027_vertical.jpg",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-09-03",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8e78df21783a1f7a565282ec": {
     "id": "8e78df21783a1f7a565282ec",
@@ -8952,19 +9172,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Festas de aniversário para crianças no Museu CCB, Lisboa",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-08",
+    "hora": "11:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2023/05/website_2000x940.jpg",
     "primeira_vez": "2026-09-02",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8eb3ddd2a0fa4527e7a63774": {
     "id": "8eb3ddd2a0fa4527e7a63774",
@@ -8974,8 +9194,8 @@
     "kind": "Grande sala",
     "artista": "Luisa Sonza",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2027-04-17",
+    "hora": "13:00",
     "data_texto": null,
     "sala": "MEO Arena",
     "cidade": "Lisboa",
@@ -8983,10 +9203,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8f52cf2143cabace2c860a38": {
     "id": "8f52cf2143cabace2c860a38",
@@ -8996,19 +9216,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Daniel Casares Sexteto",
     "categoria": "música",
-    "data": null,
+    "data": "2026-10-24",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Casa da Música",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/daniel-casares-sexteto-porto-15376",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "8fb7a045a418f278c7c065d2": {
     "id": "8fb7a045a418f278c7c065d2",
@@ -9018,19 +9238,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Francisca Carvalho",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-12-03",
+    "hora": "10:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2025/11/16_FranciscaCarvalhodreditoAJS2025-copiar-scaled.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "902579a4818839b037a64884": {
     "id": "902579a4818839b037a64884",
@@ -9049,7 +9269,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9062,19 +9282,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Imarhan",
     "categoria": "música",
-    "data": null,
+    "data": "2026-10-19",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Casa da Música",
     "cidade": "Porto",
     "distrito": "Porto",
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "90a775630043867ecd7ec1f5": {
     "id": "90a775630043867ecd7ec1f5",
@@ -9096,7 +9316,7 @@
     "ultima_vez": "2026-09-03",
     "ativo": true,
     "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "tentativas_enriquecimento": 1
   },
   "9132f0d55005996f7bf645bb": {
     "id": "9132f0d55005996f7bf645bb",
@@ -9106,19 +9326,19 @@
     "kind": "Porto",
     "artista": "Cirque Du Soleil",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2027-01-09",
+    "hora": "17:00",
     "data_texto": null,
     "sala": "Super Bock Arena",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
-    "imagem": null,
+    "bilhetes": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-2/",
+    "imagem": "https://www.superbockarena.pt/wp-content/uploads/2026/06/cds_ovo_2027_vertical.jpg",
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-09-03",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "9135a70cf571d81442c00d89": {
     "id": "9135a70cf571d81442c00d89",
@@ -9139,8 +9359,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-09-03",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "913ca05ab03dbc749eebc815": {
     "id": "913ca05ab03dbc749eebc815",
@@ -9161,8 +9381,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-09-03",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "9176a1a3cfebb2891e181fc5": {
     "id": "9176a1a3cfebb2891e181fc5",
@@ -9183,8 +9403,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-09-03",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "91d8740729052dba53f76ed1": {
     "id": "91d8740729052dba53f76ed1",
@@ -9194,8 +9414,8 @@
     "kind": "Promotora",
     "artista": "THE LAST INTERNATIONALE",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-11-10",
+    "hora": "20:00",
     "data_texto": null,
     "sala": null,
     "cidade": null,
@@ -9203,10 +9423,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "9251a8bd82038a5e04b26901": {
     "id": "9251a8bd82038a5e04b26901",
@@ -9216,19 +9436,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Ideal Clube de Fado Homenageia Gina Santos",
     "categoria": "música",
-    "data": null,
+    "data": "2026-11-08",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Coliseu",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/ideal-clube-de-fado-homenageia-gina-santos-porto-15834",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "92948ba42785841ebcdbf69c": {
     "id": "92948ba42785841ebcdbf69c",
@@ -9249,8 +9469,8 @@
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-09-01",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "929df6ff218540e6f1a042c9": {
     "id": "929df6ff218540e6f1a042c9",
@@ -9260,8 +9480,8 @@
     "kind": "Porto",
     "artista": "Rodrigo Correia E Joao Barradas",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-10-20",
+    "hora": "19:30",
     "data_texto": null,
     "sala": "Casa da Música",
     "cidade": "Porto",
@@ -9269,10 +9489,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "944e56872ff26d470026e5a6": {
     "id": "944e56872ff26d470026e5a6",
@@ -9282,19 +9502,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Lebanon Hanover",
     "categoria": "música",
-    "data": null,
+    "data": "2026-11-21",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Hard Club",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/lebanon-hanover-porto-10728",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "94699eba95ee2ee443066096": {
     "id": "94699eba95ee2ee443066096",
@@ -9304,8 +9524,8 @@
     "kind": "Promotora",
     "artista": "CAMANÉ",
     "categoria": "festival",
-    "data": null,
-    "hora": null,
+    "data": "2026-11-19",
+    "hora": "20:00",
     "data_texto": null,
     "sala": null,
     "cidade": null,
@@ -9313,10 +9533,10 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "94869daa04f235821b029005": {
     "id": "94869daa04f235821b029005",
@@ -9326,19 +9546,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Kiss Facility",
     "categoria": "música",
-    "data": null,
+    "data": "2026-11-02",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Mouco",
     "cidade": "Porto",
     "distrito": "Porto",
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "951a0baeccc5b0b9e347e0f4": {
     "id": "951a0baeccc5b0b9e347e0f4",
@@ -9348,19 +9568,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "T-Rex ᛫ Bárbara Bandeira ᛫ Nenny",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-12",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Jardins do Palácio de Cristal",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/t-rex-noites-dos-jardins-do-palacio-porto-15002",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "96950fe422e0232a58ec4773": {
     "id": "96950fe422e0232a58ec4773",
@@ -9370,19 +9590,19 @@
     "kind": "Grandes espetáculos nacionais",
     "artista": "Visitas Guiadas",
     "categoria": "música",
-    "data": null,
-    "hora": null,
+    "data": "2026-09-19",
+    "hora": "15:00",
     "data_texto": null,
     "sala": "Centro Cultural de Belém",
     "cidade": "Lisboa",
     "distrito": "Lisboa",
     "bilhetes": null,
-    "imagem": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/ExpoDeriva_31MulheresPub8834_ritacarmo.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "96dac9570df3d90aa9d2f661": {
     "id": "96dac9570df3d90aa9d2f661",
@@ -9392,19 +9612,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Youth Yard ᛫ Desire Haze",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-17",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Maus Hábitos",
     "cidade": "Porto",
     "distrito": "Porto",
-    "bilhetes": null,
+    "bilhetes": "https://agendadopedro.pt/concertos/youth-yard-porto-16031",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "96f9d0e1eccd9326f52a65d7": {
     "id": "96f9d0e1eccd9326f52a65d7",
@@ -9414,19 +9634,19 @@
     "kind": "Agenda complementar do Porto",
     "artista": "Myles Sanko",
     "categoria": "música",
-    "data": null,
+    "data": "2026-09-26",
     "hora": null,
     "data_texto": null,
-    "sala": null,
+    "sala": "Casa da Música",
     "cidade": "Porto",
     "distrito": "Porto",
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
-    "enriquecido_em": null,
-    "tentativas_enriquecimento": 0
+    "enriquecido_em": "2026-09-04",
+    "tentativas_enriquecimento": 1
   },
   "97014392f695e30217976213": {
     "id": "97014392f695e30217976213",
@@ -9445,7 +9665,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9489,7 +9709,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9511,7 +9731,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -9534,7 +9754,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9556,7 +9776,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9578,7 +9798,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9600,7 +9820,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9622,7 +9842,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9644,7 +9864,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9666,7 +9886,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9688,7 +9908,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9710,7 +9930,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9732,7 +9952,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9754,7 +9974,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9776,7 +9996,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9798,7 +10018,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9820,7 +10040,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9842,7 +10062,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9886,7 +10106,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9930,7 +10150,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9952,7 +10172,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9974,7 +10194,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -9996,7 +10216,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10040,7 +10260,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10062,7 +10282,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10084,7 +10304,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-01",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10106,7 +10326,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10128,7 +10348,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10150,7 +10370,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10194,7 +10414,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10216,7 +10436,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10238,7 +10458,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10282,7 +10502,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10304,7 +10524,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -10327,7 +10547,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-02",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10371,7 +10591,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10393,7 +10613,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10415,7 +10635,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10459,7 +10679,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10481,7 +10701,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10503,7 +10723,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10525,7 +10745,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10569,7 +10789,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10635,7 +10855,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10657,7 +10877,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10679,7 +10899,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10723,7 +10943,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10745,7 +10965,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -10768,7 +10988,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10790,7 +11010,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10812,7 +11032,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10834,7 +11054,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10856,7 +11076,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-02",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10922,7 +11142,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10944,7 +11164,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10966,7 +11186,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -10988,7 +11208,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11032,7 +11252,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11054,7 +11274,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11076,7 +11296,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-03",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -11099,7 +11319,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11143,7 +11363,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11165,7 +11385,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-03",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11187,7 +11407,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11231,7 +11451,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11275,7 +11495,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11297,7 +11517,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11319,7 +11539,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11363,7 +11583,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11407,7 +11627,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11429,7 +11649,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11451,7 +11671,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11473,7 +11693,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11517,7 +11737,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11539,7 +11759,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11561,7 +11781,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11583,7 +11803,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11605,7 +11825,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11627,7 +11847,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11649,7 +11869,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11693,7 +11913,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11715,7 +11935,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11760,7 +11980,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11782,7 +12002,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11826,7 +12046,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11848,7 +12068,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11892,7 +12112,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-03",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11914,7 +12134,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11958,7 +12178,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -11980,7 +12200,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12002,7 +12222,29 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": null,
+    "tentativas_enriquecimento": 0
+  },
+  "c34b50ad545463d0d091f72f": {
+    "id": "c34b50ad545463d0d091f72f",
+    "titulo": "Educação Inclusiva - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/educacao-inclusiva-escolas-museu-mac-ccb/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Educação Inclusiva",
+    "categoria": "música",
+    "data": null,
+    "hora": null,
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12046,7 +12288,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12068,7 +12310,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12090,7 +12332,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12112,7 +12354,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12134,7 +12376,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12156,7 +12398,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12200,7 +12442,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12244,7 +12486,51 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": null,
+    "tentativas_enriquecimento": 0
+  },
+  "c79b6b9ab4f004431e29146f": {
+    "id": "c79b6b9ab4f004431e29146f",
+    "titulo": "Frida Orupabo - Cloud of Confusion",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Frida Orupabo",
+    "categoria": "música",
+    "data": null,
+    "hora": null,
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": null,
+    "tentativas_enriquecimento": 0
+  },
+  "c7cb51ce65376fb7666ea98a": {
+    "id": "c7cb51ce65376fb7666ea98a",
+    "titulo": "Simple Minds ᛫ Level 42",
+    "link": "https://agendadopedro.pt/concertos/simple-minds-lisboa-16108/",
+    "fonte": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto",
+    "artista": "Simple Minds ᛫ Level 42",
+    "categoria": "música",
+    "data": null,
+    "hora": null,
+    "data_texto": null,
+    "sala": null,
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12266,7 +12552,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12288,7 +12574,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12310,7 +12596,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12376,7 +12662,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12420,7 +12706,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12464,7 +12750,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12486,7 +12772,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12508,7 +12794,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12552,7 +12838,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12574,7 +12860,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12596,7 +12882,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12618,7 +12904,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12640,7 +12926,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12662,7 +12948,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12684,7 +12970,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12706,7 +12992,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12750,7 +13036,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12772,7 +13058,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12794,7 +13080,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12816,7 +13102,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12838,7 +13124,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12860,7 +13146,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12926,7 +13212,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12970,7 +13256,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -12992,7 +13278,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13014,7 +13300,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -13103,7 +13389,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13125,7 +13411,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13147,7 +13433,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13169,7 +13455,29 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": null,
+    "tentativas_enriquecimento": 0
+  },
+  "d5899abf7f2865bb66455398": {
+    "id": "d5899abf7f2865bb66455398",
+    "titulo": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo",
+    "categoria": "música",
+    "data": null,
+    "hora": null,
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13191,7 +13499,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-02",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13213,7 +13521,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13279,7 +13587,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13301,7 +13609,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13323,7 +13631,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13367,7 +13675,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13389,7 +13697,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13411,7 +13719,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13433,7 +13741,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13455,7 +13763,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13477,7 +13785,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13499,7 +13807,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13521,7 +13829,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13543,7 +13851,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13565,7 +13873,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13587,7 +13895,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13609,7 +13917,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13631,7 +13939,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13653,7 +13961,29 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": null,
+    "tentativas_enriquecimento": 0
+  },
+  "ded110b1a390629911d2bd42": {
+    "id": "ded110b1a390629911d2bd42",
+    "titulo": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Terceiro Ciclo e Secundário",
+    "categoria": "música",
+    "data": null,
+    "hora": null,
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13675,7 +14005,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13697,7 +14027,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13719,7 +14049,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13741,7 +14071,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13763,7 +14093,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13785,7 +14115,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13807,7 +14137,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13829,7 +14159,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13851,7 +14181,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13873,7 +14203,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13895,7 +14225,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13917,7 +14247,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -13939,7 +14269,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14005,7 +14335,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14027,7 +14357,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14049,7 +14379,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14093,7 +14423,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14115,7 +14445,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14137,7 +14467,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14159,7 +14489,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14203,7 +14533,29 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": null,
+    "tentativas_enriquecimento": 0
+  },
+  "e8dfadf5b5e4969d6e4c89b1": {
+    "id": "e8dfadf5b5e4969d6e4c89b1",
+    "titulo": "Olhos Múltiplos",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Olhos Múltiplos",
+    "categoria": "música",
+    "data": null,
+    "hora": null,
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14225,7 +14577,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14247,7 +14599,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14269,7 +14621,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14291,7 +14643,29 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": null,
+    "tentativas_enriquecimento": 0
+  },
+  "ea86365b228167c25ca98fe9": {
+    "id": "ea86365b228167c25ca98fe9",
+    "titulo": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Segundo Ciclo",
+    "categoria": "música",
+    "data": null,
+    "hora": null,
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14313,7 +14687,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14357,7 +14731,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14379,7 +14753,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14423,7 +14797,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14445,7 +14819,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14489,7 +14863,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14511,7 +14885,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14533,7 +14907,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14555,7 +14929,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14577,7 +14951,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14599,7 +14973,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14621,7 +14995,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14643,7 +15017,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14665,7 +15039,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14687,7 +15061,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-02",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14709,7 +15083,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14731,7 +15105,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14753,7 +15127,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14775,7 +15149,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14797,7 +15171,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14819,7 +15193,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14885,7 +15259,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14907,7 +15281,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14929,7 +15303,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -14952,7 +15326,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -14996,7 +15370,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15018,7 +15392,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15040,7 +15414,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15062,7 +15436,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15084,7 +15458,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15106,7 +15480,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-01",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15128,7 +15502,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15172,7 +15546,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15194,7 +15568,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15216,7 +15590,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15238,7 +15612,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15260,7 +15634,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15326,7 +15700,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15348,7 +15722,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15370,7 +15744,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15436,7 +15810,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15458,7 +15832,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -15480,7 +15854,29 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-09-03",
+    "ultima_vez": "2026-09-04",
+    "ativo": true,
+    "enriquecido_em": null,
+    "tentativas_enriquecimento": 0
+  },
+  "ffd827790831b934f24dd67b": {
+    "id": "ffd827790831b934f24dd67b",
+    "titulo": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-09-04/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Pré-escolar",
+    "categoria": "música",
+    "data": null,
+    "hora": null,
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-09-04",
+    "ultima_vez": "2026-09-04",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
