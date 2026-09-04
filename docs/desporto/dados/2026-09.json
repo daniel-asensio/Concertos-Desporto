@@ -3478,32 +3478,6 @@
   "arquivado_em": "2026-09-04T18:28:59+00:00"
  },
  {
-  "title": "Russell leads Leclerc in Friday practice at Monza",
-  "url": "https://www.bbc.co.uk/sport/formula1/articles/cgk5g0z26yxo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Sport",
-  "published": "2026-09-04T15:13:23+00:00",
-  "summary": "Mercedes' George Russell tops Friday practice at the Italian Grand Prix from Ferrari's Charles Leclerc.",
-  "sport": "geral",
-  "kind": "news",
-  "start": null,
-  "end": null,
-  "location": "",
-  "score": 5,
-  "reasons": [
-   "Automobilismo — referências: Charles Leclerc"
-  ],
-  "where_to_watch": [],
-  "id": "df333b0d6e8b20e60494",
-  "atletas": [
-   "Charles Leclerc"
-  ],
-  "clubes": [],
-  "competicoes": [],
-  "modalidade": "automobilismo",
-  "local": "",
-  "arquivado_em": "2026-09-04T14:24:49+00:00"
- },
- {
   "title": "Vuelta a España: Wout van Aert finally takes a victory on stage 13 as breakaway stays away",
   "url": "https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-wout-van-aert-finally-takes-a-victory-on-stage-13/",
   "source": "Cyclingnews",
@@ -3670,5 +3644,285 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-09-04T18:28:59+00:00"
+ },
+ {
+  "title": "Van Aert powers to victory on stage 13 of Vuelta",
+  "url": "https://www.bbc.co.uk/sport/cycling/articles/c87vpnxq4x7o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-04T17:00:47+00:00",
+  "summary": "Belgium's Wout van Aert surges clear of Valentin Paret-Peintre in a sprint to the line to win stage 13 of the Vuelta a Espana. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Wout van Aert",
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [],
+  "id": "43d4d5e59be13d24bf2d",
+  "atletas": [
+   "Wout van Aert"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T21:33:37+00:00"
+ },
+ {
+  "title": "'I don't think I was very popular in that breakaway' – Matthew Brennan locks down rivals' attacks with imperious performance to repay Wout van Aert in Vuelta a España",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/i-dont-think-i-was-very-popular-in-that-breakaway-matthew-brennan-locks-down-rivals-attacks-with-imperious-performance-to-repay-wout-van-aert-in-vuelta-a-espana/",
+  "source": "Cyclingnews",
+  "published": "2026-09-04T17:04:07+00:00",
+  "summary": "\n                             British rider produces stunning effort on the attack on stage 13, as Visma-Lease a Bike continue to succeed in stage-hunting efforts \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Wout van Aert",
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "19fd70444e2095b78c69",
+  "atletas": [
+   "Wout van Aert"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T21:33:37+00:00"
+ },
+ {
+  "title": "Ferrari still behind Mercedes on straights - Hamilton",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/cgk5g0z26yxo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-04T17:09:35+00:00",
+  "summary": "Lewis Hamilton says Ferrari's new engine is \"an improvement\" but that his team are still lagging behind Mercedes on the straights at the Italian Grand Prix.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Lewis Hamilton"
+  ],
+  "where_to_watch": [],
+  "id": "a11157d9648f3ed89305",
+  "atletas": [
+   "Lewis Hamilton"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T14:24:49+00:00"
+ },
+ {
+  "title": "'A serious confidence boost for the Worlds' - as rainbow jersey battle looms, Wout van Aert shows stunning form and racecraft in Vuelta a España",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/a-serious-confidence-boost-for-the-worlds-as-rainbow-jersey-battle-looms-wout-van-aert-shows-stunning-form-and-racecraft-in-vuelta-a-espana/",
+  "source": "Cyclingnews",
+  "published": "2026-09-04T18:04:43+00:00",
+  "summary": "\n                             Belgian claims 15th Grand Tour stage win of career after he and teammate Matthew Brennan keep firm grip on finale \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 20,
+  "reasons": [
+   "Ciclismo — referências: Wout van Aert",
+   "Grandes eventos: final",
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "f637d16a39af85662c98",
+  "atletas": [
+   "Wout van Aert"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T21:33:37+00:00"
+ },
+ {
+  "title": "'In a way, I don't know any different' – All three Grand Tours in one season no problem for Sepp Kuss as he enjoys a more open Vuelta a España in Pogačar's absence",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/in-a-way-i-dont-know-any-different-all-three-grand-tours-in-one-season-no-problem-for-sepp-kuss-as-he-enjoys-a-more-open-vuelta-a-espana-in-pogacars-absence/",
+  "source": "Cyclingnews",
+  "published": "2026-09-04T18:20:17+00:00",
+  "summary": "\n                             US rider says Slovenian crashing out 'was sad for the race, but I think it opened the door for a really open battle' as he nears ninth week of GT racing in 2026 \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Pogacar",
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "ade3f2c8a48e2ce890ad",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T21:33:37+00:00"
+ },
+ {
+  "title": "'Enric is the favourite' - Tadej Pogačar's director at UAE Team Emirates-XRG names Mas as top candidate to win Vuelta a España",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/enric-is-the-favourite-tadej-pogacars-director-at-uae-team-emirates-xrg-names-mas-as-top-candidate-to-win-vuelta-a-espana/",
+  "source": "Cyclingnews",
+  "published": "2026-09-04T18:32:21+00:00",
+  "summary": "\n                             Joxean Fernández Matxin says team's top priority remains \"to recover Tadej the person before Tadej the cyclist,\" after Slovenian's crash out of Vuelta \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "535eb2fd4511c876ba2f",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T21:33:37+00:00"
+ },
+ {
+  "title": "FC Porto - Moreirense",
+  "url": "https://www.rtp.pt/noticias/desporto/fc-porto-moreirense_e1763440",
+  "source": "RTP Desporto",
+  "published": "2026-09-04T18:35:33+00:00",
+  "summary": "  \n      O campeão FC Porto vai tentar manter a liderança isolada da I Liga portuguesa de futebol, procurando o quinto triunfo em outras tantas jornadas, na receção ao Moreirense.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "02e362a7cc796edadc56",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-04T21:33:37+00:00"
+ },
+ {
+  "title": "Médio Milan Robin assina pelo Estoril Praia até 2029",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/medio-milan-robin-assina-pelo-estoril-praia-ate-2029_d1763446",
+  "source": "RTP Desporto",
+  "published": "2026-09-04T18:52:13+00:00",
+  "summary": "  \n      O Estoril Praia, da I Liga portuguesa de futebol, anunciou a contratação do médio francês Milan Robin, proveniente do Le Mans, num contrato válido até 2029.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "d5fa8be2ab82a654b5c1",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-04T21:33:37+00:00"
+ },
+ {
+  "title": "Extremo Chipyoka Songa reforça Moreirense até 2031",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/extremo-chipyoka-songa-reforca-moreirense-ate-2031_d1763447",
+  "source": "RTP Desporto",
+  "published": "2026-09-04T18:53:13+00:00",
+  "summary": "  \n      O extremo Chipyoka Songa reforçou o Moreirense, com um contrato válido até 2031, após três épocas a jogar em Israel, anunciou o clube da I Liga portuguesa de futebol, em nota no sítio oficial.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: remo, futebol"
+  ],
+  "where_to_watch": [],
+  "id": "6d0475696ba53fd79f98",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-04T21:33:37+00:00"
+ },
+ {
+  "title": "Emotional Taylor steps on to the scales one final time",
+  "url": "https://www.bbc.co.uk/sport/boxing/articles/cvgy95v3pjdo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-04T19:11:53+00:00",
+  "summary": "Katie Taylor and Flora Pili weigh in under the light-welterweight limit at a sun-kissed Trinity College in Dublin before they fight for the undisputed title at Croke Park on Saturday.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "1a67cd523c447df012c8",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-04T21:33:37+00:00"
  }
 ]
