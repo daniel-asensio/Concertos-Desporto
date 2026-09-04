@@ -2214,7 +2214,7 @@
   "arquivado_em": "2026-09-03T14:37:49+00:00"
  },
  {
-  "title": "Iraola happy with signings as Barcola set for debut",
+  "title": "Iraola happy with signings as Barcola set for Liverpool debut",
   "url": "https://www.bbc.co.uk/sport/football/articles/c14dx8eze1do?at_medium=RSS&at_campaign=rss",
   "source": "BBC Sport",
   "published": "2026-09-03T10:58:42+00:00",
@@ -2229,7 +2229,7 @@
    "Modalidade olímpica: arco"
   ],
   "where_to_watch": [],
-  "id": "2d960ab4c7c3d24a6960",
+  "id": "e4099b01b5947401662c",
   "atletas": [],
   "clubes": [],
   "competicoes": [],
@@ -2430,6 +2430,36 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-09-03T21:45:18+00:00"
+ },
+ {
+  "title": "Vuelta: Omrzel bate recorde de Pogacar e estreia-se a vencer em Grandes Voltas - Maisfutebol",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakp5Zk9Hc24wYVUxZ0hxdVdIa2czSXJ4OGNnd3dXaWZNMFo0dEdQVnBNTjFYVk5DY3dlNENIOXdlTlFDVF9rYTlhSVJjVFVGdlhiWk5xOWIzS1JGbElMeC1tdzFVdjEwNjlQVko5VTE3Z0MzY1kxMEJVcklhUnRRcVZ2X2VSaHZ0X09pY0VldEt1Mzk1aHVFN3doSUhpWmU1bko4NE5sRFAzWkdTazVQR2o0R0d6SEZfTWJwc0hsSThJSmVrblJlYg?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-09-03T15:59:34+00:00",
+  "summary": " Vuelta: Omrzel bate recorde de Pogacar e estreia-se a vencer em Grandes Voltas    Maisfutebol ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Ciclismo — referências: Pogacar",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "aa3537d8da0a34e14f83",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T00:09:46+00:00"
  },
  {
   "title": "Oscar Onley suffers huge dent to Vuelta a España podium hopes after early crash and summit finish struggles",
@@ -2938,7 +2968,7 @@
  },
  {
   "title": "LE. Benfica inscreve El Karouani, Palhinha e Echeverri para a fase de liga",
-  "url": "https://www.rtp.pt/noticias/liga-europa/le-benfica-inscreve-el-karouani-palhinha-e-echeverri-para-a-fase-de-liga_d1763287",
+  "url": "https://www.rtp.pt/noticias/benfica/le-benfica-inscreve-el-karouani-palhinha-e-echeverri-para-a-fase-de-liga_d1763287",
   "source": "RTP Desporto",
   "published": "2026-09-03T21:51:37+00:00",
   "summary": "  \n      O Benfica inscreveu os reforços Souffian El Karouani, João Palhinha e Claudio Echeverri na lista para a fase de liga da Liga Europa de futebol, cujo prazo terminou na quarta-feira e a UEFA divulgou hoje.\n ",
