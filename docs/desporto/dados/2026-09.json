@@ -2997,7 +2997,7 @@
  },
  {
   "title": "LE. Benfica inscreve El Karouani, Palhinha e Echeverri para a fase de liga",
-  "url": "https://www.rtp.pt/noticias/liga-europa/le-benfica-inscreve-el-karouani-palhinha-e-echeverri-para-a-fase-de-liga_d1763287",
+  "url": "https://www.rtp.pt/noticias/benfica/le-benfica-inscreve-el-karouani-palhinha-e-echeverri-para-a-fase-de-liga_d1763287",
   "source": "RTP Desporto",
   "published": "2026-09-03T21:51:37+00:00",
   "summary": "  \n      O Benfica inscreveu os reforços Souffian El Karouani, João Palhinha e Claudio Echeverri na lista para a fase de liga da Liga Europa de futebol, cujo prazo terminou na quarta-feira e a UEFA divulgou hoje.\n ",
@@ -3046,7 +3046,7 @@
   "arquivado_em": "2026-09-04T09:43:51+00:00"
  },
  {
-  "title": "Tears and tricolours - inside Irish icon Taylor's final fight week",
+  "title": "Tears and an 80,000 sellout - Irish icon Taylor's final fight week",
   "url": "https://www.bbc.co.uk/sport/boxing/articles/cq8j025n4wjo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Sport",
   "published": "2026-09-04T07:02:07+00:00",
@@ -3061,7 +3061,7 @@
    "Grandes eventos: final"
   ],
   "where_to_watch": [],
-  "id": "1508e1812d280f0538d0",
+  "id": "e7471b6aeef99dc5847b",
   "atletas": [],
   "clubes": [],
   "competicoes": [],
@@ -3074,7 +3074,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/i-liga-fc-porto-recebe-moreirense-com-reforcos-disponiveis-para-a-estreia_v1763332",
   "source": "RTP Desporto",
   "published": "2026-09-04T09:35:47+00:00",
-  "summary": "  \n      O Futebol Clube do Porto recebe esta sexta-feira o Moreirense para o campeonato, num jogo que pode marcar a estreia das últimas contratações.  ",
+  "summary": "  \n      O Futebol Clube do Porto recebe esta sexta-feira o Moreirense para o campeonato, num jogo que pode marcar a estreia das últimas contratações. \n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -3092,5 +3092,320 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-09-04T09:43:51+00:00"
+ },
+ {
+  "title": "20-year-old Unbound Gravel 100 winner Kylee Hanel to get a taste of the WorldTour with Visma-Lease a Bike stagiaire contract",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/20-year-old-unbound-gravel-100-winner-kylee-hanel-to-get-a-taste-of-the-worldtour-with-visma-lease-a-bike-stagiaire-contract/",
+  "source": "Cyclingnews",
+  "published": "2026-09-04T09:54:55+00:00",
+  "summary": "\n                             American talent will link up with Dutch team for upcoming races in Brittany \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: WorldTour"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "05d720fca5b7c91ee952",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "WorldTour"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T14:24:49+00:00"
+ },
+ {
+  "title": "Worker strikes possible in Montreal during Road World Championships",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/worker-strikes-possible-in-montreal-during-road-world-championships/",
+  "source": "Cyclingnews",
+  "published": "2026-09-04T10:16:34+00:00",
+  "summary": "\n                             Ongoing negotiations over pay and working conditions have led to union filing notice of a seven-day strike during the event \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "70d137ab29ff950f9f7b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T14:24:49+00:00"
+ },
+ {
+  "title": "Vuelta a España stage 13 LIVE: Matthew Brennan in the lead group as huge breakaway splits up",
+  "url": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-13-live-opportunity-for-the-breakaway-specialists-in-the-medium-mountains/",
+  "source": "Cyclingnews",
+  "published": "2026-09-04T10:22:58+00:00",
+  "summary": "\n                             Almuñécar to Loja, 192.8 km \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "ff432e5ba596a0e63e3e",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T14:24:49+00:00"
+ },
+ {
+  "title": "'I want to write my own story' – Who is Jakob Omrzel? Meet the next Slovenian star who's not interested in comparisons to Pogačar and Roglič",
+  "url": "https://www.cyclingnews.com/pro-cycling/emerging-talents/i-want-to-write-my-own-story-who-is-jakob-omrzel-meet-the-next-slovenian-star-whos-not-interested-in-comparisons-to-pogacar-and-roglic/",
+  "source": "Cyclingnews",
+  "published": "2026-09-04T11:18:57+00:00",
+  "summary": "\n                             20-year-old storms into the spotlight with maiden stage win at Vuelta a España \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Pogacar",
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "5c314d7dd0e79684b4e9",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T14:24:49+00:00"
+ },
+ {
+  "title": "Taça da Liga já tem datas",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/taca-da-liga-ja-tem-datas_d1763361",
+  "source": "RTP Desporto",
+  "published": "2026-09-04T12:16:26+00:00",
+  "summary": "  \n      O quadro dos quartos de final da Taça da Liga foi divulgado esta manhã pela Liga Portuguesa de Futebol Profissional.  \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: final",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "dc0f34dd0c508e42a736",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-04T14:24:49+00:00"
+ },
+ {
+  "title": "Leclerc leads Hamilton in first practice at Monza",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/cgk5g0z26yxo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-04T12:16:42+00:00",
+  "summary": "Charles Leclerc leads Lewis Hamilton in first practice at the Italian Grand Prix to start the weekend off on a positive note for Ferrari. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Charles Leclerc, Lewis Hamilton"
+  ],
+  "where_to_watch": [],
+  "id": "ee16150a68fb963f7063",
+  "atletas": [
+   "Charles Leclerc",
+   "Lewis Hamilton"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T14:24:49+00:00"
+ },
+ {
+  "title": "Decathlon CMA CGM lose key climber as Gregor Mühlberger crashes out of ninth overall on stage 13 of the Vuelta a España",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/decathlon-cma-cgm-lose-key-climber-as-gregor-muhlberger-crashes-out-of-ninth-overall-on-stage-13-of-the-vuelta-a-espana/",
+  "source": "Cyclingnews",
+  "published": "2026-09-04T12:24:12+00:00",
+  "summary": "\n                             Austrian had been an important domestique for red jersey hopeful Felix Gall in Spain \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "a0c081a3516ca86d0853",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T14:24:49+00:00"
+ },
+ {
+  "title": "\"Tadej Pogacar não estará no Mundial por causa da lesão no pescoço\" Eddy Merckx se recupera de 9 cirurgias e envia recado a Pogacar - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdzViRnZnQmp1MVBoc1JpaHNMZGgxcXYta1Z0OVNSZkx0RlFPQ251ZjVMMlYxaHE4X0tCOFFJY3NTZGdxTUtPSzBMQW85LVE2d1JLckRMRUxrY0lNa1JBalprVl9McVg5NFNEVVIwbFF3LWM2Z0ZjTHc5RUdkNWNZemNqRUZjTWlMcVlOTVhRT1ZHY1lrZVktQ20xanNlMjlHdGhFUG1zX0pxNkdZel9jck9DYS1INW1aMnBaaS1SU2lWWm9TQTc3V29GTWZxZ1ZmQ2lXNE5NZE8wMTA0eTRtQWRocGkwWVY4c3FzdURhQVZiT1Js?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-09-04T12:37:59+00:00",
+  "summary": " \"Tadej Pogacar não estará no Mundial por causa da lesão no pescoço\" Eddy Merckx se recupera de 9 cirurgias e envia recado a Pogacar    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "77d65f18babac31003ed",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-04T14:24:49+00:00"
+ },
+ {
+  "title": "12h30 Sporting e Benfica preparam duelos madeirenses",
+  "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-sporting-e-benfica-preparam-duelos-madeirenses_a1_1763370",
+  "source": "RTP Desporto",
+  "published": "2026-09-04T13:03:03+00:00",
+  "summary": "  \n       ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "82569210b3b42c159e5d",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-04T14:24:49+00:00"
+ },
+ {
+  "title": "Arsenal e Bayern no caminho do Benfica na Liga dos Campeões feminina",
+  "url": "https://www.rtp.pt/noticias/benfica/arsenal-e-bayern-no-caminho-do-benfica-na-liga-dos-campeoes-feminina_d1763372",
+  "source": "RTP Desporto",
+  "published": "2026-09-04T13:19:25+00:00",
+  "summary": "  \n      O bicampeão Arsenal e o Bayern Munique, semifinalista em 2025/26, são os rivais, em teoria, mais complicados do campeão português Benfica na fase de liga da Liga dos Campeões feminina.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 15,
+  "reasons": [
+   "Portugal: campeão português",
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [
+   "DAZN — confirmar"
+  ],
+  "id": "cae3fecf684090768986",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-04T14:24:49+00:00"
+ },
+ {
+  "title": "Rui Borges vê Suárez \"a sorrir todos os dias\"",
+  "url": "https://www.rtp.pt/noticias/sporting/rui-borges-ve-suarez-a-sorrir-todos-os-dias_d1763385",
+  "source": "RTP Desporto",
+  "published": "2026-09-04T14:17:59+00:00",
+  "summary": "  \n      Rui Borges assegurou que Luis Suárez está focado “a 200%” no Sporting “para fazer a diferença” e acrescentou que vê o avançado dos vice-campeões nacionais a sorrir diariamente nos treinos, em Alcochete.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting, Alcochete"
+  ],
+  "where_to_watch": [],
+  "id": "4e82000a15f55b612e8a",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-04T14:24:49+00:00"
  }
 ]
