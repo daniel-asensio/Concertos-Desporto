@@ -1,17 +1,17 @@
 {
- "actualizado": "2026-09-05T00:10:47+00:00",
- "total": 208,
+ "actualizado": "2026-09-05T04:39:17+00:00",
+ "total": 210,
  "meses": {
   "2026-08": 56,
-  "2026-09": 152
+  "2026-09": 154
  },
  "atletas": {
   "Tadej Pogačar": 42,
   "Wout van Aert": 10,
   "Mathieu van der Poel": 3,
+  "Mondo Duplantis": 3,
   "João Almeida": 2,
   "Lewis Hamilton": 2,
-  "Mondo Duplantis": 2,
   "Jonas Vingegaard": 1,
   "Lando Norris": 1,
   "Miguel Oliveira": 1,
@@ -37,11 +37,11 @@
   "Taça do Mundo": 1
  },
  "modalidades": {
-  "ciclismo": 96,
+  "ciclismo": 97,
   "geral": 48,
   "futebol": 41,
+  "atletismo": 6,
   "canoagem": 6,
-  "atletismo": 5,
   "automobilismo": 3,
   "basquetebol": 2,
   "voleibol": 2,
@@ -54,9 +54,9 @@
  "fontes": {
   "RTP Desporto": 88,
   "Cyclingnews": 63,
-  "Ciclismo watchlist": 29,
+  "Ciclismo watchlist": 30,
   "BBC Sport": 26,
-  "Atletismo watchlist": 1,
+  "Atletismo watchlist": 2,
   "Portugal olímpico": 1
  },
  "locais": {}
