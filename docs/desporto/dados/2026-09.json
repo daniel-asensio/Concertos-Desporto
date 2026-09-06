@@ -4507,7 +4507,7 @@
  },
  {
   "title": "Tadej Pogacar renova com UAE Emirates... mas só volta em 2027 - Record",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeHN5TGliaXZtcEdPRDlEbGVadEkyQUd4UlhuN2ZBcE1EVTJfNG9HWU5oU1hRMmJaeHhzYThURF9QdjI1c3BtbC1XMDRqV3BQTjVMSGQzOU1LbzVQNGl2SUNhNDktVUszdHF1bDBoQ19BSEctc2o2eElWWEJLRHI2RVp0bkgzMW9BZkI0blFVM3lNZFlBSUhlaDB4Mm9NMFNzZTU4bFdfb3pGUmxPWXUtcl9hRy1XU2oteW04Q09PMVhwd0ZRRDhKb0loZ0NTcDZtRS1meV9BNjBMbl9Gb0RV0gGoAUFVX3lxTFBMSkRaZDBCOGR2UmU0cGdsM2oyT3c0M21id3drZWhvUEdXX2NUbnFBSktIV1lwblNYWDNnbV9zSVoxNFpuS2xvXzlwTkxJTXUyd2N6R0hDN1Q5TXg4dGpvZTZaOFA4RHZ2XzRCWkgwbnQ3cWI4OUxZbkM0T2FFUnhNcldzUE5XUjlqWVV2RWJhRVNvVGNBazNob2RSU3l5Uy1UNnloVHNVNQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeHN5TGliaXZtcEdPRDlEbGVadEkyQUd4UlhuN2ZBcE1EVTJfNG9HWU5oU1hRMmJaeHhzYThURF9QdjI1c3BtbC1XMDRqV3BQTjVMSGQzOU1LbzVQNGl2SUNhNDktVUszdHF1bDBoQ19BSEctc2o2eElWWEJLRHI2RVp0bkgzMW9BZkI0blFVM3lNZFlBSUhlaDB4Mm9NMFNzZTU4bFdfb3pGUmxPWXUtcl9hRy1XU2oteW04Q09PMVhwd0ZRRDhKb0loZ0NTcDZtRS1meV9BNjBMbl9Gb0RV?oc=5",
   "source": "Ciclismo watchlist",
   "published": "2026-09-05T11:03:05+00:00",
   "summary": " Tadej Pogacar renova com UAE Emirates... mas só volta em 2027    Record ",
@@ -5080,7 +5080,7 @@
   "arquivado_em": "2026-09-05T18:23:45+00:00"
  },
  {
-  "title": "South Africa finish strongly to take 2-1 series lead against All Blacks",
+  "title": "South Africa finish strongly to take series lead against All Blacks",
   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c7830m55lklo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Sport",
   "published": "2026-09-05T17:21:39+00:00",
@@ -5095,7 +5095,7 @@
    "Grandes eventos: final"
   ],
   "where_to_watch": [],
-  "id": "b7124fe8e3b9e0e4d880",
+  "id": "e23f286ae7aed8a9add1",
   "atletas": [],
   "clubes": [],
   "competicoes": [],
@@ -5550,6 +5550,32 @@
   "arquivado_em": "2026-09-05T23:01:11+00:00"
  },
  {
+  "title": "Hunt 'not afraid of anyone' after second podium in two days",
+  "url": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-05T21:03:10+00:00",
+  "summary": "Amy Hunt says she is \"on the up\" and \"not afraid of anyone\" after finishing second in the 100m at the Diamond League final in Brussels.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "17dab40a23650e90d645",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Diamond League"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-06T11:05:48+00:00"
+ },
+ {
   "title": "Taylor crowns career in stylish Croke Park triumph",
   "url": "https://www.bbc.co.uk/sport/boxing/articles/clyeg4n8l98o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Sport",
@@ -5598,5 +5624,29 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-09-06T01:04:17+00:00"
+ },
+ {
+  "title": "Farewell win at Croke park 'highlight of my career' - Taylor",
+  "url": "https://www.bbc.co.uk/sport/boxing/videos/c17jryd1npjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-06T07:46:04+00:00",
+  "summary": "Katie Taylor reflects on a 'dream' career beating Flora Pili by unanimous decision at a sold-out Croke Park to become a three-time undisputed world champion in her final fight before retirement.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "bd23f1e08ca205be1529",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-06T11:05:48+00:00"
  }
 ]
