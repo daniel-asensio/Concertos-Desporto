@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-09-05T23:01:11+00:00",
- "total": 256,
+ "actualizado": "2026-09-06T01:04:17+00:00",
+ "total": 259,
  "meses": {
   "2026-08": 56,
-  "2026-09": 200
+  "2026-09": 203
  },
  "atletas": {
   "Tadej Pogačar": 55,
@@ -15,11 +15,12 @@
   "Lewis Hamilton": 2,
   "Miguel Oliveira": 2,
   "Lando Norris": 1,
+  "Pedro Pichardo": 1,
   "Remco Evenepoel": 1,
   "Rui Costa": 1
  },
  "clubes": {
-  "Sporting CP": 17,
+  "Sporting CP": 18,
   "Portugal (selecções)": 11
  },
  "competicoes": {
@@ -30,18 +31,18 @@
   "Tour de France": 4,
   "Il Lombardia": 3,
   "Liga Europa": 3,
+  "Diamond League": 2,
   "Taça do Mundo": 2,
   "Campeonato da Europa": 1,
-  "Diamond League": 1,
   "Fórmula 1": 1,
   "Giro d'Italia": 1,
   "Taça de Portugal": 1
  },
  "modalidades": {
   "ciclismo": 122,
-  "geral": 62,
+  "geral": 64,
   "futebol": 47,
-  "atletismo": 6,
+  "atletismo": 7,
   "canoagem": 6,
   "automobilismo": 3,
   "basquetebol": 2,
@@ -56,8 +57,8 @@
   "RTP Desporto": 107,
   "Cyclingnews": 74,
   "Ciclismo watchlist": 42,
-  "BBC Sport": 30,
-  "Atletismo watchlist": 2,
+  "BBC Sport": 32,
+  "Atletismo watchlist": 3,
   "Portugal olímpico": 1
  },
  "locais": {}
