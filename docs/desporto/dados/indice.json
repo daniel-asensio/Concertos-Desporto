@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-08T18:47:14+00:00",
- "total": 344,
+ "actualizado": "2026-09-08T21:55:08+00:00",
+ "total": 350,
  "meses": {
   "2026-08": 56,
-  "2026-09": 288
+  "2026-09": 294
  },
  "atletas": {
   "Tadej Pogačar": 60,
-  "Wout van Aert": 15,
+  "Wout van Aert": 16,
   "Jonas Vingegaard": 6,
   "João Almeida": 6,
   "Miguel Oliveira": 4,
@@ -27,10 +27,10 @@
   "Portugal (selecções)": 13
  },
  "competicoes": {
-  "Vuelta a España": 83,
-  "Campeonato do Mundo": 32,
+  "Vuelta a España": 87,
+  "Campeonato do Mundo": 34,
   "Liga dos Campeões": 13,
-  "Tour de France": 5,
+  "Tour de France": 6,
   "WorldTour": 5,
   "Diamond League": 3,
   "Il Lombardia": 3,
@@ -42,9 +42,9 @@
   "Taça de Portugal": 1
  },
  "modalidades": {
-  "ciclismo": 156,
-  "geral": 84,
-  "futebol": 65,
+  "ciclismo": 160,
+  "geral": 85,
+  "futebol": 66,
   "atletismo": 10,
   "canoagem": 6,
   "automobilismo": 5,
@@ -59,10 +59,10 @@
   "surf": 1
  },
  "fontes": {
-  "RTP Desporto": 147,
-  "Cyclingnews": 97,
+  "RTP Desporto": 148,
+  "Cyclingnews": 101,
   "Ciclismo watchlist": 51,
-  "BBC Sport": 40,
+  "BBC Sport": 41,
   "Atletismo watchlist": 6,
   "Portugal olímpico": 3
  },
