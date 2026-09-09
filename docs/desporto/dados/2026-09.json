@@ -7811,7 +7811,7 @@
  },
  {
   "title": "Rui Borges vê Sporting com idêntica ambição apesar do plantel renovado",
-  "url": "https://www.rtp.pt/noticias/sporting/rui-borges-ve-sporting-com-identica-ambicao-apesar-do-plantel-renovado_d1764164",
+  "url": "https://www.rtp.pt/noticias/liga-dos-campeoes/rui-borges-ve-sporting-com-identica-ambicao-apesar-do-plantel-renovado_d1764164",
   "source": "RTP Desporto",
   "published": "2026-09-08T17:00:09+00:00",
   "summary": "  \n      O treinador Rui Borges considerou esta terça-feira que o Sporting está com muita ambição para iniciar uma nova caminhada na fase de liga da Liga dos Campeões de futebol, frente ao Galatasaray, apesar das várias mudanças efetuadas no plantel.\n ",
@@ -8007,7 +8007,7 @@
   "arquivado_em": "2026-09-08T21:55:08+00:00"
  },
  {
-  "title": "'This is a big stepping stone' - Matthew Brennan eyes Great Britain start of 2027 Tour de France after racking up fourth Vuelta a España success",
+  "title": "Matthew Brennan has his sights set on the 2027 Tour de France, but will there be room in Jonas Vingegaard's Visma-Lease a Bike team?",
   "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/this-is-a-big-stepping-stone-matthew-brennan-eyes-great-britain-start-of-2027-tour-de-france-after-racking-up-fourth-vuelta-a-espana-success/",
   "source": "Cyclingnews",
   "published": "2026-09-08T18:29:38+00:00",
@@ -8017,22 +8017,24 @@
   "start": null,
   "end": null,
   "location": "",
-  "score": 14,
+  "score": 20,
   "reasons": [
+   "Ciclismo — referências: Jonas Vingegaard",
    "Grandes eventos: world championships",
-   "Ciclismo — grandes provas: Tour de France, Vuelta a España"
+   "Ciclismo — grandes provas: Tour de France"
   ],
   "where_to_watch": [
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "2b94e23b0e84c3e8b8d6",
-  "atletas": [],
+  "id": "1d3a2c1c7c492d234f69",
+  "atletas": [
+   "Jonas Vingegaard"
+  ],
   "clubes": [],
   "competicoes": [
    "Campeonato do Mundo",
-   "Tour de France",
-   "Vuelta a España"
+   "Tour de France"
   ],
   "modalidade": "ciclismo",
   "local": "",
@@ -8149,7 +8151,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/rui-borges-a-nossa-champions-sera-o-campeonato_v1764252",
   "source": "RTP Desporto",
   "published": "2026-09-08T21:23:47+00:00",
-  "summary": "  \n      O Sporting estreia-se esta quarta-feira na edição desta temporada da Liga dos Campeões. ",
+  "summary": "  \n      O Sporting estreia-se esta quarta-feira na edição desta temporada da Liga dos Campeões.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -8177,7 +8179,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/galatasaray-rafael-leao-espera-jogo-dificil-com-o-sporting_v1764253",
   "source": "RTP Desporto",
   "published": "2026-09-08T21:24:47+00:00",
-  "summary": "  \n      O Galatasaray visita Alvalade com a ambição de vencer. Rafael Leão acredita que os turcos podem sair de Portugal com os 3 pontos. ",
+  "summary": "  \n      O Galatasaray visita Alvalade com a ambição de vencer. Rafael Leão acredita que os turcos podem sair de Portugal com os 3 pontos.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -8251,5 +8253,156 @@
   "modalidade": "automobilismo",
   "local": "",
   "arquivado_em": "2026-09-09T09:52:46+00:00"
+ },
+ {
+  "title": "Tadej Pogačar's absence changes everything – How will World Championships strategies and tactics be rewritten in Montreal?",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/tadej-pogacars-absence-changes-everything-how-will-world-championships-strategies-and-tactics-be-rewritten-in-montreal/",
+  "source": "Cyclingnews",
+  "published": "2026-09-09T09:07:32+00:00",
+  "summary": "\n                             No Pogačar swings the balance in favour of Remco Evenepoel, but can he produce similar solo dominance with Wout van Aert as co-leader? \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar, Remco Evenepoel",
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "3e55038a4639d5a25de2",
+  "atletas": [
+   "Tadej Pogačar",
+   "Remco Evenepoel",
+   "Wout van Aert"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-09T14:39:57+00:00"
+ },
+ {
+  "title": "Sporting entra em campo na Liga dos Campeões",
+  "url": "https://www.rtp.pt/noticias/sporting/sporting-entra-em-campo-na-liga-dos-campeoes_d1764327",
+  "source": "RTP Desporto",
+  "published": "2026-09-09T09:12:01+00:00",
+  "summary": "  \n      O Sporting inicia hoje a Liga dos Campeões com a receção ao tetracampeão turco Galatasaray, num encontro da primeira jornada da fase de liga, que promove o regresso de Rafael Leão ao estádio ‘verde e branco’.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada",
+   "DAZN — confirmar"
+  ],
+  "id": "5d2e5d01084bcca1b701",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-09T14:39:57+00:00"
+ },
+ {
+  "title": "Robinson gives England perfect start as he takes 100th Test wicket",
+  "url": "https://www.bbc.co.uk/sport/cricket/videos/c2kwz4k4yw3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-09T10:35:04+00:00",
+  "summary": "England bowler Ollie Robinson's perfect summer continues as he removes Pakistan opener Saim Ayub early on day one of the Third Test at Edgbaston, with the batter becoming Robinson's 100th wicket in Test Cricket.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: remo"
+  ],
+  "where_to_watch": [],
+  "id": "ed55e20875c199198c27",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "críquete",
+  "local": "",
+  "arquivado_em": "2026-09-09T14:39:57+00:00"
+ },
+ {
+  "title": "Vuelta a España stage 17 LIVE: Matthew Brennan seeking fifth stage win on another day for the sprinters",
+  "url": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-17-live-matthew-brennan-seeking-fifth-stage-win-on-another-day-for-the-sprinters/",
+  "source": "Cyclingnews",
+  "published": "2026-09-09T11:02:42+00:00",
+  "summary": "\n                             Dos Hermanas to Sevilla, 185 km \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "e086bac0571d87f97342",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-09T14:39:57+00:00"
+ },
+ {
+  "title": "Vuelta a España: \"Tadej Pogacar é o maior, comparar-me a ele tornava tudo mais difícil\" Felix Gall relembra início da carreira, assista o vídeo - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNR2F4LW55QmllQjJyaEZkMXEzZE1LWEhhUk9WV0RvZVpQN1F6UWM1MlROZ3Uyb0dFQUY4dHFacTh0YVJGbUVYcUwtVUJHUWtyc1dyV0JxOVJ3NkFTeFIwTzhhWkdXVS13U2l4Rkp1RjRKcko2Z0dnOHpLVEpfeVJXTWQ5YV9scWVoV09tdHd2TDFES3JXNE4wekxRbDlGY2FLV2twVFBjaTREZ2JoUlVQeTRuVEdRMDUxSEpLTkUzcDIxeUFLYW1XTVhva1JiYmFrZEJfcURTVmp5RHJ1bkd0VnRjYWt2ZnFhWk02Nnl0aDl2NkpFS2pnQldzQ2swQQ?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-09-09T11:23:28+00:00",
+  "summary": " Vuelta a España: \"Tadej Pogacar é o maior, comparar-me a ele tornava tudo mais difícil\" Felix Gall relembra início da carreira, assista o vídeo    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 15,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Ciclismo — grandes provas: Vuelta a España",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "24d9d0cb1c13747f5a4d",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-09T14:39:57+00:00"
  }
 ]
