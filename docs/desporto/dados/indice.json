@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-09-08T21:55:08+00:00",
- "total": 350,
+ "actualizado": "2026-09-09T00:21:04+00:00",
+ "total": 355,
  "meses": {
   "2026-08": 56,
-  "2026-09": 294
+  "2026-09": 299
  },
  "atletas": {
   "Tadej Pogačar": 60,
@@ -23,13 +23,13 @@
   "Rui Costa": 1
  },
  "clubes": {
-  "Sporting CP": 26,
+  "Sporting CP": 28,
   "Portugal (selecções)": 13
  },
  "competicoes": {
   "Vuelta a España": 87,
-  "Campeonato do Mundo": 34,
-  "Liga dos Campeões": 13,
+  "Campeonato do Mundo": 35,
+  "Liga dos Campeões": 15,
   "Tour de France": 6,
   "WorldTour": 5,
   "Diamond League": 3,
@@ -42,9 +42,9 @@
   "Taça de Portugal": 1
  },
  "modalidades": {
-  "ciclismo": 160,
-  "geral": 85,
-  "futebol": 66,
+  "ciclismo": 161,
+  "geral": 88,
+  "futebol": 67,
   "atletismo": 10,
   "canoagem": 6,
   "automobilismo": 5,
@@ -59,10 +59,10 @@
   "surf": 1
  },
  "fontes": {
-  "RTP Desporto": 148,
-  "Cyclingnews": 101,
+  "RTP Desporto": 151,
+  "Cyclingnews": 102,
   "Ciclismo watchlist": 51,
-  "BBC Sport": 41,
+  "BBC Sport": 42,
   "Atletismo watchlist": 6,
   "Portugal olímpico": 3
  },
