@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-09-09T04:54:30+00:00",
- "total": 355,
+ "actualizado": "2026-09-09T09:52:46+00:00",
+ "total": 356,
  "meses": {
   "2026-08": 56,
-  "2026-09": 299
+  "2026-09": 300
  },
  "atletas": {
   "Tadej Pogačar": 60,
@@ -19,6 +19,7 @@
   "Charles Leclerc": 1,
   "Lando Norris": 1,
   "Lotte Kopecky": 1,
+  "Max Verstappen": 1,
   "Pedro Pichardo": 1,
   "Rui Costa": 1
  },
@@ -46,8 +47,8 @@
   "geral": 88,
   "futebol": 67,
   "atletismo": 10,
+  "automobilismo": 6,
   "canoagem": 6,
-  "automobilismo": 5,
   "motociclismo": 4,
   "voleibol": 4,
   "portugal": 3,
@@ -62,7 +63,7 @@
   "RTP Desporto": 151,
   "Cyclingnews": 102,
   "Ciclismo watchlist": 51,
-  "BBC Sport": 42,
+  "BBC Sport": 43,
   "Atletismo watchlist": 6,
   "Portugal olímpico": 3
  },
