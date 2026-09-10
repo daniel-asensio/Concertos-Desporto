@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-09-10T04:55:07+00:00",
- "total": 391,
+ "actualizado": "2026-09-10T09:50:18+00:00",
+ "total": 392,
  "meses": {
   "2026-08": 56,
-  "2026-09": 335
+  "2026-09": 336
  },
  "atletas": {
-  "Tadej Pogačar": 62,
+  "Tadej Pogačar": 63,
   "Wout van Aert": 17,
   "Jonas Vingegaard": 7,
   "João Almeida": 6,
@@ -44,7 +44,7 @@
   "Taça de Portugal": 1
  },
  "modalidades": {
-  "ciclismo": 173,
+  "ciclismo": 174,
   "geral": 97,
   "futebol": 76,
   "atletismo": 11,
@@ -63,7 +63,7 @@
  },
  "fontes": {
   "RTP Desporto": 165,
-  "Cyclingnews": 112,
+  "Cyclingnews": 113,
   "BBC Sport": 53,
   "Ciclismo watchlist": 52,
   "Atletismo watchlist": 6,
