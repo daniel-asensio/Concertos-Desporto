@@ -8770,7 +8770,7 @@
  },
  {
   "title": "I Liga. Árbitros que chumbaram nos testes físicos vão apitar FC Porto e Benfica",
-  "url": "https://www.rtp.pt/noticias/1a-liga/i-liga-arbitros-que-chumbaram-nos-testes-fisicos-vao-apitar-fc-porto-e-benfica_d1764449",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/i-liga-arbitros-que-chumbaram-nos-testes-fisicos-vao-apitar-fc-porto-e-benfica_d1764449",
   "source": "RTP Desporto",
   "published": "2026-09-09T17:42:23+00:00",
   "summary": "  \n      Os árbitros José Bessa e João Gonçalves foram nomeados para os encontros de FC Porto e Benfica, da sexta jornada da I Liga portuguesa de futebol, apesar de terem chumbado nos testes físicos.\n ",
@@ -9046,7 +9046,7 @@
  },
  {
   "title": "Portugal disputa segunda edição da Finalíssima de futsal",
-  "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-disputa-segunda-edicao-da-finalissima-de-futsal_d1764451",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-disputa-segunda-edicao-da-finalissima-de-futsal_d1764451",
   "source": "RTP Desporto",
   "published": "2026-09-09T20:03:34+00:00",
   "summary": "  \n      Portugal, detentor do troféu, vai disputar a segunda edição da Finalíssima de futsal, juntamente com Espanha, Brasil e Argentina, no Rio de Janeiro, anunciaram hoje a CONMEBOL e a UEFA.\n ",
@@ -9070,7 +9070,7 @@
  },
  {
   "title": "Quinta jornada com o maior tempo útil de jogo desde 2012/13",
-  "url": "https://www.rtp.pt/noticias/1a-liga/quinta-jornada-com-o-maior-tempo-util-de-jogo-desde-201213_d1764450",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/quinta-jornada-com-o-maior-tempo-util-de-jogo-desde-201213_d1764450",
   "source": "RTP Desporto",
   "published": "2026-09-09T20:05:04+00:00",
   "summary": "  \n      Os jogos da quinta jornada da edição 2026/27 da I Liga portuguesa de futebol tiveram em média 59.06 minutos de tempo útil, o valor mais elevado de sempre, segundo a organização.\n ",
@@ -9231,5 +9231,333 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-09-10T09:50:18+00:00"
+ },
+ {
+  "title": "I Liga. Benfica goleia Moreirense por 4-0 e iguala Sporting no segundo lugar",
+  "url": "https://www.rtp.pt/noticias/desporto/i-liga-benfica-goleia-moreirense-por-4-0-e-iguala-sporting-no-segundo-lugar_v1764554",
+  "source": "RTP Desporto",
+  "published": "2026-09-10T08:18:47+00:00",
+  "summary": "  \n      O Benfica subiu ao segundo lugar da Liga ao golear o Moreirense por 4-0, no acerto de calendário. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "f4be91003b898224a1e1",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-10T14:30:29+00:00"
+ },
+ {
+  "title": "Liga dos Campeões. Sporting vence Galatasaray por 3-1 na estreia milionária",
+  "url": "https://www.rtp.pt/noticias/desporto/liga-dos-campeoes-sporting-vence-galatasaray-por-3-1-na-estreia-milionaria_v1764557",
+  "source": "RTP Desporto",
+  "published": "2026-09-10T08:21:47+00:00",
+  "summary": "  \n      Entrada com o pé direito na Liga dos Campeões. O Sporting venceu o Galatasaray por 3-1, com Luis Suárez em grande plano a marcar pelo quarto jogo seguido. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada",
+   "DAZN — confirmar"
+  ],
+  "id": "6a0f9cdefe320c6b184e",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-10T14:30:29+00:00"
+ },
+ {
+  "title": "'Why not both?' – Remco Evenepoel kicks off 'Project Canada' with big ambitions and good feelings for Grands Prix de Québec and Montréal",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/why-not-both-remco-evenepoel-kicks-off-project-canada-with-big-ambitions-and-good-feelings-for-grands-prix-de-quebec-and-montreal/",
+  "source": "Cyclingnews",
+  "published": "2026-09-10T08:48:32+00:00",
+  "summary": "\n                             Belgian eyeing up a big few weeks with GPs, time trial world title defense and a big chance at another road race rainbow jersey \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Remco Evenepoel"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "d250bef224de6b7299eb",
+  "atletas": [
+   "Remco Evenepoel"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-10T14:30:29+00:00"
+ },
+ {
+  "title": "João Almeida e Afonso Eulálio lideram Portugal nos Mundiais de Montréal - SAPO",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2RVa1NENUhDdlNRbUx2THFZMV9aZXMtWXllejl4NFdqamR6YWxKbjFYQjVKSDFzNHlHNkk4c1JhX2JScm9kVHFNM25qUC05VFBqYzUwR1ZGaWlBUmdBVTY1aF8xSlVFa0lzYXRUT3dFZklJV19PUFd3Vy02ZThVY1ZnRE5GS1I1aVBjcUliclAzZTRPQzZRV3dDSHJwQmVrQWV0dElMM0N4VE42Skpvb1BFWnVNNDlGS2tj?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-09-10T08:59:00+00:00",
+  "summary": " João Almeida e Afonso Eulálio lideram Portugal nos Mundiais de Montréal    SAPO ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: João Almeida"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "5dc1f9d8cc5fee0c14f0",
+  "atletas": [
+   "João Almeida"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-10T14:30:29+00:00"
+ },
+ {
+  "title": "Russia's Valieva loses neutral athlete status",
+  "url": "https://www.bbc.co.uk/sport/articles/c4gqjpe92m6o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-10T10:25:15+00:00",
+  "summary": "Russian figure skater Kamila Valieva will not be able to compete internationally after the sport's governing body revokes her neutral athlete status.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: skate"
+  ],
+  "where_to_watch": [],
+  "id": "ac5fa118f1047c3ddd53",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-10T14:30:29+00:00"
+ },
+ {
+  "title": "Vuelta a España stage 18 LIVE: Stefan Küng leads time trial, while Enric Mas and Primož Roglič prepare for GC face-off",
+  "url": "https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-18-live-favourites-poised-for-gc-showdown-in-all-important-time-trial/",
+  "source": "Cyclingnews",
+  "published": "2026-09-10T11:41:59+00:00",
+  "summary": "\n                             El Puerto de Santa María to Jerez de la Frontera (ITT), 32 km \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "d445b93711c804179b73",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-10T14:30:29+00:00"
+ },
+ {
+  "title": "Messi tem princípio de acordo para adquirir clube espanhol do Eldense",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/messi-tem-principio-de-acordo-para-adquirir-clube-espanhol-do-eldense_d1764610",
+  "source": "RTP Desporto",
+  "published": "2026-09-10T13:03:57+00:00",
+  "summary": "  \n      O argentino Lionel Messi chegou a um acordo de princípio para adquirir a maioria do capital do Eldense, do segundo escalão espanhol, anunciou o clube sediado em Alicante.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "cda24f2fd3e03ad7d222",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-10T14:30:29+00:00"
+ },
+ {
+  "title": "Demi Vollering set to lead a Dutch women’s 2026 UCI Road World Championship squad surprisingly lacking two former winners",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/demi-vollering-set-to-lead-a-dutch-womens-2026-uci-road-world-championship-squad-surprisingly-lacking-two-former-winners/",
+  "source": "Cyclingnews",
+  "published": "2026-09-10T13:41:49+00:00",
+  "summary": "\n                             The Dutch squad will field a typically strong squad with multiple options \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Demi Vollering"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "e47e3c431cab96f8409e",
+  "atletas": [
+   "Demi Vollering"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-10T14:30:29+00:00"
+ },
+ {
+  "title": "Braga recebe Portugal-Dinamarca em novembro para a Liga das Nações",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/braga-recebe-portugal-dinamarca-em-novembro-para-a-liga-das-nacoes_d1764627",
+  "source": "RTP Desporto",
+  "published": "2026-09-10T13:43:16+00:00",
+  "summary": "  \n      Portugal, detentor do troféu, defronta a Dinamarca no Estádio Municipal de Braga, em 14 de novembro, na quinta jornada do Grupo A4 da edição 2026/27 da Liga das Nações, anunciou a Federação Portuguesa de Futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "60a75d256a1b467f4233",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-10T14:30:29+00:00"
+ },
+ {
+  "title": "'I'm just gonna enjoy the last part of the year' – Tom Pidcock back in road rhythm and chasing a WorldTour win to close out season",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/im-just-gonna-enjoy-the-last-part-of-the-year-tom-pidcock-back-in-road-rhythm-and-chasing-a-worldtour-win-to-close-out-season/",
+  "source": "Cyclingnews",
+  "published": "2026-09-10T14:00:13+00:00",
+  "summary": "\n                             Back on winning level after 'weird feelings' post-Tour de France, the Brit is relaxed but ambitious heading into the final part of 2026 \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 14,
+  "reasons": [
+   "Grandes eventos: final",
+   "Ciclismo — grandes provas: Tour de France, WorldTour"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "4ef2e40318f235a1881a",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France",
+   "WorldTour"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-10T14:30:29+00:00"
+ },
+ {
+  "title": "Arsenal close to finalising new contract for Arteta",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-10T14:16:06+00:00",
+  "summary": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "adc06673571d69a6c88b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-10T14:30:29+00:00"
+ },
+ {
+  "title": "França retira apoio à recandidatura de Infantino na FIFA",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/franca-retira-apoio-a-recandidatura-de-infantino-na-fifa_d1764634",
+  "source": "RTP Desporto",
+  "published": "2026-09-10T14:22:07+00:00",
+  "summary": "  \n      A Federação Francesa de Futebol retirou o apoio à recandidatura de Gianni Infantino à presidência da FIFA nas eleições de março de 2027, devido à “quebra de confiança” após o projeto de abertura do Mundial a investidores privados.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: tiro, arco, futebol"
+  ],
+  "where_to_watch": [],
+  "id": "1832e12758848c2b9702",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-10T14:30:29+00:00"
  }
 ]
