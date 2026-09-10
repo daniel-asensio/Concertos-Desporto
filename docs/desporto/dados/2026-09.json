@@ -8846,6 +8846,36 @@
   "arquivado_em": "2026-09-09T21:45:15+00:00"
  },
  {
+  "title": "Vitória em Alvalade. Sporting entra a perder e sai a ganhar",
+  "url": "https://www.rtp.pt/noticias/desporto/vitoria-em-alvalade-sporting-entra-a-perder-e-sai-a-ganhar_e1764454",
+  "source": "RTP Desporto",
+  "published": "2026-09-09T18:12:23+00:00",
+  "summary": "  \n      O Sporting entrou praticamente a perder com autogolo de Gonçalo Inácio mas conseguiu dar a volta e vencer o Galatasaray, por 3-1, em jogo da primeira jornada da fase de liga da Liga dos Campeões, disputado no Estádio de Alvalade.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "2c9bbd11bed5216f8d75",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-10T00:19:12+00:00"
+ },
+ {
   "title": "Sporting CP - Galatasaray",
   "url": "https://www.rtp.pt/noticias/desporto/sporting-cp-galatasaray_e1764454",
   "source": "RTP Desporto",
@@ -9063,6 +9093,36 @@
   "arquivado_em": "2026-09-09T21:45:15+00:00"
  },
  {
+  "title": "'You want to show why the team invested in you' – After crashes and stomach bug, gritty Oscar Onley looks to confirm GC top five and white jersey at Vuelta a España",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/you-want-to-show-why-the-team-invested-in-you-after-crashes-and-stomach-bug-gritty-oscar-onley-looks-to-confirm-gc-top-five-and-white-jersey-at-vuelta-a-espana/",
+  "source": "Cyclingnews",
+  "published": "2026-09-09T20:11:08+00:00",
+  "summary": "\n                             Netcompany Ineos rider says he's 'happy to be back at just the level to compete again' as he enters final stages with narrow BYR lead over Jakob Omrzel \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 14,
+  "reasons": [
+   "Grandes eventos: final",
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "0b2a8521ed562afc8b10",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-10T00:19:12+00:00"
+ },
+ {
   "title": "FC Barcelona estreia-se com goleada e assistência de João Cancelo",
   "url": "https://www.rtp.pt/noticias/futebol-internacional/fc-barcelona-estreia-se-com-goleada-e-assistencia-de-joao-cancelo_d1764479",
   "source": "RTP Desporto",
@@ -9087,5 +9147,59 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-09-09T21:45:15+00:00"
+ },
+ {
+  "title": "Cristiano Ronaldo marca no regresso aos triunfos do Al Nassr",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/cristiano-ronaldo-marca-no-regresso-aos-triunfos-do-al-nassr_d1764494",
+  "source": "RTP Desporto",
+  "published": "2026-09-09T21:39:56+00:00",
+  "summary": "  \n      O avançado português Cristiano Ronaldo marcou no regresso aos triunfos do Al Nassr na Liga saudita de futebol, na receção ao Abha (2-1), último classificado, na sexta jornada da competição.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: arco, futebol"
+  ],
+  "where_to_watch": [],
+  "id": "a3833be6e93537f9b015",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-10T00:19:12+00:00"
+ },
+ {
+  "title": "Sporting come from behind to beat Galatasaray in opening round",
+  "url": "https://www.bbc.co.uk/sport/football/videos/crk3z3x6rxeo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-09T21:43:24+00:00",
+  "summary": "Sporting began their Champions League campaign by coming from behind to claim a 3-1 victory over Turkish Super Lig side Galatasaray.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "0b07bb03f475019e4787",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-10T00:19:12+00:00"
  }
 ]
