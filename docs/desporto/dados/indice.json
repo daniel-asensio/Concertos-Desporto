@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-09-10T21:41:21+00:00",
- "total": 431,
+ "actualizado": "2026-09-11T00:14:39+00:00",
+ "total": 432,
  "meses": {
   "2026-08": 56,
-  "2026-09": 375
+  "2026-09": 376
  },
  "atletas": {
   "Tadej Pogačar": 65,
@@ -51,9 +51,9 @@
   "atletismo": 11,
   "automobilismo": 7,
   "canoagem": 6,
+  "portugal": 5,
   "voleibol": 5,
   "motociclismo": 4,
-  "portugal": 4,
   "andebol": 3,
   "críquete": 3,
   "basquetebol": 2,
@@ -68,7 +68,7 @@
   "Ciclismo watchlist": 60,
   "BBC Sport": 59,
   "Atletismo watchlist": 6,
-  "Portugal olímpico": 4
+  "Portugal olímpico": 5
  },
  "locais": {}
 }
