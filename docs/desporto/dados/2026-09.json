@@ -12077,7 +12077,7 @@
  },
  {
   "title": "Borges insiste que campeonato é \"a verdadeira Champions\" do Sporting",
-  "url": "https://www.rtp.pt/noticias/1a-liga/borges-insiste-que-campeonato-e-a-verdadeira-champions-do-sporting_d1765024",
+  "url": "https://www.rtp.pt/noticias/sporting/borges-insiste-que-campeonato-e-a-verdadeira-champions-do-sporting_d1765024",
   "source": "RTP Desporto",
   "published": "2026-09-12T15:47:25+00:00",
   "summary": "  \n      O treinador do Sporting, Rui Borges, insistiu hoje que a I Liga de futebol é a “verdadeira ‘Champions’” dos ‘leões’ e advertiu que “a exigência” para a visita ao Famalicão tem de ser “ainda maior”.\n ",
@@ -12106,7 +12106,7 @@
  },
  {
   "title": "Marco Silva alerta para Gil Vicente com qualidade para criar problemas",
-  "url": "https://www.rtp.pt/noticias/1a-liga/marco-silva-alerta-para-gil-vicente-com-qualidade-para-criar-problemas_d1765025",
+  "url": "https://www.rtp.pt/noticias/benfica/marco-silva-alerta-para-gil-vicente-com-qualidade-para-criar-problemas_d1765025",
   "source": "RTP Desporto",
   "published": "2026-09-12T15:49:47+00:00",
   "summary": "  \n      O treinador Marco Silva alertou hoje que o Gil Vicente tem qualidade para criar problemas ao Benfica, na sexta jornada da I Liga portuguesa de futebol, num encontro em que Bah ainda não estará disponível.\n ",
@@ -12318,6 +12318,30 @@
   "arquivado_em": "2026-09-12T17:16:07+00:00"
  },
  {
+  "title": "FC Porto mantém liderança só com vitórias",
+  "url": "https://www.rtp.pt/noticias/desporto/fc-porto-mantem-lideranca-so-com-vitorias_e1765036",
+  "source": "RTP Desporto",
+  "published": "2026-09-12T17:06:13+00:00",
+  "summary": "  \n      O campeão FC Porto manteve-se sábado 100% vitorioso na edição 2026/27 da I Liga portuguesa de futebol, que lidera isolado, ao vencer no terreno do Casa Pia, após reviravolta, por 4-1, na sexta jornada. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "f5210366a0cd4238db28",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
+ },
+ {
   "title": "Lando Norris conquista pole para Grande Prémio de Espanha por 11 milésimos",
   "url": "https://www.rtp.pt/noticias/motores/lando-norris-conquista-pole-para-grande-premio-de-espanha-por-11-milesimos_d1765037",
   "source": "RTP Desporto",
@@ -12477,5 +12501,321 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-09-12T19:26:55+00:00"
+ },
+ {
+  "title": "Werro prevails over rivals in close 800m battle",
+  "url": "https://www.bbc.co.uk/sport/athletics/videos/cx2z00wnj78o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-12T18:40:11+00:00",
+  "summary": "Audrey Werro beats Keely Hodgkinson and Femke Broeders-Bol in a commanding women's 800m final victory, becoming the Ultimate Champion after charging clear at the final stretch.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "bfe7692a0aa05ef7ee94",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
+ },
+ {
+  "title": "'Misfortune creates empathy' - Mikel Landa finally finds redemption on toughest Vuelta a España stage",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/misfortune-creates-empathy-mikel-landa-finally-finds-redemption-on-toughest-vuelta-a-espana-stage/",
+  "source": "Cyclingnews",
+  "published": "2026-09-12T18:50:30+00:00",
+  "summary": "\n                             36-year-old secures second Vuelta a España stage win after years of battling against injuries and illness \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 14,
+  "reasons": [
+   "Grandes eventos: final",
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "9d173da9f41fcb9cf08f",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
+ },
+ {
+  "title": "'I never felt like I was alone' - Sepp Kuss pays tribute to Visma-Lease a Bike after making huge GC gains at Vuelta a España",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-never-felt-like-i-was-alone-sepp-kuss-pays-tribute-to-visma-lease-a-bike-after-making-huge-gc-gains-at-vuelta-a-espana/",
+  "source": "Cyclingnews",
+  "published": "2026-09-12T19:13:39+00:00",
+  "summary": "\n                             American breaks into top five overall after epic day of racing through the sierras of Granada \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "758d6ca6828a304e670b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
+ },
+ {
+  "title": "Inspired Lowry takes four-shot lead into Irish Open final round",
+  "url": "https://www.bbc.co.uk/sport/golf/articles/cp8dy97wnxjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-12T19:27:21+00:00",
+  "summary": "Shane Lowry produces an inspired display on the greens to take a four-shot lead into the final round of the Irish Open and close in on his first individual win since 2022.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "28a4c8e371f8da6bbcb2",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
+ },
+ {
+  "title": "Inspired Lowry takes four-shot lead into final day",
+  "url": "https://www.bbc.co.uk/sport/golf/articles/cp8dy97wnxjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-12T19:27:21+00:00",
+  "summary": "Shane Lowry produces an inspired display on the greens to take a four-shot lead into the final round of the Irish Open and close in on his first individual win since 2022.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "76ec1ec73d5bb05c5a81",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
+ },
+ {
+  "title": "AC Milan recupera desvantagem de dois golos e rouba primeiros pontos à Lazio",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/ac-milan-recupera-desvantagem-de-dois-golos-e-rouba-primeiros-pontos-a-lazio_d1765054",
+  "source": "RTP Desporto",
+  "published": "2026-09-12T20:13:44+00:00",
+  "summary": "  \n      O AC Milan recuperou uma desvantagem de dois golos para empatar 2-2 na visita à líder Lazio, na quarta jornada da Liga italiana de futebol, antes de receber o Benfica, na quarta-feira, na Liga Europa.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "0c08eb6399da110864b0",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga Europa"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
+ },
+ {
+  "title": "No final twist after all for Primož Roglič as GC winner-elect Enric Mas and Movistar thrive among the chaos of an epic, breathless Vuelta a España queen stage – Analysis",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/no-final-twist-after-all-for-primoz-roglic-as-gc-winner-elect-enric-mas-and-movistar-thrive-among-the-chaos-of-an-epic-breathless-vuelta-a-espana-queen-stage-analysis/",
+  "source": "Cyclingnews",
+  "published": "2026-09-12T20:15:08+00:00",
+  "summary": "\n                             Spain finally set for first home winner of men's Grand Tour after 12 years, as 31-year-old Mas steps up when people expected him to least \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 14,
+  "reasons": [
+   "Grandes eventos: final",
+   "Ciclismo — grandes provas: Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "9f9aa501f1115d36cd10",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
+ },
+ {
+  "title": "Famalicão - Sporting CP. Leões procuram 5ª vitória seguida no campeonato - RTP",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGJlRXlIQkVlYUVQX2tSZmFvMnh3Wk80WVJaTmt3WlVMSjl2SXczY282V3gxc3BOYXFIdHptN3pNYXlFb09ub1dLdndCQzdTb1Y0NEVIUVRNTk1DNUc4Z2Fpay1Fc1BBbWhZSTZRcjNITkpzSEdzQS1CZFhBMkItak5ZMXQzVjVRS3FvamFWcFE0alBoc25EV1h2WFpjRnowRlQ1cjNHa2xoWXFXV1JMYS1QTDhMZw?oc=5",
+  "source": "Sporting — todas as modalidades",
+  "published": "2026-09-12T20:17:47+00:00",
+  "summary": " Famalicão - Sporting CP. Leões procuram 5ª vitória seguida no campeonato    RTP ",
+  "sport": "Sporting",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting CP, Sporting, Leões"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "22bb8467371378ba9f0b",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "sporting",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
+ },
+ {
+  "title": "Gerson Baldé sexto no comprimento no Ultimate Championship",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/gerson-balde-sexto-no-comprimento-no-ultimate-championship_d1765060",
+  "source": "RTP Desporto",
+  "published": "2026-09-12T20:32:14+00:00",
+  "summary": "  \n      O português Gerson Baldé terminou na sexta posição o salto em comprimento da edição inaugural do Ultimate Championship de atletismo, com Fatoumata Diallo a falhar a final dos 400 metros barreiras.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: final",
+   "Modalidade olímpica: atletismo"
+  ],
+  "where_to_watch": [],
+  "id": "0ed34256d2acea9b5faf",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "atletismo",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
+ },
+ {
+  "title": "Famalicão - Sporting CP. Leões procuram 5ª vitória seguida no campeonato",
+  "url": "https://www.rtp.pt/noticias/desporto/famalicao-sporting-cp-leoes-procuram-5a-vitoria-seguida-no-campeonato_v1765072",
+  "source": "RTP Desporto",
+  "published": "2026-09-12T21:17:47+00:00",
+  "summary": "  \n      O Sporting defronta domingo à noite o Famalicão. Os leões procuram o quinto triunfo consecutivo no campeonato nacional. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting CP, Sporting, Leões"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "ff497fb23fbe77616d61",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
+ },
+ {
+  "title": "Benfica recebe Gil Vicente. Bah a recuperar e Echeverri nas opções",
+  "url": "https://www.rtp.pt/noticias/desporto/benfica-recebe-gil-vicente-bah-a-recuperar-e-echeverri-nas-opcoes_v1765073",
+  "source": "RTP Desporto",
+  "published": "2026-09-12T21:18:47+00:00",
+  "summary": "  \n      O Benfica recebe este domingo o Gil Vicente. Marco Silva lidera o melhor ataque do campeonato. Já Luís Pinto orienta a melhor defesa. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: arco"
+  ],
+  "where_to_watch": [],
+  "id": "99b63f7f9df9746c699f",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
+ },
+ {
+  "title": "Arsenal vence Sunderland e tem dia perfeito na Liga inglesa",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-vence-sunderland-e-tem-dia-perfeito-na-liga-inglesa_d1765078",
+  "source": "RTP Desporto",
+  "published": "2026-09-12T22:13:30+00:00",
+  "summary": "  \n      O campeão Arsenal teve um dia perfeito na Liga inglesa de futebol, depois de vencer fora o Sunderland, por 1-0, e ver as escorregadelas de Liverpool e Chelsea, em jogos da quarta jornada.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "c2fea526f420a6803871",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-12T22:23:35+00:00"
  }
 ]
