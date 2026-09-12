@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-09-12T00:23:28+00:00",
- "total": 483,
+ "actualizado": "2026-09-12T05:54:53+00:00",
+ "total": 484,
  "meses": {
   "2026-08": 56,
-  "2026-09": 427
+  "2026-09": 428
  },
  "atletas": {
   "Tadej Pogačar": 66,
@@ -30,7 +30,7 @@
   "Portugal (selecções)": 19
  },
  "competicoes": {
-  "Vuelta a España": 118,
+  "Vuelta a España": 119,
   "Campeonato do Mundo": 41,
   "Liga dos Campeões": 24,
   "WorldTour": 10,
@@ -45,7 +45,7 @@
   "Taça de Portugal": 1
  },
  "modalidades": {
-  "ciclismo": 217,
+  "ciclismo": 218,
   "geral": 121,
   "futebol": 89,
   "atletismo": 15,
@@ -63,7 +63,7 @@
   "surf": 1
  },
  "fontes": {
-  "RTP Desporto": 191,
+  "RTP Desporto": 192,
   "Cyclingnews": 142,
   "BBC Sport": 70,
   "Ciclismo watchlist": 65,
