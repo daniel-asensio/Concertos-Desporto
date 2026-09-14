@@ -14668,5 +14668,136 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-09-14T19:28:30+00:00"
+ },
+ {
+  "title": "I Liga. Moreirense - Marítimo",
+  "url": "https://www.rtp.pt/noticias/desporto/i-liga-moreirense-maritimo_e1765380",
+  "source": "RTP Desporto",
+  "published": "2026-09-14T18:40:24+00:00",
+  "summary": "  \n      O Moreirense chega à sexta jornada vindo de duas derrotas consecutivas e com quatro pontos. O Marítimo, adversário desta segunda-feira, arrancou melhor a temporada, mas não foi além de um empate e de duas derrotas nas últimas três jornadas, procurando colocar um ponto final ao ciclo negativo que atravessa.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "9b9fa072ba1fc2b6603d",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-14T23:12:31+00:00"
+ },
+ {
+  "title": "18h30 Portugal aflito no voleibol e com F1 de regresso",
+  "url": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-portugal-aflito-no-voleibol-e-com-f1-de-regresso_a1_1765396",
+  "source": "RTP Desporto",
+  "published": "2026-09-14T19:05:02+00:00",
+  "summary": "  \n       ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: voleibol"
+  ],
+  "where_to_watch": [
+   "DAZN"
+  ],
+  "id": "d38ae2593817d233cc00",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Fórmula 1"
+  ],
+  "modalidade": "voleibol",
+  "local": "",
+  "arquivado_em": "2026-09-14T23:12:31+00:00"
+ },
+ {
+  "title": "João Simões regressa aos relvados pelo Sporting B cinco meses após operação",
+  "url": "https://www.rtp.pt/noticias/sporting/joao-simoes-regressa-aos-relvados-pelo-sporting-b-cinco-meses-apos-operacao_d1765403",
+  "source": "RTP Desporto",
+  "published": "2026-09-14T19:52:35+00:00",
+  "summary": "  \n      O médio João Simões voltou aos relvados, esta segunda-feira, no encontro da equipa B do Sporting frente ao Lusitânia de Lourosa, cinco meses após ser operado a uma fratura no pé direito.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "f046c08f4f4b5efdf447",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-14T23:12:31+00:00"
+ },
+ {
+  "title": "Seko Fofana anuncia retirada da seleção da Costa do Marfim",
+  "url": "https://www.rtp.pt/noticias/fc-porto/seko-fofana-anuncia-retirada-da-selecao-da-costa-do-marfim_d1765412",
+  "source": "RTP Desporto",
+  "published": "2026-09-14T20:10:06+00:00",
+  "summary": "  \n      O futebolista Seko Fofana, médio do FC Porto por empréstimo dos franceses do Rennes, renunciou à seleção costa-marfinense, pela qual somou 35 internacionalizações e venceu uma Taça das Nações Africanas (CAN), em 2023.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "8e6dffd77483bf8d62a9",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-14T23:12:31+00:00"
+ },
+ {
+  "title": "Portugal perdeu com a Ucrânia no Europeu de Voleibol",
+  "url": "https://www.rtp.pt/noticias/desporto/portugal-perdeu-com-a-ucrania-no-europeu-de-voleibol_v1765429",
+  "source": "RTP Desporto",
+  "published": "2026-09-14T21:45:47+00:00",
+  "summary": "  \n      Portugal voltou a ser derrotado no Europeu. Agora por 3-0 frente à Ucrânia. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Portugal: Portugal perde",
+   "Modalidade olímpica: voleibol"
+  ],
+  "where_to_watch": [],
+  "id": "c375847c629d23352ccd",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato da Europa"
+  ],
+  "modalidade": "voleibol",
+  "local": "",
+  "arquivado_em": "2026-09-14T23:12:31+00:00"
  }
 ]
