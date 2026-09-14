@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-09-14T01:13:16+00:00",
- "total": 568,
+ "actualizado": "2026-09-14T06:27:22+00:00",
+ "total": 569,
  "meses": {
   "2026-08": 56,
-  "2026-09": 512
+  "2026-09": 513
  },
  "atletas": {
   "Tadej Pogačar": 69,
@@ -13,7 +13,7 @@
   "Remco Evenepoel": 8,
   "Jonas Vingegaard": 7,
   "Lando Norris": 6,
-  "Isaac Nader": 4,
+  "Isaac Nader": 5,
   "Jakob Ingebrigtsen": 4,
   "Lewis Hamilton": 4,
   "Miguel Oliveira": 4,
@@ -49,7 +49,7 @@
   "ciclismo": 248,
   "geral": 137,
   "futebol": 112,
-  "atletismo": 19,
+  "atletismo": 20,
   "automobilismo": 12,
   "voleibol": 7,
   "canoagem": 6,
@@ -70,7 +70,7 @@
   "Cyclingnews": 169,
   "BBC Sport": 90,
   "Ciclismo watchlist": 67,
-  "Atletismo watchlist": 12,
+  "Atletismo watchlist": 13,
   "Portugal olímpico": 5,
   "Sporting — todas as modalidades": 1
  },
