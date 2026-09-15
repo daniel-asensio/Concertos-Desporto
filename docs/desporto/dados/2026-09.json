@@ -14284,6 +14284,34 @@
   "arquivado_em": "2026-09-14T14:13:48+00:00"
  },
  {
+  "title": "Casal sensação do ciclismo coloca ponto final da temporada - A Bola",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1l3M254VnV5THhoRHZQRjN3Z3VUZ3oxRm5mdzRaX3oyRmxLcUE5cHBBQmQzUGhmRnItRnc5c0lQeTNHMmRGSkxUeHJfOTJ2a09GR3FXQW5MLVRwUXVyS29tMThTMWRqcTRfd01tbTFfT0VuQXpiZTJHWjRIVUNRTlpTN08teE9kRldEQkRWX1dQWWpHNXFqcV81TWJkVEpLTXJpRURXOERMc3Yw?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-09-14T10:49:00+00:00",
+  "summary": " Casal sensação do ciclismo coloca ponto final da temporada    A Bola ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: final",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "33702bf69a1dcfffbb85",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-15T01:33:50+00:00"
+ },
+ {
   "title": "'Winning would maybe be the next logical step' - Felix Gall cautiously optimistic after second 2026 Grand Tour podium finish at Vuelta a España",
   "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/winning-would-maybe-be-the-next-logical-step-felix-gall-cautiously-optimistic-after-second-2026-grand-tour-podium-finish-at-vuelta-a-espana/",
   "source": "Cyclingnews",
@@ -14670,6 +14698,30 @@
   "arquivado_em": "2026-09-14T19:28:30+00:00"
  },
  {
+  "title": "Moreirense ultrapassa Marítimo e regressa às vitórias",
+  "url": "https://www.rtp.pt/noticias/desporto/moreirense-ultrapassa-maritimo-e-regressa-as-vitorias_e1765380",
+  "source": "RTP Desporto",
+  "published": "2026-09-14T18:40:24+00:00",
+  "summary": "  \n      Moreirense e Marítimo entravam em campo com o objetivo de colocar um ponto final ao ciclo de derrotas que ambos atravessavam. Os minhotos venciam por 2-0 ao intervalo e o Marítimo chegou a reduzir a dez minutos do fim, mas não evitou o 3-1 final.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "584e01d64f650163762d",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-15T01:33:50+00:00"
+ },
+ {
   "title": "I Liga. Moreirense - Marítimo",
   "url": "https://www.rtp.pt/noticias/desporto/i-liga-moreirense-maritimo_e1765380",
   "source": "RTP Desporto",
@@ -14799,5 +14851,29 @@
   "modalidade": "voleibol",
   "local": "",
   "arquivado_em": "2026-09-14T23:12:31+00:00"
+ },
+ {
+  "title": "Bruma deixa Benfica e assina com gregos do Aris Salónica",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/bruma-deixa-benfica-e-assina-com-gregos-do-aris-salonica_d1765437",
+  "source": "RTP Desporto",
+  "published": "2026-09-14T23:12:33+00:00",
+  "summary": "  \n      Bruma vai representar os gregos do Aris Salónica, após deixar o Benfica, que representou desde janeiro de 2025. O jogador regressa à Grécia, onde já jogou no Olympiacos na temporada de 2020/21.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "1d95c0020cb131ab751e",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-15T01:33:50+00:00"
  }
 ]
