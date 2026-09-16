@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-09-16T17:07:34+00:00",
- "total": 667,
+ "actualizado": "2026-09-16T20:14:03+00:00",
+ "total": 672,
  "meses": {
   "2026-08": 56,
-  "2026-09": 611
+  "2026-09": 616
  },
  "atletas": {
   "Tadej Pogačar": 81,
@@ -14,13 +14,13 @@
   "Mondo Duplantis": 8,
   "Lando Norris": 6,
   "Isaac Nader": 5,
+  "Mathieu van der Poel": 5,
   "Jakob Ingebrigtsen": 4,
   "Lewis Hamilton": 4,
-  "Mathieu van der Poel": 4,
   "Miguel Oliveira": 4,
+  "Max Verstappen": 3,
   "Charles Leclerc": 2,
   "Demi Vollering": 2,
-  "Max Verstappen": 2,
   "Rui Costa": 2,
   "António Morgado": 1,
   "Lotte Kopecky": 1,
@@ -37,8 +37,8 @@
   "Campeonato da Europa": 12,
   "Tour de France": 11,
   "WorldTour": 11,
-  "Fórmula 1": 7,
-  "Liga Europa": 7,
+  "Fórmula 1": 8,
+  "Liga Europa": 8,
   "Taça do Mundo": 4,
   "Diamond League": 3,
   "Giro d'Italia": 3,
@@ -49,12 +49,12 @@
   "Paris-Roubaix": 1
  },
  "modalidades": {
-  "ciclismo": 299,
-  "geral": 160,
-  "futebol": 123,
+  "ciclismo": 300,
+  "geral": 161,
+  "futebol": 125,
   "atletismo": 22,
+  "automobilismo": 14,
   "voleibol": 14,
-  "automobilismo": 13,
   "canoagem": 6,
   "motociclismo": 5,
   "portugal": 5,
@@ -70,9 +70,9 @@
   "triatlo": 1
  },
  "fontes": {
-  "RTP Desporto": 269,
-  "Cyclingnews": 198,
-  "BBC Sport": 95,
+  "RTP Desporto": 271,
+  "Cyclingnews": 199,
+  "BBC Sport": 97,
   "Ciclismo watchlist": 86,
   "Atletismo watchlist": 13,
   "Portugal olímpico": 5,
