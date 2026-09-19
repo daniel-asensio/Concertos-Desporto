@@ -19138,7 +19138,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/i-liga-sporting-cp-arouca_e1766299",
   "source": "RTP Desporto",
   "published": "2026-09-19T20:07:48+00:00",
-  "summary": "  \n      O Sporting recebe o Arouca este sábado, em partida da sétima jornada da I Liga portuguesa de futebol com início previsto para as 20h30, no Estádio José Alvalade, em Lisboa, e arbitragem de David Rafael Silva (AF Porto).\n ",
+  "summary": "  \n      O Sporting concedeu este sábado o terceiro empate na I Liga portuguesa de futebol, novamente depois de ter estado a vencer, com a igualdade 2-2 na receção ao Arouca, na sétima jornada, na véspera do clássico FC Porto-Benfica.\n\n\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -19211,6 +19211,39 @@
   "arquivado_em": "2026-09-19T20:49:38+00:00"
  },
  {
+  "title": "Start times for Road World Championships – elite men's and women's time trial",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/start-times-for-road-world-championships-elite-mens-and-womens-time-trial/",
+  "source": "Cyclingnews",
+  "published": "2026-09-19T21:01:08+00:00",
+  "summary": "\n                             Marlen Reusser will chase Demi Vollering while defending champion Remco Evenepoel is last to roll out for the men \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Remco Evenepoel, Demi Vollering",
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "c145f130420c84ecc220",
+  "atletas": [
+   "Remco Evenepoel",
+   "Demi Vollering"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-19T23:13:34+00:00"
+ },
+ {
   "title": "Salgueiros elimina Feirense na segunda eliminatória da Taça de Portugal",
   "url": "https://www.rtp.pt/noticias/futebol-nacional/salgueiros-elimina-feirense-na-segunda-eliminatoria-da-taca-de-portugal_d1766549",
   "source": "RTP Desporto",
@@ -19235,5 +19268,105 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-09-19T20:49:38+00:00"
+ },
+ {
+  "title": "Littler seals dramatic final-leg win over Aspinall",
+  "url": "https://www.bbc.co.uk/sport/darts/articles/cqy7z1vr8ey5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-19T21:27:29+00:00",
+  "summary": "World champion Luke Littler beats Nathan Aspinall 10-9 to reach the last eight of the World Series of Darts Finals in Amsterdam.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "b150fa25f70639f0f341",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-19T23:13:34+00:00"
+ },
+ {
+  "title": "I Liga. Sporting CP - Arouca - RTP",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wUTd6RmRWeDBMRnNybDVod0NyLVQ2NFM3ckE0c2oyTGI0bE1vanpYWjZ6cGxSb1RvM3VqVWpveU9OY0VGOEpXMWpjdkZQbENlUEYtdWtjeHVOZlJ6QlQtUENtSGN0X29laXQyR2YxcHIta2RXTElOYTNUcw?oc=5",
+  "source": "Sporting — todas as modalidades",
+  "published": "2026-09-19T21:37:26+00:00",
+  "summary": " I Liga. Sporting CP - Arouca    RTP ",
+  "sport": "Sporting",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting CP, Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "d44ea34f8b2a2b3b8853",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "sporting",
+  "local": "",
+  "arquivado_em": "2026-09-19T23:13:34+00:00"
+ },
+ {
+  "title": "64.º Open de Portugal at PGA Aroeira. Ex-campeão do Mundo Marc Warren aproxima-se do título",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/64o-open-de-portugal-at-pga-aroeira-ex-campeao-do-mundo-marc-warren-aproxima-se-do-titulo_d1766557",
+  "source": "RTP Desporto",
+  "published": "2026-09-19T21:46:00+00:00",
+  "summary": "  \n      O escocês Marc Warren, antigo campeão do mundo de golfe, consolidou a liderança do 64.º Open de Portugal após a terceira volta, somando 191 pancadas (-22) e mantendo uma vantagem de três pancadas sobre o dinamarquês Sebastian Friedrichsen (-19). Warren assinou duas voltas consecutivas de 63 pancadas e segue como principal favorito à vitória no torneio disputado no PGA Aroeira Lisboa.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: golfe"
+  ],
+  "where_to_watch": [],
+  "id": "0eb1eb2800a6c0b40d1e",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "golfe",
+  "local": "",
+  "arquivado_em": "2026-09-19T23:13:34+00:00"
+ },
+ {
+  "title": "Nuno Tavares ajuda Lazio a apanhar Inter e Roma no topo da Serie A",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/nuno-tavares-ajuda-lazio-a-apanhar-inter-e-roma-no-topo-da-serie-a_d1766558",
+  "source": "RTP Desporto",
+  "published": "2026-09-19T22:06:41+00:00",
+  "summary": "  \n       A Lazio juntou-se hoje a Inter Milão e Roma no grupo de líderes da Liga italiana de futebol, após vencer no campo do Veneza, por 2-0, com Nuno Tavares em destaque, na quinta jornada.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "36b8fa22439afd759ac8",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-19T23:13:34+00:00"
  }
 ]
