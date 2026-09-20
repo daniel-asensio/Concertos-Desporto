@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-09-20T01:17:22+00:00",
- "total": 763,
+ "actualizado": "2026-09-20T06:25:05+00:00",
+ "total": 764,
  "meses": {
   "2026-08": 56,
-  "2026-09": 707
+  "2026-09": 708
  },
  "atletas": {
   "Tadej Pogačar": 84,
@@ -50,7 +50,7 @@
   "Paris-Roubaix": 1
  },
  "modalidades": {
-  "ciclismo": 326,
+  "ciclismo": 327,
   "geral": 191,
   "futebol": 149,
   "atletismo": 23,
@@ -77,7 +77,7 @@
   "RTP Desporto": 315,
   "Cyclingnews": 217,
   "BBC Sport": 116,
-  "Ciclismo watchlist": 94,
+  "Ciclismo watchlist": 95,
   "Atletismo watchlist": 13,
   "Portugal olímpico": 6,
   "Sporting — todas as modalidades": 2
