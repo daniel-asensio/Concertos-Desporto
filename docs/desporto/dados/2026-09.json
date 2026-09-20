@@ -19218,7 +19218,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/baixa-no-benfica-enzo-barrenechea-vai-ser-operado-ao-joelho_v1766547",
   "source": "RTP Desporto",
   "published": "2026-09-19T20:49:47+00:00",
-  "summary": "  \n      No Benfica, Enzo Barrenechea lesionou-se num joelho e vai ser operado.<br />Marco Silva subscreve as declarações de Farioli sobre a arbitragem e pede equilíbrio em todas as decisões de Miguel Nogueira. ",
+  "summary": "  \n      No Benfica, Enzo Barrenechea lesionou-se num joelho e vai ser operado. Marco Silva subscreve as declarações de Farioli sobre a arbitragem e pede equilíbrio em todas as decisões de Miguel Nogueira.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -19321,34 +19321,6 @@
   "arquivado_em": "2026-09-19T23:13:34+00:00"
  },
  {
-  "title": "I Liga. Sporting CP - Arouca - RTP",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wUTd6RmRWeDBMRnNybDVod0NyLVQ2NFM3ckE0c2oyTGI0bE1vanpYWjZ6cGxSb1RvM3VqVWpveU9OY0VGOEpXMWpjdkZQbENlUEYtdWtjeHVOZlJ6QlQtUENtSGN0X29laXQyR2YxcHIta2RXTElOYTNUcw?oc=5",
-  "source": "Sporting — todas as modalidades",
-  "published": "2026-09-19T21:37:26+00:00",
-  "summary": " I Liga. Sporting CP - Arouca    RTP ",
-  "sport": "Sporting",
-  "kind": "news",
-  "start": null,
-  "end": null,
-  "location": "",
-  "score": 10,
-  "reasons": [
-   "Sporting: Sporting CP, Sporting"
-  ],
-  "where_to_watch": [
-   "Sport TV — confirmar jornada"
-  ],
-  "id": "d44ea34f8b2a2b3b8853",
-  "atletas": [],
-  "clubes": [
-   "Sporting CP"
-  ],
-  "competicoes": [],
-  "modalidade": "sporting",
-  "local": "",
-  "arquivado_em": "2026-09-19T23:13:34+00:00"
- },
- {
   "title": "64.º Open de Portugal at PGA Aroeira. Ex-campeão do Mundo Marc Warren aproxima-se do título",
   "url": "https://www.rtp.pt/noticias/outras-modalidades/64o-open-de-portugal-at-pga-aroeira-ex-campeao-do-mundo-marc-warren-aproxima-se-do-titulo_d1766557",
   "source": "RTP Desporto",
@@ -19395,5 +19367,110 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-09-19T23:13:34+00:00"
+ },
+ {
+  "title": "I Liga. Sporting CP - Arouca - rtp.pt",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wUTd6RmRWeDBMRnNybDVod0NyLVQ2NFM3ckE0c2oyTGI0bE1vanpYWjZ6cGxSb1RvM3VqVWpveU9OY0VGOEpXMWpjdkZQbENlUEYtdWtjeHVOZlJ6QlQtUENtSGN0X29laXQyR2YxcHIta2RXTElOYTNUcw?oc=5",
+  "source": "Sporting — todas as modalidades",
+  "published": "2026-09-20T07:37:16+00:00",
+  "summary": " I Liga. Sporting CP - Arouca    rtp.pt ",
+  "sport": "Sporting",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting CP, Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "189831a9d6d8807cf01e",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "sporting",
+  "local": "",
+  "arquivado_em": "2026-09-19T23:13:34+00:00"
+ },
+ {
+  "title": "Marc Warren luta na Aroeira pelo terceiro título do Challenge Tour",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/marc-warren-luta-na-aroeira-pelo-terceiro-titulo-do-challenge-tour_d1766583",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T07:52:06+00:00",
+  "summary": "  \n      O golfista escocês Marc Warren é o principal candidato à vitória no Open de Portugal, que termina hoje no PGA Aroeira 1, em Almada, onde os portugueses Tomás Gouveia e Tomás Bessa vão tentar ascender ao `top 10`.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: luta"
+  ],
+  "where_to_watch": [],
+  "id": "72943b7b2306bf106dcf",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-20T12:28:35+00:00"
+ },
+ {
+  "title": "How to watch Elite Time Trials: live streams & official broadcasters for UCI Road World Championship",
+  "url": "https://www.cyclingnews.com/cycling-culture/streaming/watch-elite-time-trials-free/",
+  "source": "Cyclingnews",
+  "published": "2026-09-20T09:00:00+00:00",
+  "summary": "\n                             All the ways to stream the women's and men's Elite time trial at the UCI Road World Championships for free from anywhere in the world. \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "62b20b63337f1a704f54",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-20T12:28:35+00:00"
+ },
+ {
+  "title": "Littler could boycott Dutch events over booing",
+  "url": "https://www.bbc.co.uk/sport/darts/articles/cr5ye91l200go?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-20T09:03:56+00:00",
+  "summary": "Luke Littler threatens a boycott of playing in the Netherlands after being booed and whistled at the World Series of Darts Finals in Amsterdam.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "a344f3520e6c22718301",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-20T12:28:35+00:00"
  }
 ]
