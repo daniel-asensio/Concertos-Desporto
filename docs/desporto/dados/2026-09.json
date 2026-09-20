@@ -18943,7 +18943,7 @@
   "url": "https://www.rtp.pt/noticias/futebol-nacional/gil-vicente-e-maritimo-empatam-a-um-golo-em-barcelos_d1766505",
   "source": "RTP Desporto",
   "published": "2026-09-19T17:38:24+00:00",
-  "summary": "  \n      O Gil Vicente e o Marítimo empataram hoje a um golo, aumentando ambos o número de encontros sem vencer, em jogo da sétima jornada da I Liga portuguesa de futebol, disputado em Barcelos.\n ",
+  "summary": "  \n      O Gil Vicente e o Marítimo empataram a um golo, aumentando ambos o número de encontros sem vencer, em jogo da sétima jornada da I Liga portuguesa de futebol, disputado em Barcelos.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -19369,11 +19369,11 @@
   "arquivado_em": "2026-09-19T23:13:34+00:00"
  },
  {
-  "title": "I Liga. Sporting CP - Arouca - rtp.pt",
+  "title": "I Liga. Sporting CP - Arouca - RTP",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wUTd6RmRWeDBMRnNybDVod0NyLVQ2NFM3ckE0c2oyTGI0bE1vanpYWjZ6cGxSb1RvM3VqVWpveU9OY0VGOEpXMWpjdkZQbENlUEYtdWtjeHVOZlJ6QlQtUENtSGN0X29laXQyR2YxcHIta2RXTElOYTNUcw?oc=5",
   "source": "Sporting — todas as modalidades",
   "published": "2026-09-20T07:37:16+00:00",
-  "summary": " I Liga. Sporting CP - Arouca    rtp.pt ",
+  "summary": " I Liga. Sporting CP - Arouca    RTP ",
   "sport": "Sporting",
   "kind": "news",
   "start": null,
@@ -19386,7 +19386,7 @@
   "where_to_watch": [
    "Sport TV — confirmar jornada"
   ],
-  "id": "189831a9d6d8807cf01e",
+  "id": "b7519a6cb4a1ba518181",
   "atletas": [],
   "clubes": [
    "Sporting CP"
@@ -19472,5 +19472,114 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-09-20T12:28:35+00:00"
+ },
+ {
+  "title": "Road World Championships 2026 elite women's individual time trial LIVE - Marlen Reusser looks to defend title in Canada",
+  "url": "https://www.cyclingnews.com/pro-cycling/live/road-world-championships-2026-elite-womens-individual-time-trial-live-marlen-reusser-looks-to-defend-title-in-canada/",
+  "source": "Cyclingnews",
+  "published": "2026-09-20T12:13:57+00:00",
+  "summary": "\n                             39.2km race against the clock kicks off the 2026 UCI Road World Championships in Montreal \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "eddc231a4e539d90ac1a",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-20T16:52:40+00:00"
+ },
+ {
+  "title": "Tour of Slovakia: Lennert Van Eetvelt fends off rising star Henrique Bravo to clinch overall title with victory on final stage summit finish",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/tour-of-slovakia-lennert-van-eetvelt-fends-off-rising-star-henrique-bravo-to-clinch-overall-title-with-victory-on-final-stage-summit-finish/",
+  "source": "Cyclingnews",
+  "published": "2026-09-20T12:24:42+00:00",
+  "summary": "\n                             Jaime Meehan rounds out the final day's podium but Maxime Decomble clinches final spot on overall podium \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "f45f48c255935b6fa1aa",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-20T16:52:40+00:00"
+ },
+ {
+  "title": "'Truly an exceptional memory' –Eddy Merckx and Genevieve Gambillon look back on 1974 World Championships wins as Montreal's Mount Royal climb returns to centre stage",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/truly-an-exceptional-memory-eddy-merckx-and-genevieve-gambillon-look-back-on-1974-world-championships-wins-as-montreals-mount-royal-climb-returns-to-centre-stage/",
+  "source": "Cyclingnews",
+  "published": "2026-09-20T13:26:31+00:00",
+  "summary": "\n                             Beginning as a Montréal carriage path 150 years ago, the climb of Mount Royal gained fame at the 1974 World Championships with European winners \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "d16cfd16a7331b6e3f35",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-20T16:52:40+00:00"
+ },
+ {
+  "title": "Farioli só pensa na vitória frente ao Benfica",
+  "url": "https://www.rtp.pt/noticias/desporto/farioli-so-pensa-na-vitoria-frente-ao-benfica_v1766609",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T13:34:47+00:00",
+  "summary": "  \n      Frohldt, Samu e Pietuzevski estão na lista de convocados do Futebol Clube do Porto para o duelo deste domingo com o Benfica.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "fc440b80590ad09cb955",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-20T16:52:40+00:00"
  }
 ]
