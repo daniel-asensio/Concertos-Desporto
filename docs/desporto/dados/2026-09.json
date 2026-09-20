@@ -19369,34 +19369,6 @@
   "arquivado_em": "2026-09-19T23:13:34+00:00"
  },
  {
-  "title": "I Liga. Sporting CP - Arouca - RTP",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wUTd6RmRWeDBMRnNybDVod0NyLVQ2NFM3ckE0c2oyTGI0bE1vanpYWjZ6cGxSb1RvM3VqVWpveU9OY0VGOEpXMWpjdkZQbENlUEYtdWtjeHVOZlJ6QlQtUENtSGN0X29laXQyR2YxcHIta2RXTElOYTNUcw?oc=5",
-  "source": "Sporting — todas as modalidades",
-  "published": "2026-09-20T07:37:16+00:00",
-  "summary": " I Liga. Sporting CP - Arouca    RTP ",
-  "sport": "Sporting",
-  "kind": "news",
-  "start": null,
-  "end": null,
-  "location": "",
-  "score": 10,
-  "reasons": [
-   "Sporting: Sporting CP, Sporting"
-  ],
-  "where_to_watch": [
-   "Sport TV — confirmar jornada"
-  ],
-  "id": "b7519a6cb4a1ba518181",
-  "atletas": [],
-  "clubes": [
-   "Sporting CP"
-  ],
-  "competicoes": [],
-  "modalidade": "sporting",
-  "local": "",
-  "arquivado_em": "2026-09-19T23:13:34+00:00"
- },
- {
   "title": "Marc Warren luta na Aroeira pelo terceiro título do Challenge Tour",
   "url": "https://www.rtp.pt/noticias/outras-modalidades/marc-warren-luta-na-aroeira-pelo-terceiro-titulo-do-challenge-tour_d1766583",
   "source": "RTP Desporto",
@@ -19474,7 +19446,7 @@
   "arquivado_em": "2026-09-20T12:28:35+00:00"
  },
  {
-  "title": "Road World Championships 2026 elite women's individual time trial LIVE - Marlen Reusser looks to defend title in Canada",
+  "title": "As it happened: Birthday joy for reigning champion in World Road Championships women's elite individual time trial 2026",
   "url": "https://www.cyclingnews.com/pro-cycling/live/road-world-championships-2026-elite-womens-individual-time-trial-live-marlen-reusser-looks-to-defend-title-in-canada/",
   "source": "Cyclingnews",
   "published": "2026-09-20T12:13:57+00:00",
@@ -19492,7 +19464,7 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "eddc231a4e539d90ac1a",
+  "id": "521e3823e03619284a36",
   "atletas": [],
   "clubes": [],
   "competicoes": [
@@ -19581,5 +19553,564 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-09-20T16:52:40+00:00"
+ },
+ {
+  "title": "Tour de Luxembourg: Extraordinary scenes as Mathieu van der Poel wins final stage with jaw-dropping solo from start to finish",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-luxembourg-extraordinary-scenes-as-mathieu-van-der-poel-wins-final-stage-with-jaw-dropping-solo-from-start-to-finish/",
+  "source": "Cyclingnews",
+  "published": "2026-09-20T14:36:17+00:00",
+  "summary": "\n                             Davide Piganzoli seals the overall title but Van der Poel steals the show on the final day \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Mathieu van der Poel",
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "de24ddaf8fba22a053eb",
+  "atletas": [
+   "Mathieu van der Poel"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Road World Championships: Marlen Reusser storms to victory in elite women's time trial, catching Demi Vollering en route to second straight title",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/road-world-championships-marlen-reusser-storms-to-victory-in-elite-womens-time-trial-catching-demi-vollering-en-route-to-second-straight-title/",
+  "source": "Cyclingnews",
+  "published": "2026-09-20T15:22:12+00:00",
+  "summary": "\n                             21-year-old Zoe Backstedt produces huge ride for second place as Franziska Koch rounds out the podium \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Demi Vollering",
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "f03a5a4f7846e4da9381",
+  "atletas": [
+   "Demi Vollering"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "I Liga. Sporting CP - Arouca - RTP",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wUTd6RmRWeDBMRnNybDVod0NyLVQ2NFM3ckE0c2oyTGI0bE1vanpYWjZ6cGxSb1RvM3VqVWpveU9OY0VGOEpXMWpjdkZQbENlUEYtdWtjeHVOZlJ6QlQtUENtSGN0X29laXQyR2YxcHIta2RXTElOYTNUcw?oc=5",
+  "source": "Sporting — todas as modalidades",
+  "published": "2026-09-20T15:29:24+00:00",
+  "summary": " I Liga. Sporting CP - Arouca    RTP ",
+  "sport": "Sporting",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting CP, Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "b7519a6cb4a1ba518181",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "sporting",
+  "local": "",
+  "arquivado_em": "2026-09-19T23:13:34+00:00"
+ },
+ {
+  "title": "I Liga. Estrela - Académico Viseu",
+  "url": "https://www.rtp.pt/noticias/desporto/i-liga-estrela-academico-viseu_e1766548",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T15:31:16+00:00",
+  "summary": "  \n      O Académico de Viseu impôs hoje a primeira derrota ao Estrela da Amadora na edição 2026/27 da I Liga portuguesa de futebol, ao vencer por 2-0, em Rio Maior, casa emprestada dos lisboetas, em jogo da sétima jornada.\n\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "66f74a78686bcfbb3bca",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "I Liga. Vitória Guimarães - Moreirense",
+  "url": "https://www.rtp.pt/noticias/desporto/i-liga-vitoria-guimaraes-moreirense_e1766550",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T15:31:41+00:00",
+  "summary": "  \n      Um golo Borevkovic, aos 90+6 minutos, salvou hoje o Vitória de Guimarães de perder na receção ao Moreirense (1-1), em encontro da sétima jornada da I Liga portuguesa de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "579652ddf87b4232edea",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "LC feminina. Prova arranca com candidatos reforçados e Benfica em busca de pontos",
+  "url": "https://www.rtp.pt/noticias/benfica/lc-feminina-prova-arranca-com-candidatos-reforcados-e-benfica-em-busca-de-pontos_d1766626",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T15:42:04+00:00",
+  "summary": "  \n      A fase de liga da Liga dos Campeões feminina de futebol arranca esta terça-feira com 18 clubes e um Benfica mais ambicioso, depois de se tornar hexacampeão nacional e de ter conquistado a Taça de Portugal e a Supertaça.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "0a57419106b8f131e3f7",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga dos Campeões",
+   "Taça de Portugal"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Vasco da Gama de Pedro Emanuel goleia Coritiba no campeonato brasileiro",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/vasco-da-gama-de-pedro-emanuel-goleia-coritiba-no-campeonato-brasileiro_d1766628",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T15:44:11+00:00",
+  "summary": "  \n      O Vasco da Gama, treinado pelo português Pedro Emanuel, goleou em casa o Coritiba por 5-0, no sábado, em jogo da 28.ª jornada do campeonato brasileiro de futebol, e deixou provisoriamente a zona de despromoção.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "36450e81848991e52955",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Seleção portuguesa feminina derrotada na final do torneio GoldenCat de hóquei",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/selecao-portuguesa-feminina-derrotada-na-final-do-torneio-goldencat-de-hoquei_d1766629",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T15:48:07+00:00",
+  "summary": "  \n      A seleção portuguesa feminina de hóquei em patins falhou hoje a revalidação do título do torneio GoldenCat, ao perder na final com a seleção da Catalunha por 3-2, em Cerdanyola del Vallès, Barcelona.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 17,
+  "reasons": [
+   "Portugal: seleção portuguesa",
+   "Grandes eventos: final",
+   "Modalidade olímpica: hóquei"
+  ],
+  "where_to_watch": [],
+  "id": "ab58183e5754ef300eb9",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "hóquei",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Wolves de César Peixoto batem West Brom e sobem a quartos no Championship",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/wolves-de-cesar-peixoto-batem-west-brom-e-sobem-a-quartos-no-championship_d1766630",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T15:50:52+00:00",
+  "summary": "  \n       O Wolverhampton, orientado pelo treinador português César Peixoto, ascendeu hoje ao quarto lugar do Championship, a segunda divisão inglesa de futebol, ao bater em casa o West Bromwich por 1-0.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "278cf35141f2ddec0679",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Pedro Acosta estreia-se a vencer e dá à KTM triunfo que escapava desde Oliveira",
+  "url": "https://www.rtp.pt/noticias/motores/pedro-acosta-estreia-se-a-vencer-e-da-a-ktm-triunfo-que-escapava-desde-oliveira_d1766632",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T15:55:06+00:00",
+  "summary": "  \n      O espanhol Pedro Acosta (KTM) conquistou hoje a primeira vitória num Grande Prémio de MotoGP, na Áustria, devolvendo à marca austríaca um triunfo em corridas principais que escapava desde o sucesso de Miguel Oliveira na Tailândia, em 2022.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Miguel Oliveira"
+  ],
+  "where_to_watch": [],
+  "id": "3a1998a9110f5c4bb275",
+  "atletas": [
+   "Miguel Oliveira"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "MotoGP"
+  ],
+  "modalidade": "motociclismo",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Celtic, próximo adversário do Benfica, derrotado pelo Rangers no ‘Old Firm’",
+  "url": "https://www.rtp.pt/noticias/benfica/celtic-proximo-adversario-do-benfica-derrotado-pelo-rangers-no-old-firm_d1766633",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T15:57:00+00:00",
+  "summary": "  \n      O líder Celtic, próximo adversário do Benfica na fase de liga da Liga Europa de futebol, perdeu hoje na receção ao Rangers (1-0), no ‘Old Firm’ da sétima jornada da liga escocesa, cedendo os primeiros pontos na prova.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "f468876545de6d2505ae",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga Europa"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Road World Championships 2026 elite men's individual time trial LIVE - Will Remco Evenepoel make history by winning his fourth title?",
+  "url": "https://www.cyclingnews.com/pro-cycling/live/road-world-championships-2026-elite-mens-individual-time-trial-live-will-remco-evenepoel-make-history-by-winning-his-fourth-title/",
+  "source": "Cyclingnews",
+  "published": "2026-09-20T16:16:55+00:00",
+  "summary": "\n                             All eyes on Remco Evenepoel in the 39.2km race against the clock at the 2026 UCI Road World Championships in Montreal \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Remco Evenepoel",
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "ece56d06d4c6fcc12445",
+  "atletas": [
+   "Remco Evenepoel"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Middlesex win One Day Cup final after Horley ton",
+  "url": "https://www.bbc.co.uk/sport/cricket/articles/cmx2zw799778o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-20T16:36:14+00:00",
+  "summary": "Saskia Horley hits a century and takes four wickets as Middlesex beat Glamorgan in the One Day Cup League Two final in Bristol.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "4cfd511d3bda894e70b8",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "'When she passed me, I was like, 'Allez, Marlen!' – Demi Vollering gracefully deals with the indignity of being caught during World Championships time trial",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/when-she-passed-me-i-was-like-allez-marlen-demi-vollering-gracefully-deals-with-the-indignity-of-being-caught-during-world-championships-time-trial/",
+  "source": "Cyclingnews",
+  "published": "2026-09-20T16:57:41+00:00",
+  "summary": "\n                             Eighth place for Dutch rider in longest Worlds time trial for women \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Demi Vollering",
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "aa85a24e176c7fbc865a",
+  "atletas": [
+   "Demi Vollering"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Como averba primeira derrota e falha `encosto` ao grupo de líderes na Serie A",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/como-averba-primeira-derrota-e-falha-encosto-ao-grupo-de-lideres-na-serie-a_d1766643",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T16:57:56+00:00",
+  "summary": "  \n      O Como desperdiçou hoje uma boa oportunidade para se colar ao grupo de líderes da Liga italiana de futebol, ao averbar o primeiro desaire na prova, em Frosinone (2-0), em jogo da quinta jornada.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "5790c780fed673f7a4e9",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Manchester City assume liderança isolada da Premier League",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/manchester-city-assume-lideranca-isolada-da-premier-league_d1766645",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T17:00:34+00:00",
+  "summary": "  \n      O Manchester City assumiu hoje a liderança isolada da Liga inglesa de futebol, mas teve de ‘suar’ para vencer em casa o Sunderland (5-3), com o ganês Semenyo em destaque, na quinta jornada.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "d49c7fc4e940e5d6d57a",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Spaun wins PGA Championship after final round of 67",
+  "url": "https://www.bbc.co.uk/sport/golf/videos/cm4g50pr405eo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-20T17:29:36+00:00",
+  "summary": "JJ Spaun hits a final round of 67 to win the PGA Championship and to become the second American in three years to do so.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "61c4bfe3c7d833aabd9d",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "'I was thinking, okay maybe it's possible' – Zoe Backstedt claims spectacular silver on Elite debut at World Championships",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-was-thinking-okay-maybe-its-possible-zoe-backstedt-claims-spectacular-silver-on-elite-debut-at-world-championships/",
+  "source": "Cyclingnews",
+  "published": "2026-09-20T17:30:27+00:00",
+  "summary": "\n                             21-year-old has 'massive respect' for defending champion Reusser, proving the closest rival to the Swiss on the day \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "efb0b0bdca8dd31c6ddc",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Golf: PGA Championship",
+  "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-20T18:00:25+00:00",
+  "summary": "Action from the final day of the flagship event on the DP World Tour.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "4bb713ee10430cb430d9",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "golfe",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Portugal falha título em masculinos no GoldenCat de hóquei em patins",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-falha-titulo-em-masculinos-no-goldencat-de-hoquei-em-patins_d1766654",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T18:14:23+00:00",
+  "summary": "  \n      A seleção portuguesa masculina de hóquei em patins falhou hoje a defesa dos títulos conquistados nas últimas três edições do torneio GoldenCat, ao perder com a Catalunha por 2-1.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Portugal: seleção portuguesa",
+   "Modalidade olímpica: hóquei"
+  ],
+  "where_to_watch": [],
+  "id": "907ef51f6bd2c7883911",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "hóquei",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
+ },
+ {
+  "title": "Real perde no campo do Atlético no regresso de Mourinho ao dérbis de Madrid",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/real-perde-no-campo-do-atletico-no-regresso-de-mourinho-ao-derbis-de-madrid_d1766655",
+  "source": "RTP Desporto",
+  "published": "2026-09-20T18:22:24+00:00",
+  "summary": "  \n      O Real Madrid, reduzido a 10 na segunda parte, acabou hoje derrotado no campo rival Atlético de Madrid (2-1), no regresso de José Mourinho aos dérbis da capital, na sétima jornada da Liga espanhola de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "8e1a14af2d36413f9991",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-20T19:31:56+00:00"
  }
 ]
