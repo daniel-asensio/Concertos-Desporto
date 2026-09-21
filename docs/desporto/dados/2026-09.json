@@ -19906,7 +19906,7 @@
   "arquivado_em": "2026-09-20T19:31:56+00:00"
  },
  {
-  "title": "'When she passed me, I was like, 'Allez, Marlen!' – Demi Vollering gracefully deals with the indignity of being caught during World Championships time trial",
+  "title": "'When she passed me, I was like: Allez, Marlen!' – Demi Vollering gracefully deals with the indignity of being caught during World Championships time trial",
   "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/when-she-passed-me-i-was-like-allez-marlen-demi-vollering-gracefully-deals-with-the-indignity-of-being-caught-during-world-championships-time-trial/",
   "source": "Cyclingnews",
   "published": "2026-09-20T16:57:41+00:00",
@@ -19925,7 +19925,7 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "aa85a24e176c7fbc865a",
+  "id": "d81cf1d1fad651ef18bf",
   "atletas": [
    "Demi Vollering"
   ],
@@ -20034,7 +20034,7 @@
   "arquivado_em": "2026-09-20T19:31:56+00:00"
  },
  {
-  "title": "'I was thinking, OK maybe it's possible' – Zoe Bäckstedt claims spectacular silver on Elite debut at World Championships",
+  "title": "'I was thinking: OK, maybe it's possible' – Zoe Bäckstedt claims spectacular silver on Elite debut at World Championships",
   "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-was-thinking-okay-maybe-its-possible-zoe-backstedt-claims-spectacular-silver-on-elite-debut-at-world-championships/",
   "source": "Cyclingnews",
   "published": "2026-09-20T17:30:27+00:00",
@@ -20052,7 +20052,7 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "6eda6f595449b15bd0c0",
+  "id": "c3a6445f6ace9cc3a22b",
   "atletas": [],
   "clubes": [],
   "competicoes": [
@@ -20487,7 +20487,7 @@
  },
  {
   "title": "Froholdt e Bah regressam aos `onzes` de FC Porto e Benfica após lesão",
-  "url": "https://www.rtp.pt/noticias/benfica/froholdt-e-bah-regressam-aos-onzes-de-fc-porto-e-benfica-apos-lesao_d1766675",
+  "url": "https://www.rtp.pt/noticias/fc-porto/froholdt-e-bah-regressam-aos-onzes-de-fc-porto-e-benfica-apos-lesao_d1766675",
   "source": "RTP Desporto",
   "published": "2026-09-20T20:13:54+00:00",
   "summary": "  \n      O FC Porto vai receber hoje o Benfica já com Victor Froholdt de regresso ao meio-campo, enquanto Marco Silva aposta em Alexander Bah no lado direito da defesa, para o clássico da sétima ronda da I Liga de futebol.\n ",
@@ -20829,5 +20829,274 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-09-21T14:19:04+00:00"
+ },
+ {
+  "title": "Rui Costa critica arbitragem do `clássico` do Dragão",
+  "url": "https://www.rtp.pt/noticias/benfica/rui-costa-critica-arbitragem-do-classico-do-dragao_d1766757",
+  "source": "RTP Desporto",
+  "published": "2026-09-21T09:38:22+00:00",
+  "summary": "  \n      O presidente do Benfica, Rui Costa, considerou que a dualidade de critérios do árbitro Miguel Nogueira prejudicou as ‘águias’ no ‘clássico’ que o FC Porto venceu (3-1), no domingo, para a sétima jornada da I Liga.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Rui Costa"
+  ],
+  "where_to_watch": [],
+  "id": "353382ecf38078948419",
+  "atletas": [
+   "Rui Costa"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-21T19:35:10+00:00"
+ },
+ {
+  "title": "Seleção começa preparação para a Liga das Nações",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/selecao-comeca-preparacao-para-a-liga-das-nacoes_d1766758",
+  "source": "RTP Desporto",
+  "published": "2026-09-21T09:44:23+00:00",
+  "summary": "  \n      Portugal começa hoje a preparar a estreia na Liga das Nações frente ao País de Gales com um treino de recuperação na Cidade do Futebol, em Oeiras, no primeiro dia de trabalho no ‘terreno’ de Jorge Jesus.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "49acb6aa51e2a836622c",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-21T19:35:10+00:00"
+ },
+ {
+  "title": "'I had incredible legs' – Mathieu van der Poel puts final touches on Road World Championships preparation with staggering Luxembourg solo ride",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-had-incredible-legs-mathieu-van-der-poel-puts-final-touches-on-road-world-championships-preparation-with-staggering-luxembourg-solo-ride/",
+  "source": "Cyclingnews",
+  "published": "2026-09-21T09:50:07+00:00",
+  "summary": "\n                             Dutch racer soloed 174km to final stage win in last race before next Sunday's elite men's road race in Montreal \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Mathieu van der Poel",
+   "Grandes eventos: world championships, final"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "f4beb21cb2d8385a5a71",
+  "atletas": [
+   "Mathieu van der Poel"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-21T19:35:10+00:00"
+ },
+ {
+  "title": "Junior TT favourite Seff Van Kerckhove out of World Championships after being hit by a driver",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/junior-tt-favourite-seff-van-kerckhove-out-of-world-championships-after-being-hit-by-a-driver/",
+  "source": "Cyclingnews",
+  "published": "2026-09-21T10:31:19+00:00",
+  "summary": "\n                             The Belgian was due to ride both the time trial and road race \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "320482c3ef84006baec9",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-21T19:35:10+00:00"
+ },
+ {
+  "title": "Lidl-Trek further strengthen 2027 roster with Giro d'Italia stage winner from UAE Team Emirates-XRG",
+  "url": "https://www.cyclingnews.com/pro-cycling/transfers/lidl-trek-further-strengthen-2027-roster-with-giro-d-italia-winner-from-uae-team-emirates-xrg/",
+  "source": "Cyclingnews",
+  "published": "2026-09-21T11:00:22+00:00",
+  "summary": "\n                             23-year-old Igor Arrieta becomes German team's sixth signing for the new season \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Giro d'Italia"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "22313b1f021bb9af0ee4",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Giro d'Italia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-21T19:35:10+00:00"
+ },
+ {
+  "title": "Flamengo reforça liderança do Brasileirão",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/flamengo-reforca-lideranca-do-brasileirao_d1766774",
+  "source": "RTP Desporto",
+  "published": "2026-09-21T11:28:36+00:00",
+  "summary": "  \n      O Flamengo, orientado pelo português Leonardo Jardim, reforçou no domingo o comando do campeonato brasileiro, ao vencer em casa o Bragantino, por 2-1.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "1ee8910be4655ea9bffb",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-21T19:35:10+00:00"
+ },
+ {
+  "title": "On a course for the TT specialists, who will launch their career with rainbow glory? – World Championships junior men's time trial contenders",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/on-a-course-for-the-tt-specialists-who-will-launch-their-career-with-rainbow-glory-world-championships-junior-mens-time-trial-contenders/",
+  "source": "Cyclingnews",
+  "published": "2026-09-21T13:36:50+00:00",
+  "summary": "\n                             The Italian and Danish squads lead the list of favourites for the junior title in Montreal \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "c9d365f3636ac7079330",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-21T19:35:10+00:00"
+ },
+ {
+  "title": "FC Porto-Benfica. Protagonistas com visões diferentes sobre o clássico",
+  "url": "https://www.rtp.pt/noticias/desporto/fc-porto-benfica-protagonistas-com-visoes-diferentes-sobre-o-classico_v1766806",
+  "source": "RTP Desporto",
+  "published": "2026-09-21T13:38:47+00:00",
+  "summary": "  \n      Houve posições diferentes assumidas pelos protagonistas do jogo. Marco Silva diz que o Benfica perdeu por culpa própria e foi irónico ao comentar o trabalho do árbitro. Francesco Farioli considera que a equipa de arbitragem esteve bem. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: arco"
+  ],
+  "where_to_watch": [],
+  "id": "1a4b53951ad7405f2f9a",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-21T19:35:10+00:00"
+ },
+ {
+  "title": "De la Fuente renova contrato com a Federação Espanhola",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/de-la-fuente-renova-contrato-com-a-federacao-espanhola_d1766814",
+  "source": "RTP Desporto",
+  "published": "2026-09-21T14:00:32+00:00",
+  "summary": "  \n      O selecionador espanhol, Luis de la Fuente, renovou contrato até 2032, pouco mais de dois meses depois de se ter sagrado campeão do mundo, anunciou hoje a Federação Espanhola de Futebol (RFEF).\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [
+   "YouTube oficial da federação — verificar"
+  ],
+  "id": "db699d54c9580cb48cec",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-21T19:35:10+00:00"
+ },
+ {
+  "title": "Federação suíça castiga capitão Xhaka por falsificação de certificado covid-19",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/federacao-suica-castiga-capitao-xhaka-por-falsificacao-de-certificado-covid-19_d1766817",
+  "source": "RTP Desporto",
+  "published": "2026-09-21T14:11:40+00:00",
+  "summary": "  \n      O capitão da seleção suíça de futebol, Granit Xhaka, vai falhar os quatro próximos jogos dos helvéticos na Liga das Nações, depois de hoje ter admitido ter utilizado um certificado falso de covid-19.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [
+   "YouTube oficial da federação — verificar"
+  ],
+  "id": "9f80dc3f511045bd00fc",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-21T19:35:10+00:00"
  }
 ]
