@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-09-22T10:05:07+00:00",
- "total": 841,
+ "actualizado": "2026-09-22T15:01:11+00:00",
+ "total": 848,
  "meses": {
   "2026-08": 56,
-  "2026-09": 785
+  "2026-09": 792
  },
  "atletas": {
   "Tadej Pogačar": 84,
@@ -20,7 +20,7 @@
   "Miguel Oliveira": 5,
   "Lewis Hamilton": 4,
   "Max Verstappen": 4,
-  "Rui Costa": 3,
+  "Rui Costa": 4,
   "Charles Leclerc": 2,
   "António Morgado": 1,
   "Lotte Kopecky": 1,
@@ -28,11 +28,11 @@
  },
  "clubes": {
   "Sporting CP": 62,
-  "Portugal (selecções)": 31
+  "Portugal (selecções)": 32
  },
  "competicoes": {
   "Vuelta a España": 156,
-  "Campeonato do Mundo": 113,
+  "Campeonato do Mundo": 117,
   "Liga dos Campeões": 31,
   "Campeonato da Europa": 14,
   "WorldTour": 12,
@@ -50,9 +50,9 @@
   "Paris-Roubaix": 1
  },
  "modalidades": {
-  "ciclismo": 358,
-  "geral": 203,
-  "futebol": 177,
+  "ciclismo": 362,
+  "geral": 204,
+  "futebol": 178,
   "atletismo": 23,
   "automobilismo": 16,
   "voleibol": 15,
@@ -66,17 +66,17 @@
   "hóquei": 3,
   "judo": 2,
   "sporting": 2,
+  "triatlo": 2,
   "boxe": 1,
   "ginástica": 1,
   "natação": 1,
   "patinagem": 1,
   "remo": 1,
-  "surf": 1,
-  "triatlo": 1
+  "surf": 1
  },
  "fontes": {
-  "RTP Desporto": 356,
-  "Cyclingnews": 243,
+  "RTP Desporto": 360,
+  "Cyclingnews": 246,
   "BBC Sport": 125,
   "Ciclismo watchlist": 96,
   "Atletismo watchlist": 13,
