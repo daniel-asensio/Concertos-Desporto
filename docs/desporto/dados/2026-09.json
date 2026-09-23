@@ -22599,7 +22599,7 @@
   "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/five-teams-pull-out-of-tour-of-chongming-island-as-uci-removes-mandatory-participation-following-tour-of-guangxi-cancellation/",
   "source": "Cyclingnews",
   "published": "2026-09-23T14:18:49+00:00",
-  "summary": "\n                             Organisers looking for other teams to make up the numbers as teams as questions are raised over costs \n                                                                                                            ",
+  "summary": "\n                             Organisers looking for other teams to make up the numbers as questions are raised over costs \n                                                                                                            ",
   "sport": "ciclismo",
   "kind": "news",
   "start": null,
@@ -22673,6 +22673,35 @@
   "arquivado_em": "2026-09-23T17:13:29+00:00"
  },
  {
+  "title": "GB sniff Road Worlds chance with Pogacar absence",
+  "url": "https://www.bbc.co.uk/sport/cycling/articles/ck9dw99y8e9po?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-23T15:45:29+00:00",
+  "summary": "British riders stand a strong chance of glory at cycling's Road World Championships this weekend, with young talent beginning to blossom at elite level.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Pogacar",
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [],
+  "id": "7e70d478468d54fd6c19",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-23T20:29:27+00:00"
+ },
+ {
   "title": "Supremo confirma julgamento de futebolista Achraf Hakimi por violação",
   "url": "https://www.rtp.pt/noticias/futebol-internacional/supremo-confirma-julgamento-de-futebolista-achraf-hakimi-por-violacao_d1767273",
   "source": "RTP Desporto",
@@ -22695,5 +22724,58 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-09-23T17:13:29+00:00"
+ },
+ {
+  "title": "Jorge Jesus confirma titularidade do capitão. Ronaldo admite: \"Os portugueses estão a contar comigo\".",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/jorge-jesus-confirma-titularidade-do-capitao-ronaldo-admite-os-portugueses-estao-a-contar-comigo_d1767276",
+  "source": "RTP Desporto",
+  "published": "2026-09-23T16:14:55+00:00",
+  "summary": "  \n      \"Símbolo de Portugal e da Seleção\", de acordo com o selecionador nacional, Cristiano Ronaldo entra diretamente para o onze titular de Jorge Jesus, no seu primeiro desafio internacional. O técnico admite lutar por todos os troféus. O capitão, por sua vez, tem em vista os mil golos e assegura continuar a representar as cores portuguesas, apesar das críticas.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: luta"
+  ],
+  "where_to_watch": [],
+  "id": "7e51541a830245771735",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-23T20:29:27+00:00"
+ },
+ {
+  "title": "Frederico Varandas defende continuidade de Rui Borges. Champions \"é o objetivo número um\"",
+  "url": "https://www.rtp.pt/noticias/sporting/frederico-varandas-defende-continuidade-de-rui-borges-champions-e-o-objetivo-numero-um_d1767312",
+  "source": "RTP Desporto",
+  "published": "2026-09-23T19:09:43+00:00",
+  "summary": "  \n      O presidente do Sporting mencionou o trajeto do clube na última edição da Liga dos Campeões, recordando um dos melhores resultados dos 'leões' na competição e o trabalho de Rui Borges à frente da equipa. O Sporting só havia alcançado os quartos-de-final em 1982/83.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 17,
+  "reasons": [
+   "Sporting: Sporting, Leões",
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "3cdcc9f9ca8037748e78",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-23T20:29:27+00:00"
  }
 ]
