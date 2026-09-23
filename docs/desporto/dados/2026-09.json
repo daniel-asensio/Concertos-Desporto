@@ -22216,11 +22216,11 @@
   "arquivado_em": "2026-09-22T22:18:01+00:00"
  },
  {
-  "title": "Mónica Silva integra seleção portuguesa com terceira melhor classificação europeia no Mundial de Estrada - ondalivrefm.net",
+  "title": "Mónica Silva integra seleção portuguesa com terceira melhor classificação europeia no Mundial de Estrada - Rádio Onda Livre",
   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUW11bDVZWWd0UnNVeEVxS2hWek9GZUtEbnc0Tm5xUFo5SDlOQzcxTHZyWVd4bWNHeUZPd0JqcXAxMXJ4YmlVM3NNOGhkbzdoMWUwSHd1RmNkWEVUVGREb2ZSSFMyLXQwaVh0Zm9iTV9fRGxyZXU2NGdQM1RNdlVhU2o0MGtGS0Y0dmNGdHc0aUhoOExEalk3LU8xdVJ4Q1JsVVRUYWYtc2U4RkJHbU51TGoxenBaaHZOOEJwaWFnekVfd20yU09PWkVUOEJER05Lc0JCQi1Kdw?oc=5",
   "source": "Portugal olímpico",
   "published": "2026-09-22T21:09:14+00:00",
-  "summary": " Mónica Silva integra seleção portuguesa com terceira melhor classificação europeia no Mundial de Estrada    ondalivrefm.net ",
+  "summary": " Mónica Silva integra seleção portuguesa com terceira melhor classificação europeia no Mundial de Estrada    Rádio Onda Livre ",
   "sport": "Portugal",
   "kind": "news",
   "start": null,
@@ -22231,7 +22231,7 @@
    "Portugal: seleção portuguesa"
   ],
   "where_to_watch": [],
-  "id": "19c7c344f86d57079a9b",
+  "id": "3665c3813640dd230f9d",
   "atletas": [],
   "clubes": [
    "Portugal (selecções)"
@@ -22271,5 +22271,79 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-09-23T00:42:10+00:00"
+ },
+ {
+  "title": "Hadjar to stay as Verstappen's Red Bull team-mate for 2027",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde0j53zz90o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-23T07:55:45+00:00",
+  "summary": "Frenchman Isack Hadjar is to stay at Red Bull as Max Verstappen's team-mate for the 2027 season.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Max Verstappen"
+  ],
+  "where_to_watch": [],
+  "id": "ce58332d467148b0a9c5",
+  "atletas": [
+   "Max Verstappen"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-09-23T11:49:26+00:00"
+ },
+ {
+  "title": "Portugal faz o último treino antes do duelo com o País de Gales",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-faz-o-ultimo-treino-antes-do-duelo-com-o-pais-de-gales_d1767176",
+  "source": "RTP Desporto",
+  "published": "2026-09-23T08:41:22+00:00",
+  "summary": "  \n      Portugal faz esta quarta-feira o último treino antes da receção de quinta-feira ao País de Gales, jogo que marca o arranque da defesa do título da Liga das Nações de futebol e estreia do novo selecionador Jorge Jesus.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "cebcd54454077551be9a",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-23T11:49:26+00:00"
+ },
+ {
+  "title": "Médio do Benfica Enzo Barrenechea operado ao joelho esquerdo",
+  "url": "https://www.rtp.pt/noticias/benfica/medio-do-benfica-enzo-barrenechea-operado-ao-joelho-esquerdo_d1767178",
+  "source": "RTP Desporto",
+  "published": "2026-09-23T08:47:25+00:00",
+  "summary": "  \n      O médio argentino Enzo Barrenechea, do Benfica, foi submetido a uma artroscopia do joelho esquerdo para recuperar de uma entorse, que resultou na rotura do menisco medial, informou esta terça-feira à noite o clube da I Liga de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "8066db20c1a9b172b217",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-23T11:49:26+00:00"
  }
 ]

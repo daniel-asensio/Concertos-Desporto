@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-09-23T06:05:06+00:00",
- "total": 871,
+ "actualizado": "2026-09-23T11:49:26+00:00",
+ "total": 874,
  "meses": {
   "2026-08": 56,
-  "2026-09": 815
+  "2026-09": 818
  },
  "atletas": {
   "Tadej Pogačar": 88,
@@ -17,9 +17,9 @@
   "Lando Norris": 6,
   "Isaac Nader": 5,
   "Jakob Ingebrigtsen": 5,
+  "Max Verstappen": 5,
   "Miguel Oliveira": 5,
   "Lewis Hamilton": 4,
-  "Max Verstappen": 4,
   "Rui Costa": 4,
   "Charles Leclerc": 2,
   "António Morgado": 1,
@@ -52,9 +52,9 @@
  "modalidades": {
   "ciclismo": 374,
   "geral": 209,
-  "futebol": 181,
+  "futebol": 183,
   "atletismo": 24,
-  "automobilismo": 16,
+  "automobilismo": 17,
   "voleibol": 15,
   "portugal": 7,
   "canoagem": 6,
@@ -75,9 +75,9 @@
   "surf": 1
  },
  "fontes": {
-  "RTP Desporto": 365,
+  "RTP Desporto": 367,
   "Cyclingnews": 254,
-  "BBC Sport": 130,
+  "BBC Sport": 131,
   "Ciclismo watchlist": 100,
   "Atletismo watchlist": 13,
   "Portugal olímpico": 7,
