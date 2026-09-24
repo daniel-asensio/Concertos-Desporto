@@ -23007,11 +23007,11 @@
   "arquivado_em": "2026-09-23T23:47:01+00:00"
  },
  {
-  "title": "‘Completamente diferente’: Como Jorge Jesus pode transformar a seleção portuguesa - Trivela",
+  "title": "‘Completamente diferente’: Como Jorge Jesus pode transformar a seleção portuguesa - trivela.com.br",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmMwWWRUb1F1VWlPbHJ4aU93Zk1CejB2UFNjbUFmekpmZ0FBNW1MSzZ6cTh4c1ZJSy1MZnYzOGZtVGllY1djbjNZdWx2VFhtdTM4QXZSVlFaNzhsNk55NEFPSXktMTh3MVpNLWFfaHh0UGhXVEs1R0EzX0xBVE5KOVhPYmVkWlVnZkpEdjNqSUp5TlU?oc=5",
   "source": "Portugal olímpico",
   "published": "2026-09-23T23:00:00+00:00",
-  "summary": " ‘Completamente diferente’: Como Jorge Jesus pode transformar a seleção portuguesa    Trivela ",
+  "summary": " ‘Completamente diferente’: Como Jorge Jesus pode transformar a seleção portuguesa    trivela.com.br ",
   "sport": "Portugal",
   "kind": "news",
   "start": null,
@@ -23023,7 +23023,7 @@
    "Modalidade olímpica: vela"
   ],
   "where_to_watch": [],
-  "id": "edd9b82187fed77b7148",
+  "id": "9fc14336408be69b6708",
   "atletas": [],
   "clubes": [
    "Portugal (selecções)"
@@ -23573,7 +23573,7 @@
   "arquivado_em": "2026-09-24T15:14:49+00:00"
  },
  {
-  "title": "UCI Road World Championships: Viktória Chladoňová beats Isabella Holmgren to wins under-23 women's title",
+  "title": "UCI Road World Championships: Viktória Chladoňová beats Isabella Holmgren to win under-23 women's title",
   "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uci-road-world-championships-viktoria-chladonova-beats-isabella-holmgren-to-wins-under-23-womens-title/",
   "source": "Cyclingnews",
   "published": "2026-09-24T16:55:54+00:00",
@@ -23591,7 +23591,7 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "c52c5bbea9c7d4cac819",
+  "id": "6ec45d97cc24d850beea",
   "atletas": [],
   "clubes": [],
   "competicoes": [
@@ -23600,6 +23600,86 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-09-24T19:17:24+00:00"
+ },
+ {
+  "title": "Burton makes final as GB chase three European golds",
+  "url": "https://www.bbc.co.uk/sport/boxing/articles/cq4gm65m2gvko?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-24T17:02:43+00:00",
+  "summary": "Abdul Burton reaches the men's super-bantamweight final after Callum Makin and Dimeji Shittu claim bronzes at the European Boxing Championships.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "56c4ed4835e91a2b773a",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "boxe",
+  "local": "",
+  "arquivado_em": "2026-09-24T22:30:39+00:00"
+ },
+ {
+  "title": "Kinsella makes GB return for Worlds a year after giving birth",
+  "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cwm2mg7n8rn2o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-24T17:28:45+00:00",
+  "summary": "Olympic bronze medallist Alice Kinsella is named in the Great Britain team for the Artistic Gymnastics World Championships just a year after giving birth.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [],
+  "id": "558ff9377b781351c275",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ginástica",
+  "local": "",
+  "arquivado_em": "2026-09-24T22:30:39+00:00"
+ },
+ {
+  "title": "Il Lombardia 2026 route to include double ascent of crunch San Fermo della Battaglia climb",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/il-lombardia-2026-route-to-include-double-ascent-of-crunch-san-fermo-della-battaglia-climb/",
+  "source": "Cyclingnews",
+  "published": "2026-09-24T17:44:55+00:00",
+  "summary": "\n                             Madonna del Ghisallo to kick off final hostilities before finish in Como \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 14,
+  "reasons": [
+   "Grandes eventos: final",
+   "Ciclismo — grandes provas: Il Lombardia"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "b5579ed5f65e3d3b9f74",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Il Lombardia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-24T22:30:39+00:00"
  },
  {
   "title": "Deco acredita em Jesus, um dos melhores treinadores de sempre do futebol português",
@@ -23624,5 +23704,81 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-09-24T19:17:24+00:00"
+ },
+ {
+  "title": "Portugal confiante para o Mundial de hóquei em patins após estágio positivo",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-confiante-para-o-mundial-de-hoquei-em-patins-apos-estagio-positivo_d1767529",
+  "source": "RTP Desporto",
+  "published": "2026-09-24T18:07:23+00:00",
+  "summary": "  \n      As seleções portuguesas de hóquei em patins, A e sub-19, garantiram hoje estar confiantes para o Mundial, apesar da qualidade dos adversários, considerando que o estágio no Luso tem sido positivo e permitiu ganhar mais confiança.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: hóquei"
+  ],
+  "where_to_watch": [],
+  "id": "103ceb603c6be4359306",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "hóquei",
+  "local": "",
+  "arquivado_em": "2026-09-24T22:30:39+00:00"
+ },
+ {
+  "title": "Portugal 1 - 0 País de Gales",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-1-0-pais-de-gales_d1767533",
+  "source": "RTP Desporto",
+  "published": "2026-09-24T18:21:26+00:00",
+  "summary": "  \n      A seleção de Portugal defronta o País de Gales, num jogo a contar para a primeira jornada do Grupo A4 da Liga das Nações da UEFA. O encontro marca a estreia oficial de Jorge Jesus como selecionador nacional.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Portugal: seleção de Portugal, Portugal defronta"
+  ],
+  "where_to_watch": [],
+  "id": "1d3fcd3b7454f3e50adc",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-24T22:30:39+00:00"
+ },
+ {
+  "title": "João Félix marca para Portugal em Alvalade",
+  "url": "https://www.rtp.pt/noticias/desporto/joao-felix-marca-para-portugal-em-alvalade_v1767565",
+  "source": "RTP Desporto",
+  "published": "2026-09-24T20:17:51+00:00",
+  "summary": "  \n      Félix marcou, ao minuto 22, a passe de Nuno Mendes, contra a seleção de Gales.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: arco"
+  ],
+  "where_to_watch": [],
+  "id": "f9e0d53b70a91c8c7483",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-24T22:30:39+00:00"
  }
 ]
