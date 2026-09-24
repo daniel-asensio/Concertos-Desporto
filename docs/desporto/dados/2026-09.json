@@ -22750,6 +22750,60 @@
   "arquivado_em": "2026-09-23T20:29:27+00:00"
  },
  {
+  "title": "Jorge Jesus confirma titularidade do capitão. Ronaldo diz: \"Os portugueses estão a contar comigo\"",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/jorge-jesus-confirma-titularidade-do-capitao-ronaldo-diz-os-portugueses-estao-a-contar-comigo_d1767276",
+  "source": "RTP Desporto",
+  "published": "2026-09-23T16:14:55+00:00",
+  "summary": "  \n      \"Símbolo de Portugal e da Seleção\", de acordo com o selecionador nacional, Cristiano Ronaldo entra diretamente para o onze titular de Jorge Jesus, no seu primeiro desafio internacional. O técnico admite lutar por todos os troféus. O capitão, por sua vez, tem em vista os mil golos e assegura continuar a representar as cores portuguesas, apesar das críticas.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: luta"
+  ],
+  "where_to_watch": [],
+  "id": "9c28bf1f1a7fd46a2b23",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-24T05:02:14+00:00"
+ },
+ {
+  "title": "4.º Prémio João Almeida celebrou o ciclismo de formação em A-dos-Francos - Jornal das Caldas",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0E0OVNDV0JNMnpabEdMSndrTmFjVHp5aGlCcW0zXzI3d1VMenNNSExiNFdGTGt2cldXTWk5VlplVzlGVEc1dFp3Z0hnR0NtTjlQbGt6bUIwd2xpMnlDSDZXN1ZPWHBUbWNzc0k2SDVINjZlZlY5VUwwMEZSek1Yd1Z6dGR0ZTJ1UFFmTWRZUlpOc0lqM2JmNzBSQVRyM3doY0NxX3NnT2xoMDN3MGdiSA?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-09-23T17:44:58+00:00",
+  "summary": " 4.º Prémio João Almeida celebrou o ciclismo de formação em A-dos-Francos    Jornal das Caldas ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Ciclismo — referências: João Almeida",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "46d850244f7557e34404",
+  "atletas": [
+   "João Almeida"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-24T05:02:14+00:00"
+ },
+ {
   "title": "Frederico Varandas defende continuidade de Rui Borges. Champions \"é o objetivo número um\"",
   "url": "https://www.rtp.pt/noticias/sporting/frederico-varandas-defende-continuidade-de-rui-borges-champions-e-o-objetivo-numero-um_d1767312",
   "source": "RTP Desporto",
@@ -22904,7 +22958,7 @@
   "url": "https://www.cyclingnews.com/pro-cycling/racing/uci-awards-2032-road-world-championships-to-pune-india/",
   "source": "Cyclingnews",
   "published": "2026-09-23T21:41:42+00:00",
-  "summary": "\n                             Drenthe wins bid for 2034 Road Worlds \n                                                                                                            ",
+  "summary": "\n                             Drenthe, Netherlands wins bid for 2034 Road Worlds \n                                                                                                            ",
   "sport": "ciclismo",
   "kind": "news",
   "start": null,
@@ -22951,5 +23005,32 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-09-23T23:47:01+00:00"
+ },
+ {
+  "title": "‘Completamente diferente’: Como Jorge Jesus pode transformar a seleção portuguesa - trivela.com.br",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmMwWWRUb1F1VWlPbHJ4aU93Zk1CejB2UFNjbUFmekpmZ0FBNW1MSzZ6cTh4c1ZJSy1MZnYzOGZtVGllY1djbjNZdWx2VFhtdTM4QXZSVlFaNzhsNk55NEFPSXktMTh3MVpNLWFfaHh0UGhXVEs1R0EzX0xBVE5KOVhPYmVkWlVnZkpEdjNqSUp5TlU?oc=5",
+  "source": "Portugal olímpico",
+  "published": "2026-09-23T23:00:00+00:00",
+  "summary": " ‘Completamente diferente’: Como Jorge Jesus pode transformar a seleção portuguesa    trivela.com.br ",
+  "sport": "Portugal",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Portugal: seleção portuguesa",
+   "Modalidade olímpica: vela"
+  ],
+  "where_to_watch": [],
+  "id": "9fc14336408be69b6708",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "portugal",
+  "local": "",
+  "arquivado_em": "2026-09-24T05:02:14+00:00"
  }
 ]
