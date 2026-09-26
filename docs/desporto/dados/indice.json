@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-09-26T07:50:34+00:00",
- "total": 979,
+ "actualizado": "2026-09-26T13:12:36+00:00",
+ "total": 981,
  "meses": {
   "2026-08": 56,
-  "2026-09": 923
+  "2026-09": 925
  },
  "atletas": {
   "Tadej Pogačar": 93,
@@ -27,7 +27,7 @@
   "Pedro Pichardo": 1
  },
  "clubes": {
-  "Sporting CP": 69,
+  "Sporting CP": 70,
   "Portugal (selecções)": 41
  },
  "competicoes": {
@@ -51,7 +51,7 @@
  },
  "modalidades": {
   "ciclismo": 407,
-  "geral": 230,
+  "geral": 231,
   "futebol": 211,
   "atletismo": 24,
   "automobilismo": 19,
@@ -60,8 +60,8 @@
   "portugal": 9,
   "motociclismo": 8,
   "canoagem": 7,
+  "boxe": 6,
   "golfe": 6,
-  "boxe": 5,
   "andebol": 4,
   "basquetebol": 4,
   "hóquei": 4,
@@ -78,7 +78,7 @@
  "fontes": {
   "RTP Desporto": 421,
   "Cyclingnews": 283,
-  "BBC Sport": 148,
+  "BBC Sport": 150,
   "Ciclismo watchlist": 103,
   "Atletismo watchlist": 13,
   "Portugal olímpico": 9,

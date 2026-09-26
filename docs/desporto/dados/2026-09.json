@@ -25136,5 +25136,57 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-09-26T07:50:34+00:00"
+ },
+ {
+  "title": "The boxer who accidentally became an actor",
+  "url": "https://www.bbc.co.uk/sport/boxing/articles/ckjw553344veo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-26T07:21:12+00:00",
+  "summary": "Euphoria star Javon Walton discusses his boxing roots, acting career and Saturday's fight with UFC great Henry Cejudo.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: judo, boxe"
+  ],
+  "where_to_watch": [],
+  "id": "ac4a64b016e2e283236e",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "boxe",
+  "local": "",
+  "arquivado_em": "2026-09-26T13:12:36+00:00"
+ },
+ {
+  "title": "Ward appointed Liverpool's sporting director",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zkvkez48o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-26T09:08:17+00:00",
+  "summary": "Julian Ward becomes Liverpool's sporting director for the second time following the departure of Richard Hughes.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "c261478d601ad201f9b5",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-26T13:12:36+00:00"
  }
 ]
