@@ -1,16 +1,16 @@
 {
- "actualizado": "2026-09-27T08:20:20+00:00",
- "total": 1025,
+ "actualizado": "2026-09-27T14:06:27+00:00",
+ "total": 1027,
  "meses": {
   "2026-08": 56,
-  "2026-09": 969
+  "2026-09": 971
  },
  "atletas": {
   "Tadej Pogačar": 101,
   "João Almeida": 38,
   "Wout van Aert": 24,
   "Remco Evenepoel": 22,
-  "Demi Vollering": 15,
+  "Demi Vollering": 16,
   "Mathieu van der Poel": 10,
   "Jonas Vingegaard": 8,
   "Lando Norris": 8,
@@ -31,10 +31,10 @@
   "Portugal (selecções)": 41
  },
  "competicoes": {
-  "Campeonato do Mundo": 176,
+  "Campeonato do Mundo": 177,
   "Vuelta a España": 157,
   "Liga dos Campeões": 33,
-  "Campeonato da Europa": 17,
+  "Campeonato da Europa": 18,
   "WorldTour": 13,
   "Tour de France": 12,
   "Liga Europa": 11,
@@ -50,8 +50,8 @@
   "Paris-Roubaix": 1
  },
  "modalidades": {
-  "ciclismo": 434,
-  "geral": 238,
+  "ciclismo": 435,
+  "geral": 239,
   "futebol": 213,
   "atletismo": 24,
   "automobilismo": 21,
@@ -77,8 +77,8 @@
  },
  "fontes": {
   "RTP Desporto": 432,
-  "Cyclingnews": 300,
-  "BBC Sport": 158,
+  "Cyclingnews": 301,
+  "BBC Sport": 159,
   "Ciclismo watchlist": 111,
   "Atletismo watchlist": 13,
   "Portugal olímpico": 9,
