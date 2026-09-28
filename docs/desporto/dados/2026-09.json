@@ -27407,7 +27407,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/pedro-neto-fala-num-grande-resultado_v1768089",
   "source": "RTP Desporto",
   "published": "2026-09-27T22:07:47+00:00",
-  "summary": "  \n      O extremo sublinha que foi necessário ajustar a equipa na segunda parte. ",
+  "summary": "  \n      O extremo sublinha que foi necessário ajustar a equipa na segunda parte.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -27567,5 +27567,32 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-09-28T07:03:00+00:00"
+ },
+ {
+  "title": "Seleção portuguesa abandona Oslo e monta estágio na Suécia",
+  "url": "https://www.rtp.pt/noticias/ligadasnacoes/selecao-portuguesa-abandona-oslo-e-monta-estagio-na-suecia_d1768147",
+  "source": "RTP Desporto",
+  "published": "2026-09-28T08:35:36+00:00",
+  "summary": "  \n      A seleção portuguesa viaja hoje para Malmo, na Suécia, onde vai ficar a preparar o duelo de quinta-feira com a Dinamarca, que será em Copenhaga, na terceira jornada do Grupo A4 da Liga das Nações de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Portugal: seleção portuguesa",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "b906be4bdc87e6ef53c9",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-28T15:37:01+00:00"
  }
 ]
