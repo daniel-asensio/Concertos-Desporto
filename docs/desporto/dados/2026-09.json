@@ -26675,30 +26675,6 @@
   "arquivado_em": "2026-09-27T18:30:09+00:00"
  },
  {
-  "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Sport",
-  "published": "2026-09-27T14:24:46+00:00",
-  "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-  "sport": "geral",
-  "kind": "news",
-  "start": null,
-  "end": null,
-  "location": "",
-  "score": 7,
-  "reasons": [
-   "Grandes eventos: final"
-  ],
-  "where_to_watch": [],
-  "id": "b81334ccfc3e9c1e38bd",
-  "atletas": [],
-  "clubes": [],
-  "competicoes": [],
-  "modalidade": "geral",
-  "local": "",
-  "arquivado_em": "2026-09-27T18:30:09+00:00"
- },
- {
   "title": "'I looked back, and there was really nobody left' – Puck Pieterse plays crucial role for Demi Vollering in united Dutch performance at World Championships",
   "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-looked-back-and-there-was-really-nobody-left-puck-pieterse-plays-crucial-role-for-demi-vollering-in-united-dutch-performance-at-world-championships/",
   "source": "Cyclingnews",
@@ -27569,8 +27545,61 @@
   "arquivado_em": "2026-09-28T07:03:00+00:00"
  },
  {
+  "title": "UCI Gravel World Series: Femke Markus and Magnus Bak Klaris take solo victories at Gravel Grit 'n Grind",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/uci-gravel-world-series-femke-markus-and-magnus-bak-klaris-take-solo-victories-at-gravel-grit-n-grind/",
+  "source": "Cyclingnews",
+  "published": "2026-09-28T08:17:01+00:00",
+  "summary": "\n                             Lukas Malezsewski secure overall Gravelking World Series title in Halmstad, Sweden, with event marking final World Championships qualifiying round \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships, final"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "4bc696379ff5ec1d53c2",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-28T22:08:13+00:00"
+ },
+ {
+  "title": "The four 'what next?' scenarios for Premier League after Man City ruling",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-28T08:28:30+00:00",
+  "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "9763f60622eae8cd1e53",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-27T18:30:09+00:00"
+ },
+ {
   "title": "Seleção portuguesa abandona Oslo e monta estágio na Suécia",
-  "url": "https://www.rtp.pt/noticias/ligadasnacoes/selecao-portuguesa-abandona-oslo-e-monta-estagio-na-suecia_d1768147",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/selecao-portuguesa-abandona-oslo-e-monta-estagio-na-suecia_d1768147",
   "source": "RTP Desporto",
   "published": "2026-09-28T08:35:36+00:00",
   "summary": "  \n      A seleção portuguesa viaja hoje para Malmo, na Suécia, onde vai ficar a preparar o duelo de quinta-feira com a Dinamarca, que será em Copenhaga, na terceira jornada do Grupo A4 da Liga das Nações de futebol.\n ",
@@ -27594,5 +27623,250 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-09-28T15:37:01+00:00"
+ },
+ {
+  "title": "Norris apologises to Colapinto for ban comments",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/cm87vz5w4jwro?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-28T10:11:33+00:00",
+  "summary": "World champion Lando Norris apologises to Franco Colapinto for saying the Argentine should be banned for causing an accident at the Azerbaijan Grand Prix.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Lando Norris"
+  ],
+  "where_to_watch": [],
+  "id": "c3c6d534213980b9bc4b",
+  "atletas": [
+   "Lando Norris"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-09-28T22:08:13+00:00"
+ },
+ {
+  "title": "Will we see Mathieu van der Poel again in 2026? Worlds bronze medallist declares his road season is over, with doubts over cyclo-cross campaign",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/will-we-see-mathieu-van-der-poel-again-in-2026-worlds-bronze-medallist-declares-his-road-season-is-over-with-doubts-over-cyclo-cross-campaign/",
+  "source": "Cyclingnews",
+  "published": "2026-09-28T11:05:46+00:00",
+  "summary": "\n                             Dutchman is due to become a father in January \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Mathieu van der Poel"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "f438f4ad3aee3a18218f",
+  "atletas": [
+   "Mathieu van der Poel"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-28T22:08:13+00:00"
+ },
+ {
+  "title": "US retain Presidents Cup with final day comeback",
+  "url": "https://www.bbc.co.uk/sport/golf/videos/ck790pj7dd32o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-09-28T11:12:18+00:00",
+  "summary": "Watch highlights from the final day of the Presidents Cup as the United States complete a thrilling comeback to beat the Internationals and win their 11th successive title.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "284435cfe948154ce93f",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-28T22:08:13+00:00"
+ },
+ {
+  "title": "Tom Pidcock ditches trade team wheels in favour of upgrade at Road World Championships",
+  "url": "https://www.cyclingnews.com/cycling-tech-components/wheels-tyres/tom-pidcock-ditches-trade-team-wheels-in-favour-of-upgrade-at-road-world-championships/",
+  "source": "Cyclingnews",
+  "published": "2026-09-28T11:53:42+00:00",
+  "summary": "\n                             Pidocock switched wheels for an extra advantage for the men's road race \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "ad5adad99af7b5f29a16",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-28T22:08:13+00:00"
+ },
+ {
+  "title": "'I'm satisfied with my effort, but I'm not happy at all' - Isaac del Toro does not hide disappointment at missing out on gold at World Championships",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/im-satisfied-with-my-effort-but-im-not-happy-at-all-isaac-del-toro-does-not-hide-disappointment-at-missing-out-on-gold-at-world-championships/",
+  "source": "Cyclingnews",
+  "published": "2026-09-28T12:53:21+00:00",
+  "summary": "\n                             Mexican accuses Worlds peloton of 'racing against us a bit and using the fact we didn't have the best team' \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "5fbef9a54fe6ce4989c7",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-28T22:08:13+00:00"
+ },
+ {
+  "title": "12h30m Portugal vence na Noruega, JJ tem caso CR7 para gerir",
+  "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30m-portugal-vence-na-noruega-jj-tem-caso-cr7-para-gerir_a1_1768202",
+  "source": "RTP Desporto",
+  "published": "2026-09-28T12:59:02+00:00",
+  "summary": "  \n       ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Portugal: Portugal vence"
+  ],
+  "where_to_watch": [],
+  "id": "1bfe44e6387ba29ee71c",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-09-28T22:08:13+00:00"
+ },
+ {
+  "title": "Yes, the favourite won, but the Women's World Championships road race was a thriller where everyone was racing for the win",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/yes-the-favourite-won-but-the-womens-world-championships-road-race-was-a-thriller-where-everyone-was-racing-for-the-win/",
+  "source": "Cyclingnews",
+  "published": "2026-09-28T13:37:04+00:00",
+  "summary": "\n                             Reusser says riders were racing for second behind Vollering, but in reality, that was one of the most spirited Worlds battles we've seen in years \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "84fcec5e2ecae650a3bd",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-28T22:08:13+00:00"
+ },
+ {
+  "title": "APAF exige medidas após agressão a árbitro",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/apaf-exige-medidas-apos-agressao-a-arbitro_d1768221",
+  "source": "RTP Desporto",
+  "published": "2026-09-28T14:06:19+00:00",
+  "summary": "  \n      A Associação Portuguesa de Árbitros de Futebol (APAF) repudiou a agressão, no domingo, de um árbitro dos campeonatos distritais, exigindo “uma resposta clara de todas as entidades com responsabilidades no futebol e na segurança dos recintos desportivos”.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "b0bab7af50861fec6dcb",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-09-28T22:08:13+00:00"
+ },
+ {
+  "title": "North American crowds deliver, the juniors deserve better, and the Dutch get it so right –Our key takeaways from the Road World Championships 2026",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/north-american-crowds-deliver-the-juniors-deserve-better-and-the-dutch-get-it-so-right-our-key-takeaways-from-the-road-world-championships-2026/",
+  "source": "Cyclingnews",
+  "published": "2026-09-28T15:17:09+00:00",
+  "summary": "\n                             The Cyclingnews team on the ground dissect some of the biggest talking points and storylines from a week in Montreal \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "11a6da5be00112e9f23d",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-09-28T22:08:13+00:00"
  }
 ]
