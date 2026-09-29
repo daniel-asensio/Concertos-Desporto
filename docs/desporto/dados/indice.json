@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-09-28T22:08:13+00:00",
- "total": 1078,
+ "actualizado": "2026-09-29T02:03:37+00:00",
+ "total": 1086,
  "meses": {
   "2026-08": 56,
-  "2026-09": 1022
+  "2026-09": 1030
  },
  "atletas": {
-  "Tadej Pogačar": 105,
+  "Tadej Pogačar": 106,
   "João Almeida": 38,
   "Wout van Aert": 26,
   "Remco Evenepoel": 23,
@@ -28,13 +28,13 @@
  },
  "clubes": {
   "Sporting CP": 71,
-  "Portugal (selecções)": 44
+  "Portugal (selecções)": 47
  },
  "competicoes": {
-  "Campeonato do Mundo": 194,
+  "Campeonato do Mundo": 196,
   "Vuelta a España": 158,
   "Liga dos Campeões": 33,
-  "Campeonato da Europa": 20,
+  "Campeonato da Europa": 22,
   "WorldTour": 13,
   "Tour de France": 12,
   "Liga Europa": 11,
@@ -51,15 +51,15 @@
   "Paris-Roubaix": 1
  },
  "modalidades": {
-  "ciclismo": 459,
-  "geral": 250,
-  "futebol": 220,
+  "ciclismo": 461,
+  "geral": 252,
+  "futebol": 222,
   "atletismo": 25,
   "automobilismo": 22,
-  "triatlo": 17,
+  "triatlo": 18,
   "voleibol": 15,
   "motociclismo": 11,
-  "portugal": 9,
+  "portugal": 10,
   "canoagem": 7,
   "basquetebol": 6,
   "boxe": 6,
@@ -77,12 +77,12 @@
   "surf": 1
  },
  "fontes": {
-  "RTP Desporto": 454,
-  "Cyclingnews": 319,
+  "RTP Desporto": 459,
+  "Cyclingnews": 320,
   "BBC Sport": 166,
-  "Ciclismo watchlist": 115,
+  "Ciclismo watchlist": 116,
   "Atletismo watchlist": 13,
-  "Portugal olímpico": 9,
+  "Portugal olímpico": 10,
   "Sporting — todas as modalidades": 2
  },
  "locais": {}
