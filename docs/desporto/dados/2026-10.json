@@ -4,7 +4,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/saida-de-ronaldo-vai-haver-um-problema-na-marca-da-federacao_v1768768",
   "source": "RTP Desporto",
   "published": "2026-10-01T00:18:47+00:00",
-  "summary": "  \n      Especialistas em marketing e gestão de marcas acreditam que a Federação Portuguesa de Futebol vai perder com a saída de CR7. O impacto comercial deste caso esteve em análise na RTP Notícias. ",
+  "summary": "  \n      Especialistas em marketing e gestão de marcas acreditam que a Federação Portuguesa de Futebol vai perder com a saída de CR7. O impacto comercial deste caso esteve em análise na RTP Notícias.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -24,5 +24,108 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-10-01T06:08:07+00:00"
+ },
+ {
+  "title": "Price and Clayton to meet in World Grand Prix",
+  "url": "https://www.bbc.co.uk/sport/darts/articles/cmzxzxy6vn7zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-01T06:14:00+00:00",
+  "summary": "Former champions Gerwyn Price and Jonny Clayton have set up an all-Welsh World Grand Prix quarter-final in Leicester on Friday.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "7af7b47a8efac1ba54b9",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-01T13:30:47+00:00"
+ },
+ {
+  "title": "Portugal joga em Copenhaga depois da \"bomba\" Cristiano Ronaldo",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-joga-em-copenhaga-depois-da-bomba-cristiano-ronaldo_d1768809",
+  "source": "RTP Desporto",
+  "published": "2026-10-01T08:00:27+00:00",
+  "summary": "  \n      A seleção portuguesa, horas depois do abandono de Cristiano Ronaldo, tenta hoje ficar a um passo do apuramento na Liga das Nações de futebol, caso consiga manter o registo 100% vitorioso no Grupo A4, na deslocação à Dinamarca.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Portugal: seleção portuguesa",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "7e4d879bcf97d92d4144",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-01T13:30:47+00:00"
+ },
+ {
+  "title": "Companhia aérea Etihad pondera tomar medidas legais contra Liga inglesa",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/companhia-aerea-etihad-pondera-tomar-medidas-legais-contra-liga-inglesa_d1768810",
+  "source": "RTP Desporto",
+  "published": "2026-10-01T08:08:29+00:00",
+  "summary": "  \n      A companhia aérea Etihad, uma das principais patrocinadoras do Manchester City, rejeitou hoje todas as acusações ao clube inglês relacionadas com graves violações das regras financeiras, pelo que pondera tomar medidas legais contra a Liga inglesa de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "7839d306260642e787f7",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-01T13:30:47+00:00"
+ },
+ {
+  "title": "Tiago Luís Pereira, bronze no triplo nos Mundiais `indoor`, é a mais recente saída do Sporting",
+  "url": "https://www.rtp.pt/noticias/sporting/tiago-luis-pereira-bronze-no-triplo-nos-mundiais-indoor-e-a-mais-recente-saida-do-sporting_d1768811",
+  "source": "RTP Desporto",
+  "published": "2026-10-01T08:14:15+00:00",
+  "summary": "  \n      Tiago Luís Pereira, que conquistou a medalha de bronze no triplo salto nos Mundiais em pista curta Glasgow2024, despediu-se hoje do Sporting, após o fim do contrato, depois de Rui Pinto, Carlos Nascimento e Ana Mafalda Ferreira.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "92a23757eb38708ca5db",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-01T13:30:47+00:00"
  }
 ]
