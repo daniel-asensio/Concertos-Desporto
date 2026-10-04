@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-03T21:27:05+00:00",
- "total": 1284,
+ "actualizado": "2026-10-04T00:45:22+00:00",
+ "total": 1289,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 119
+  "2026-10": 124
  },
  "atletas": {
   "Tadej Pogačar": 132,
@@ -28,8 +28,8 @@
   "Pedro Pichardo": 2
  },
  "clubes": {
-  "Portugal (selecções)": 79,
-  "Sporting CP": 77
+  "Portugal (selecções)": 81,
+  "Sporting CP": 79
  },
  "competicoes": {
   "Campeonato do Mundo": 208,
@@ -55,20 +55,20 @@
   "Paris-Roubaix": 1
  },
  "modalidades": {
-  "ciclismo": 521,
-  "geral": 303,
-  "futebol": 279,
+  "ciclismo": 522,
+  "geral": 304,
+  "futebol": 280,
   "automobilismo": 29,
   "atletismo": 28,
   "triatlo": 18,
+  "voleibol": 16,
   "portugal": 15,
-  "voleibol": 15,
   "motociclismo": 11,
   "judo": 8,
+  "basquetebol": 7,
   "boxe": 7,
   "canoagem": 7,
   "hóquei": 7,
-  "basquetebol": 6,
   "golfe": 6,
   "andebol": 5,
   "críquete": 3,
@@ -83,9 +83,9 @@
   "surf": 1
  },
  "fontes": {
-  "RTP Desporto": 558,
-  "Cyclingnews": 351,
-  "BBC Sport": 201,
+  "RTP Desporto": 561,
+  "Cyclingnews": 352,
+  "BBC Sport": 202,
   "Ciclismo watchlist": 144,
   "Portugal olímpico": 15,
   "Atletismo watchlist": 13,
