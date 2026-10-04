@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-04T00:45:22+00:00",
- "total": 1289,
+ "actualizado": "2026-10-04T07:01:07+00:00",
+ "total": 1290,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 124
+  "2026-10": 125
  },
  "atletas": {
   "Tadej Pogačar": 132,
@@ -56,7 +56,7 @@
  },
  "modalidades": {
   "ciclismo": 522,
-  "geral": 304,
+  "geral": 305,
   "futebol": 280,
   "automobilismo": 29,
   "atletismo": 28,
@@ -85,7 +85,7 @@
  "fontes": {
   "RTP Desporto": 561,
   "Cyclingnews": 352,
-  "BBC Sport": 202,
+  "BBC Sport": 203,
   "Ciclismo watchlist": 144,
   "Portugal olímpico": 15,
   "Atletismo watchlist": 13,
