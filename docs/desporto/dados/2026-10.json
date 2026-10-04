@@ -2939,30 +2939,6 @@
   "arquivado_em": "2026-10-03T18:01:04+00:00"
  },
  {
-  "title": "Sinfield completes final ultramarathon challenge",
-  "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Sport",
-  "published": "2026-10-03T17:38:56+00:00",
-  "summary": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days.",
-  "sport": "geral",
-  "kind": "news",
-  "start": null,
-  "end": null,
-  "location": "",
-  "score": 7,
-  "reasons": [
-   "Grandes eventos: final"
-  ],
-  "where_to_watch": [],
-  "id": "bfa25e31540ae2b1ddd7",
-  "atletas": [],
-  "clubes": [],
-  "competicoes": [],
-  "modalidade": "geral",
-  "local": "",
-  "arquivado_em": "2026-10-03T21:27:05+00:00"
- },
- {
   "title": "England's Jordan in contention at Alfred Dunhill Links",
   "url": "https://www.bbc.co.uk/sport/golf/articles/ck0j0pyn63j8o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Sport",
@@ -3299,5 +3275,58 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-10-04T07:01:07+00:00"
+ },
+ {
+  "title": "Sinfield completes final ultramarathon challenge",
+  "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-04T06:10:53+00:00",
+  "summary": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "9c5c1ac7f27f0e5904c5",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-03T21:27:05+00:00"
+ },
+ {
+  "title": "UEC European Championships: Azzura Ballan masters a four woman sprint to take the Junior Women's title",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uec-european-championships-azzura-ballan-masters-a-four-woman-sprint-to-take-the-junior-womens-title/",
+  "source": "Cyclingnews",
+  "published": "2026-10-04T09:10:11+00:00",
+  "summary": "\n                             Morgane Lestrade is second while Klara Dworatzek is third. \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: European championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "15f727616915a74b457d",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato da Europa"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-04T13:18:54+00:00"
  }
 ]
