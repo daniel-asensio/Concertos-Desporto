@@ -3822,7 +3822,7 @@
   "arquivado_em": "2026-10-04T21:37:52+00:00"
  },
  {
-  "title": "Hamilton bemused after glitch turns F1 into 'Lego race'",
+  "title": "Hamilton bemused after software glitch turns F1 into 'Lego race'",
   "url": "https://www.bbc.co.uk/sport/formula1/articles/cwg7x820k9xjo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Sport",
   "published": "2026-10-04T16:58:56+00:00",
@@ -3839,7 +3839,7 @@
   "where_to_watch": [
    "DAZN"
   ],
-  "id": "2a342da4a79dcad97b33",
+  "id": "ed26f16c7d47478838c5",
   "atletas": [
    "Max Verstappen",
    "Lewis Hamilton"
@@ -4176,11 +4176,11 @@
   "arquivado_em": "2026-10-05T01:02:03+00:00"
  },
  {
-  "title": "Portugal está nos `quartos` da Liga das Nações",
+  "title": "Portugal está nos \"quartos\" da Liga das Nações",
   "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-esta-nos-quartos-da-liga-das-nacoes_d1769580",
   "source": "RTP Desporto",
   "published": "2026-10-04T21:46:54+00:00",
-  "summary": "  \n      A seleção portuguesa de futebol venceu esta noite a Noruega por 2-1 e ficou automaticamente apurado para os quartos da Liga das Nações. \n ",
+  "summary": "  \n      A seleção portuguesa de futebol venceu a Noruega por 2-1 e ficou automaticamente apurado para os quartos da Liga das Nações. \n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -4192,7 +4192,7 @@
    "Modalidade olímpica: futebol"
   ],
   "where_to_watch": [],
-  "id": "decd908f9124e3a54e4c",
+  "id": "7ac6e7b8636e7bf0516a",
   "atletas": [],
   "clubes": [
    "Portugal (selecções)"
@@ -4251,5 +4251,53 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-10-05T07:11:21+00:00"
+ },
+ {
+  "title": "How Britain's Evans defied history to join rally greats",
+  "url": "https://www.bbc.co.uk/sport/motorsport/articles/cqj9kj3wx1dzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-05T05:30:23+00:00",
+  "summary": "Elfyn Evans has been the nearly-man of world rally until he finally emulated the feats of Colin McRae and Richard Burns.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "1b355fc3f031f00249d5",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-10-05T16:10:01+00:00"
+ },
+ {
+  "title": "How Evans defied history to join rallying greats",
+  "url": "https://www.bbc.co.uk/sport/motorsport/articles/cqj9kj3wx1dzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-05T05:30:23+00:00",
+  "summary": "Elfyn Evans has been the nearly-man of world rally until he finally emulated the feats of Colin McRae and Richard Burns.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "ad2537457d7e6ced404b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-10-05T16:10:01+00:00"
  }
 ]
