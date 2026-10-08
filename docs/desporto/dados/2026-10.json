@@ -6294,6 +6294,33 @@
   "arquivado_em": "2026-10-07T16:38:36+00:00"
  },
  {
+  "title": "Europeus de atletismo: Pedro Pichardo e Patrícia Silva chegam a Birmingham no pódio - Flashscore.pt",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZlJlaTdPNXdBdW5LdElpMFBxS3NsOXA3SHlnZVp0VWR4V094d3lfT0VJYVAtOGxPeXFYVDVZWTFwQkFnVDlvYVNhSWdPUEFaWTVzMXA2dXZBNlhxcnFuODl2LVREaWNUSmE0SGFPSXVpa3RFR05vVWpuaDd1aW10ek9IbWpDdXhFSFBvaDUzUUxFNXVFZHJRZFpYVllxY0xoOXhnQWpfTGlSUWZZX01aeHlvemF3VWlkazM2azB6ZDNxaDhxZGc?oc=5",
+  "source": "Atletismo watchlist",
+  "published": "2026-10-07T12:50:54+00:00",
+  "summary": " Europeus de atletismo: Pedro Pichardo e Patrícia Silva chegam a Birmingham no pódio    Flashscore.pt ",
+  "sport": "atletismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Atletismo e corrida — referências: Pedro Pichardo",
+   "Modalidade olímpica: atletismo"
+  ],
+  "where_to_watch": [],
+  "id": "83871d87aab71f8f27be",
+  "atletas": [
+   "Pedro Pichardo"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "atletismo",
+  "local": "",
+  "arquivado_em": "2026-10-08T09:08:27+00:00"
+ },
+ {
   "title": "UEC European Championships: Nienke Vinke storms to victory in U23 women's time trial title",
   "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/uec-european-championships-nienke-vinke-storms-to-victory-in-u23-womens-time-trial-title/",
   "source": "Cyclingnews",
@@ -6706,7 +6733,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/novela-ronaldo-prossegue-tambem-com-a-imprensa-estrangeira_v1770174",
   "source": "RTP Desporto",
   "published": "2026-10-07T21:42:47+00:00",
-  "summary": "  \n      A carta de Cristiano Ronaldo foi destaque em todo o mundo. A imprensa internacional sublinhou as acusações do jogador contra Jorge Jesus de quebra de confiança. ",
+  "summary": "  \n      A carta de Cristiano Ronaldo foi destaque em todo o mundo. A imprensa internacional sublinhou as acusações do jogador contra Jorge Jesus de quebra de confiança.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -6724,5 +6751,63 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-10-07T22:04:21+00:00"
+ },
+ {
+  "title": "'Challenge is also a unifying calling card' – The logistics of running a far-flung Gravel World Championships",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/challenge-is-also-a-unifying-calling-card-the-logistics-of-running-a-far-flung-gravel-world-championships/",
+  "source": "Cyclingnews",
+  "published": "2026-10-08T06:51:33+00:00",
+  "summary": "\n                             'Nannup is isolated to an extent, but that's the reason why it has the best gravel in the world' says race director Stephen Gallagher \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "539c9873217a2d2e6873",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-08T09:08:27+00:00"
+ },
+ {
+  "title": "Mundial de Hóquei Feminino. Portugal vence Brasil com goleada expressiva",
+  "url": "https://www.rtp.pt/noticias/desporto/mundial-de-hoquei-feminino-portugal-vence-brasil-com-goleada-expressiva_v1770223",
+  "source": "RTP Desporto",
+  "published": "2026-10-08T07:24:47+00:00",
+  "summary": "  \n      Portugal está nas meias-finais do Mundial de Hóquei em Patins Feminino. A seleção nacional carimbou o acesso aos quatro melhores do mundo com uma goleada expressiva sobre o Brasil, por 16 a 1. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Portugal: Portugal vence",
+   "Modalidade olímpica: hóquei"
+  ],
+  "where_to_watch": [],
+  "id": "398e7da71344ccea52cc",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "hóquei",
+  "local": "",
+  "arquivado_em": "2026-10-08T09:08:27+00:00"
  }
 ]

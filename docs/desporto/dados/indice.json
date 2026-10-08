@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-08T02:03:30+00:00",
- "total": 1417,
+ "actualizado": "2026-10-08T09:08:27+00:00",
+ "total": 1420,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 252
+  "2026-10": 255
  },
  "atletas": {
   "Tadej Pogačar": 137,
@@ -22,7 +22,7 @@
   "Isaac Nader": 5,
   "Iúri Leitão": 5,
   "Jakob Ingebrigtsen": 5,
-  "Pedro Pichardo": 4,
+  "Pedro Pichardo": 5,
   "Rui Costa": 4,
   "António Morgado": 3,
   "Charles Leclerc": 3,
@@ -30,11 +30,11 @@
   "Victor Wembanyama": 1
  },
  "clubes": {
-  "Portugal (selecções)": 108,
+  "Portugal (selecções)": 109,
   "Sporting CP": 83
  },
  "competicoes": {
-  "Campeonato do Mundo": 222,
+  "Campeonato do Mundo": 224,
   "Vuelta a España": 159,
   "Campeonato da Europa": 59,
   "Liga dos Campeões": 37,
@@ -58,16 +58,16 @@
   "Paris-Roubaix": 1
  },
  "modalidades": {
-  "ciclismo": 563,
+  "ciclismo": 564,
   "geral": 329,
   "futebol": 308,
   "automobilismo": 36,
-  "atletismo": 32,
+  "atletismo": 33,
   "portugal": 21,
   "triatlo": 19,
   "voleibol": 16,
   "judo": 14,
-  "hóquei": 11,
+  "hóquei": 12,
   "motociclismo": 11,
   "basquetebol": 8,
   "boxe": 7,
@@ -86,12 +86,12 @@
   "surf": 1
  },
  "fontes": {
-  "RTP Desporto": 627,
-  "Cyclingnews": 383,
+  "RTP Desporto": 628,
+  "Cyclingnews": 384,
   "BBC Sport": 217,
   "Ciclismo watchlist": 152,
   "Portugal olímpico": 21,
-  "Atletismo watchlist": 15,
+  "Atletismo watchlist": 16,
   "Sporting — todas as modalidades": 2
  },
  "locais": {}
