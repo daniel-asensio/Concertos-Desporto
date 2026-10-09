@@ -7573,11 +7573,11 @@
   "arquivado_em": "2026-10-08T22:11:28+00:00"
  },
  {
-  "title": "Hóquei em Patins. Portugal goleia México e segue para as 'meias'",
+  "title": "Hóquei em Patins. Portugal goleia México e segue para as `meias`",
   "url": "https://www.rtp.pt/noticias/desporto/hoquei-em-patins-portugal-goleia-mexico-e-segue-para-as-meias_v1770513",
   "source": "RTP Desporto",
   "published": "2026-10-08T21:45:47+00:00",
-  "summary": "  \n      Portugal fechou as contas da fase de grupos com uma vitória por 19-1 frente ao México. As atletas defrontam Espanha, vencedora do Grupo A, na próxima ronda, que decidirá uma das seleções finalistas da competição.   ",
+  "summary": "  \n      Portugal fechou as contas da fase de grupos com uma vitória por 19-1 frente ao México. As atletas defrontam Espanha, vencedora do Grupo A, na próxima ronda, que decidirá uma das seleções finalistas da competição.  \n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -7589,12 +7589,99 @@
    "Modalidade olímpica: hóquei"
   ],
   "where_to_watch": [],
-  "id": "e2ceaeb601d48377f61c",
+  "id": "018cfc0278f74c0e6a9b",
   "atletas": [],
   "clubes": [],
   "competicoes": [],
   "modalidade": "hóquei",
   "local": "",
   "arquivado_em": "2026-10-09T02:16:55+00:00"
+ },
+ {
+  "title": "Wales captain James has World Cup on her mind",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwp8gnj1n7yyo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-09T03:27:58+00:00",
+  "summary": "Wales take on Albania over two legs in the semi-finals of the play-offs motivated by reaching a World Cup for the first time.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "a3b297d629264da8d715",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-09T09:15:18+00:00"
+ },
+ {
+  "title": "Three course features that could be make or break at the UCI Gravel World Championships in Nannup",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/three-course-features-that-could-be-make-or-break-at-the-uci-gravel-world-championships-in-nannup/",
+  "source": "Cyclingnews",
+  "published": "2026-10-09T03:55:00+00:00",
+  "summary": "\n                             There is no easing up on the 144km men's elite course or the 125.6km women's route but there are key points where riders may have to dig deep if they want a rainbow jersey \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "0b878244db7e8fa162dc",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-09T09:15:18+00:00"
+ },
+ {
+  "title": "Wilson becomes first five-time MVP in WNBA history",
+  "url": "https://www.bbc.co.uk/sport/basketball/articles/c8ly02yzg2w1o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-09T07:35:59+00:00",
+  "summary": "A ceremony marking her record-extending fifth MVP award will take place on Friday night, but A'ja Wilson will not take part before a must-win game.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Basquetebol — referências: A'ja Wilson",
+   "Modalidade olímpica: remo"
+  ],
+  "where_to_watch": [
+   "NBA League Pass",
+   "Sport TV — jogos seleccionados"
+  ],
+  "id": "2c48bbdab47e7e29fa97",
+  "atletas": [
+   "A'ja Wilson"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "WNBA"
+  ],
+  "modalidade": "basquetebol",
+  "local": "",
+  "arquivado_em": "2026-10-09T09:15:18+00:00"
  }
 ]
