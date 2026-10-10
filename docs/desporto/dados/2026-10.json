@@ -8852,7 +8852,7 @@
   "arquivado_em": "2026-10-10T13:50:20+00:00"
  },
  {
-  "title": "Il Lombardia 2026 LIVE - Remco Evenepoel, Isaac del Toro and the rest poised to do battle as Madonna del Ghisallo approaches",
+  "title": "As it happened: Attritional 2026 edition of Il Lombardia won with brilliant solo attack",
   "url": "https://www.cyclingnews.com/pro-cycling/live/il-lombardia-2026-live-remco-evenepoel-isaac-del-toro-and-paul-seixas-all-in-contention-for-wide-open-final-monument-of-the-year/",
   "source": "Cyclingnews",
   "published": "2026-10-10T08:34:32+00:00",
@@ -8862,9 +8862,8 @@
   "start": null,
   "end": null,
   "location": "",
-  "score": 20,
+  "score": 14,
   "reasons": [
-   "Ciclismo — referências: Remco Evenepoel",
    "Grandes eventos: final",
    "Ciclismo — grandes provas: Il Lombardia"
   ],
@@ -8872,10 +8871,8 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "b4ccb148e82336a97c8f",
-  "atletas": [
-   "Remco Evenepoel"
-  ],
+  "id": "18dc17f51419446a8db1",
+  "atletas": [],
   "clubes": [],
   "competicoes": [
    "Il Lombardia"
@@ -9032,32 +9029,6 @@
   "arquivado_em": "2026-10-10T13:50:20+00:00"
  },
  {
-  "title": "Verstappen wins sprint after Russell crashes out",
-  "url": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Sport",
-  "published": "2026-10-10T10:53:03+00:00",
-  "summary": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead.",
-  "sport": "geral",
-  "kind": "news",
-  "start": null,
-  "end": null,
-  "location": "",
-  "score": 5,
-  "reasons": [
-   "Automobilismo — referências: Max Verstappen"
-  ],
-  "where_to_watch": [],
-  "id": "b6fc8152802eff0536bc",
-  "atletas": [
-   "Max Verstappen"
-  ],
-  "clubes": [],
-  "competicoes": [],
-  "modalidade": "automobilismo",
-  "local": "",
-  "arquivado_em": "2026-10-10T13:50:20+00:00"
- },
- {
   "title": "Decisão da FPF. Cristiano Ronaldo suspenso preventivamente de forma não automática",
   "url": "https://www.rtp.pt/noticias/selecao-nacional/decisao-da-fpf-cristiano-ronaldo-suspenso-preventivamente-de-forma-nao-automatica_d1770870",
   "source": "RTP Desporto",
@@ -9082,5 +9053,299 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-10-10T13:50:20+00:00"
+ },
+ {
+  "title": "Verstappen wins sprint after Russell crashes out",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-10T13:43:47+00:00",
+  "summary": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Max Verstappen"
+  ],
+  "where_to_watch": [],
+  "id": "b6fc8152802eff0536bc",
+  "atletas": [
+   "Max Verstappen"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-10-10T13:50:20+00:00"
+ },
+ {
+  "title": "Il Lombardia: Paul Seixas puts in stunning solo ride to claim first Monument",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/il-lombardia-paul-seixas-puts-in-stunning-solo-ride-to-claim-first-monument/",
+  "source": "Cyclingnews",
+  "published": "2026-10-10T15:07:16+00:00",
+  "summary": "\n                             Frenchman trailed by Enric Mas, Giulio Ciccone \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Il Lombardia"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "619b2d382966c8cad64b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Il Lombardia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-10T18:41:50+00:00"
+ },
+ {
+  "title": "Verstappen beats Ferraris to Singapore pole",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-10T15:29:12+00:00",
+  "summary": "Red Bull's Max Verstappen beats the Ferraris of Charles Leclerc and Lewis Hamilton to pole position in qualifying at the Singapore Grand Prix.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Max Verstappen, Charles Leclerc, Lewis Hamilton"
+  ],
+  "where_to_watch": [],
+  "id": "9b2de5aa58ab2c6c05eb",
+  "atletas": [
+   "Max Verstappen",
+   "Charles Leclerc",
+   "Lewis Hamilton"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-10-10T18:41:50+00:00"
+ },
+ {
+  "title": "Arsenal dá a volta ao Leeds e junta-se à condição ao líder City",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-da-a-volta-ao-leeds-e-junta-se-a-condicao-ao-lider-city_d1770896",
+  "source": "RTP Desporto",
+  "published": "2026-10-10T15:40:13+00:00",
+  "summary": "  \n      O espanhol Mikel Merino e o brasileiro Bruno Guimarães marcaram na reviravolta em Londres. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "89d23f6120ac5a6fed23",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-10T18:41:50+00:00"
+ },
+ {
+  "title": "'It hasn't been the easiest year' - Marianne Vos finishes a tough season on a history-making high at the UCI Gravel World Championships",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/it-hasnt-been-the-easiest-year-marianne-vos-finishes-a-tough-season-on-a-history-making-high-at-the-uci-gravel-world-championships/",
+  "source": "Cyclingnews",
+  "published": "2026-10-10T15:54:57+00:00",
+  "summary": "\n                             'Coming here I didn't really know what to expect. I was just trying to give my best,' says women's champion \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "0a4850f1c09ecc624334",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-10T18:41:50+00:00"
+ },
+ {
+  "title": "'I just went into the red and that was it' – Tom Pidcock pays for following Paul Seixas' race-winning move in Il Lombardia",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-just-went-into-the-red-and-that-was-it-tom-pidcock-pays-for-following-paul-seixas-race-winning-move-in-il-lombardia/",
+  "source": "Cyclingnews",
+  "published": "2026-10-10T16:06:46+00:00",
+  "summary": "\n                             British rider comes home in sixth but satisfied with Monument ride overall \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Il Lombardia"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "81e28d4e9c3bb6e41a41",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Il Lombardia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-10T18:41:50+00:00"
+ },
+ {
+  "title": "Pedro Proença: \"Este é o momento da tranquilidade. Há uma grande vontade de termos o nosso capitão connosco\"",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/pedro-proenca-este-e-o-momento-da-tranquilidade-ha-uma-grande-vontade-de-termos-o-nosso-capitao-connosco_d1770900",
+  "source": "RTP Desporto",
+  "published": "2026-10-10T16:07:40+00:00",
+  "summary": "  \n      O presidente da Federação Portuguesa de Futebol desvaloriza o processo disciplinar aplicado a Cristiano Ronaldo.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "be891b350f240f0e564d",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-10T18:41:50+00:00"
+ },
+ {
+  "title": "\"Foi uma graçola.\" Varandas responde ao primeiro-ministro com referência à corrupção",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/foi-uma-gracola-varandas-responde-ao-primeiro-ministro-com-referencia-a-corrupcao_d1770898",
+  "source": "RTP Desporto",
+  "published": "2026-10-10T16:09:05+00:00",
+  "summary": "  \n      Sobre o triunfo da equipa em Braga, por 3-1, Varandas destacou a exibição e a conquista dos três pontos.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "cca03822926bc8a71fc3",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-10T18:41:50+00:00"
+ },
+ {
+  "title": "I Liga. Marítimo-FC Porto (1-1)",
+  "url": "https://www.rtp.pt/noticias/desporto/i-liga-maritimo-fc-porto-1-1_e1770893",
+  "source": "RTP Desporto",
+  "published": "2026-10-10T17:11:49+00:00",
+  "summary": "  \n      O campeão FC Porto procura manter o percurso 100% vitorioso na edição 2026/27 da I Liga portuguesa de futebol, defrontando o promovido Marítimo, no Funchal, em encontro da oitava jornada.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "1815c1349ecd58d098dc",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-10T18:41:50+00:00"
+ },
+ {
+  "title": "'I haven't found my top form since the Tour de France' – Remco Evenepoel comes up short at Il Lombardia",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-havent-found-my-top-form-since-the-tour-de-france-remco-evenepoel-comes-up-short-at-il-lombardia/",
+  "source": "Cyclingnews",
+  "published": "2026-10-10T17:20:50+00:00",
+  "summary": "\n                             European champion unable to follow winner Seixas but salvages the day with fourth place \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Remco Evenepoel",
+   "Ciclismo — grandes provas: Tour de France, Il Lombardia"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "a5e7376c7be98551cccf",
+  "atletas": [
+   "Remco Evenepoel"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France",
+   "Il Lombardia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-10T18:41:50+00:00"
+ },
+ {
+  "title": "Marco Silva reconhece que Benfica não tem outra solução além de ganhar",
+  "url": "https://www.rtp.pt/noticias/benfica/marco-silva-reconhece-que-benfica-nao-tem-outra-solucao-alem-de-ganhar_d1770913",
+  "source": "RTP Desporto",
+  "published": "2026-10-10T17:49:29+00:00",
+  "summary": "  \n      Treinador encarnado garante que não há margem para deslizes. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: arco"
+  ],
+  "where_to_watch": [],
+  "id": "d87da1e2bd7983123290",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-10T18:41:50+00:00"
  }
 ]
