@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-10T22:39:59+00:00",
- "total": 1518,
+ "actualizado": "2026-10-11T01:58:52+00:00",
+ "total": 1519,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 353
+  "2026-10": 354
  },
  "atletas": {
   "Tadej Pogačar": 140,
@@ -39,7 +39,7 @@
   "Vuelta a España": 159,
   "Campeonato da Europa": 59,
   "Liga dos Campeões": 37,
-  "Il Lombardia": 29,
+  "Il Lombardia": 30,
   "Taça do Mundo": 18,
   "Tour de France": 17,
   "WorldTour": 17,
@@ -61,7 +61,7 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 602,
+  "ciclismo": 603,
   "geral": 354,
   "futebol": 327,
   "automobilismo": 41,
@@ -92,7 +92,7 @@
  },
  "fontes": {
   "RTP Desporto": 669,
-  "Cyclingnews": 420,
+  "Cyclingnews": 421,
   "BBC Sport": 235,
   "Ciclismo watchlist": 154,
   "Portugal olímpico": 22,
