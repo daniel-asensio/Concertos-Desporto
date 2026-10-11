@@ -9458,7 +9458,7 @@
   "arquivado_em": "2026-10-10T22:39:59+00:00"
  },
  {
-  "title": "'Biggest day out I've ever had, numerically ridiculous’ – George Bennett reveals power data from mega Il Lombardia breakaway",
+  "title": "'Biggest day out I've ever had, numerically ridiculous' – George Bennett reveals power data from mega Il Lombardia breakaway",
   "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/biggest-day-out-ive-ever-had-numerically-ridiculous-george-bennett-reveals-power-data-from-mega-il-lombardia-breakaway/",
   "source": "Cyclingnews",
   "published": "2026-10-10T23:49:05+00:00",
@@ -9476,7 +9476,7 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "04fb6ffd95a7e782d1a1",
+  "id": "344fbe93f18e89ad0d26",
   "atletas": [],
   "clubes": [],
   "competicoes": [
@@ -9487,11 +9487,40 @@
   "arquivado_em": "2026-10-11T01:58:52+00:00"
  },
  {
-  "title": "UCI Gravel World Championships 2026 elite men LIVE - Six riders battle to the finish in Western Australia",
+  "title": "As it happened: Frantic Gravel World Championships finale in Western Australia as Denmark take the rainbow jersey",
   "url": "https://www.cyclingnews.com/pro-cycling/live/uci-gravel-world-championships-2026-elite-men-live-florian-vermeersch-attempts-title-defence-in-western-australia/",
   "source": "Cyclingnews",
   "published": "2026-10-11T01:32:03+00:00",
   "summary": "\n                             Elite men tackle 3,713m of elevation gain across 144km with 85% gravel en route to rainbow-jersey victory \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships, final"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "58800edfc4f29799746f",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-11T09:02:39+00:00"
+ },
+ {
+  "title": "Gravel World Championships: Magnus Bak Klaris sprints to huge victory in thrilling elite men's race",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/gravel-world-championships-magnus-bak-klaris-sprints-to-huge-victory-in-thrilling-elite-mens-race/",
+  "source": "Cyclingnews",
+  "published": "2026-10-11T06:25:24+00:00",
+  "summary": "\n                             Dane beats defending champion Florian Vermeersch, Connor Swift and teammate Mads Würtz Schmidt in four-up sprint to the line \n                                                                                                            ",
   "sport": "ciclismo",
   "kind": "news",
   "start": null,
@@ -9505,7 +9534,7 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "c01e0df8cbd65be75954",
+  "id": "99c1b29f62f4208e7129",
   "atletas": [],
   "clubes": [],
   "competicoes": [
@@ -9513,6 +9542,208 @@
   ],
   "modalidade": "ciclismo",
   "local": "",
-  "arquivado_em": "2026-10-11T09:02:39+00:00"
+  "arquivado_em": "2026-10-11T15:47:59+00:00"
+ },
+ {
+  "title": "'It's a great dream to really be able to compete against Tadej Pogačar' – Paul Seixas takes another step towards his man-made destiny at Il Lombardia",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/its-a-great-dream-to-really-be-able-to-compete-against-tadej-pogacar-paul-seixas-takes-another-step-towards-his-man-made-destiny-at-il-lombardia/",
+  "source": "Cyclingnews",
+  "published": "2026-10-11T07:37:49+00:00",
+  "summary": "\n                             Frenchman rights World Championships wrongs with a very special win to cap off 2026 \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 20,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Grandes eventos: world championships",
+   "Ciclismo — grandes provas: Il Lombardia"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "7041f6c42b4dc5f8ced7",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo",
+   "Il Lombardia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-11T15:47:59+00:00"
+ },
+ {
+  "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
+  "url": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-11T08:19:52+00:00",
+  "summary": "Double Olympic champion Eliud Kipchoge says \"his body is still peaking\" after winning the Melbourne Marathon in a course record time at the age of 41.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Atletismo e corrida — referências: Eliud Kipchoge"
+  ],
+  "where_to_watch": [],
+  "id": "b78445d4f0d3267dfaa2",
+  "atletas": [
+   "Eliud Kipchoge"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "atletismo",
+  "local": "",
+  "arquivado_em": "2026-10-11T15:47:59+00:00"
+ },
+ {
+  "title": "'I messed up that sprint a little bit' – Connor Swift 'pretty gutted' to miss out on closest shot at rainbow at Gravel World Championships",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-messed-up-that-sprint-a-little-bit-connor-swift-pretty-gutted-to-miss-out-on-closest-shot-at-rainbow-at-gravel-world-championships/",
+  "source": "Cyclingnews",
+  "published": "2026-10-11T09:23:31+00:00",
+  "summary": "\n                             Bronze medallist says gravel title is 'the only World Championship jersey that I've got a real shot of getting' \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "6733c42a1d229620e074",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-11T15:47:59+00:00"
+ },
+ {
+  "title": "Bezzecchi wins as Martin retakes championship lead",
+  "url": "https://www.bbc.co.uk/sport/motorsport/articles/cm79p8dgqyp8o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-11T09:27:37+00:00",
+  "summary": "Marco Bezzecchi triumphs at the Indonesian Grand Prix, while Jorge Martin finishes third to retake the lead from Marc Marquez in the MotoGP world championship.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: arco"
+  ],
+  "where_to_watch": [],
+  "id": "7aa84fd1ca39d99ba0e0",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo",
+   "MotoGP"
+  ],
+  "modalidade": "motociclismo",
+  "local": "",
+  "arquivado_em": "2026-10-11T15:47:59+00:00"
+ },
+ {
+  "title": "Paul Seixas quebra recorde histórico de Tadej Pogacar em icônica subida da Il Lombardia, assista o vídeo - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPekZFYzB5MFFfdWQ4OTY4NHdPdmJ6T29QR2wwaFFaX3hJUnZFMnRWNHExSHpoNjVVajR5Y0xSRm9KV2lSNXpOYjJXQlhNUnJqLS0taTlQdV91bGpzQ0RuSHZYZFRzcjZRN0FxSHJJc0wtampmRlVFUGo2ODhxWkVXT2NtVldPSHFCLWxSUEl1MEFJTUx0UldZaENUZVhqb0cwcTBCWExxc0RWdkZ6RjluZjQ4dFdqTjBnQlBpRVdzbEtJRmN0VFp4OGVHdFVUc3c?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-10-11T10:19:17+00:00",
+  "summary": " Paul Seixas quebra recorde histórico de Tadej Pogacar em icônica subida da Il Lombardia, assista o vídeo    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 15,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Ciclismo — grandes provas: Il Lombardia",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "c33e05a8d484b7307b37",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Il Lombardia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-11T15:47:59+00:00"
+ },
+ {
+  "title": "The gravel specialist gets it – A surprise win for Magnus Bak Klaris breaks domination of road pros on top step of Gravel World Championships podium",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/the-gravel-specialist-gets-it-a-surprise-win-for-magnus-bak-klaris-breaks-domination-of-road-pros-on-top-step-of-gravel-world-championships-podium/",
+  "source": "Cyclingnews",
+  "published": "2026-10-11T10:39:03+00:00",
+  "summary": "\n                             'I said before the start that I wanted to risk it and go for a big result and it was the podium I was thinking about' says Danish rider who paid his own way to world title race \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "3d8642c62b71c136a19c",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-11T15:47:59+00:00"
+ },
+ {
+  "title": "Silverware trumps Europe for Derry City's Duffy",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckq5nzwlwn6zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-11T11:28:55+00:00",
+  "summary": "Derry City captain Michael Duffy says winning a trophy takes priority over qualification for Europe as he scores both goals in the Candystripes' FAI Cup semi-final win over Galway United.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "b8cc7151ae5ed7d2505a",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-11T15:47:59+00:00"
  }
 ]
