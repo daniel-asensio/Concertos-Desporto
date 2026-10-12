@@ -9997,7 +9997,7 @@
   "arquivado_em": "2026-10-11T20:22:46+00:00"
  },
  {
-  "title": "Jaguars beat Eagles with last-second kick in London",
+  "title": "Jaguars stun Eagles with last-second win in London",
   "url": "https://www.bbc.co.uk/sport/american-football/articles/cm2kegze5jqyo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Sport",
   "published": "2026-10-11T18:19:27+00:00",
@@ -10012,13 +10012,39 @@
    "Grandes eventos: final"
   ],
   "where_to_watch": [],
-  "id": "115a915cb5bf6004c6ad",
+  "id": "4acc2f04d07946a9cccf",
   "atletas": [],
   "clubes": [],
   "competicoes": [],
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-10-11T20:22:46+00:00"
+ },
+ {
+  "title": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-11T18:32:19+00:00",
+  "summary": "Lewis Hamilton's incorrect strategy call during the Singapore Grand Prix means Kimi Antonelli can win the world title at the next race in Austin.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Lewis Hamilton"
+  ],
+  "where_to_watch": [],
+  "id": "a4f0b49e689005c8d489",
+  "atletas": [
+   "Lewis Hamilton"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-10-12T00:37:42+00:00"
  },
  {
   "title": "Manchester City supera revolta de Anfield e segue líder isolado em Inglaterra",
@@ -10043,5 +10069,55 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-10-11T20:22:46+00:00"
+ },
+ {
+  "title": "Clayton beats Humphries to claim Swiss title",
+  "url": "https://www.bbc.co.uk/sport/darts/articles/cmly02qe7nz0o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-11T20:57:23+00:00",
+  "summary": "Jonny Clayton claims his first ranking title of the year by beating Luke Humphries in the Swiss Darts Trophy final.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "ab765dcd3df18e0ebccb",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-12T00:37:42+00:00"
+ },
+ {
+  "title": "Vicente Pereira sonha em participar nos Jogos Paralímpicos",
+  "url": "https://www.rtp.pt/noticias/desporto/vicente-pereira-sonha-em-participar-nos-jogos-paralimpicos_v1771066",
+  "source": "RTP Desporto",
+  "published": "2026-10-11T21:10:47+00:00",
+  "summary": "  \n      Vicente Pereira é um nadador português com síndrome de Down. Tem 17 títulos de Campeão Mundial, 27 Europeus e inúmeros recordes em provas para atletas com síndrome de Down.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: Jogos Paralímpicos"
+  ],
+  "where_to_watch": [],
+  "id": "edf61df10917ddbb4341",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Jogos Paralímpicos"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-12T00:37:42+00:00"
  }
 ]

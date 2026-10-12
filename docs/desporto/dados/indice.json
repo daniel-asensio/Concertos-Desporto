@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-11T20:22:46+00:00",
- "total": 1539,
+ "actualizado": "2026-10-12T00:37:42+00:00",
+ "total": 1542,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 374
+  "2026-10": 377
  },
  "atletas": {
   "Tadej Pogačar": 143,
@@ -18,7 +18,7 @@
   "Jonas Vingegaard": 10,
   "Mondo Duplantis": 10,
   "Lando Norris": 9,
-  "Lewis Hamilton": 8,
+  "Lewis Hamilton": 9,
   "Charles Leclerc": 6,
   "Isaac Nader": 5,
   "Iúri Leitão": 5,
@@ -53,8 +53,8 @@
   "MotoGP": 4,
   "WRC": 4,
   "Diamond League": 3,
+  "Jogos Paralímpicos": 2,
   "NBA": 2,
-  "Jogos Paralímpicos": 1,
   "Liga Portugal": 1,
   "Maratona de Berlim": 1,
   "Maratona de Londres": 1,
@@ -64,9 +64,9 @@
  },
  "modalidades": {
   "ciclismo": 612,
-  "geral": 359,
+  "geral": 361,
   "futebol": 327,
-  "automobilismo": 43,
+  "automobilismo": 44,
   "atletismo": 34,
   "portugal": 22,
   "triatlo": 19,
@@ -93,9 +93,9 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 674,
+  "RTP Desporto": 675,
   "Cyclingnews": 428,
-  "BBC Sport": 241,
+  "BBC Sport": 243,
   "Ciclismo watchlist": 156,
   "Portugal olímpico": 22,
   "Atletismo watchlist": 16,
