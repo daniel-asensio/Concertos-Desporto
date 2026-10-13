@@ -11054,7 +11054,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/treinador-do-lens-avisa-para-experiencia-do-sporting_v1771274",
   "source": "RTP Desporto",
   "published": "2026-10-12T21:03:49+00:00",
-  "summary": "  \n      O Lens também venceu a primeira jornada da Liga dos Campeões e espera ganhar outra vez, agora perante os seus adeptos. O treinador avisou, no entanto, que o Sporting é um adversário com muito mais experiência do que a sua equipa. ",
+  "summary": "  \n      O Lens também venceu a primeira jornada da Liga dos Campeões e espera ganhar outra vez, agora perante os seus adeptos. O treinador avisou, no entanto, que o Sporting é um adversário com muito mais experiência do que a sua equipa.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -11078,6 +11078,36 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-10-13T07:48:32+00:00"
+ },
+ {
+  "title": "Jonas Vingegaard flagrado durante treino em Mallorca, dinamarquês prepara a temporada 2027, Volta ao Algarve nos planos? - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOEF1RG9jZkQyTDBWdXFyMGRSWEZxeG11bEEzYmNFMlJjZGhCdlByd3BpR0Z1VlJzbmFERU1nVlRQb3dSNUV0N0hoNVVTZ3lMbktwZkNIUVp1TlJSemlJRjNnVjg2bFlsUEdCdGc3dno1TlF5N0p3NGlmakdXSC01QUg4TW1UWWJ5X1BHV19yY2RCb2dNYVdtOGlCN1FWUlFKdFJ2TXZ5ZVphenNZUHVPNnpscmlnYzhqcmpPV3FPcFZZS0VPOXBrMG13UTFlejhoM29heVpNX2F3M1pHa3FVQUdn?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-10-12T21:45:15+00:00",
+  "summary": " Jonas Vingegaard flagrado durante treino em Mallorca, dinamarquês prepara a temporada 2027, Volta ao Algarve nos planos?    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Ciclismo — referências: Jonas Vingegaard",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "8b00f2a8334970fb58ea",
+  "atletas": [
+   "Jonas Vingegaard"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-13T16:06:34+00:00"
  },
  {
   "title": "Benfica B vence Felgueiras no encerramento da sétima jornada",
@@ -11126,5 +11156,221 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-10-13T07:48:32+00:00"
+ },
+ {
+  "title": "South Africa attempt to deny Australia on final day - Test scorecard",
+  "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-13T00:00:00+00:00",
+  "summary": "Latest scorecard from the first Test between South Africa and Australia in Durban.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "1c05722565f05ad4aa68",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-13T16:06:34+00:00"
+ },
+ {
+  "title": "It 'became a nightmare in a split second' – Geerike Schreurs recounts crash that left her in a helicopter on way to hospital rather than chasing the Gravel World Championships title",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/it-became-a-nightmare-in-a-split-second-geerike-schreurs-recounts-crash-that-left-her-in-a-helicopter-on-way-to-hospital-rather-than-chasing-the-gravel-world-championships-title/",
+  "source": "Cyclingnews",
+  "published": "2026-10-13T03:03:05+00:00",
+  "summary": "\n                             'It is crazy how fast things can change' says injured Schreurs in a social media post \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "1ba35b13e9465df864df",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-13T16:06:34+00:00"
+ },
+ {
+  "title": "Wales given play-off history lesson before Albania",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-13T03:33:01+00:00",
+  "summary": "Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they chase a place at next year's tournament in Brazil.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "15b11d119009b6a444b6",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-13T16:06:34+00:00"
+ },
+ {
+  "title": "Wales given play-off history lesson before Albania second leg",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-13T03:33:01+00:00",
+  "summary": "Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they chase a place at next year's tournament in Brazil.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "fca4f59aa0365d86a33a",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-13T16:06:34+00:00"
+ },
+ {
+  "title": "Portugal dá dez à Suíça no Campeonato do Mundo de Hóquei Patins",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-da-dez-a-suica-no-campeonato-do-mundo-de-hoquei-patins_d1771349",
+  "source": "RTP Desporto",
+  "published": "2026-10-13T08:33:07+00:00",
+  "summary": "  \n      Portugal entrou a vencer no Mundial de hóquei em patins, no Paraguai. A seleção nacional encheu a Suíça de golos (10-0), na estreia da fase de grupos.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: campeonato do mundo",
+   "Modalidade olímpica: hóquei"
+  ],
+  "where_to_watch": [],
+  "id": "a39a6db5a92f89a03a27",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "hóquei",
+  "local": "",
+  "arquivado_em": "2026-10-13T16:06:34+00:00"
+ },
+ {
+  "title": "Portugal gere vantagem confortável com segundo play-off para Mundial feminino na mira",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-gere-vantagem-confortavel-com-segundo-play-off-para-mundial-feminino-na-mira_d1771350",
+  "source": "RTP Desporto",
+  "published": "2026-10-13T08:38:46+00:00",
+  "summary": "  \n      A seleção portuguesa feminina de futebol recebe hoje a Irlanda do Norte em Portimão, gerindo uma vantagem de 4-0 na segunda mão do Caminho 1 do primeiro play-off de qualificação para o Mundial2027.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Portugal: seleção portuguesa",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "6b5455d85f83ce3d5c2e",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-13T16:06:34+00:00"
+ },
+ {
+  "title": "Mundial de Hóquei. Portugal vence Suíça por 10-0 e defronta Espanha esta noite",
+  "url": "https://www.rtp.pt/noticias/desporto/mundial-de-hoquei-portugal-vence-suica-por-10-0-e-defronta-espanha-esta-noite_v1771355",
+  "source": "RTP Desporto",
+  "published": "2026-10-13T09:02:47+00:00",
+  "summary": "  \n      Entrada triunfal da seleção nacional no Mundial de Hóquei em Patins! Portugal goleou a Suíça por 10-0 na estreia e volta ao rinque já esta noite para um grande clássico. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Portugal: Portugal vence",
+   "Modalidade olímpica: hóquei"
+  ],
+  "where_to_watch": [],
+  "id": "00ff1aeafa535a9876a5",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "hóquei",
+  "local": "",
+  "arquivado_em": "2026-10-13T16:06:34+00:00"
+ },
+ {
+  "title": "Sporting defronta Lens na Champions",
+  "url": "https://www.rtp.pt/noticias/sporting/sporting-defronta-lens-na-champions_d1771356",
+  "source": "RTP Desporto",
+  "published": "2026-10-13T09:10:12+00:00",
+  "summary": "  \n      O Sporting visita o Lens, num confronto entre os vice-campeões de Portugal e França, a contar para a segunda jornada da fase de liga da Liga dos Campeões.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "a984a1a9a89d98d78173",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-13T16:06:34+00:00"
  }
 ]
