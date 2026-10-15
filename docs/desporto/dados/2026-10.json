@@ -12777,7 +12777,7 @@
  },
  {
   "title": "Sudakov reconhece que sentiu \"pressão\" de ser contratação mais cara do Benfica",
-  "url": "https://www.rtp.pt/noticias/benfica/sudakov-reconhece-que-sentiu-pressao-de-ser-contratacao-mais-cara-do-benfica_d1771691",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/sudakov-reconhece-que-sentiu-pressao-de-ser-contratacao-mais-cara-do-benfica_d1771691",
   "source": "RTP Desporto",
   "published": "2026-10-14T18:42:05+00:00",
   "summary": "  \n       O médio Sudakov reconheceu hoje que sentiu a \"pressão\" de ser a contratação mais cara da história do futebol do Benfica, a par de Richard Ríos, mas revelou que ficou mais tranquilo após a chegada do treinador Marco Silva.\n ",
@@ -13338,7 +13338,7 @@
   "arquivado_em": "2026-10-15T15:06:49+00:00"
  },
  {
-  "title": "Tour de France reportedly set to swerve Montmartre climb on final stage of 2027 route, despite drama of past two years",
+  "title": "Conflicting reports surrounding the inclusion of the Montmartre climb on the final stage of the 2027 Tour de France route",
   "url": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-reportedly-set-to-swerve-montmartre-climb-on-final-stage-of-2027-route-despite-drama-of-past-two-years/",
   "source": "Cyclingnews",
   "published": "2026-10-15T10:06:18+00:00",
@@ -13357,7 +13357,7 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "cc5a90fc20ad3858c4e3",
+  "id": "cc5f909e6a175bb7436d",
   "atletas": [],
   "clubes": [],
   "competicoes": [
@@ -13499,5 +13499,189 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-10-15T15:06:49+00:00"
+ },
+ {
+  "title": "'Fourth place almost feels like a small victory' - Fabio Jakobsen starts to bounce back in Guangxi",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/fourth-place-almost-feels-like-a-small-victory-fabio-jakobsen-starts-to-bounce-back-in-guangxi/",
+  "source": "Cyclingnews",
+  "published": "2026-10-15T13:15:44+00:00",
+  "summary": "\n                             Jakobsen bags his best WorldTour result in over two years \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: WorldTour"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "289c5b1b39ca5b1cf30a",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "WorldTour"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-15T19:14:41+00:00"
+ },
+ {
+  "title": "GB win two golds at Track World Championships",
+  "url": "https://www.bbc.co.uk/sport/cycling/articles/cm75p3eqg2rpo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-15T13:50:52+00:00",
+  "summary": "Great Britain claim gold in the women's team pursuit and the men's scratch race at the World Track Cycling Championships.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [],
+  "id": "f702aa4c32e331953b70",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-15T19:14:41+00:00"
+ },
+ {
+  "title": "Do medo inicial da água ao topo do planeta, o Campeão do Mundo de Triatlo, Vasco Vilaça",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/do-medo-inicial-da-agua-ao-topo-do-planeta-o-campeao-do-mundo-de-triatlo-vasco-vilaca_d1771876",
+  "source": "RTP Desporto",
+  "published": "2026-10-15T14:04:51+00:00",
+  "summary": "  \n      Neste episódio do Hora Bolas, recebemos o recém-coroado Campeão do Mundo de Triatlo, Vasco Vilaça. Numa conversa intimista, o atleta de elite revela como a infância na Amadora, a disciplina nórdica na Suécia e a exigência de Girona moldaram o seu código genético: máxima liberdade, máxima responsabilidade. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: vela, triatlo"
+  ],
+  "where_to_watch": [],
+  "id": "e746054184c252763946",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "triatlo",
+  "local": "",
+  "arquivado_em": "2026-10-15T19:14:41+00:00"
+ },
+ {
+  "title": "Watch new skateboarding speed world record of 151.83 km/h",
+  "url": "https://www.bbc.co.uk/sport/skateboarding/videos/cm70pnd9nedko?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-15T14:34:10+00:00",
+  "summary": "27-year-old Spaniard Diego Poncelet sets new skateboarding speed world record at 151.83 km/h (94.34mph) set in Charlevoix, Quebec.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: skate"
+  ],
+  "where_to_watch": [],
+  "id": "48244b0c068918127e0e",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "skate",
+  "local": "",
+  "arquivado_em": "2026-10-15T19:14:41+00:00"
+ },
+ {
+  "title": "Track World Championships: Great Britain reclaim women's team pursuit title, Bostock wins Scratch Race",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/track-world-championships-great-britain-reclaim-womens-team-pursuit-title-bostock-wins-scratch-race/",
+  "source": "Cyclingnews",
+  "published": "2026-10-15T14:46:15+00:00",
+  "summary": "\n                             Lotte Kopecky takes Elimination gold, Denmark defeat Italy in men's team pursuit \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Lotte Kopecky",
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "f1822fcbfbb46fc6fe61",
+  "atletas": [
+   "Lotte Kopecky"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-15T19:14:41+00:00"
+ },
+ {
+  "title": "Vasco Matos deixa Estoril e protagoniza terceira ‘chicotada psicológica’",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/vasco-matos-deixa-estoril-e-protagoniza-terceira-chicotada-psicologica_d1771903",
+  "source": "RTP Desporto",
+  "published": "2026-10-15T16:17:54+00:00",
+  "summary": "  \n      O treinador Vasco Matos protagonizou hoje a terceira ‘chicotada psicológica’ na I Liga portuguesa de futebol, ao ser afastado do comando técnico do Estoril Praia, que deixou no último lugar da prova, após a realização da oitava jornada.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "1498a27d629d4d107fa3",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-15T19:14:41+00:00"
+ },
+ {
+  "title": "Conselho Executivo da FIFA sem \"respostas satisfatórias\" de Infantino",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/conselho-executivo-da-fifa-sem-respostas-satisfatorias-de-infantino_d1771935",
+  "source": "RTP Desporto",
+  "published": "2026-10-15T18:35:16+00:00",
+  "summary": "  \n      Gianni Infantino presidiu ao primeiro conselho da instância mundial desde o escândalo que quase o derrubou no final do verão. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: final",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "c24f0ed075fa6c02e3c2",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-15T19:14:41+00:00"
  }
 ]
