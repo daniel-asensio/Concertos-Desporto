@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-15T10:03:26+00:00",
- "total": 1657,
+ "actualizado": "2026-10-15T15:06:49+00:00",
+ "total": 1666,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 492
+  "2026-10": 501
  },
  "atletas": {
   "Tadej Pogačar": 147,
@@ -27,24 +27,24 @@
   "Rui Costa": 4,
   "António Morgado": 3,
   "Lotte Kopecky": 2,
+  "Neemias Queta": 2,
   "A'ja Wilson": 1,
   "Eliud Kipchoge": 1,
-  "Neemias Queta": 1,
   "Victor Wembanyama": 1
  },
  "clubes": {
-  "Portugal (selecções)": 125,
+  "Portugal (selecções)": 126,
   "Sporting CP": 102
  },
  "competicoes": {
-  "Campeonato do Mundo": 275,
+  "Campeonato do Mundo": 278,
   "Vuelta a España": 159,
   "Campeonato da Europa": 59,
-  "Liga dos Campeões": 56,
+  "Liga dos Campeões": 57,
   "Il Lombardia": 38,
-  "Taça do Mundo": 22,
-  "WorldTour": 20,
-  "Tour de France": 18,
+  "Taça do Mundo": 23,
+  "WorldTour": 21,
+  "Tour de France": 19,
   "Liga Europa": 15,
   "Fórmula 1": 14,
   "Jogos Olímpicos": 8,
@@ -63,23 +63,23 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 650,
-  "geral": 391,
-  "futebol": 357,
+  "ciclismo": 654,
+  "geral": 392,
+  "futebol": 358,
   "automobilismo": 44,
   "atletismo": 34,
   "portugal": 24,
-  "hóquei": 21,
+  "hóquei": 22,
   "triatlo": 19,
   "judo": 16,
   "voleibol": 16,
   "motociclismo": 15,
-  "basquetebol": 11,
+  "basquetebol": 12,
   "boxe": 7,
   "canoagem": 7,
+  "rugby": 7,
   "andebol": 6,
   "golfe": 6,
-  "rugby": 6,
   "ginástica": 4,
   "sporting": 4,
   "ténis de mesa": 4,
@@ -93,9 +93,9 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 729,
-  "Cyclingnews": 450,
-  "BBC Sport": 267,
+  "RTP Desporto": 733,
+  "Cyclingnews": 452,
+  "BBC Sport": 270,
   "Ciclismo watchlist": 167,
   "Portugal olímpico": 24,
   "Atletismo watchlist": 16,
