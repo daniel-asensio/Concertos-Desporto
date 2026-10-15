@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-15T04:51:42+00:00",
- "total": 1656,
+ "actualizado": "2026-10-15T10:03:26+00:00",
+ "total": 1657,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 491
+  "2026-10": 492
  },
  "atletas": {
   "Tadej Pogačar": 147,
@@ -37,7 +37,7 @@
   "Sporting CP": 102
  },
  "competicoes": {
-  "Campeonato do Mundo": 274,
+  "Campeonato do Mundo": 275,
   "Vuelta a España": 159,
   "Campeonato da Europa": 59,
   "Liga dos Campeões": 56,
@@ -68,7 +68,7 @@
   "futebol": 357,
   "automobilismo": 44,
   "atletismo": 34,
-  "portugal": 23,
+  "portugal": 24,
   "hóquei": 21,
   "triatlo": 19,
   "judo": 16,
@@ -97,7 +97,7 @@
   "Cyclingnews": 450,
   "BBC Sport": 267,
   "Ciclismo watchlist": 167,
-  "Portugal olímpico": 23,
+  "Portugal olímpico": 24,
   "Atletismo watchlist": 16,
   "Sporting — todas as modalidades": 4
  },
