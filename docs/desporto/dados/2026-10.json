@@ -13683,5 +13683,66 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-10-15T19:14:41+00:00"
+ },
+ {
+  "title": "Mundial Hóquei. Portugal - Angola",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/mundial-hoquei-portugal-angola_d1771937",
+  "source": "RTP Desporto",
+  "published": "2026-10-15T18:53:00+00:00",
+  "summary": "  \n      Portugal defronta Angola nos quartos de final do Campeonato do Mundo de hóquei em patins, em Assunção, no Paraguai.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 17,
+  "reasons": [
+   "Portugal: Portugal defronta",
+   "Grandes eventos: campeonato do mundo, final",
+   "Modalidade olímpica: hóquei"
+  ],
+  "where_to_watch": [],
+  "id": "887668e1cde6c64d458d",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "hóquei",
+  "local": "",
+  "arquivado_em": "2026-10-15T22:27:07+00:00"
+ },
+ {
+  "title": "Sporting assegura Ronda Principal, FC Porto afastado da `Champions` de andebol",
+  "url": "https://www.rtp.pt/noticias/fc-porto/sporting-assegura-ronda-principal-fc-porto-afastado-da-champions-de-andebol_d1771953",
+  "source": "RTP Desporto",
+  "published": "2026-10-15T21:42:00+00:00",
+  "summary": "  \n      O Sporting assegurou esta quinta-feira a Ronda Principal da Liga dos Campeões de andebol, ao vencer na receção ao Szeged por 34-28, enquanto o FC Porto foi afastado da prova, ao perder 36-33 diante do Fücshe Berlim.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 12,
+  "reasons": [
+   "Sporting: Sporting",
+   "Modalidade olímpica: andebol"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "ad4658a6b9cf6c62aa12",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "andebol",
+  "local": "",
+  "arquivado_em": "2026-10-15T22:27:07+00:00"
  }
 ]

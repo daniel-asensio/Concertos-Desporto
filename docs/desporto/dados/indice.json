@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-15T19:14:41+00:00",
- "total": 1673,
+ "actualizado": "2026-10-15T22:27:07+00:00",
+ "total": 1675,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 508
+  "2026-10": 510
  },
  "atletas": {
   "Tadej Pogačar": 147,
@@ -33,14 +33,14 @@
   "Victor Wembanyama": 1
  },
  "clubes": {
-  "Portugal (selecções)": 126,
-  "Sporting CP": 102
+  "Portugal (selecções)": 127,
+  "Sporting CP": 103
  },
  "competicoes": {
-  "Campeonato do Mundo": 280,
+  "Campeonato do Mundo": 281,
   "Vuelta a España": 159,
   "Campeonato da Europa": 59,
-  "Liga dos Campeões": 57,
+  "Liga dos Campeões": 58,
   "Il Lombardia": 38,
   "Taça do Mundo": 23,
   "WorldTour": 22,
@@ -69,16 +69,16 @@
   "automobilismo": 44,
   "atletismo": 34,
   "portugal": 24,
-  "hóquei": 22,
+  "hóquei": 23,
   "triatlo": 20,
   "judo": 16,
   "voleibol": 16,
   "motociclismo": 15,
   "basquetebol": 12,
+  "andebol": 7,
   "boxe": 7,
   "canoagem": 7,
   "rugby": 7,
-  "andebol": 6,
   "golfe": 6,
   "ginástica": 4,
   "skate": 4,
@@ -93,7 +93,7 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 736,
+  "RTP Desporto": 738,
   "Cyclingnews": 454,
   "BBC Sport": 272,
   "Ciclismo watchlist": 167,
