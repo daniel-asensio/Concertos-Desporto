@@ -13743,6 +13743,30 @@
   "arquivado_em": "2026-10-16T01:29:09+00:00"
  },
  {
+  "title": "Sutton's predictions v boxer & Ipswich fan Fabio Wardley",
+  "url": "https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-15T19:26:51+00:00",
+  "summary": "BBC Sport football expert Chris Sutton takes on boxer and Ipswich fan Fabio Wardley, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: boxe"
+  ],
+  "where_to_watch": [],
+  "id": "11ae8d22c4eaddf0996e",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-16T12:33:12+00:00"
+ },
+ {
   "title": "Sporting assegura Ronda Principal, FC Porto afastado da `Champions` de andebol",
   "url": "https://www.rtp.pt/noticias/fc-porto/sporting-assegura-ronda-principal-fc-porto-afastado-da-champions-de-andebol_d1771953",
   "source": "RTP Desporto",
@@ -13772,5 +13796,62 @@
   "modalidade": "andebol",
   "local": "",
   "arquivado_em": "2026-10-15T22:27:07+00:00"
+ },
+ {
+  "title": "Mundial Hóquei em Patins. Portugal vence Angola por 5-1",
+  "url": "https://www.rtp.pt/noticias/desporto/mundial-hoquei-em-patins-portugal-vence-angola-por-5-1_v1772043",
+  "source": "RTP Desporto",
+  "published": "2026-10-16T09:09:48+00:00",
+  "summary": "  \n      Portugal já está nas meias-finais do Mundial de Hóquei em Patins! A seleção nacional venceu Angola nos quartos de final por uns expressivos 5-1.  ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 17,
+  "reasons": [
+   "Portugal: Portugal vence",
+   "Grandes eventos: final",
+   "Modalidade olímpica: hóquei"
+  ],
+  "where_to_watch": [],
+  "id": "c4ff63e7ccf7d263e4a3",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "hóquei",
+  "local": "",
+  "arquivado_em": "2026-10-16T12:33:12+00:00"
+ },
+ {
+  "title": "Futre, Machado e Mamona distinguidos nos Prémios Empresariais do Desporto",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/futre-machado-e-mamona-distinguidos-nos-premios-empresariais-do-desporto_d1772051",
+  "source": "RTP Desporto",
+  "published": "2026-10-16T10:00:43+00:00",
+  "summary": "  \n      O antigo futebolista Paulo Futre e as atletas Mariana Machado, de meia distância, e Patrícia Mamona, do triplo salto, foram galardoados na quinta-feira, na sétima edição dos Prémios Empresariais do Desporto, realizada em Montes Claros, em Lisboa.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Atletismo e corrida — referências: Patrícia Mamona",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "dcd532c95f35be763464",
+  "atletas": [
+   "Patrícia Mamona"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "atletismo",
+  "local": "",
+  "arquivado_em": "2026-10-16T12:33:12+00:00"
  }
 ]
