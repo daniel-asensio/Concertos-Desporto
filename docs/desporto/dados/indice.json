@@ -1,22 +1,22 @@
 {
- "actualizado": "2026-10-21T10:17:48+00:00",
- "total": 1891,
+ "actualizado": "2026-10-21T15:22:04+00:00",
+ "total": 1899,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 726
+  "2026-10": 734
  },
  "atletas": {
-  "Tadej Pogačar": 159,
-  "Iúri Leitão": 104,
+  "Tadej Pogačar": 160,
+  "Iúri Leitão": 105,
   "João Almeida": 49,
-  "Remco Evenepoel": 36,
+  "Remco Evenepoel": 37,
   "Wout van Aert": 26,
   "Demi Vollering": 20,
   "Max Verstappen": 19,
   "Miguel Oliveira": 15,
   "Mathieu van der Poel": 14,
-  "Jonas Vingegaard": 11,
+  "Jonas Vingegaard": 12,
   "Mondo Duplantis": 10,
   "Lando Norris": 9,
   "Lewis Hamilton": 9,
@@ -35,17 +35,17 @@
  },
  "clubes": {
   "Portugal (selecções)": 136,
-  "Sporting CP": 109
+  "Sporting CP": 110
  },
  "competicoes": {
   "Campeonato do Mundo": 331,
   "Vuelta a España": 159,
-  "Liga dos Campeões": 65,
+  "Liga dos Campeões": 67,
   "Campeonato da Europa": 59,
   "Il Lombardia": 38,
   "WorldTour": 27,
   "Taça do Mundo": 25,
-  "Tour de France": 23,
+  "Tour de France": 24,
   "Taça de Portugal": 20,
   "Liga Europa": 15,
   "Fórmula 1": 14,
@@ -54,8 +54,8 @@
   "MotoGP": 4,
   "WRC": 4,
   "Diamond League": 3,
+  "NBA": 3,
   "Jogos Paralímpicos": 2,
-  "NBA": 2,
   "WNBA": 2,
   "Liga Portugal": 1,
   "Maratona de Berlim": 1,
@@ -64,9 +64,9 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 796,
-  "geral": 415,
-  "futebol": 391,
+  "ciclismo": 801,
+  "geral": 416,
+  "futebol": 392,
   "automobilismo": 44,
   "atletismo": 35,
   "hóquei": 31,
@@ -75,7 +75,7 @@
   "motociclismo": 18,
   "voleibol": 17,
   "judo": 16,
-  "basquetebol": 13,
+  "basquetebol": 14,
   "rugby": 8,
   "andebol": 7,
   "boxe": 7,
@@ -94,10 +94,10 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 809,
-  "Cyclingnews": 482,
+  "RTP Desporto": 812,
+  "Cyclingnews": 484,
   "BBC Sport": 292,
-  "Ciclismo watchlist": 263,
+  "Ciclismo watchlist": 266,
   "Portugal olímpico": 25,
   "Atletismo watchlist": 16,
   "Sporting — todas as modalidades": 4
