@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-22T20:12:10+00:00",
- "total": 1948,
+ "actualizado": "2026-10-22T23:27:25+00:00",
+ "total": 1953,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 783
+  "2026-10": 788
  },
  "atletas": {
   "Tadej Pogačar": 162,
@@ -35,19 +35,19 @@
  },
  "clubes": {
   "Portugal (selecções)": 137,
-  "Sporting CP": 115
+  "Sporting CP": 116
  },
  "competicoes": {
   "Campeonato do Mundo": 334,
   "Vuelta a España": 159,
-  "Liga dos Campeões": 72,
+  "Liga dos Campeões": 73,
   "Campeonato da Europa": 59,
-  "Tour de France": 39,
+  "Tour de France": 40,
   "Il Lombardia": 38,
   "WorldTour": 27,
   "Taça do Mundo": 25,
+  "Liga Europa": 21,
   "Taça de Portugal": 20,
-  "Liga Europa": 19,
   "Fórmula 1": 14,
   "Jogos Olímpicos": 10,
   "Giro d'Italia": 4,
@@ -64,9 +64,9 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 822,
+  "ciclismo": 823,
   "geral": 428,
-  "futebol": 400,
+  "futebol": 402,
   "automobilismo": 44,
   "atletismo": 37,
   "hóquei": 31,
@@ -77,11 +77,11 @@
   "judo": 16,
   "basquetebol": 14,
   "surf": 11,
+  "andebol": 8,
   "rugby": 8,
-  "andebol": 7,
   "boxe": 7,
   "canoagem": 7,
-  "ginástica": 6,
+  "ginástica": 7,
   "golfe": 6,
   "skate": 4,
   "sporting": 4,
@@ -94,9 +94,9 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 832,
-  "Cyclingnews": 499,
-  "BBC Sport": 299,
+  "RTP Desporto": 835,
+  "Cyclingnews": 500,
+  "BBC Sport": 300,
   "Ciclismo watchlist": 272,
   "Portugal olímpico": 26,
   "Atletismo watchlist": 16,

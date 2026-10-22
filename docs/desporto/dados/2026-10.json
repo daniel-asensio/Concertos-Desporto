@@ -20742,35 +20742,6 @@
   "arquivado_em": "2026-10-22T15:23:03+00:00"
  },
  {
-  "title": "Tour de France UK stages in detail - where can you watch?",
-  "url": "https://www.bbc.co.uk/sport/cycling/articles/cq1kd0z33r8ro?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Sport",
-  "published": "2026-10-22T11:14:49+00:00",
-  "summary": "The full route for the 2027 Tour de France is announced in Paris, with street-by-street details of the six stages in the UK revealed. ",
-  "sport": "geral",
-  "kind": "news",
-  "start": null,
-  "end": null,
-  "location": "",
-  "score": 7,
-  "reasons": [
-   "Ciclismo — grandes provas: Tour de France"
-  ],
-  "where_to_watch": [
-   "Eurosport / Max",
-   "RTP — algumas provas"
-  ],
-  "id": "2001a984a8fda5bd5248",
-  "atletas": [],
-  "clubes": [],
-  "competicoes": [
-   "Tour de France"
-  ],
-  "modalidade": "geral",
-  "local": "",
-  "arquivado_em": "2026-10-22T15:23:03+00:00"
- },
- {
   "title": "Caitlin Simmers e Molly Picklum na final da prova de elite do surf em Peniche",
   "url": "https://www.rtp.pt/noticias/surf/caitlin-simmers-e-molly-picklum-na-final-da-prova-de-elite-do-surf-em-peniche_d1773477",
   "source": "RTP Desporto",
@@ -21251,6 +21222,32 @@
   "arquivado_em": "2026-10-22T20:12:10+00:00"
  },
  {
+  "title": "Torreense sofre derrota pesada no terreno do Ferencváros",
+  "url": "https://www.rtp.pt/noticias/desporto/torreense-sofre-derrota-pesada-no-terreno-do-ferencvaros_e1773540",
+  "source": "RTP Desporto",
+  "published": "2026-10-22T15:41:07+00:00",
+  "summary": "  \n      O Torreense sofreu esta quinta-feira a segunda derrota na fase de liga da Liga Europa em futebol, ao perder no terreno dos húngaros do Ferencváros, por 4-1, em jogo da terceira jornada. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "ae3b34adf67b04f6c46b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga Europa"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-22T23:27:25+00:00"
+ },
+ {
   "title": "Messi espera ser recordado como “um grande desportista”",
   "url": "https://www.rtp.pt/noticias/futebol-internacional/messi-espera-ser-recordado-como-um-grande-desportista_d1773544",
   "source": "RTP Desporto",
@@ -21404,5 +21401,144 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "Tour de France UK stages in detail - where can you watch?",
+  "url": "https://www.bbc.co.uk/sport/cycling/articles/cq1kd0z33r8ro?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-22T17:56:48+00:00",
+  "summary": "The full route for the 2027 Tour de France is announced in Paris, with street-by-street details of the six stages in the UK revealed. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "2001a984a8fda5bd5248",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-22T15:23:03+00:00"
+ },
+ {
+  "title": "Omonia - Benfica",
+  "url": "https://www.rtp.pt/noticias/desporto/omonia-benfica_e1773574",
+  "source": "RTP Desporto",
+  "published": "2026-10-22T18:03:45+00:00",
+  "summary": "  \n      O Benfica procura manter o pleno de vitórias na fase de liga da Liga Europa de futebol, na visita aos cipriotas do Omonia, em jogo da terceira jornada.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "824a30298a83c2250cb1",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga Europa"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-22T23:27:25+00:00"
+ },
+ {
+  "title": "Tour de France 2027 route - The complete stage-by-stage guide",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-2027-route-the-complete-stage-by-stage-guide/",
+  "source": "Cyclingnews",
+  "published": "2026-10-22T19:36:33+00:00",
+  "summary": "\n                             Details of the 21 stages from Edinburgh to Paris \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "87651895e9403ecf2daf",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T23:27:25+00:00"
+ },
+ {
+  "title": "GB's Fraser wins world bronze in All-Around final",
+  "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c9kgjzjjnlzyo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-22T20:28:43+00:00",
+  "summary": "Watch Great Britain's Joe Fraser earn a bronze medal at the World Gymnastics Championships after a tense finish to the men's All-Around final",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "c0b783a60885ffef594b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ginástica",
+  "local": "",
+  "arquivado_em": "2026-10-22T23:27:25+00:00"
+ },
+ {
+  "title": "Sporting vence IFK Kristianstad e mantém liderança do Grupo D da Champions de andebol",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/sporting-vence-ifk-kristianstad-e-mantem-lideranca-do-grupo-d-da-champions-de-andebol_d1773610",
+  "source": "RTP Desporto",
+  "published": "2026-10-22T21:29:58+00:00",
+  "summary": "  \n      O Sporting manteve esta quinta-feira a liderança do Grupo D da Liga dos Campeões de andebol, ao vencer na receção aos suecos do IFK Kristianstad, por 42-40, em jogo da quinta e penúltima jornada desta fase preliminar.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 12,
+  "reasons": [
+   "Sporting: Sporting",
+   "Modalidade olímpica: andebol"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "c37705c7d79408546137",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "andebol",
+  "local": "",
+  "arquivado_em": "2026-10-22T23:27:25+00:00"
  }
 ]
