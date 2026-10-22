@@ -20577,7 +20577,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/liga-dos-campeoes-sporting-derrotado-em-casa-pelo-lask-linz_v1773431",
   "source": "RTP Desporto",
   "published": "2026-10-22T07:49:48+00:00",
-  "summary": "  \n      O Sporting sofreu a primeira derrota na Liga dos Campeões ao perder em Alvalade com o LASK Linz por 3-2.  ",
+  "summary": "  \n      O Sporting sofreu a primeira derrota na Liga dos Campeões ao perder em Alvalade com o LASK Linz por 3-2. \n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -20663,7 +20663,7 @@
   "arquivado_em": "2026-10-22T15:23:03+00:00"
  },
  {
-  "title": "Tour de France 2027 route unveiled – Most time trial kilometres since 2012, brutal Pyrenean queen stage, as Tadej Pogačar eyes record sixth title",
+  "title": "Tour de France 2027 route unveiled with British start, 71km of time trials, and a brutal queen stage as highlights",
   "url": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-2027-route-unveiled-most-time-trial-kilometres-since-2012-brutal-pyrenean-queen-stage-as-tadej-pogacar-eyes-record-sixth-title/",
   "source": "Cyclingnews",
   "published": "2026-10-22T10:16:53+00:00",
@@ -20675,7 +20675,7 @@
   "location": "",
   "score": 20,
   "reasons": [
-   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Ciclismo — referências: Pogacar",
    "Grandes eventos: final",
    "Ciclismo — grandes provas: Tour de France"
   ],
@@ -20683,10 +20683,8 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "f3cfc4de13d28980588d",
-  "atletas": [
-   "Tadej Pogačar"
-  ],
+  "id": "a7e6f90ecdd54adeffec",
+  "atletas": [],
   "clubes": [],
   "competicoes": [
    "Tour de France"
@@ -20904,5 +20902,507 @@
   "modalidade": "surf",
   "local": "",
   "arquivado_em": "2026-10-22T15:23:03+00:00"
+ },
+ {
+  "title": "Tour de France Femmes 2027 route – The complete stage-by-stage guide",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-2027-route-the-complete-stage-by-stage-guide/",
+  "source": "Cyclingnews",
+  "published": "2026-10-22T12:32:47+00:00",
+  "summary": "\n                             All the information about the nine-stage route of the 2027 Tour de France Femmes \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "06723d472e555f7c8632",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "Chris Froome predicts a 'closer' Tour de France in 2027",
+  "url": "https://www.cyclingnews.com/bikes/pro-bikes/chris-froome-predicts-a-closer-tour-de-france-in-2027/",
+  "source": "Cyclingnews",
+  "published": "2026-10-22T12:42:50+00:00",
+  "summary": "\n                             Four-time champion offers his take on the route and says the British Grand Départ will be 'really special' \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "efcc3cc4db720f7e4cf8",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "Câmara de Viana do Castelo aprova voto de louvor a Iúri Leitão e à Federação de Ciclismo - Viana TV",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2FzVHNaYUE3ZE9LczBqNDJKZXNITW00bkxSQmlFM0J3Y0FuSkY4WGNqTDVpcXFodzBmTTJQU0p4R09LQ3liblZiXzdkd2I1eDB2QmxFR1FqSFBGMjRVYkpDRDdjTWtxaFhIdThvdlZSdk5NVjJRVXZJUzBBNzBRMGE3bmx0TG1PRFFsT2lWZWZ2a3NHMlV1THFNNUx6NWQ0amx3ZjB3QTFSbEJZ?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-10-22T13:00:00+00:00",
+  "summary": " Câmara de Viana do Castelo aprova voto de louvor a Iúri Leitão e à Federação de Ciclismo    Viana TV ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Ciclismo — referências: Iúri Leitão",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas",
+   "YouTube oficial da federação — verificar"
+  ],
+  "id": "988195b74b85fac23172",
+  "atletas": [
+   "Iúri Leitão"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "12h30 Sporting: Voltou trauma do Lask",
+  "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-sporting-voltou-trauma-do-lask_a1_1773506",
+  "source": "RTP Desporto",
+  "published": "2026-10-22T13:37:02+00:00",
+  "summary": "  \n       ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "01542c2400210f4dfd15",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "'An opportunity for the sprinters to pull on a yellow jersey' – Mark Cavendish relishing a sprinter winning stage 1 of the 2027 Tour de France",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/an-opportunity-for-the-sprinters-to-pull-on-a-yellow-jersey-mark-cavendish-relishing-a-sprinter-winning-stage-1-of-the-2027-tour-de-france/",
+  "source": "Cyclingnews",
+  "published": "2026-10-22T13:51:53+00:00",
+  "summary": "\n                             Race's record stage winner looking forward to seeing cycling's biggest event return to Great Britain \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "af002d373cf7c1159da7",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "'There are certainly questions lingering after his crash' – Tour de France director doubts whether Tadej Pogačar can reach his previous level, referencing Eddy Merckx's famous 1969 crash",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/there-are-certainly-questions-lingering-after-his-crash-tour-de-france-director-doubts-whether-tadej-pogacar-can-reach-his-previous-level-referencing-eddy-merckxs-famous-1969-crash/",
+  "source": "Cyclingnews",
+  "published": "2026-10-22T13:56:49+00:00",
+  "summary": "\n                             'As you get older, after such a massive crash, are you still the same person? Do you take as many risks?' \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "72845551f8a11d6f71aa",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "Local authorities to decide if spectators allowed on Puy de Dôme climb in Tour de France Femmes, say organisers",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/we-wont-just-do-anything-local-authorities-to-decide-if-spectators-allowed-on-puy-de-dome-in-tour-de-france-femmes-say-organisers/",
+  "source": "Cyclingnews",
+  "published": "2026-10-22T14:07:00+00:00",
+  "summary": "\n                             Final Tour de France Femmes stage taking place on ecologically protected mountain site where spectators were banned in 2023 Tour \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 14,
+  "reasons": [
+   "Grandes eventos: final",
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "de6965208b2fafd03b56",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "South Africa complete famous win over Australia",
+  "url": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-22T14:13:08+00:00",
+  "summary": "South Africa break Australia's resistance in the final session a complete a famous victory in the second Test and set up a series decider in Cape Town.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "0c5ba3b491f726f7d583",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "Visma say 'there could have been more' summit finishes on 2027 Tour de France route, but remain certain of opportunities for two-time winner Jonas Vingegaard",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/visma-say-there-could-have-been-more-summit-finishes-on-2027-tour-de-france-route-but-remain-certain-of-opportunities-for-two-time-winner-jonas-vingegaard/",
+  "source": "Cyclingnews",
+  "published": "2026-10-22T14:51:14+00:00",
+  "summary": "\n                             Dutch team say 'It looks like a route that should suit several of our riders very well' as route is unveiled in Paris \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Jonas Vingegaard",
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "a66bd26e76ed6b9eb1f6",
+  "atletas": [
+   "Jonas Vingegaard"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "No time trial, Alps, or Pyrenees and a finale that might be without fans – I was left wanting more from the Tour de France Femmes route reveal",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/no-time-trial-alps-or-pyrenees-and-a-finale-that-might-be-without-fans-i-was-left-wanting-more-from-the-tour-de-france-femmes-route-reveal/",
+  "source": "Cyclingnews",
+  "published": "2026-10-22T15:13:09+00:00",
+  "summary": "\n                             Breaking down the good and the bad of a course that is making what it can of the limits of geography and time \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 14,
+  "reasons": [
+   "Grandes eventos: final",
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "7a11edf622346010b017",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "'Where is the Tour de France Hommes?' - Marlen Reusser calls for greater equality between men’s and women’s Tour de France",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/where-is-the-tour-de-france-hommes-marlen-reusser-calls-for-greater-equality-between-mens-and-womens-tour-de-france/",
+  "source": "Cyclingnews",
+  "published": "2026-10-22T15:22:02+00:00",
+  "summary": "\n                             Tour de France organisers reply that race has to evolve at same rate as women's cycling \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "b88616cfe5321e17a940",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "What are Real's attacking options during Vinicius Jr ban?",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cq70pj7p0ep6o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-22T15:33:29+00:00",
+  "summary": "Real Madrid’s attacking options are expanding under Jose Mourinho, with Endrick, Yan Diomande and Carlos Espi offering fresh solutions in the final third.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "ce85f01552fc1fb9c879",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "Messi espera ser recordado como “um grande desportista”",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/messi-espera-ser-recordado-como-um-grande-desportista_d1773544",
+  "source": "RTP Desporto",
+  "published": "2026-10-22T15:58:38+00:00",
+  "summary": "  \n      O futebolista argentino Lionel Messi, na véspera de receber o Prémio Princesa das Astúrias do Desporto de 2026, assegurou hoje que gostava de ser recordado como “um grande desportista”.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "5b0f44d33f8ab4f6d552",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "Torun volta a acolher Europeus de atletismo em pista curta em 2029",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/torun-volta-a-acolher-europeus-de-atletismo-em-pista-curta-em-2029_d1773548",
+  "source": "RTP Desporto",
+  "published": "2026-10-22T16:23:38+00:00",
+  "summary": "  \n      A cidade polaca de Torun voltará a acolher os Europeus de atletismo em pista curta, em 2029, oito anos depois de ter organizado os campeonatos sob restrições, devido à pandemia de covid-19, anunciou hoje a European Athletics (EA).\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: atletismo"
+  ],
+  "where_to_watch": [],
+  "id": "0bd26c1dcbd2dea74db3",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "atletismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "Helsínquia vai acolher Campeonatos da Europa de atletismo pela quarta vez em 2030",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/helsinquia-vai-acolher-campeonatos-da-europa-de-atletismo-pela-quarta-vez-em-2030_d1773549",
+  "source": "RTP Desporto",
+  "published": "2026-10-22T16:25:55+00:00",
+  "summary": "  \n      Os Campeonatos da Europa de atletismo vão ser disputados em Helsínquia, em 2030, pela quarta vez, anunciou hoje a European Athletics (EA), após decisão tomada na 181.ª reunião do Conselho da EA, em Lausana, na Suíça.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: atletismo"
+  ],
+  "where_to_watch": [],
+  "id": "001c517fb70f864c023f",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "atletismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "'Some haggis and a deep-fried Mars Bar' - Local star Oscar Onley highlights Scottish specialities ahead of 2027 Tour de France",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/some-haggis-and-a-deep-fried-mars-bar-local-star-oscar-onley-highlights-scottish-specialities-ahead-of-2027-tour-de-france/",
+  "source": "Cyclingnews",
+  "published": "2026-10-22T16:41:59+00:00",
+  "summary": "\n                             After major crash wrecked participation chances in 2026, Netcompany Ineos leader says just taking part is the 'first goal' \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "37c02a229d16db97ecc2",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "Tadej Pogačar tops all UCI rankings but one, while Demi Vollering equally dominant in 2026",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tadej-pogacar-tops-all-uci-rankings-but-one-while-demi-vollering-equally-dominant-in-2026/",
+  "source": "Cyclingnews",
+  "published": "2026-10-22T16:45:32+00:00",
+  "summary": "\n                             Biggest point total of all time for Vollering in women's rankings \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar, Demi Vollering"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "cc7f023a4a1e7c354e40",
+  "atletas": [
+   "Tadej Pogačar",
+   "Demi Vollering"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
+ },
+ {
+  "title": "FIFA escolhe Estados Unidos para a estreia do Mundial feminino de clubes",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/fifa-escolhe-estados-unidos-para-a-estreia-do-mundial-feminino-de-clubes_d1773570",
+  "source": "RTP Desporto",
+  "published": "2026-10-22T17:55:46+00:00",
+  "summary": "  \n      Os Estados Unidos vão organizar a primeira edição do Mundial feminino de clubes de futebol, entre 05 e 30 de janeiro de 2028, anunciou esta quinta-feira a FIFA. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "c4eba344ed04f76e0174",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-22T20:12:10+00:00"
  }
 ]
