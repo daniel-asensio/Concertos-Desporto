@@ -21487,11 +21487,11 @@
   "arquivado_em": "2026-10-22T23:27:25+00:00"
  },
  {
-  "title": "GB's Fraser wins world bronze in All-Around final",
+  "title": "GB's Fraser wins world bronze in all-around final",
   "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c9kgjzjjnlzyo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Sport",
   "published": "2026-10-22T20:28:43+00:00",
-  "summary": "Watch Great Britain's Joe Fraser earn a bronze medal at the World Gymnastics Championships after a tense finish to the men's All-Around final",
+  "summary": "Watch Great Britain's Joe Fraser earn a bronze medal at the World Gymnastics Championships after a tense finish to the men's all-around final",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -21511,8 +21511,32 @@
   "arquivado_em": "2026-10-22T23:27:25+00:00"
  },
  {
+  "title": "GB's Fraser wins all-around bronze at Worlds",
+  "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cqm24l5nnvzro?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-22T20:57:39+00:00",
+  "summary": "Great Britain's Joe Fraser wins bronze in the all-around final at the World Artistic Gymnastics Championships in Rotterdam.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "b443f75fade3af2180de",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ginástica",
+  "local": "",
+  "arquivado_em": "2026-10-23T05:02:34+00:00"
+ },
+ {
   "title": "Sporting vence IFK Kristianstad e mantém liderança do Grupo D da Champions de andebol",
-  "url": "https://www.rtp.pt/noticias/outras-modalidades/sporting-vence-ifk-kristianstad-e-mantem-lideranca-do-grupo-d-da-champions-de-andebol_d1773610",
+  "url": "https://www.rtp.pt/noticias/sporting/sporting-vence-ifk-kristianstad-e-mantem-lideranca-do-grupo-d-da-champions-de-andebol_d1773610",
   "source": "RTP Desporto",
   "published": "2026-10-22T21:29:58+00:00",
   "summary": "  \n      O Sporting manteve esta quinta-feira a liderança do Grupo D da Liga dos Campeões de andebol, ao vencer na receção aos suecos do IFK Kristianstad, por 42-40, em jogo da quinta e penúltima jornada desta fase preliminar.\n ",
@@ -21540,5 +21564,81 @@
   "modalidade": "andebol",
   "local": "",
   "arquivado_em": "2026-10-22T23:27:25+00:00"
+ },
+ {
+  "title": "Português João Henriques é o novo treinador do Nacional",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/portugues-joao-henriques-e-o-novo-treinador-do-nacional_d1773596",
+  "source": "RTP Desporto",
+  "published": "2026-10-22T21:42:10+00:00",
+  "summary": "  \n      João Henriques é o novo treinador do Nacional, o terceiro na época 2026/27, rendendo Alexandre Santos no comando técnico da equipa da I Liga portuguesa de futebol, confirmou hoje à Lusa o presidente Rui Alves.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "eb6f55986bea2c7e74aa",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-23T05:02:34+00:00"
+ },
+ {
+  "title": "Austin track bumps out of control - Verstappen",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-22T22:28:55+00:00",
+  "summary": "Max Verstappen says the bumps on the track that hosts this weekend's United States Grand Prix are \"unacceptable\" and \"out of control\".",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Max Verstappen"
+  ],
+  "where_to_watch": [],
+  "id": "b55a86334ad3c6c95b37",
+  "atletas": [
+   "Max Verstappen"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-10-23T05:02:34+00:00"
+ },
+ {
+  "title": "Approach African GP with humility, says Hamilton",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/c6vgxd2xyv7do?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-22T22:47:30+00:00",
+  "summary": "Lewis Hamilton addresses concerns on human rights grounds about holding an African Grand Prix in Rwanda by saying people should \"approach it with humility\".",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Lewis Hamilton"
+  ],
+  "where_to_watch": [],
+  "id": "e35ab9d78a13bf0c53bf",
+  "atletas": [
+   "Lewis Hamilton"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-10-23T05:02:34+00:00"
  }
 ]
