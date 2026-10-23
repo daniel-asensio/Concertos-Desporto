@@ -1,16 +1,16 @@
 {
- "actualizado": "2026-10-23T15:11:48+00:00",
- "total": 1967,
+ "actualizado": "2026-10-23T19:20:37+00:00",
+ "total": 1982,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 802
+  "2026-10": 817
  },
  "atletas": {
-  "Tadej Pogačar": 164,
+  "Tadej Pogačar": 167,
   "Iúri Leitão": 111,
   "João Almeida": 49,
-  "Remco Evenepoel": 37,
+  "Remco Evenepoel": 38,
   "Wout van Aert": 26,
   "Demi Vollering": 21,
   "Max Verstappen": 20,
@@ -35,14 +35,14 @@
  },
  "clubes": {
   "Portugal (selecções)": 137,
-  "Sporting CP": 116
+  "Sporting CP": 119
  },
  "competicoes": {
-  "Campeonato do Mundo": 334,
+  "Campeonato do Mundo": 337,
   "Vuelta a España": 159,
   "Liga dos Campeões": 73,
   "Campeonato da Europa": 59,
-  "Tour de France": 44,
+  "Tour de France": 47,
   "Il Lombardia": 38,
   "WorldTour": 27,
   "Taça do Mundo": 25,
@@ -64,9 +64,9 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 827,
-  "geral": 431,
-  "futebol": 404,
+  "ciclismo": 832,
+  "geral": 434,
+  "futebol": 407,
   "automobilismo": 46,
   "atletismo": 38,
   "hóquei": 31,
@@ -76,13 +76,13 @@
   "voleibol": 17,
   "judo": 16,
   "basquetebol": 15,
-  "surf": 11,
+  "surf": 14,
   "andebol": 8,
   "ginástica": 8,
   "rugby": 8,
   "boxe": 7,
   "canoagem": 7,
-  "golfe": 6,
+  "golfe": 7,
   "skate": 4,
   "sporting": 4,
   "ténis de mesa": 4,
@@ -94,10 +94,10 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 840,
-  "Cyclingnews": 503,
-  "BBC Sport": 305,
-  "Ciclismo watchlist": 273,
+  "RTP Desporto": 849,
+  "Cyclingnews": 507,
+  "BBC Sport": 306,
+  "Ciclismo watchlist": 274,
   "Portugal olímpico": 26,
   "Atletismo watchlist": 16,
   "Sporting — todas as modalidades": 4
