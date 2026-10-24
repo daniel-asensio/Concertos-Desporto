@@ -22327,6 +22327,30 @@
   "arquivado_em": "2026-10-23T19:20:37+00:00"
  },
  {
+  "title": "Vitória de Guimarães goleia Marítimo e afasta-se da zona perigosa",
+  "url": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-goleia-maritimo-e-afasta-se-da-zona-perigosa_e1773863",
+  "source": "RTP Desporto",
+  "published": "2026-10-23T19:51:31+00:00",
+  "summary": "  \n      O Vitória de Guimarães goleou esta sexta-feira o Marítimo por 4-0, no jogo de abertura da nona jornada da I Liga portuguesa de futebol, resultado que deixa os minhotos mais afastados da zona baixa da tabela.\n\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "275074398f8a3fba1a71",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-24T01:41:35+00:00"
+ },
+ {
   "title": "Vitória de Guimarães - Marítimo",
   "url": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-maritimo_e1773863",
   "source": "RTP Desporto",
@@ -22430,6 +22454,30 @@
   "arquivado_em": "2026-10-23T22:23:52+00:00"
  },
  {
+  "title": "Borussia M'gladbach finally get first win after five-goal thriller",
+  "url": "https://www.bbc.co.uk/sport/football/videos/ck87zl4v2ld8o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-23T21:37:41+00:00",
+  "summary": "Bundesliga's bottom side Borussia Monchengladbach come from behind to beat Stuttgart 3-2, as the away side secure their first league win of the season, at the seventh attempt. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "40807cd2f3fe557dea4f",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-24T01:41:35+00:00"
+ },
+ {
   "title": "II Liga. Desportivo de Chaves vence Vizela após reviravolta nos descontos",
   "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-desportivo-de-chaves-vence-vizela-apos-reviravolta-nos-descontos_d1773899",
   "source": "RTP Desporto",
@@ -22453,5 +22501,55 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-10-23T22:23:52+00:00"
+ },
+ {
+  "title": "Wilson and Williams through to NI Open semi-finals",
+  "url": "https://www.bbc.co.uk/sport/snooker/articles/cqy0r7wj5e9ro?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-23T22:50:02+00:00",
+  "summary": "Former Northern Ireland Open champions Mark Williams and Kyren Wilson win through to the semi-finals of this year's tournament in Belfast.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "c24729dbadc5790235ed",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-24T01:41:35+00:00"
+ },
+ {
+  "title": "Leclerc fastest from Antonelli in US GP practice",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-23T23:40:33+00:00",
+  "summary": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Charles Leclerc"
+  ],
+  "where_to_watch": [],
+  "id": "687f2bbc968884b9456e",
+  "atletas": [
+   "Charles Leclerc"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-10-24T01:41:35+00:00"
  }
 ]

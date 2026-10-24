@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-23T22:23:52+00:00",
- "total": 1987,
+ "actualizado": "2026-10-24T01:41:35+00:00",
+ "total": 1991,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 822
+  "2026-10": 826
  },
  "atletas": {
   "Tadej Pogačar": 167,
@@ -20,7 +20,7 @@
   "Lewis Hamilton": 10,
   "Mondo Duplantis": 10,
   "Lando Norris": 9,
-  "Charles Leclerc": 6,
+  "Charles Leclerc": 7,
   "Isaac Nader": 5,
   "Jakob Ingebrigtsen": 5,
   "Pedro Pichardo": 5,
@@ -65,9 +65,9 @@
  },
  "modalidades": {
   "ciclismo": 833,
-  "geral": 435,
-  "futebol": 409,
-  "automobilismo": 46,
+  "geral": 437,
+  "futebol": 410,
+  "automobilismo": 47,
   "atletismo": 38,
   "hóquei": 31,
   "portugal": 26,
@@ -94,9 +94,9 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 852,
+  "RTP Desporto": 853,
   "Cyclingnews": 508,
-  "BBC Sport": 307,
+  "BBC Sport": 310,
   "Ciclismo watchlist": 274,
   "Portugal olímpico": 26,
   "Atletismo watchlist": 16,
