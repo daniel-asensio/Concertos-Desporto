@@ -22586,7 +22586,7 @@
   "title": "England thrash France to keep alive World Cup hopes",
   "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cr93zwx9pzv9o?at_medium=RSS&at_campaign=rss",
   "source": "BBC Sport",
-  "published": "2026-10-24T08:45:46+00:00",
+  "published": "2026-10-24T10:01:42+00:00",
   "summary": "England beat France 82-0 to maintain their hopes of reaching the Men's Rugby League World Cup semi-finals.",
   "sport": "geral",
   "kind": "news",
@@ -22607,5 +22607,156 @@
   "modalidade": "rugby",
   "local": "",
   "arquivado_em": "2026-10-24T12:45:57+00:00"
+ },
+ {
+  "title": "Who will win the 2027 Tour de France? The favourites for the yellow jersey following the route reveal",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/who-will-win-the-2027-tour-de-france-the-favourites-for-the-yellow-jersey-following-the-route-reveal/",
+  "source": "Cyclingnews",
+  "published": "2026-10-24T10:41:26+00:00",
+  "summary": "\n                             A very early look at the top contenders for a time trial-heavy edition of the Tour de France \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "01b55a3d2bbe0912c5d0",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-24T16:41:58+00:00"
+ },
+ {
+  "title": "'The only way to beat Pogačar is through time trial kilometres' - Tom Dumoulin backs Remco Evenepoel at 2027 Tour de France",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/the-only-way-to-beat-pogacar-is-through-time-trial-kilometres-tom-dumoulin-backs-remco-evenepoel-at-2027-tour-de-france/",
+  "source": "Cyclingnews",
+  "published": "2026-10-24T11:41:38+00:00",
+  "summary": "\n                             Former pro says greatest time trial distance since 2013 'gets my heart racing' and may be the only way to tackle UAE dominance \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Pogacar, Remco Evenepoel",
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "a70f6426517955ae5607",
+  "atletas": [
+   "Tadej Pogačar",
+   "Remco Evenepoel"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-24T16:41:58+00:00"
+ },
+ {
+  "title": "'An alien like Tadej Pogačar might be able to do it' – Red Bull boss Denk would prefer Remco Evenepoel doesn't do Giro d'Italia-Tour de France double in 2027",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/an-alien-like-tadej-pogacar-might-be-able-to-do-it-red-bull-boss-denk-would-prefer-remco-evenepoel-doesnt-do-giro-d-italia-tour-de-france-double-in-2027/",
+  "source": "Cyclingnews",
+  "published": "2026-10-24T12:11:41+00:00",
+  "summary": "\n                             Belgian looks set to return to the Tour after runner-up finish in 2026, but could he also go back to the Giro for first time since 2023? \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar, Remco Evenepoel",
+   "Ciclismo — grandes provas: Tour de France, Giro d'Italia"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "8259021aad258ff40ce1",
+  "atletas": [
+   "Tadej Pogačar",
+   "Remco Evenepoel"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France",
+   "Giro d'Italia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-24T16:41:58+00:00"
+ },
+ {
+  "title": "Tom Pidcock finishes career-best fifth in UCI rankings with Pinarello Q36.5 bringing in major reinforcements for 2027",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/tom-pidcock-finishes-career-best-fifth-in-uci-rankings-with-pinarello-q36-5-bringing-in-major-reinforcements-for-2027/",
+  "source": "Cyclingnews",
+  "published": "2026-10-24T12:23:58+00:00",
+  "summary": "\n                             British rider leads Swiss ProTeam to 12th in rankings, ahead of six WorldTour teams \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: WorldTour"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "b4c28965d20e65be72f4",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "WorldTour"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-24T16:41:58+00:00"
+ },
+ {
+  "title": "Rui Borges e Debast. Treinador confirma que vai falhar próximos dois jogos",
+  "url": "https://www.rtp.pt/noticias/desporto/rui-borges-e-debast-treinador-confirma-que-vai-falhar-proximos-dois-jogos_v1773978",
+  "source": "RTP Desporto",
+  "published": "2026-10-24T13:53:47+00:00",
+  "summary": "  \n      O Sporting joga no domingo com o Académico de Viseu e Rui Borges não conta com Debast, ainda a recuperar de lesão. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [],
+  "id": "2314f416f4e072229221",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-24T16:41:58+00:00"
  }
 ]
