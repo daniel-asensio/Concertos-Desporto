@@ -24508,7 +24508,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/i-liga-academico-de-viseu-impoe-derrota-ao-sporting_v1774363",
   "source": "RTP Desporto",
   "published": "2026-10-26T07:18:47+00:00",
-  "summary": "  \n      O Sporting sofreu uma derrota por 2-1 diante do Académico de Viseu e fica agora a nove pontos do líder FC Porto.  ",
+  "summary": "  \n      O Sporting sofreu uma derrota por 2-1 diante do Académico de Viseu e fica agora a nove pontos do líder FC Porto. \n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -24536,7 +24536,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/i-liga-jhon-duran-apto-para-visita-do-benfica-ao-santa-clara_v1774366",
   "source": "RTP Desporto",
   "published": "2026-10-26T07:28:47+00:00",
-  "summary": "  \n      Marco Silva confirmou que Jhon Durán está apto para o confronto com o Santa Clara.  ",
+  "summary": "  \n      Marco Silva confirmou que Jhon Durán está apto para o confronto com o Santa Clara. \n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -24554,5 +24554,404 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-10-26T14:23:12+00:00"
+ },
+ {
+  "title": "The fewest high mountains for a decade, an easier Queen stage and where are all the summit finishes? – Dissecting the stats of the Tour de France 2027 route",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/the-fewest-high-mountains-for-a-decade-an-easier-queen-stage-and-where-are-all-the-summit-finishes-dissecting-the-stats-of-the-tour-de-france-2027-route/",
+  "source": "Cyclingnews",
+  "published": "2026-10-26T07:46:02+00:00",
+  "summary": "\n                             Tour de France Femmes' highest point will be the lowest since the inaugural edition, as we dive into the stats and figures of both routes \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "3c5399231012255f5bfd",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "Benfica obrigado a vencer para se manter no encalce do FC Porto",
+  "url": "https://www.rtp.pt/noticias/benfica/benfica-obrigado-a-vencer-para-se-manter-no-encalce-do-fc-porto_d1774371",
+  "source": "RTP Desporto",
+  "published": "2026-10-26T08:12:30+00:00",
+  "summary": "  \n      O Benfica está hoje obrigado a vencer em casa do Santa Clara, no jogo que vai encerrar a nona jornada da I Liga de futebol, para poder se manter na perseguição ao líder FC Porto, já vencedor nesta ronda.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "13b6ca72face5dff9d7e",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "Taça de Portugal. \"Europeus\" entram no sorteio dos 16 avos e dos oitavos de final",
+  "url": "https://www.rtp.pt/noticias/taca-de-portugal/taca-de-portugal-europeus-entram-no-sorteio-dos-16-avos-e-dos-oitavos-de-final_d1774372",
+  "source": "RTP Desporto",
+  "published": "2026-10-26T08:17:07+00:00",
+  "summary": "  \n      Os jogos dos 16 avos e dos oitavos de final da Taça de Portugal de futebol vão ficar hoje definidos, num sorteio já com os clubes presentes nas competições europeias de futebol, marcado para as 12h00.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: final",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "73812227ec177007c179",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça de Portugal"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "Campeão Sporting e Benfica favoritos na Ronda Principal da `Champions` de futsal",
+  "url": "https://www.rtp.pt/noticias/sporting/campeao-sporting-e-benfica-favoritos-na-ronda-principal-da-champions-de-futsal_d1774391",
+  "source": "RTP Desporto",
+  "published": "2026-10-26T09:28:09+00:00",
+  "summary": "  \n      O Sporting inicia na quarta-feira a defesa do título na Liga dos Campeões de futsal, no grupo 3 da Ronda Principal de 2026/27, e, tal como o Benfica no agrupamento 4, deverá qualificar-se sem dificuldade para os 'oitavos'.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "03289221ec6e6b680a30",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "Craque do Benfica renuncia à Seleção portuguesa - Glorioso 1904",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JTmlLcjZpRmd1aDRGakFfTERHV2pzcmdtWmIwSVBYNnhNSTRRRGh5dWt0M29CdVBDaXpqRElNbmpwLUhFVnNxaGtYZWpRM25Eak5PT1lfdmlyRmlPSURZZFRqY3RsdzlDMzM4VWUzVWpXaFV3M1pGcjExNA?oc=5",
+  "source": "Portugal olímpico",
+  "published": "2026-10-26T10:54:00+00:00",
+  "summary": " Craque do Benfica renuncia à Seleção portuguesa    Glorioso 1904 ",
+  "sport": "Portugal",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Portugal: seleção portuguesa"
+  ],
+  "where_to_watch": [],
+  "id": "dea2103c83cbf46a5ef8",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "portugal",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "Thirteen years on from Yorkshire, how can the Tour de France Grand Départ in the UK in 2027 actually deliver a lasting legacy this time around?",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/thirteen-years-on-from-yorkshire-how-can-the-tour-de-france-grand-depart-in-the-uk-in-2027-actually-deliver-a-lasting-legacy-this-time-around/",
+  "source": "Cyclingnews",
+  "published": "2026-10-26T11:40:05+00:00",
+  "summary": "\n                             The legacy of 2014 lives on in some ways, but with grassroots racing and participation hitting a low and the Tour now behind a paywall, many are hoping next year's Grand Départ can revitalise cycling in Great Britain \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "dfd55a5a34560841c2f0",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "'What I’m not keen on is paying his salary' – Uno-X Mobility manager Hushovd admits interest in signing Jonas Vingegaard",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/what-im-not-keen-on-is-paying-his-salary-uno-x-mobility-manager-hushovd-admits-interest-in-signing-jonas-vingegaard/",
+  "source": "Cyclingnews",
+  "published": "2026-10-26T12:19:03+00:00",
+  "summary": "\n                             'You speak to lots of people in the cycling world. It’s a small community. So yes, we have' says team boss when asked about contact with Danish star \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Jonas Vingegaard"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "3c6d181704af97269ab4",
+  "atletas": [
+   "Jonas Vingegaard"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "Reigning double Olympic champion Remco Evenepoel takes early look at LA 2028 courses",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/reigning-double-olympic-champion-remco-evenepoel-takes-early-look-at-la-2028-courses/",
+  "source": "Cyclingnews",
+  "published": "2026-10-26T12:46:40+00:00",
+  "summary": "\n                             Belgian fits 65km recon into trip to Specialized HQ in California for wind tunnel testing \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Remco Evenepoel"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "db3a8866e04f32e95cff",
+  "atletas": [
+   "Remco Evenepoel"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "\"Corri com Alberto Contador, mas Tadej Pogacar é algo que nunca vi\" vencedor de etapas do Tour, Giro e Vuelta compara os campeões - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUZ4RUZjeml2bGR1RVpvdDRDSWg1Q2R5TUhtSFVkTkNOZ1E1Ym5INmxFd2VkOUtFVTBIQTRWbHVRX2VZZTc4Rjd6VDFtRzZ3TWJpN1JsVmZtYUhtTFk2YWVmUGt0azRnZWtOZ1VVOWdrOGJwejRKU2dqSXN4LVV0UGpMbUJDWEpsNFNORW1NVXdDQ09hME9EWFRNOWw4bUE0cnNkcVhac2hCQWk2MFNKVm1VUm9XbmNPeEFSeTBodGM3QkJBS1czejZtVXhkeVM0X2xMbTVGQkxoUjBsakVFdHAwSGl5UlZyNTJaeWd2aGROQlE5MHc?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-10-26T12:54:52+00:00",
+  "summary": " \"Corri com Alberto Contador, mas Tadej Pogacar é algo que nunca vi\" vencedor de etapas do Tour, Giro e Vuelta compara os campeões    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "ba73eb4b7a80f9f0c636",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "Benfica visita Torreense na Taça de Portugal, Sporting e FC Porto jogam em casa",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/benfica-visita-torreense-na-taca-de-portugal-sporting-e-fc-porto-jogam-em-casa_d1774435",
+  "source": "RTP Desporto",
+  "published": "2026-10-26T12:55:27+00:00",
+  "summary": "  \n      O Benfica vai jogar em casa do detentor do troféu, Torreense, na quarta eliminatória da Taça de Portugal de futebol, enquanto Sporting e FC Porto recebem equipas de escalões secundários, ditou o sorteio hoje realizado.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 12,
+  "reasons": [
+   "Sporting: Sporting",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "859ff4140a9d462b5ffa",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Taça de Portugal"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "The Zoncolan, the Mortirolo (twice) and the Gavia - 2027 Giro d'Italia set for classic format with return to host of mythical climbs",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/the-zoncolan-the-mortirolo-twice-and-the-gavia-2027-giro-d-italia-set-for-classic-format-with-return-to-host-of-mythical-climbs/",
+  "source": "Cyclingnews",
+  "published": "2026-10-26T13:03:35+00:00",
+  "summary": "\n                             First uphill time trial since 2023 and home Grande Partenza also likely with full route publication due on November 3 \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Ciclismo — grandes provas: Giro d'Italia",
+   "Modalidade olímpica: tiro"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "d04a6312bf47c45e711d",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Giro d'Italia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "\"Até já Sporting CP\". União da Serra acredita que pode superar talento do Sporting na Taça",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/ate-ja-sporting-cp-uniao-da-serra-acredita-que-pode-superar-talento-do-sporting-na-taca_d1774468",
+  "source": "RTP Desporto",
+  "published": "2026-10-26T14:10:41+00:00",
+  "summary": "  \n      O presidente do União da Serra considerou hoje que a 'motivação' pode superar o talento e a melhor formação do Sporting, no encontro da Taça de Portugal de futebol, manifestando o desejo que os ‘leões’ joguem na máxima força.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 12,
+  "reasons": [
+   "Sporting: Sporting CP, Sporting, Leões",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "65bd83da1b67fb4b05ad",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Taça de Portugal"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "Histórico Torreense inicia defesa do troféu frente ao Benfica",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/historico-torreense-inicia-defesa-do-trofeu-frente-ao-benfica_d1774475",
+  "source": "RTP Desporto",
+  "published": "2026-10-26T14:22:14+00:00",
+  "summary": "  \n      Seis meses após ter vencido sensacionalmente o Sporting na final da Taça de Portugal de futebol, o Torreense iniciará a defesa do inédito troféu frente ao Benfica, recordista de títulos na prova, na quarta eliminatória da época 2026/27.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 19,
+  "reasons": [
+   "Sporting: Sporting",
+   "Grandes eventos: final",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "ee564a470f38afe9fd46",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Taça de Portugal"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
+ },
+ {
+  "title": "João Henriques diz que \"foi fácil aceitar convite\" para treinar o Nacional",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/joao-henriques-diz-que-foi-facil-aceitar-convite-para-treinar-o-nacional_d1774477",
+  "source": "RTP Desporto",
+  "published": "2026-10-26T14:25:27+00:00",
+  "summary": "  \n      O novo treinador do Nacional, João Henriques, afirmou hoje que aceitou de imediato o convite para orientar o clube da I Liga portuguesa de futebol, expressando o desejo de retribuir com uma época \"repleta de sucesso\" desportivo.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "6a544f917eb8c59d93c2",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-26T20:35:46+00:00"
  }
 ]
