@@ -24376,6 +24376,33 @@
   "arquivado_em": "2026-10-25T22:38:51+00:00"
  },
  {
+  "title": "Ac. Viseu choca Alvalade",
+  "url": "https://www.rtp.pt/noticias/desporto/ac-viseu-choca-alvalade_e1774232",
+  "source": "RTP Desporto",
+  "published": "2026-10-25T20:14:57+00:00",
+  "summary": "  \n      O Sporting sofreu a primeira derrota da época para o campeonato após a passagem do Académico de Viseu por Alvalade à 9.ª jornada, com o resultado final a fixar-se em 1-2.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 17,
+  "reasons": [
+   "Sporting: Sporting",
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "436968aa4bd7ded38a5a",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-26T01:19:39+00:00"
+ },
+ {
   "title": "Sporting - Ac. Viseu",
   "url": "https://www.rtp.pt/noticias/desporto/sporting-ac-viseu_e1774232",
   "source": "RTP Desporto",
@@ -24402,5 +24429,79 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-10-25T22:38:51+00:00"
+ },
+ {
+  "title": "AC Milan vence em Udine",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/ac-milan-vence-em-udine_d1774298",
+  "source": "RTP Desporto",
+  "published": "2026-10-25T22:28:21+00:00",
+  "summary": "  \n      O AC Milan, com Gonçalo Ramos a titular, venceu por 2-0 em casa da Udinese, para a oitava jornada da Liga italiana, liderada pelo Inter Milão.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "0985843ff42f8dc132d8",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-26T01:19:39+00:00"
+ },
+ {
+  "title": "Mbappé reina em Camp Nou",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/mbappe-reina-em-camp-nou_d1774302",
+  "source": "RTP Desporto",
+  "published": "2026-10-25T22:40:22+00:00",
+  "summary": "  \n      O Real Madrid impôs a primeira derrota ao Barcelona na Liga espanhola, por 2-1, no clássico da 10.ª jornada decidido com um ‘bis’ de Kylian Mbappé, que relança a discussão do campeonato.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "9b21576603250e119de0",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-26T01:19:39+00:00"
+ },
+ {
+  "title": "Smith holds on to beat Schindler in Euros final",
+  "url": "https://www.bbc.co.uk/sport/darts/articles/cv5yn4w8x378o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-25T22:44:47+00:00",
+  "summary": "Ross Smith holds off home favourite Martin Schindler to win the European Championship title for a second time, with world champion Luke Littler having been knocked out in the quarter-finals.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "9a69926a6da8a7bd7a90",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato da Europa"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-26T01:19:39+00:00"
  }
 ]
