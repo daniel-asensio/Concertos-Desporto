@@ -25777,5 +25777,144 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-10-27T18:46:33+00:00"
+ },
+ {
+  "title": "Tribunal suspende encerramento do Boavista por 30 dias a pedido do clube e credores",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/tribunal-suspende-encerramento-do-boavista-por-30-dias-a-pedido-do-clube-e-credores_d1774805",
+  "source": "RTP Desporto",
+  "published": "2026-10-27T17:56:10+00:00",
+  "summary": "  \n      O Tribunal de Comércio de Gaia suspendeu hoje por 30 dias o encerramento da atividade do Boavista, previsto para 31 de outubro, na sequência de um pedido do clube e credores, condicionando a autorização ao pagamento das despesas correntes.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "38d764fdad910894e2e3",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-27T22:59:55+00:00"
+ },
+ {
+  "title": "Taça da Liga. Sporting 0 - 0 Marítimo",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/taca-da-liga-sporting-0-0-maritimo_d1774807",
+  "source": "RTP Desporto",
+  "published": "2026-10-27T17:59:45+00:00",
+  "summary": "  \n      O Sporting está obrigado a vencer na receção ao Marítimo para rumar à final four da Taça da Liga de futebol, jogo ao qual chega após duas derrotas na I Liga e Liga dos Campeões. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 19,
+  "reasons": [
+   "Sporting: Sporting",
+   "Grandes eventos: final",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "56cb70090bf4e69b19df",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-27T22:59:55+00:00"
+ },
+ {
+  "title": "Shakhtar Donetsk vence Dínamo Kiev e avança para os quartos da Taça da Ucrânia",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/shakhtar-donetsk-vence-dinamo-kiev-e-avanca-para-os-quartos-da-taca-da-ucrania_d1774823",
+  "source": "RTP Desporto",
+  "published": "2026-10-27T18:59:38+00:00",
+  "summary": "  \n      O Shakhtar Donetsk, adversário do Sporting na fase de liga da Liga dos Campeões, qualificou-se hoje para os quartos de final da Taça da Ucrânia de futebol, ao vencer o Dínamo Kiev por 3-0, em Lviv.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 19,
+  "reasons": [
+   "Sporting: Sporting",
+   "Grandes eventos: final",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "d03a9c59b104d5f410a7",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-27T22:59:55+00:00"
+ },
+ {
+  "title": "Lucinda Brand switches to Canyon-SRAM for the next two years with plans to end road cycling career at Paris-Roubaix",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/lucinda-brand-switches-to-canyon-sram-for-the-next-two-years-with-plans-to-end-road-cycling-career-at-paris-roubaix/",
+  "source": "Cyclingnews",
+  "published": "2026-10-27T19:45:39+00:00",
+  "summary": "\n                             Dutch rider positioned to ease into role as team manager in 2028 \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Paris-Roubaix"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "d1f179fbd01b263654f6",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Paris-Roubaix"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-27T22:59:55+00:00"
+ },
+ {
+  "title": "Lazio goleia e passa a líder isolado em Itália à condição",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/lazio-goleia-e-passa-a-lider-isolado-em-italia-a-condicao_d1774841",
+  "source": "RTP Desporto",
+  "published": "2026-10-27T20:30:50+00:00",
+  "summary": "  \n      A Lazio passou hoje de forma provisória a líder isolado da Liga italiana de futebol, após golear no campo do Sassuolo (6-2), com dois portugueses em campo e dois golos de Tijjani Noslin, no arranque da nona jornada.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "c21e0c80adcb0a5522b8",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-27T22:59:55+00:00"
  }
 ]
