@@ -25928,7 +25928,7 @@
   "url": "https://www.rtp.pt/noticias/futebol-internacional/lazio-goleia-e-passa-a-lider-isolado-em-italia-a-condicao_d1774841",
   "source": "RTP Desporto",
   "published": "2026-10-27T20:30:50+00:00",
-  "summary": "  \n      A Lazio passou hoje de forma provisória a líder isolado da Liga italiana de futebol, após golear no campo do Sassuolo (6-2), com dois portugueses em campo e dois golos de Tijjani Noslin, no arranque da nona jornada.\n ",
+  "summary": "  \n       ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -25943,7 +25943,7 @@
   "atletas": [],
   "clubes": [],
   "competicoes": [],
-  "modalidade": "futebol",
+  "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-10-27T22:59:55+00:00"
  },
@@ -25994,5 +25994,397 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-10-28T09:50:08+00:00"
+ },
+ {
+  "title": "'I'm getting older and the competitors are getting younger'",
+  "url": "https://www.bbc.co.uk/sport/cycling/videos/c6ewezrq0p5eo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-28T06:07:17+00:00",
+  "summary": "Nine-time Paralympic champion Jody Cundy shares his thoughts ahead of his 17th world championships, in which he's nearing a 20-year unbeaten run.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [],
+  "id": "02fc1039d031820447b1",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "Cundy 'no spring chicken' but nears 20-year unbeaten run",
+  "url": "https://www.bbc.co.uk/sport/cycling/articles/cjn5vql4z137o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-28T06:12:34+00:00",
+  "summary": "Jody Cundy says he is \"no spring chicken\", yet at the age of 48 he could make it 20 years unbeaten in the kilo at the Para-cycling Track World Championships.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [],
+  "id": "cba7b6d42b449ac06207",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "From rivals to team-mates - Ball links up with Pope",
+  "url": "https://www.bbc.co.uk/sport/cycling/articles/cqwy7j5kr3y1o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-28T07:04:48+00:00",
+  "summary": "James Ball is set to ride at his 10th Para-cycling Track World Championships as he looks to defend two titles with new pilot Aaron Pope.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [],
+  "id": "b7dc747dd9e349afde0e",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "Televisão chinesa confirma suspensão da La Liga e rejeita explicações do Real Madrid",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/televisao-chinesa-confirma-suspensao-da-la-liga-e-rejeita-explicacoes-do-real-madrid_d1774903",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T07:33:45+00:00",
+  "summary": "  \n      A televisão estatal chinesa confirmou hoje a suspensão das transmissões da Liga espanhola de futebol devido às declarações de Kylian Mbappé e rejeitou as explicações do Real Madrid, considerando que as palavras do jogador ultrapassaram os limites.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "a7ce553c7bbde08d8ee8",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "Taça da Liga. Leões apurados fente ao Marítimo",
+  "url": "https://www.rtp.pt/noticias/desporto/taca-da-liga-leoes-apurados-fente-ao-maritimo_v1774924",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T08:29:47+00:00",
+  "summary": "  \n      O Sporting garantiu um lugar na Final Four da Taça da Liga, após vencer o Marítimo por dois a um.  ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 17,
+  "reasons": [
+   "Sporting: Sporting, Leões",
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "e8d29f13808e7d34a375",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "What it takes to make the yellow jersey – Inside Castelli's new partnership with the Tour de France",
+  "url": "https://www.cyclingnews.com/cycling-kit-accessories/clothing-shoes/what-it-takes-to-make-the-yellow-jersey-inside-castellis-new-partnership-with-the-tour-de-france/",
+  "source": "Cyclingnews",
+  "published": "2026-10-28T09:17:02+00:00",
+  "summary": "\n                             Cyclingnews speaks with Castelli's Global Brand Manager about how they came on board as the clothing sponsor of the biggest race in the world \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "d5b37c9bd93c96f83ba5",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "Chair skills, quick brain - how O'Neill adapted to wheelchair rugby league",
+  "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c5lyer2wvd3xo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-28T09:19:13+00:00",
+  "summary": "Finlay O'Neill thought his sporting days were over when his dislocated a knee at the age of 16. Now he is preparing to play a part in England's bid to retain the Wheelchair Rugby League World Cup.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [],
+  "id": "5eb5526948997864c6de",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "Scotland men and women win European openers",
+  "url": "https://www.bbc.co.uk/sport/articles/cwp8grl5xypjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-28T09:44:11+00:00",
+  "summary": "Scotland men emulate their female counterparts by opening the European Curling Championships with victory.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: curling"
+  ],
+  "where_to_watch": [],
+  "id": "1f87dd11b37edb042121",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "curling",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "FC Porto e Ac. Viseu procuram presença na `final four` da Taça da Liga",
+  "url": "https://www.rtp.pt/noticias/taca-da-liga/fc-porto-e-ac-viseu-procuram-presenca-na-final-four-da-taca-da-liga_d1774939",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T09:54:13+00:00",
+  "summary": "  \n      O FC Porto recebe hoje o Académico de Viseu nos quartos de final da Taça da Liga, procurando garantir a presença na 'final four' e evitar uma eliminação precoce, como na época passada.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "a7c5b1bfe0286d554d2b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "Why Paul Seixas might not immediately return to the Tour de France in 2027",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/why-paul-seixas-might-not-immediately-return-to-the-tour-de-france-in-2027/",
+  "source": "Cyclingnews",
+  "published": "2026-10-28T11:01:05+00:00",
+  "summary": "\n                             With different potential paths for his future and a keen eye on a home Worlds as priority, will the Frenchman opt for an alternate schedule in upcoming season? \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "76d772cede22ef7bd038",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "Serrano to end career in Puerto Rico in January",
+  "url": "https://www.bbc.co.uk/sport/boxing/articles/cqn8denld133o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-28T11:11:53+00:00",
+  "summary": "Amanda Serrano will face Skye Falzon in Puerto Rico on 9 January in the final fight of her illustrious professional boxing career.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "656f899754706b78a04a",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "boxe",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "From Zwift to the pro ranks – Cofidis sign double Esports World Championships runner-up",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/from-zwift-to-the-pro-ranks-cofidis-sign-double-esports-world-championships-runner-up/",
+  "source": "Cyclingnews",
+  "published": "2026-10-28T11:53:01+00:00",
+  "summary": "\n                             Brazilian racer Gabriela Guerra joins French team on a two-year deal \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: world championships"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "285d564320cc34af122b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-28T12:13:23+00:00",
+  "summary": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: remo"
+  ],
+  "where_to_watch": [],
+  "id": "9b5f68a1adc64ffcf0e1",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "12h30 Pedro Lima é a peça que falta no meio campo do Sporting",
+  "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-pedro-lima-e-a-peca-que-falta-no-meio-campo-do-sporting_a1_1775023",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T12:58:02+00:00",
+  "summary": "  \n       ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "2cf07b0d4cbe750eba52",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "Espanha adia jogos da Taça do Rei devido à tragédia de Toledo",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/espanha-adia-jogos-da-taca-do-rei-devido-a-tragedia-de-toledo_d1775033",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T13:20:38+00:00",
+  "summary": "  \n      A Real Federação Espanhola de Futebol anunciou o adiamento dos jogos de hoje da Taça do Rei, “em sinal de respeito e solidariedade” pelas vítimas do acidente ferroviário, em Toledo, que fez pelo menos 31 mortos.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "85d47c98ca7ff97cb324",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
  }
 ]
