@@ -26102,7 +26102,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/taca-da-liga-leoes-apurados-fente-ao-maritimo_v1774924",
   "source": "RTP Desporto",
   "published": "2026-10-28T08:29:47+00:00",
-  "summary": "  \n      O Sporting garantiu um lugar na Final Four da Taça da Liga, após vencer o Marítimo por dois a um.  ",
+  "summary": "  \n      O Sporting garantiu um lugar na Final Four da Taça da Liga, após vencer o Marítimo por dois a um. \n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -26178,30 +26178,6 @@
    "Taça do Mundo"
   ],
   "modalidade": "rugby",
-  "local": "",
-  "arquivado_em": "2026-10-28T16:42:28+00:00"
- },
- {
-  "title": "Scotland men and women win European openers",
-  "url": "https://www.bbc.co.uk/sport/articles/cwp8grl5xypjo?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Sport",
-  "published": "2026-10-28T09:44:11+00:00",
-  "summary": "Scotland men emulate their female counterparts by opening the European Curling Championships with victory.",
-  "sport": "geral",
-  "kind": "news",
-  "start": null,
-  "end": null,
-  "location": "",
-  "score": 2,
-  "reasons": [
-   "Modalidade olímpica: curling"
-  ],
-  "where_to_watch": [],
-  "id": "1f87dd11b37edb042121",
-  "atletas": [],
-  "clubes": [],
-  "competicoes": [],
-  "modalidade": "curling",
   "local": "",
   "arquivado_em": "2026-10-28T16:42:28+00:00"
  },
@@ -26386,5 +26362,338 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "Chapman thanks trainer and donors after 'freak' injury",
+  "url": "https://www.bbc.co.uk/sport/boxing/articles/c30rlxq4qe1qo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-28T13:31:23+00:00",
+  "summary": "Boxer Raven Chapman reveals that the fast actions of trainer Stuart Scott may have saved her life when she suffered a bleed on the brain over the summer.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: boxe"
+  ],
+  "where_to_watch": [],
+  "id": "6bb0614e9c9b7595fd54",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-28T21:43:52+00:00"
+ },
+ {
+  "title": "Judoka determined to prove refugees belong at Dakar 2026",
+  "url": "https://www.bbc.co.uk/sport/olympics/articles/c9gkv2pvg1gzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-28T14:50:04+00:00",
+  "summary": "Arno Yafunga Botay fled DR Congo with his family in 2017 and will compete at the Dakar 2026 Youth Olympics as a member of the Refugee Olympic Team.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: judo"
+  ],
+  "where_to_watch": [],
+  "id": "4d0f4a789c190377cb0b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-28T21:43:52+00:00"
+ },
+ {
+  "title": "Scotland men & women continue strong Euros starts",
+  "url": "https://www.bbc.co.uk/sport/articles/cwp8grl5xypjo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-28T16:06:59+00:00",
+  "summary": "Scotland men and women both have two wins out of two at the European Curling Championships in Ostrava in the Czech Republic.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: curling"
+  ],
+  "where_to_watch": [],
+  "id": "ead792ac87afe4da177d",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "curling",
+  "local": "",
+  "arquivado_em": "2026-10-28T16:42:28+00:00"
+ },
+ {
+  "title": "Cheika happy to 'fly the flag' for Lebanon",
+  "url": "https://www.bbc.co.uk/sport/articles/ckjwe8290w4jo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-10-28T16:23:11+00:00",
+  "summary": "Lebanon head coach Michael Cheika says he will be approaching the concluding fixture of his side's 2026 Rugby League World Cup campaign as if it is the final.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "b2646570b8d740828f20",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-10-28T21:43:52+00:00"
+ },
+ {
+  "title": "Taça da Liga. Luís Pinto quer Gil Vicente \"ao melhor nível\" para contrariar Benfica",
+  "url": "https://www.rtp.pt/noticias/taca-da-liga/taca-da-liga-luis-pinto-quer-gil-vicente-ao-melhor-nivel-para-contrariar-benfica_d1775098",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T16:52:48+00:00",
+  "summary": "  \n      O treinador do Gil Vicente, Luís Pinto, considerou que a equipa terá de se apresentar “ao melhor nível” para contrariar a solidez e qualidade ofensiva do Benfica nos quartos de final da Taça da Liga de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: final",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "668e41294c445d1c76e4",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-28T21:43:52+00:00"
+ },
+ {
+  "title": "'He's now one of the big stars in cycling' – Can Visma fit British rider Matthew Brennan into Tour de France plans alongside Vingegaard and Van Aert?",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/hes-now-one-of-the-big-stars-in-cycling-can-visma-fit-british-rider-matthew-brennan-into-tour-de-france-plans-alongside-vingegaard-and-van-aert/",
+  "source": "Cyclingnews",
+  "published": "2026-10-28T17:19:47+00:00",
+  "summary": "\n                             Team boss Richard Plugge says team will have to consider bringing 21-year-old star after five stage wins in Vuelta a España and stunning season \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France, Vuelta a España"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "f467d8f51f511b44f0a2",
+  "atletas": [
+   "Jonas Vingegaard"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France",
+   "Vuelta a España"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-10-28T21:43:52+00:00"
+ },
+ {
+  "title": "Taça da Liga. Durán convocado no Benfica apesar da incerteza sobre castigo",
+  "url": "https://www.rtp.pt/noticias/benfica/taca-da-liga-duran-convocado-no-benfica-apesar-da-incerteza-sobre-castigo_d1775106",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T17:37:37+00:00",
+  "summary": "  \n      O avançado do Benfica Jhon Durán está convocado para o jogo com o Gil Vicente, da Taça da Liga em futebol, adiantou hoje o treinador, Marco Silva, apesar de ainda não saber se pode utilizá-lo.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: arco, futebol"
+  ],
+  "where_to_watch": [],
+  "id": "255266c4183d2128f7c7",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-28T21:43:52+00:00"
+ },
+ {
+  "title": "Champions feminina. Arsenal - Benfica",
+  "url": "https://www.rtp.pt/noticias/benfica/champions-feminina-arsenal-benfica_d1775112",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T17:57:28+00:00",
+  "summary": "  \n      O Benfica quer mostrar \"identidade\" e \"lutar pelos pontos até ao final\" do encontro com o Arsenal, da terceira jornada da fase de liga da Liga dos Campeões feminina de futebol, afirmou o treinador Ivan Baptista.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: final",
+   "Modalidade olímpica: luta, futebol"
+  ],
+  "where_to_watch": [],
+  "id": "f1822df7da4722ac25ad",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-28T21:43:52+00:00"
+ },
+ {
+  "title": "Taça da Liga. FC Porto - Académico de Viseu",
+  "url": "https://www.rtp.pt/noticias/fc-porto/taca-da-liga-fc-porto-academico-de-viseu_d1775113",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T17:59:36+00:00",
+  "summary": "  \n      O jogo dos quartos de final da Taça da Liga entre o FC Porto e o Académico de Viseu realiza-se na Estádio do Dragão. Os azuis e brancos procuram chegar à  Final Four e evitar uma eliminação precoce, como na época passada. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "f0ec532c9be5eadd49e1",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-28T21:43:52+00:00"
+ },
+ {
+  "title": "Marco Silva vê na Taça da Liga \"oportunidade para dar jogo a muita gente\"",
+  "url": "https://www.rtp.pt/noticias/benfica/marco-silva-ve-na-taca-da-liga-oportunidade-para-dar-jogo-a-muita-gente_d1775128",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T18:19:47+00:00",
+  "summary": "  \n      O treinador do Benfica, Marco Silva, vê na Taça da Liga em futebol “uma oportunidade para dar jogo” aos atletas menos utilizados numa “competição doméstica muito importante” e não como uma “sobrecarga” nos calendários competitivos.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: arco, futebol"
+  ],
+  "where_to_watch": [],
+  "id": "49f01dc3b89f1a823634",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-28T21:43:52+00:00"
+ },
+ {
+  "title": "Campeão Sporting entra a vencer na Ronda Principal da Liga dos Campeões de futsal",
+  "url": "https://www.rtp.pt/noticias/futsal/campeao-sporting-entra-a-vencer-na-ronda-principal-da-liga-dos-campeoes-de-futsal_d1775136",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T18:36:56+00:00",
+  "summary": "  \n      O Sporting iniciou a defesa do troféu da Liga dos Campeões de futsal com uma goleada sobre os bielorrussos do Stalitsa Minsk (5-1), na primeira jornada do Grupo 3 do caminho A da Ronda Principal.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada",
+   "DAZN — confirmar"
+  ],
+  "id": "41837ef5d487a053ac45",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-10-28T21:43:52+00:00"
+ },
+ {
+  "title": "FC Porto SAD lança obrigações de 40 milhões com juros ligados ao êxito desportivo",
+  "url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-sad-lanca-obrigacoes-de-40-milhoes-com-juros-ligados-ao-exito-desportivo_d1775144",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T18:48:25+00:00",
+  "summary": "  \n      A FC Porto SAD anunciou hoje um empréstimo obrigacionista de até 40 milhões de euros (ME), com juros anuais brutos de 5,25%, que podem atingir 6% em função do sucesso desportivo da equipa principal de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "97f62c1c593fce823936",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-28T21:43:52+00:00"
+ },
+ {
+  "title": "Benfica exige investigação rigorosa à expulsão do avançado Jhon Durán",
+  "url": "https://www.rtp.pt/noticias/benfica/benfica-exige-investigacao-rigorosa-a-expulsao-do-avancado-jhon-duran_d1775146",
+  "source": "RTP Desporto",
+  "published": "2026-10-28T18:49:56+00:00",
+  "summary": "  \n      O Benfica defendeu que o Conselho de Disciplina (CD) da Federação Portuguesa de Futebol (FPF) deve analisar o caso da expulsão do avançado Jhon Durán com rigor, considerando que é “uma falsidade” que deve ser apurada.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "4f9b34124383f8891a96",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-10-28T21:43:52+00:00"
  }
 ]
