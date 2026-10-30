@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-10-30T19:29:49+00:00",
- "total": 2200,
+ "actualizado": "2026-10-30T23:53:36+00:00",
+ "total": 2213,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 1035
+  "2026-10": 1048
  },
  "atletas": {
   "Tadej Pogačar": 180,
@@ -20,7 +20,7 @@
   "Lewis Hamilton": 11,
   "Mondo Duplantis": 10,
   "Lando Norris": 9,
-  "Charles Leclerc": 7,
+  "Charles Leclerc": 8,
   "Isaac Nader": 5,
   "Jakob Ingebrigtsen": 5,
   "Pedro Pichardo": 5,
@@ -34,17 +34,17 @@
   "Victor Wembanyama": 1
  },
  "clubes": {
-  "Sporting CP": 152,
+  "Sporting CP": 155,
   "Portugal (selecções)": 139
  },
  "competicoes": {
   "Campeonato do Mundo": 347,
   "Vuelta a España": 160,
-  "Liga dos Campeões": 85,
+  "Liga dos Campeões": 86,
   "Campeonato da Europa": 62,
   "Tour de France": 57,
   "Il Lombardia": 39,
-  "Taça do Mundo": 34,
+  "Taça do Mundo": 35,
   "WorldTour": 33,
   "Taça de Portugal": 26,
   "Liga Europa": 22,
@@ -61,29 +61,30 @@
   "Liga Portugal": 1,
   "Maratona de Berlim": 1,
   "Maratona de Londres": 1,
+  "Volta a Portugal": 1,
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 876,
-  "geral": 525,
-  "futebol": 456,
-  "automobilismo": 48,
+  "ciclismo": 877,
+  "geral": 528,
+  "futebol": 460,
+  "automobilismo": 50,
   "atletismo": 44,
   "hóquei": 31,
   "portugal": 27,
   "triatlo": 23,
+  "judo": 19,
   "basquetebol": 18,
-  "judo": 18,
   "motociclismo": 18,
   "voleibol": 17,
-  "rugby": 14,
+  "rugby": 15,
   "surf": 14,
   "ginástica": 12,
   "andebol": 10,
   "boxe": 8,
   "canoagem": 7,
   "golfe": 7,
-  "sporting": 6,
+  "sporting": 7,
   "curling": 4,
   "skate": 4,
   "ténis de mesa": 4,
@@ -95,13 +96,13 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 982,
+  "RTP Desporto": 989,
   "Cyclingnews": 535,
-  "BBC Sport": 347,
+  "BBC Sport": 352,
   "Ciclismo watchlist": 287,
   "Portugal olímpico": 27,
   "Atletismo watchlist": 16,
-  "Sporting — todas as modalidades": 6
+  "Sporting — todas as modalidades": 7
  },
  "locais": {}
 }
