@@ -1,10 +1,11 @@
 {
- "actualizado": "2026-11-01T01:16:25+00:00",
- "total": 2258,
+ "actualizado": "2026-11-01T07:39:09+00:00",
+ "total": 2259,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
-  "2026-10": 1093
+  "2026-10": 1093,
+  "2026-11": 1
  },
  "atletas": {
   "Tadej Pogačar": 186,
@@ -17,7 +18,7 @@
   "Jonas Vingegaard": 18,
   "Miguel Oliveira": 15,
   "Mathieu van der Poel": 14,
-  "Lewis Hamilton": 12,
+  "Lewis Hamilton": 13,
   "Mondo Duplantis": 10,
   "Lando Norris": 9,
   "Charles Leclerc": 7,
@@ -48,7 +49,7 @@
   "WorldTour": 34,
   "Taça de Portugal": 26,
   "Liga Europa": 23,
-  "Fórmula 1": 15,
+  "Fórmula 1": 16,
   "Jogos Olímpicos": 13,
   "Giro d'Italia": 7,
   "NBA": 6,
@@ -68,7 +69,7 @@
   "ciclismo": 886,
   "geral": 536,
   "futebol": 479,
-  "automobilismo": 51,
+  "automobilismo": 52,
   "atletismo": 44,
   "hóquei": 31,
   "portugal": 27,
@@ -98,7 +99,7 @@
  "fontes": {
   "RTP Desporto": 1017,
   "Cyclingnews": 538,
-  "BBC Sport": 362,
+  "BBC Sport": 363,
   "Ciclismo watchlist": 291,
   "Portugal olímpico": 27,
   "Atletismo watchlist": 16,
