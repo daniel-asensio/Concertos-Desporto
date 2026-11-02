@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-02T17:12:28+00:00",
- "total": 2298,
+ "actualizado": "2026-11-02T23:55:27+00:00",
+ "total": 2316,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
   "2026-10": 1092,
-  "2026-11": 41
+  "2026-11": 59
  },
  "atletas": {
   "Tadej Pogačar": 190,
   "Iúri Leitão": 115,
-  "João Almeida": 49,
-  "Remco Evenepoel": 41,
+  "João Almeida": 50,
+  "Remco Evenepoel": 42,
   "Wout van Aert": 27,
   "Demi Vollering": 23,
   "Max Verstappen": 23,
-  "Jonas Vingegaard": 18,
+  "Jonas Vingegaard": 19,
   "Miguel Oliveira": 15,
   "Lewis Hamilton": 14,
   "Mathieu van der Poel": 14,
@@ -35,22 +35,22 @@
   "Victor Wembanyama": 1
  },
  "clubes": {
-  "Sporting CP": 159,
-  "Portugal (selecções)": 140
+  "Sporting CP": 164,
+  "Portugal (selecções)": 141
  },
  "competicoes": {
   "Campeonato do Mundo": 352,
   "Vuelta a España": 160,
-  "Liga dos Campeões": 86,
+  "Liga dos Campeões": 89,
   "Campeonato da Europa": 65,
-  "Tour de France": 60,
+  "Tour de France": 61,
   "Il Lombardia": 39,
+  "WorldTour": 37,
   "Taça do Mundo": 36,
-  "WorldTour": 35,
   "Taça de Portugal": 26,
   "Liga Europa": 24,
   "Fórmula 1": 18,
-  "Jogos Olímpicos": 14,
+  "Jogos Olímpicos": 15,
   "Giro d'Italia": 8,
   "NBA": 7,
   "WNBA": 5,
@@ -66,15 +66,15 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 894,
-  "geral": 541,
-  "futebol": 490,
+  "ciclismo": 899,
+  "geral": 547,
+  "futebol": 495,
   "automobilismo": 55,
   "atletismo": 44,
   "hóquei": 33,
   "portugal": 27,
+  "judo": 23,
   "triatlo": 23,
-  "judo": 22,
   "basquetebol": 21,
   "motociclismo": 18,
   "voleibol": 17,
@@ -85,7 +85,7 @@
   "golfe": 11,
   "boxe": 9,
   "canoagem": 8,
-  "sporting": 7,
+  "sporting": 8,
   "ténis de mesa": 5,
   "curling": 4,
   "skate": 4,
@@ -97,13 +97,13 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 1043,
-  "Cyclingnews": 542,
-  "BBC Sport": 369,
-  "Ciclismo watchlist": 294,
+  "RTP Desporto": 1053,
+  "Cyclingnews": 546,
+  "BBC Sport": 371,
+  "Ciclismo watchlist": 295,
   "Portugal olímpico": 27,
   "Atletismo watchlist": 16,
-  "Sporting — todas as modalidades": 7
+  "Sporting — todas as modalidades": 8
  },
  "locais": {}
 }
