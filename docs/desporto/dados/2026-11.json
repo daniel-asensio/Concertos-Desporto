@@ -1345,7 +1345,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/shakhtar-recebe-sporting-em-londres_v1776376",
   "source": "RTP Desporto",
   "published": "2026-11-02T16:18:47+00:00",
-  "summary": "  \n      O próximo adversário do Sporting na Liga dos Campeões não joga em casa há mais de uma década. Longe de Donetsk, o Shakhtar faz agora de Londres a cidade onde cumpre os jogos europeus. ",
+  "summary": "  \n      O próximo adversário do Sporting na Liga dos Campeões não joga em casa há mais de uma década. Longe de Donetsk, o Shakhtar faz agora de Londres a cidade onde cumpre os jogos europeus.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -1711,5 +1711,197 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-11-03T06:58:25+00:00"
+ },
+ {
+  "title": "Sporting CP x SL Benfica - Voleibol Feminino: Liga Solverde.pt Feminina - Desporto - RTP",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3Ry1iWEpzUWVVX2RkeUxsYWVhb3BuQ1JKbmcyaEZRRkxoWUZSMXg4TkV0a0hMd3J2a1E4TXJBQkhPNXUwLXBTclJTLUV2d0lHbkE?oc=5",
+  "source": "Sporting — todas as modalidades",
+  "published": "2026-11-03T05:45:12+00:00",
+  "summary": " Sporting CP x SL Benfica - Voleibol Feminino: Liga Solverde.pt Feminina - Desporto    RTP ",
+  "sport": "Sporting",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 12,
+  "reasons": [
+   "Sporting: Sporting CP, Sporting",
+   "Modalidade olímpica: voleibol"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "e55f6488c3d072417586",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "sporting",
+  "local": "",
+  "arquivado_em": "2026-11-03T15:18:51+00:00"
+ },
+ {
+  "title": "The referee who became a role model after bouncing back from Diaz error",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-03T06:41:31+00:00",
+  "summary": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "16eed9537694e02ded43",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-03T15:18:51+00:00"
+ },
+ {
+  "title": "Tiago Fernandes assume comando interino do Sporting na Champions",
+  "url": "https://www.rtp.pt/noticias/desporto/tiago-fernandes-assume-comando-interino-do-sporting-na-champions_v1776507",
+  "source": "RTP Desporto",
+  "published": "2026-11-03T08:21:47+00:00",
+  "summary": "  \n      O Sporting joga esta terça-feira frente ao Shakhtar Donetsk, em partida a contar para a Liga dos Campeões. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "81abee5e662ac443167f",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-03T15:18:51+00:00"
+ },
+ {
+  "title": "NZ's Ponga back in World Cup contention after broken arm",
+  "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c61wv1z5781zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-03T08:39:17+00:00",
+  "summary": "New Zealand call Kalyn Ponga and Phoenix Crossland into their extended squad for their 2026 Rugby League World Cup semi-final against Tonga.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "ce028dd65275fb196ad5",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-11-03T15:18:51+00:00"
+ },
+ {
+  "title": "England beat USA 134-0 to reach World Cup semi-finals",
+  "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crwydqxw1l8ko?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-03T09:30:56+00:00",
+  "summary": "England improve to a \"seven out of 10\" rating at the 2026 Wheelchair Rugby League World Cup as they secure their place in the semi-finals, according to player Mason Billington.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "bb63aa46b557f139b05b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-11-03T15:18:51+00:00"
+ },
+ {
+  "title": "Sporting defronta Shakhtar Donetsk na Liga dos Campeões",
+  "url": "https://www.rtp.pt/noticias/sporting/sporting-defronta-shakhtar-donetsk-na-liga-dos-campeoes_d1776521",
+  "source": "RTP Desporto",
+  "published": "2026-11-03T09:51:48+00:00",
+  "summary": "  \n      O Sporting procura hoje regressar aos triunfos na Liga dos Campeões, num duelo frente ao Shakhtar Donetsk, da quarta jornada da fase de liga, já sem Rui Borges como treinador.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada",
+   "DAZN — confirmar"
+  ],
+  "id": "a3ea2593d3e3ed859829",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-03T15:18:51+00:00"
+ },
+ {
+  "title": "Jogador do Tenerife morre após incidente em campo",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/jogador-do-tenerife-morre-apos-incidente-em-campo_d1776522",
+  "source": "RTP Desporto",
+  "published": "2026-11-03T09:59:51+00:00",
+  "summary": "  \n      O avançado espanhol do Club Desportivo Tenerife Jesús de Miguel, de 30 anos, morreu hoje num hospital das Canárias onde estava internado desde segunda-feira na sequência de um forte impacto sofrido durante o jogo com o Andorra.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "d7bc9fa0d5ac42224b68",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-03T15:18:51+00:00"
  }
 ]
