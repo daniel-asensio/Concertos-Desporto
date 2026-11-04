@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-04T18:03:54+00:00",
- "total": 2367,
+ "actualizado": "2026-11-04T23:46:06+00:00",
+ "total": 2387,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
   "2026-10": 1092,
-  "2026-11": 110
+  "2026-11": 130
  },
  "atletas": {
-  "Tadej Pogačar": 192,
+  "Tadej Pogačar": 197,
   "Iúri Leitão": 115,
   "João Almeida": 50,
   "Remco Evenepoel": 42,
   "Wout van Aert": 27,
   "Demi Vollering": 24,
   "Max Verstappen": 23,
-  "Jonas Vingegaard": 19,
+  "Jonas Vingegaard": 20,
   "Miguel Oliveira": 16,
   "Lewis Hamilton": 14,
   "Mathieu van der Poel": 14,
@@ -35,23 +35,23 @@
   "Victor Wembanyama": 1
  },
  "clubes": {
-  "Sporting CP": 179,
+  "Sporting CP": 183,
   "Portugal (selecções)": 143
  },
  "competicoes": {
   "Campeonato do Mundo": 352,
   "Vuelta a España": 160,
-  "Liga dos Campeões": 102,
+  "Liga dos Campeões": 103,
   "Campeonato da Europa": 67,
-  "Tour de France": 64,
+  "Tour de France": 65,
   "Taça do Mundo": 40,
   "Il Lombardia": 39,
   "WorldTour": 39,
+  "Liga Europa": 26,
   "Taça de Portugal": 26,
-  "Liga Europa": 24,
+  "Jogos Olímpicos": 19,
   "Fórmula 1": 18,
-  "Jogos Olímpicos": 18,
-  "Giro d'Italia": 15,
+  "Giro d'Italia": 17,
   "NBA": 7,
   "WNBA": 5,
   "MotoGP": 4,
@@ -66,9 +66,9 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 909,
-  "geral": 562,
-  "futebol": 508,
+  "ciclismo": 917,
+  "geral": 567,
+  "futebol": 515,
   "automobilismo": 55,
   "atletismo": 45,
   "hóquei": 34,
@@ -97,10 +97,10 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 1084,
-  "Cyclingnews": 555,
+  "RTP Desporto": 1096,
+  "Cyclingnews": 558,
   "BBC Sport": 378,
-  "Ciclismo watchlist": 296,
+  "Ciclismo watchlist": 301,
   "Portugal olímpico": 29,
   "Atletismo watchlist": 16,
   "Sporting — todas as modalidades": 9

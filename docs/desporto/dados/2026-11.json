@@ -2823,7 +2823,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/liga-dos-campeoes-sporting-cumpre-e-vence-shakhtar-por-1-0_v1776785",
   "source": "RTP Desporto",
   "published": "2026-11-04T08:10:47+00:00",
-  "summary": "  \n      O Sporting venceu o Shakhtar por 1-0 para a Liga dos Campeões, no primeiro jogo após a saída de Rui Borges e antes da chegada de Paulo Fonseca ao comando técnico.  ",
+  "summary": "  \n      O Sporting venceu o Shakhtar por 1-0 para a Liga dos Campeões, no primeiro jogo após a saída de Rui Borges e antes da chegada de Paulo Fonseca ao comando técnico. \n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -2854,7 +2854,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/novo-treinador-do-sporting-ja-chegou-a-lisboa_v1776786",
   "source": "RTP Desporto",
   "published": "2026-11-04T08:12:47+00:00",
-  "summary": "  \n      Paulo Fonseca já está em Portugal. O novo treinador do Sporting aterrou ontem em Lisboa e mostrou-se satisfeito por estar de regresso ao país.  ",
+  "summary": "  \n      Paulo Fonseca já está em Portugal. O novo treinador do Sporting aterrou ontem em Lisboa e mostrou-se satisfeito por estar de regresso ao país. \n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -2993,5 +2993,559 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-11-04T18:03:54+00:00"
+ },
+ {
+  "title": "Lyon confirma Paulo Fonseca no Sporting",
+  "url": "https://www.rtp.pt/noticias/sporting/lyon-confirma-paulo-fonseca-no-sporting_d1776841",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T12:04:45+00:00",
+  "summary": "  \n      Paulo Fonseca é o substituto de Rui Borges no comando técnico do Sporting, anunciou o Lyon, clube da Liga francesa que o treinador orientava há cerca de um ano e meio.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "98d1fbc04741d633d1e7",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "Sorteio perspetiva Sporting-Benfica nos `quartos` da Champions de futsal",
+  "url": "https://www.rtp.pt/noticias/futsal/sorteio-perspetiva-sporting-benfica-nos-quartos-da-champions-de-futsal_d1776845",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T12:27:23+00:00",
+  "summary": "  \n      O Sporting, detentor do troféu, vai defrontar o TFK Beitar nos oitavos de final da Liga dos Campeões de futsal, enquanto o Benfica terá pela frente o Kauno Zalgiris, perspetivando-se um duelo luso nos ‘quartos’, ditou hoje o sorteio.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 17,
+  "reasons": [
+   "Sporting: Sporting",
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "8177038f9ea8b7b56cd6",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "\"Tadej Pogacar será muito bem vindo no Giro d’Italia\" diretor mantém esperança sobre Pogacar na Corsa Rosa - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYWZZOE4wUXA4Ym5MMTFnWGxiUmU4WkxSZHF2UWM3OXk1TXA4M3NfSDhjaGR3X2htTThwVlRLMUt2YlRTX3lLc2JyRnBDUUtYdzh3SlR3ZUZrYWZkbDVBektVVEJhRGwwT3p5S0lEUjlHcm1GUVJZcVBMeDA4cE1aMENyamdEbEdubUd4TGdydjZlNjRXdGhVYWUxb0taV0JYZkFzcmxJdXVUaW16NEZSRVptc3B6Y1BXbnQ1NDB6Rm5yei1DUzhnNExCRUkxNEE?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-11-04T12:32:00+00:00",
+  "summary": " \"Tadej Pogacar será muito bem vindo no Giro d’Italia\" diretor mantém esperança sobre Pogacar na Corsa Rosa    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "a3f9c8dcb75d5e831afb",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "The Giro d'Italia's most feared climb – A closer look at the mighty Monte Zoncolan ahead of its return in 2027",
+  "url": "https://www.cyclingnews.com/pro-cycling/racing/the-giro-d-italias-most-feared-climb-a-closer-look-at-the-mighty-monte-zoncolan-ahead-of-its-return-in-2027/",
+  "source": "Cyclingnews",
+  "published": "2026-11-04T12:40:12+00:00",
+  "summary": "\n                             From Luperini and Simoni to Rogers and Froome, the next chapter of the modern Carnic Alps brute's history will be written at the 110th edition in May \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Giro d'Italia"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "aa25a9349d43b376fbf4",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Giro d'Italia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "Dakar2026: Portugal goleia Ilhas Salomão e está mais perto das `meias` no futsal",
+  "url": "https://www.rtp.pt/noticias/futsal/dakar2026-portugal-goleia-ilhas-salomao-e-esta-mais-perto-das-meias-no-futsal_d1776851",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T12:51:40+00:00",
+  "summary": "  \n      Portugal goleou hoje as Ilhas Salomão por 11-1, na segunda jornada do Grupo B do torneio masculino de futsal dos Jogos Olímpicos da Juventude Dakar2026, e está bem lançado para garantir uma vaga nas ‘meias’.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: Jogos Olímpicos"
+  ],
+  "where_to_watch": [],
+  "id": "7c61af42a42831ecf255",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Jogos Olímpicos"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "Tadej Pogačar's race-ridden Colnago and Brandon McNulty's rainbow jersey up for grabs in auction raising funds for US cyclists ahead of LA 2028 Olympics",
+  "url": "https://www.cyclingnews.com/cycling-culture/tadej-pogacars-race-ridden-colnago-and-brandon-mcnultys-rainbow-jersey-up-for-grabs-in-auction-raising-funds-for-us-cyclists-ahead-of-la-2028-olympics/",
+  "source": "Cyclingnews",
+  "published": "2026-11-04T13:33:56+00:00",
+  "summary": "\n                             USA Cycling's fifth annual auction features one-of-a-kind items from many of cycling's biggest stars, and opens on Wednesday \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "109ad1ca048b8cf4f37b",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "\"É muito adequado para Jonas Vingegaard, Paul Seixas deveria participar\"; campeão do Giro d'Italia analisa favoritos para 2027 - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM3ZrWkk4dEJHS2FiUmR0OFU2MnYxb0lZY3I5WWRaUGhWc0ZDTDdaWkhHanhWZGhMdEVIeWYtZ0pmLWNSMHdEMTRSQklheXRGa09PYUoyR0JZX0JobDQtQ29jR2JhVUliOU9YbGptR3hLZXgxalV3WGx1OTZlVmJRc1NTcVFza21TUVRLX0Nkc1dmVEpyM1pRcldhaXhVc2pldVJZOG0tTXl2RDJmbWlLeVdDb3NGd1YzWmVicU1icFdEM1UxNjVWa21HQWRwV0NOVk5FTQ?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-11-04T13:54:19+00:00",
+  "summary": " \"É muito adequado para Jonas Vingegaard, Paul Seixas deveria participar\"; campeão do Giro d'Italia analisa favoritos para 2027    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 15,
+  "reasons": [
+   "Ciclismo — referências: Jonas Vingegaard",
+   "Ciclismo — grandes provas: Giro d'Italia",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "ad39d2f9ac17862f7765",
+  "atletas": [
+   "Jonas Vingegaard"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Giro d'Italia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "Sporting despede-se de Rui Borges com elogios ao legado do treinador",
+  "url": "https://www.rtp.pt/noticias/sporting/sporting-despede-se-de-rui-borges-com-elogios-ao-legado-do-treinador_d1776877",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T13:54:23+00:00",
+  "summary": "  \n      O Sporting partilhou nas redes sociais uma mensagem de despedida ao treinador de futebol Rui Borges, recordando que o técnico \"ficará para sempre” ligado à história do clube lisboeta.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 12,
+  "reasons": [
+   "Sporting: Sporting",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "ea1db60bdeb3b5b2d6d4",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "Benfica na terceira ronda da Youth League",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/benfica-na-terceira-ronda-da-youth-league_d1776886",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T14:36:15+00:00",
+  "summary": "  \n      O Benfica confirmou o apuramento para a terceira eliminatória da Youth League, ao vencer, uma vez mais, os cipriotas do Pafos (3-1), em jogo da segunda mão da segunda ronda.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "504a1885276226c01f38",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "\"Tadej Pogacar voltará mais forte, com uma dose de raiva\" UAE Emirates projeta temporada histórica - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXdhajdycEd5cjNlQ0J5Vmo4MzRPRnk5Q1RsSzB5Q0Z3TWdkSl9BT3Bpa1RzaTlBNi1QUkozbl90QkZGSjF0QXBJSWYxY3lnZF84MGpTZ0F1TGdEa21KRGNqSW44aE42VkVpOGtEaXVFY2xBWDYzMVNJbktVdUU2TGVjNl9lOXZlYnFOZ3RJdE0zVEt0V0lxNVhIWV9nTFJla2FhcHRieU1TaVZoSzF6aHBUYUVWUlBFaXZQd2x2RXZQdlV4?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-11-04T15:44:49+00:00",
+  "summary": " \"Tadej Pogacar voltará mais forte, com uma dose de raiva\" UAE Emirates projeta temporada histórica    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "f25a72cfa2478ca2043b",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "FC Porto volta a vencer na UEFA Youth League",
+  "url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-volta-a-vencer-na-uefa-youth-league_d1776896",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T16:11:36+00:00",
+  "summary": "  \n      O FC Porto voltou hoje a vencer na UEFA Youth League de futebol, desta vez na receção ao Nápoles, por 3-1, na quarta jornada da fase de liga, com Tiago Silva em destaque.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "e0a4653c33fad9284a73",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "'We have already taken some incredible steps, but we are far from finished' – Unibet Rose Rockets add new head of racing as invite to Tour de France targeted",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/we-have-already-taken-some-incredible-steps-but-we-are-far-from-finished-unibet-rose-rockets-add-new-head-of-racing-as-invite-to-tour-de-france-targeted/",
+  "source": "Cyclingnews",
+  "published": "2026-11-04T16:17:49+00:00",
+  "summary": "\n                             Former Lotto chief performance officer Aike Visbeek joins ProTeam for 2027 season \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "f95c83747bf7a38a2e4f",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "Marco Silva assume que próximos jogos \"são importantes\" para qualificação direta",
+  "url": "https://www.rtp.pt/noticias/benfica/marco-silva-assume-que-proximos-jogos-sao-importantes-para-qualificacao-direta_d1776901",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T16:30:14+00:00",
+  "summary": "  \n       O treinador Marco Silva frisou esta quarta-feira a relevância dos próximos jogos na Liga Europa em futebol para o Benfica assegurar a qualificação direta para os oitavos de final, mas vincou que o Lech Poznan é \"o mais importante\".\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: final",
+   "Modalidade olímpica: arco, futebol"
+  ],
+  "where_to_watch": [],
+  "id": "df2b63d2dddf73d6da36",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga Europa"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "Estreante técnico João Nuno confiante em manter a boa imagem do Torreense",
+  "url": "https://www.rtp.pt/noticias/liga-europa/estreante-tecnico-joao-nuno-confiante-em-manter-a-boa-imagem-do-torreense_d1776907",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T16:53:32+00:00",
+  "summary": "  \n      O treinador João Nuno, em estreia europeia pelo Torreense, mostrou-se esta quarta-feira confiante de que o clube continuará a dar uma boa imagem na receção ao Ararat-Armenia, na quarta jornada da fase de liga da Liga Europa de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "6c8d429ce071575ef926",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga Europa"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "Guarda-redes do FC Andorra vive \"os dias mais difíceis\" pela morte de Jesús de Miguel",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/guarda-redes-do-fc-andorra-vive-os-dias-mais-dificeis-pela-morte-de-jesus-de-miguel_d1776909",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T17:01:21+00:00",
+  "summary": "  \n      O guarda-redes do FC Andorra Jesús Owono confessou esta quarta-feira estar a viver \"os dias mais difíceis\" da sua vida, na sequência da morte do futebolista do Tenerife Jesús de Miguel, admitindo dificuldades em processar a perda.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "2c2725a242c9e9e29f39",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "Liga Nações. Bah e Froholdt nos convocados da Dinamarca para jogo com Portugal",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/liga-nacoes-bah-e-froholdt-nos-convocados-da-dinamarca-para-jogo-com-portugal_d1776915",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T17:24:48+00:00",
+  "summary": "  \n      O lateral Alexander Bah, do Benfica, e o médio Victor Froholdt, do FC Porto, fazem parte da lista de 24 jogadores convocados pela Dinamarca para defrontar Portugal na Liga das Nações de futebol, informou hoje a federação local.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "bdf6bcd669c210e5a8cb",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "Liga Nações. País de Gales chama 26 jogadores para duelos com Noruega e Portugal",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/liga-nacoes-pais-de-gales-chama-26-jogadores-para-duelos-com-noruega-e-portugal_d1776919",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T17:42:47+00:00",
+  "summary": "  \n      O selecionador do País de Gales, Graig Bellamy, convocou 26 jogadores para os dois últimos jogos no Grupo A4 da Liga das Nações de futebol, frente a Noruega e Portugal, com vários regressos e uma estreia.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "aba650d2ce5f945e7df7",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "O regresso a Portugal após bagagem europeia. Paulo Fonseca é o novo treinador do Sporting",
+  "url": "https://www.rtp.pt/noticias/sporting/o-regresso-a-portugal-apos-bagagem-europeia-paulo-fonseca-e-o-novo-treinador-do-sporting_d1776922",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T18:11:02+00:00",
+  "summary": "  \n      De regresso a Portugal mais de uma década depois, Paulo Fonseca vai representar, pela primeira vez, as cores do Sporting e sucede a Rui Borges no banco dos leões. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting, Leões"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "bcec421a96c9acf1bfae",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "O que torna Tadej Pogačar diferente? Novo documentário analisa sua fisiologia, sua mente e os segredos de seu domínio - brujulabike.com",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVDhnamVZRm01LW8zRWlOMHRhS2pxVmt6dk1OYTNrVXJYQkh0clB4TmtNS0JkZ3hnZlV6clBrek1zd0hsMnRIRC1Pc0xONHgycm92dHRnY3kxQTk1WkpjNUxiVGhMMTV2TXZfaXZ6ZGNvSExZeGhQd2FiYWlNZ1RYQkxqZ0JkVC14bXVLYWY5RnV2bUlycVY0bUUtV1ZlaUVlMGYyZjFQT1ZNUVlsY0VjX05aRGVHMG5tUzRBX0xsRklVeUxWZW9xR0pQMnd3eHF2eVVIMVdfYw?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-11-04T18:14:28+00:00",
+  "summary": " O que torna Tadej Pogačar diferente? Novo documentário analisa sua fisiologia, sua mente e os segredos de seu domínio    brujulabike.com ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "983904bba69b08c17544",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "Tadej Pogacar será protagonista em documentário inédito; Anatomy of a G.O.A.T estreia no sábado, assista o teaser - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV3IyUjN1c2ZQbXpJTElzNmwzejNyS0dRQWE1OWhyUWZMYnRJcnhNUkg2c3ljR01rYzB1bjgxUy1GZ0lCUzFRdks2SVl5d3ZxWEZqcWxNNy1BRy1LU3RFbF9tWG43T1ozSk4xQzlCNFlDWHZSLV9CNmFpZDdXelZkb1FHaEpXdThpc0N1T2pYVTg2RmJrdGtVbUZSOGJZZFFObVBLWWxmZEJMSEZ2MWFMdkNHSWE5b3gzUkhjVkdhSm1hMHUyalo3X083eUdXUlZRWVJoVWNXaVBRNFZzdWg0S1pJYw?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-11-04T18:20:02+00:00",
+  "summary": " Tadej Pogacar será protagonista em documentário inédito; Anatomy of a G.O.A.T estreia no sábado, assista o teaser    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "76036d29f1a75677472e",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-04T23:46:06+00:00"
  }
 ]
