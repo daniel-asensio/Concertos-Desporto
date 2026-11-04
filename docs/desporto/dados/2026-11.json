@@ -2293,7 +2293,7 @@
  },
  {
   "title": "Shakhtar não deu importância à mudança de treinador no Sporting",
-  "url": "https://www.rtp.pt/noticias/desporto/shakhtar-nao-deu-importancia-a-mudanca-de-treinador-no-sporting_v1776575",
+  "url": "https://www.rtp.pt/noticias/liga-dos-campeoes/shakhtar-nao-deu-importancia-a-mudanca-de-treinador-no-sporting_v1776575",
   "source": "RTP Desporto",
   "published": "2026-11-03T13:58:47+00:00",
   "summary": "  \n      A equipa ucraniana diz ter respeito pelos leões, mas não se sente intimidada. ",
@@ -2540,6 +2540,36 @@
   "arquivado_em": "2026-11-03T21:06:33+00:00"
  },
  {
+  "title": "Sporting vence Shakhtar com golo de Doumbia",
+  "url": "https://www.rtp.pt/noticias/desporto/sporting-vence-shakhtar-com-golo-de-doumbia_e1776605",
+  "source": "RTP Desporto",
+  "published": "2026-11-03T16:19:07+00:00",
+  "summary": "  \n      O Sporting venceu o Shakhtar Donetsk, por 1-0, com golo de Issa Doumbia, em Stamford Bridge casa emprestada da equipa ucraniana, em jogo a contar para a quarta jornada da fase de liga da Liga dos Campeões. \n\n\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "ea4ec47e7838bc2169b3",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-04T01:28:24+00:00"
+ },
+ {
   "title": "Kerr's mile record up for World Athletics award",
   "url": "https://www.bbc.co.uk/sport/athletics/articles/cmy0rjzlkdreo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Sport",
@@ -2599,5 +2629,141 @@
   "modalidade": "voleibol",
   "local": "",
   "arquivado_em": "2026-11-03T21:06:33+00:00"
+ },
+ {
+  "title": "Taça da Liga. Clássico FC Porto-Benfica abre final four em 05 de janeiro",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/taca-da-liga-classico-fc-porto-benfica-abre-final-four-em-05-de-janeiro_d1776631",
+  "source": "RTP Desporto",
+  "published": "2026-11-03T17:48:48+00:00",
+  "summary": "  \n      O clássico FC Porto-Benfica vai abrir a final four da Taça da Liga em futebol, em 05 de janeiro, às 20:15, enquanto Sporting e Famalicão se defrontam no dia seguinte, revelou hoje a Liga de Clubes.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 19,
+  "reasons": [
+   "Sporting: Sporting",
+   "Grandes eventos: final",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "7e0824b8e63151149e5c",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-04T01:28:24+00:00"
+ },
+ {
+  "title": "Benfiquista Gianluca Prestianni continua entre os convocados da Argentina",
+  "url": "https://www.rtp.pt/noticias/benfica/benfiquista-gianluca-prestianni-continua-entre-os-convocados-da-argentina_d1776633",
+  "source": "RTP Desporto",
+  "published": "2026-11-03T17:51:59+00:00",
+  "summary": "  \n      O avançado Gianluca Prestianni, do Benfica, foi chamado à seleção argentina de futebol, para os particulares com o Uruguai e a Costa Rica, os primeiros encontros após a despedida de Lionel Messi.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "6db716367d2e41c9bbac",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-04T01:28:24+00:00"
+ },
+ {
+  "title": "Giro d'Italia boss says motor-racing circuit sprints will improve safety, but recent Tour de France evidence suggests otherwise",
+  "url": "https://www.cyclingnews.com/pro-cycling/safety/giro-d-italia-boss-says-motor-racing-circuit-sprints-will-improve-safety-but-recent-tour-de-france-evidence-suggests-otherwise/",
+  "source": "Cyclingnews",
+  "published": "2026-11-03T18:26:12+00:00",
+  "summary": "\n                             'The initiative stems from listening to athletes and teams regarding the need for safe finishes' says Luca Guercilena \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France, Giro d'Italia"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "71700b1a92e808aeaf87",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France",
+   "Giro d'Italia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-04T01:28:24+00:00"
+ },
+ {
+  "title": "Allegri antevê jogo de \"muito sofrimento\" do Nápoles frente ao FC Porto",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/allegri-anteve-jogo-de-muito-sofrimento-do-napoles-frente-ao-fc-porto_d1776644",
+  "source": "RTP Desporto",
+  "published": "2026-11-03T19:35:20+00:00",
+  "summary": "  \n      O treinador do Nápoles, Massimiliano Allegri, admitiu hoje que a equipa italiana terá de estar preparada para um jogo de \"muito sofrimento\" frente ao FC Porto, na quarta-feira, para a Liga dos Campeões de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "f6d0da5de15786d5b9ea",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-04T01:28:24+00:00"
+ },
+ {
+  "title": "FC Porto perde com Joventut e volta às derrotas na Liga dos Campeões de basquetebol",
+  "url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-perde-com-joventut-e-volta-as-derrotas-na-liga-dos-campeoes-de-basquetebol_d1776672",
+  "source": "RTP Desporto",
+  "published": "2026-11-03T21:59:40+00:00",
+  "summary": "  \n      O FC Porto regressou hoje às derrotas na Liga dos Campeões de basquetebol, ao perder na receção aos espanhóis do Joventut (81-64), em Matosinhos, na terceira de seis jornadas do Grupo H da fase principal.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: basquetebol"
+  ],
+  "where_to_watch": [
+   "DAZN — confirmar"
+  ],
+  "id": "c7bf8c38305e3821e375",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "basquetebol",
+  "local": "",
+  "arquivado_em": "2026-11-04T01:28:24+00:00"
  }
 ]
