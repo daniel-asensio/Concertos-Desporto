@@ -3365,7 +3365,7 @@
  },
  {
   "title": "Estreante técnico João Nuno confiante em manter a boa imagem do Torreense",
-  "url": "https://www.rtp.pt/noticias/liga-europa/estreante-tecnico-joao-nuno-confiante-em-manter-a-boa-imagem-do-torreense_d1776907",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/estreante-tecnico-joao-nuno-confiante-em-manter-a-boa-imagem-do-torreense_d1776907",
   "source": "RTP Desporto",
   "published": "2026-11-04T16:53:32+00:00",
   "summary": "  \n      O treinador João Nuno, em estreia europeia pelo Torreense, mostrou-se esta quarta-feira confiante de que o clube continuará a dar uma boa imagem na receção ao Ararat-Armenia, na quarta jornada da fase de liga da Liga Europa de futebol.\n ",
@@ -3466,7 +3466,7 @@
   "url": "https://www.rtp.pt/noticias/sporting/o-regresso-a-portugal-apos-bagagem-europeia-paulo-fonseca-e-o-novo-treinador-do-sporting_d1776922",
   "source": "RTP Desporto",
   "published": "2026-11-04T18:11:02+00:00",
-  "summary": "  \n      De regresso a Portugal mais de uma década depois, Paulo Fonseca vai representar, pela primeira vez, as cores do Sporting e sucede a Rui Borges no banco dos leões. \n ",
+  "summary": "  \n       ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -3474,7 +3474,7 @@
   "location": "",
   "score": 10,
   "reasons": [
-   "Sporting: Sporting, Leões"
+   "Sporting: Sporting"
   ],
   "where_to_watch": [
    "Sport TV — confirmar jornada"
@@ -3519,11 +3519,11 @@
   "arquivado_em": "2026-11-04T23:46:06+00:00"
  },
  {
-  "title": "Tadej Pogacar será protagonista em documentário inédito; Anatomy of a G.O.A.T estreia no sábado, assista o teaser - Giro do ciclismo",
+  "title": "Tadej Pogacar será protagonista em documentário inédito; \"Anatomy of a G.O.A.T\" estreia no sábado, assista o teaser - Giro do ciclismo",
   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV3IyUjN1c2ZQbXpJTElzNmwzejNyS0dRQWE1OWhyUWZMYnRJcnhNUkg2c3ljR01rYzB1bjgxUy1GZ0lCUzFRdks2SVl5d3ZxWEZqcWxNNy1BRy1LU3RFbF9tWG43T1ozSk4xQzlCNFlDWHZSLV9CNmFpZDdXelZkb1FHaEpXdThpc0N1T2pYVTg2RmJrdGtVbUZSOGJZZFFObVBLWWxmZEJMSEZ2MWFMdkNHSWE5b3gzUkhjVkdhSm1hMHUyalo3X083eUdXUlZRWVJoVWNXaVBRNFZzdWg0S1pJYw?oc=5",
   "source": "Ciclismo watchlist",
   "published": "2026-11-04T18:20:02+00:00",
-  "summary": " Tadej Pogacar será protagonista em documentário inédito; Anatomy of a G.O.A.T estreia no sábado, assista o teaser    Giro do ciclismo ",
+  "summary": " Tadej Pogacar será protagonista em documentário inédito; \"Anatomy of a G.O.A.T\" estreia no sábado, assista o teaser    Giro do ciclismo ",
   "sport": "ciclismo",
   "kind": "news",
   "start": null,
@@ -3538,7 +3538,7 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "76036d29f1a75677472e",
+  "id": "594f9ce1e8526e65604c",
   "atletas": [
    "Tadej Pogačar"
   ],
@@ -3547,5 +3547,184 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-11-04T23:46:06+00:00"
+ },
+ {
+  "title": "Ararat-Armenia vai tentar vencer Torreense sem perder identidade",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/ararat-armenia-vai-tentar-vencer-torreense-sem-perder-identidade_d1776941",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T19:59:31+00:00",
+  "summary": "  \n      O Ararat-Armenia, com três derrotas na fase de liga da Liga Europa, vai tentar vencer o Torreense na quinta-feira, no Estádio Municipal Magalhães Pessoa, em Leiria, mas sem perder a identidade, garantiu o treinador Manuel Tulipa.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "b5277e50cffbd72b68fa",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga Europa"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-05T06:59:36+00:00"
+ },
+ {
+  "title": "Lech Poznan promete \"luta\" ante Benfica e \"defender com os corações e as vidas\"",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/lech-poznan-promete-luta-ante-benfica-e-defender-com-os-coracoes-e-as-vidas_d1776942",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T20:05:30+00:00",
+  "summary": "  \n      O treinador do Lech Poznan antecipou hoje “uma luta” frente ao Benfica, na quarta jornada da fase de liga da Liga Europa de futebol, prometendo “defender com os corações e as vidas” no jogo com os ‘encarnados’.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: luta, futebol"
+  ],
+  "where_to_watch": [],
+  "id": "e66d484826f186d58f06",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga Europa"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-05T06:59:36+00:00"
+ },
+ {
+  "title": "Golo de Valverde nos descontos dá quarta vitória ao Real Madrid",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/golo-de-valverde-nos-descontos-da-quarta-vitoria-ao-real-madrid_d1776943",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T20:09:29+00:00",
+  "summary": "  \n      Um golo do uruguaio Federico Valverde nos descontos permitiu ao Real Madrid manter o seu percurso 100% vitorioso na Liga dos Campeões de futebol, assegurando o triunfo sobre o AEK Atenas, por 3-2.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "cbad774c8f734ce26a56",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-05T06:59:36+00:00"
+ },
+ {
+  "title": "\"Sonho antigo\" e recíproco. Paulo Fonseca apresentado em Alvalade",
+  "url": "https://www.rtp.pt/noticias/sporting/sonho-antigo-e-reciproco-paulo-fonseca-apresentado-em-alvalade_d1776958",
+  "source": "RTP Desporto",
+  "published": "2026-11-04T21:04:11+00:00",
+  "summary": "  \n      A contratação de Paulo Fonseca como novo treinador do Sporting foi oficializada esta quarta-feira, no Estádio de Alvalade. Na apresentação, Frederico Varandas e o treinador português revelaram que sonhavam com este momento há vários anos. \n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 12,
+  "reasons": [
+   "Sporting: Sporting",
+   "Modalidade olímpica: vela"
+  ],
+  "where_to_watch": [],
+  "id": "0cc58264b9d8eb8bcf6c",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-05T06:59:36+00:00"
+ },
+ {
+  "title": "Smyth to return as starting Saints kicker on Sunday",
+  "url": "https://www.bbc.co.uk/sport/american-football/articles/ckgj9ej6q9yyo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-04T21:56:34+00:00",
+  "summary": "New Orleans Saints head coach Kellen Moore confirms Charlie Smyth will start as kicker against the Cleveland Browns on Sunday.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: vela"
+  ],
+  "where_to_watch": [],
+  "id": "84a9fb6751212e12d40a",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-05T06:59:36+00:00"
+ },
+ {
+  "title": "Emphatic Porto thrash Napoli in second-half romp",
+  "url": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-04T22:17:34+00:00",
+  "summary": "Porto score three goals in the final 20 minutes of the game to pull away and seal a comfortable victory against Napoli, who are unable to match their Portuguese opponents in the second half.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "bd2e7843f44737bbc3bd",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-05T06:59:36+00:00"
+ },
+ {
+  "title": "Why Iraola's Liverpool are still a work in progress",
+  "url": "https://www.bbc.co.uk/sport/football/videos/c9rky37kx37lo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-04T23:22:35+00:00",
+  "summary": "Champions League analyst Stephen Warnock and Guillem Balague believe Liverpool's defensive weaknesses combined with the experimentation of playing Bradley Barcola up front, highlight Andoni Iraola's team are still trying to find their identity following a 3-2 defeat to Fenerbahce in the Champions League.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: arco"
+  ],
+  "where_to_watch": [],
+  "id": "2a30d02a3217d5d0d21b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-05T06:59:36+00:00"
  }
 ]
