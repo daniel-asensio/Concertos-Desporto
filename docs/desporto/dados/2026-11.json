@@ -4176,7 +4176,7 @@
  },
  {
   "title": "Fernando Santos enaltece \"marca que jamais será apagada\"",
-  "url": "https://www.rtp.pt/noticias/futebol-nacional/fernando-santos-enaltece-marca-que-jamais-sera-apagada_d1777123",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/fernando-santos-enaltece-marca-que-jamais-sera-apagada_d1777123",
   "source": "RTP Desporto",
   "published": "2026-11-05T13:32:38+00:00",
   "summary": "  \n      O ex-selecionador português de futebol, Fernando Santos, considerou hoje que Cristiano Ronaldo vai \"deixar uma marca que jamais será apagada\" como \"o melhor de todos os tempos\", após o jogador oficializar a despedida da equipa das `quinas`.\n ",
@@ -4200,7 +4200,7 @@
  },
  {
   "title": "`CR` e Messi dominaram o mundo, mas deixaram seleções de forma bem diferente",
-  "url": "https://www.rtp.pt/noticias/futebol-nacional/cr-e-messi-dominaram-o-mundo-mas-deixaram-selecoes-de-forma-bem-diferente_d1777100",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/cr-e-messi-dominaram-o-mundo-mas-deixaram-selecoes-de-forma-bem-diferente_d1777100",
   "source": "RTP Desporto",
   "published": "2026-11-05T13:34:01+00:00",
   "summary": "  \n      Cristiano Ronaldo e Lionel Messi dominaram o futebol mundial durante cerca de duas décadas, mas a parte final das carreiras está a ser bem diferente, como o demonstra a maneira como se despediram das respetivas seleções.\n ",
@@ -4523,7 +4523,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/ronaldo-esteve-em-seis-mundiais-e-seis-europeus_v1777227",
   "source": "RTP Desporto",
   "published": "2026-11-05T20:39:47+00:00",
-  "summary": "  \n      Em 23 anos ao serviço da Seleção, Cristiano Ronaldo marcou 146 golos em 234 jogos. Conquistou um campeonato da Europa e duas Ligas das Nações. ",
+  "summary": "  \n      Em 23 anos ao serviço da Seleção, Cristiano Ronaldo marcou 146 golos em 234 jogos. Conquistou um campeonato da Europa e duas Ligas das Nações.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -4594,5 +4594,55 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-11-05T22:06:30+00:00"
+ },
+ {
+  "title": "Scotland can be best & worst team in world - Dempsey",
+  "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmd934jpg59yo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-06T07:53:44+00:00",
+  "summary": "Jack Dempsey on his guilt over leaving Glasgow, coming up against Dave Rennie and Scotland's hopes of finally overcoming New Zealand.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "d40bdfd8fdba24610cbe",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-06T11:08:27+00:00"
+ },
+ {
+  "title": "Ireland's home straight to World Cup starts with Pumas",
+  "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cve8rx3yxg2eo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-06T08:02:48+00:00",
+  "summary": "Less than a year away from a potential 2027 World Cup quarter-final meeting, Ireland's hosting of Argentina represents an important staging post on the journey to Australia next autumn.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "4525ee38cb0cbc72d1d7",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-06T11:08:27+00:00"
  }
 ]
