@@ -5225,7 +5225,7 @@
  },
  {
   "title": "Portugal alcança posição favorável para nova vaga na Champions",
-  "url": "https://www.rtp.pt/noticias/sporting/portugal-alcanca-posicao-favoravel-para-nova-vaga-na-champions_d1777479",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/portugal-alcanca-posicao-favoravel-para-nova-vaga-na-champions_d1777479",
   "source": "RTP Desporto",
   "published": "2026-11-06T17:54:26+00:00",
   "summary": "  \n      Depois de uma jornada muito positiva para as equipas portuguesas nas competições europeias, Portugal regressou à segunda posição do ranking anual da UEFA, que concede uma vaga extra para a próxima edição da Liga dos Campeões.\n ",
@@ -5234,9 +5234,9 @@
   "start": null,
   "end": null,
   "location": "",
-  "score": 10,
+  "score": 2,
   "reasons": [
-   "Sporting: Sporting"
+   "Modalidade olímpica: futebol"
   ],
   "where_to_watch": [],
   "id": "c7352bc68a7bcd1fc28f",
@@ -5455,10 +5455,34 @@
   "arquivado_em": "2026-11-06T23:16:17+00:00"
  },
  {
+  "title": "Slick Saints beat Prem Rugby Cup holders Leicester",
+  "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cr2kewvk8exvo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-06T22:11:54+00:00",
+  "summary": "Northampton keep their hopes of reaching the Prem Rugby Cup semi-finals alive with a dominant derby win over Leicester.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "fc93e6ab00cc9498980e",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-11-07T02:54:35+00:00"
+ },
+ {
   "title": "Whole Australia team knew of sandpaper use - Khawaja",
   "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
   "source": "BBC Sport",
-  "published": "2026-11-06T22:06:57+00:00",
+  "published": "2026-11-06T23:11:56+00:00",
   "summary": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
   "sport": "geral",
   "kind": "news",
@@ -5477,5 +5501,32 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-11-06T23:16:17+00:00"
+ },
+ {
+  "title": "Portugal perde com a Espanha nos penáltis e falha final da Finalíssima de futsal",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-perde-com-a-espanha-nos-penaltis-e-falha-final-da-finalissima-de-futsal_d1777541",
+  "source": "RTP Desporto",
+  "published": "2026-11-07T00:39:50+00:00",
+  "summary": "  \n      A seleção portuguesa de futsal falhou hoje a presença na final da Finalíssima, ao perder com a Espanha no desempate por grande penalidades, por 8-7,  depois do empate 2-2 no tempo regulamentar, nas meias-finais da competição, no Brasil.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 15,
+  "reasons": [
+   "Portugal: seleção portuguesa, Portugal perde",
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "50f1b83433b3bf394fd1",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-07T02:54:35+00:00"
  }
 ]
