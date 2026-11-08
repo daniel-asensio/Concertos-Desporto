@@ -6296,7 +6296,7 @@
   "arquivado_em": "2026-11-08T07:29:16+00:00"
  },
  {
-  "title": "'It’s disrespectful to steal the biggest moment of my career' - Marie Schreiber condemns Euro cyclocross relegation",
+  "title": "'It’s disrespectful to steal the biggest moment of my career' - Marie Schreiber condemns Euro cyclo-cross relegation",
   "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/its-disrespectful-to-steal-the-biggest-moment-of-my-career-marie-schreiber-condemns-euro-cyclocross-relegation/",
   "source": "Cyclingnews",
   "published": "2026-11-08T10:01:22+00:00",
@@ -6314,7 +6314,7 @@
    "Eurosport / Max",
    "RTP — algumas provas"
   ],
-  "id": "e3273b6d3b280e3d1dbb",
+  "id": "705a37a356750313ae89",
   "atletas": [],
   "clubes": [],
   "competicoes": [],
@@ -6447,5 +6447,424 @@
   "modalidade": "rugby",
   "local": "",
   "arquivado_em": "2026-11-08T15:21:50+00:00"
+ },
+ {
+  "title": "Rahm pips Hatton & McIlroy to Abu Dhabi title",
+  "url": "https://www.bbc.co.uk/sport/golf/articles/c6y0exdrp2xeo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-08T13:14:40+00:00",
+  "summary": "Jon Rahm fires a final-round 67 to clinch a two-shot victory ahead of Tyrrell Hatton at the Abu Dhabi Championship.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "36cd42b5ceae401b7ee0",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "Australia dismantle Samoa to reach World Cup final",
+  "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cqly04r1n6xzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-08T13:42:46+00:00",
+  "summary": "Reece Walsh scores a hat-trick of tries as Australia stun Samoa 44-12 to reach the Rugby League World Cup final.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "880fd2fc670052d4898f",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "Guimarães no caminho dos dragões. Farioli elogia clube adversário",
+  "url": "https://www.rtp.pt/noticias/desporto/guimaraes-no-caminho-dos-dragoes-farioli-elogia-clube-adversario_v1777722",
+  "source": "RTP Desporto",
+  "published": "2026-11-08T13:52:48+00:00",
+  "summary": "  \n      O Futebol Clube do Porto quer a 11ª vitória consecutiva no campeonato.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "acc67f456c4ae79247bf",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "Benfica chega à Amadora com série de sete vitórias",
+  "url": "https://www.rtp.pt/noticias/desporto/benfica-chega-a-amadora-com-serie-de-sete-vitorias_v1777723",
+  "source": "RTP Desporto",
+  "published": "2026-11-08T13:53:48+00:00",
+  "summary": "  \n      O Benfica joga na Amadora com o Estrela. Marco Silva lembra a mentalidade ofensiva das águias.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: arco"
+  ],
+  "where_to_watch": [],
+  "id": "3fc087f8600ed51b60e9",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "Paulo Fonseca estreia-se ao leme do Sporting com vitória",
+  "url": "https://www.rtp.pt/noticias/desporto/paulo-fonseca-estreia-se-ao-leme-do-sporting-com-vitoria_v1777724",
+  "source": "RTP Desporto",
+  "published": "2026-11-08T13:54:47+00:00",
+  "summary": "  \n      O golo frente ao Moreirense foi de Luis Suárez.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "24b1f2cf419dcd5457de",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "Australia battle past Fiji to reach fifth consecutive World Cup final",
+  "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cqm26j5lg651o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-08T13:56:28+00:00",
+  "summary": "Abbi Church scores four tries as Australia earn a hard-fought 30-14 win over World Cup debutants Fiji, to progress to their fifth consecutive Women's Rugby League World Cup final.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "45f5ca23478c558d4c56",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
+  "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-08T13:57:54+00:00",
+  "summary": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "a9213fa3571f03685280",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "Tadej Pogacar revela segredos de seu treinamento e duelo com Van der Poel \"momento mais difícil do Tour de France\" - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTzNLdHdSNEV4cVlBcmFHZFZ6OUxJVHRIaVVwcmszaGFWMkcwZnplb2RwQVl6ckNRZmt4VUxBckFVT2xuV3FLWXlGajZnTFBubU1raEZNX3Fxd0RWb1I5dmFQQUlFMko5Mk1ldFFtWTFVRGxacmJSR1M4TWlQS1F1cWROX3NQdWdOTFBaYlF3UkNFNk5POEw0OEVYaUhSS2puY0tONDBWbFVhM2pVUFJyWkFxRzZOeS0xRW5EOU5PN0tXQ2ExM1NMX3FuYk1tT1NET252QXFNQllIZEU?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-11-08T13:59:38+00:00",
+  "summary": " Tadej Pogacar revela segredos de seu treinamento e duelo com Van der Poel \"momento mais difícil do Tour de France\"    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 15,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Ciclismo — grandes provas: Tour de France",
+   "Modalidade olímpica: ciclismo, vela"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "8da0774b9fe59632f152",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "Chengdu lose final four games to blow 12-point lead and Chinese title",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-08T14:41:04+00:00",
+  "summary": "Chengdu Rongcheng lose their final four matches of the season to give up a 12-point lead and throw away the Chinese Super League title.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "aceeb8d5a45fa8293543",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "Vitória de Guimarães - FC Porto",
+  "url": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-fc-porto_e1777739",
+  "source": "RTP Desporto",
+  "published": "2026-11-08T16:26:23+00:00",
+  "summary": "  \n      O FC Porto vai procurar alcançar a 11.ª vitória em outras tantas jornadas na I Liga de futebol, no reduto do vitória de Guimarães, enquanto o perseguidor Benfica desloca-se à Amadora para enfrentar o Estrela.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "b943909d0b1ddbb7014d",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "Andebol. Espanha - Portugal",
+  "url": "https://www.rtp.pt/noticias/andebol/andebol-espanha-portugal_d1777745",
+  "source": "RTP Desporto",
+  "published": "2026-11-08T16:44:23+00:00",
+  "summary": "  \n      A Seleção Portuguesa de andebol defronta a Espanha, no IFEVI, Instituto Ferial de Vigo, a contar para a segunda jornada da EHF EURO Cup 2028.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Portugal: seleção portuguesa",
+   "Modalidade olímpica: andebol"
+  ],
+  "where_to_watch": [],
+  "id": "bb8c33f2f191f5727ff7",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "andebol",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "Seleção portuguesa termina Mundial de trampolins com três medalhas - BOM DIA - Portugal no Mundo",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMm5HS3dnUExVVEJxM0o1a3BoajZWNUhKa283Ui1YTXlXa0JLQkVuYnM0dTdHMUdyQmFIM3BOM1YyZ3hVWDlYeHk1ekpfRlMwVW9rTEZ5bnNKY0FsdWdmaWpiRGFkR21KSkY5ZHl6VkdTYWJPUzNhc21raDdNelIySWQ4RG10d2xPVzdwVU9R?oc=5",
+  "source": "Portugal olímpico",
+  "published": "2026-11-08T17:46:17+00:00",
+  "summary": " Seleção portuguesa termina Mundial de trampolins com três medalhas    BOM DIA - Portugal no Mundo ",
+  "sport": "Portugal",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Portugal: seleção portuguesa"
+  ],
+  "where_to_watch": [],
+  "id": "a5d02cdaf44fd2d53264",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "portugal",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "‘Why not?’ - Isaac Del Toro on a Mexican rider winning Tour de France in the future",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/why-not-isaac-del-toro-on-a-mexican-rider-winning-tour-de-france-in-the-future/",
+  "source": "Cyclingnews",
+  "published": "2026-11-08T17:49:27+00:00",
+  "summary": "\n                             After a remarkable 2026 campaign that included Tour de France podium, UAE rider looks back on his rapid rise and growing leadership role \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "603438a52a2e9eccbf4c",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "Marco Bezzecchi vence no Qatar e adia título de MotoGP para Portimão",
+  "url": "https://www.rtp.pt/noticias/motores/marco-bezzecchi-vence-no-qatar-e-adia-titulo-de-motogp-para-portimao_d1777754",
+  "source": "RTP Desporto",
+  "published": "2026-11-08T17:50:56+00:00",
+  "summary": "  \n      O piloto italiano Marco Bezzecchi (Aprilia) venceu este domingo o Grande Prémio do Qatar de MotoGP, 20.ª ronda da temporada, e adiou a decisão do título para a penúltima jornada, em Portugal, dentro de duas semanas.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: arco"
+  ],
+  "where_to_watch": [
+   "Sport TV"
+  ],
+  "id": "5868716abc98c2a76623",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "MotoGP"
+  ],
+  "modalidade": "motociclismo",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "Estrela - Benfica",
+  "url": "https://www.rtp.pt/noticias/desporto/estrela-benfica_e1777757",
+  "source": "RTP Desporto",
+  "published": "2026-11-08T18:10:16+00:00",
+  "summary": "  \n      O Estrela da Amadora recebe o Benfica, em jogo da 11.ª jornada da I Liga portuguesa de futebol, no Estádio José Gomes, na Reboleira.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "ec25890cf9acdecfdf03",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
+ },
+ {
+  "title": "First Derry goal worth the wait for final hero Burns",
+  "url": "https://www.bbc.co.uk/sport/articles/cwz0vkj87ngzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-08T18:10:20+00:00",
+  "summary": "Derry City's FAI Cup final hero Darragh Burns says there is \"nowhere better\" to get his first goal for the club than scoring the winner at the Aviva Stadium in the decider.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "3ef07530c1838193a0ee",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-08T19:49:04+00:00"
  }
 ]
