@@ -5812,36 +5812,8 @@
   "arquivado_em": "2026-11-07T20:58:04+00:00"
  },
  {
-  "title": "Hamilton & Verstappen to start from back in Brazil",
-  "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&at_campaign=rss",
-  "source": "BBC Sport",
-  "published": "2026-11-07T17:24:15+00:00",
-  "summary": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.",
-  "sport": "geral",
-  "kind": "news",
-  "start": null,
-  "end": null,
-  "location": "",
-  "score": 5,
-  "reasons": [
-   "Automobilismo — referências: Max Verstappen, Charles Leclerc, Lewis Hamilton"
-  ],
-  "where_to_watch": [],
-  "id": "e53b919960ac6abe4e44",
-  "atletas": [
-   "Max Verstappen",
-   "Charles Leclerc",
-   "Lewis Hamilton"
-  ],
-  "clubes": [],
-  "competicoes": [],
-  "modalidade": "automobilismo",
-  "local": "",
-  "arquivado_em": "2026-11-07T16:54:27+00:00"
- },
- {
   "title": "Alverca volta a pontuar com empate 1-1 na recção ao Casa Pia",
-  "url": "https://www.rtp.pt/noticias/desporto/alverca-casa-pia_e1777629",
+  "url": "https://www.rtp.pt/noticias/desporto/alverca-volta-a-pontuar-com-empate-1-1-na-reccao-ao-casa-pia_e1777629",
   "source": "RTP Desporto",
   "published": "2026-11-07T17:27:24+00:00",
   "summary": "  \n      O Alverca voltou hoje a pontuar na I Liga portuguesa de futebol, após duas derrotas consecutivas, ao empatar 1-1 na receção ao Casa Pia, em jogo da 11.ª jornada da prova.\n ",
@@ -5991,6 +5963,35 @@
   "arquivado_em": "2026-11-07T20:58:04+00:00"
  },
  {
+  "title": "Sporting vence com golaço de Suárez na estreia de Paulo Fonseca",
+  "url": "https://www.rtp.pt/noticias/desporto/sporting-vence-com-golaco-de-suarez-na-estreia-de-paulo-fonseca_e1777634",
+  "source": "RTP Desporto",
+  "published": "2026-11-07T18:43:17+00:00",
+  "summary": "  \n      O Sporting recebeu e venceu o Moreirense, por 1-0, com golo de Luis Suárez, em jogo da 11.ª jornada da I Liga, que marcou a estreia de Paulo Fonseca aos comandos da equipa leonina.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 12,
+  "reasons": [
+   "Sporting: Sporting",
+   "Modalidade olímpica: arco"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "8f9a6119d91c4dc3e4b9",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-08T00:45:58+00:00"
+ },
+ {
   "title": "Benfica vence Stuart HC e soma 13.ª Supertaça feminina de hóquei em patins",
   "url": "https://www.rtp.pt/noticias/outras-modalidades/benfica-vence-stuart-hc-e-soma-13a-supertaca-feminina-de-hoquei-em-patins_d1777642",
   "source": "RTP Desporto",
@@ -6013,5 +6014,235 @@
   "modalidade": "hóquei",
   "local": "",
   "arquivado_em": "2026-11-07T20:58:04+00:00"
+ },
+ {
+  "title": "Jogo entre Estoril Praia e Marítimo adiado devido ao mau tempo na Madeira",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/jogo-entre-estoril-praia-e-maritimo-adiado-devido-ao-mau-tempo-na-madeira_d1777647",
+  "source": "RTP Desporto",
+  "published": "2026-11-07T20:21:36+00:00",
+  "summary": "  \n      O jogo Estoril Praia-Marítimo, da 11.ª jornada da I Liga de futebol, agendado para domingo, foi hoje adiado para data a anunciar, devido ao mau tempo que impediu a viagem da formação madeirense para Lisboa, informou a Liga.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "8d42b989fe759ece2adc",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-08T00:45:58+00:00"
+ },
+ {
+  "title": "Liga Nações. Rafael Leão lesiona-se e pode falhar estágio de Portugal",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/liga-nacoes-rafael-leao-lesiona-se-e-pode-falhar-estagio-de-portugal_d1777649",
+  "source": "RTP Desporto",
+  "published": "2026-11-07T20:32:02+00:00",
+  "summary": "  \n      O avançado Rafael Leão, um dos 28 jogadores convocados por Jorge Jesus, lesionou-se hoje ao serviço do Galatasaray e está em dúvida para os últimos dois jogos de Portugal no Grupo A4 da Liga das Nações de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "a5c19799632a392b0939",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-08T00:45:58+00:00"
+ },
+ {
+  "title": "Manchester City averba terceiro desaire seguido e vê Arsenal destacar-se no topo",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/manchester-city-averba-terceiro-desaire-seguido-e-ve-arsenal-destacar-se-no-topo_d1777650",
+  "source": "RTP Desporto",
+  "published": "2026-11-07T20:35:38+00:00",
+  "summary": "  \n      O Manchester City contabilizou a terceira derrota consecutiva na Liga inglesa de futebol, ao perder com o Nottingham Forest, por 3-1, em partida da 10.ª jornada, e está a seis pontos do líder da prova, o Arsenal.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "abf866fc5ea5b2e05cf6",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-08T00:45:58+00:00"
+ },
+ {
+  "title": "Norris takes pole in rain-delayed qualifying",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-07T20:48:40+00:00",
+  "summary": "McLaren's Lando Norris takes pole position for the Sao Paulo Grand Prix in a wet qualifying session at Interlagos delayed by nearly an hour and a half for heavy rain.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Lando Norris"
+  ],
+  "where_to_watch": [],
+  "id": "a93862590632a7170512",
+  "atletas": [
+   "Lando Norris"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-11-08T00:45:58+00:00"
+ },
+ {
+  "title": "Norris conquista pole no Brasil após qualificação interrompida pela chuva",
+  "url": "https://www.rtp.pt/noticias/motores/norris-conquista-pole-no-brasil-apos-qualificacao-interrompida-pela-chuva_d1777652",
+  "source": "RTP Desporto",
+  "published": "2026-11-07T21:15:24+00:00",
+  "summary": "  \n      O britânico Lando Norris (McLaren) conquistou hoje a pole position para o Grande Prémio do Brasil de Fórmula 1, 20.ª ronda da temporada, numa qualificação interrompida durante mais de uma hora devido à chuva intensa em Interlagos.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Lando Norris"
+  ],
+  "where_to_watch": [],
+  "id": "3d45aafebc7d083b1405",
+  "atletas": [
+   "Lando Norris"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Fórmula 1"
+  ],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-11-08T00:45:58+00:00"
+ },
+ {
+  "title": "Roma ultrapassa Inter e pressiona Lazio após triunfo folgado sobre o Sassuolo",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/roma-ultrapassa-inter-e-pressiona-lazio-apos-triunfo-folgado-sobre-o-sassuolo_d1777655",
+  "source": "RTP Desporto",
+  "published": "2026-11-07T21:58:45+00:00",
+  "summary": "  \n      A Roma ascendeu à vice-liderança da Série A italiana de futebol, após derrotar o Sassuolo, por 3-0, em desafio da 11.ª jornada, que lhe permitiu ultrapassar o Inter Milão e aproximar-se da rival Lazio.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "b953fee3467ce4cabb6d",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-08T00:45:58+00:00"
+ },
+ {
+  "title": "Hamilton & Verstappen to start from back in Brazil",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-07T22:07:41+00:00",
+  "summary": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Max Verstappen, Charles Leclerc, Lewis Hamilton"
+  ],
+  "where_to_watch": [],
+  "id": "e53b919960ac6abe4e44",
+  "atletas": [
+   "Max Verstappen",
+   "Charles Leclerc",
+   "Lewis Hamilton"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-11-07T16:54:27+00:00"
+ },
+ {
+  "title": "Real Madrid, de Mourinho, vence em Valência e cola-se ao FC Barcelona na liderança",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/real-madrid-de-mourinho-vence-em-valencia-e-cola-se-ao-fc-barcelona-na-lideranca_d1777656",
+  "source": "RTP Desporto",
+  "published": "2026-11-07T22:16:13+00:00",
+  "summary": "  \n      O Real Madrid, comandado por José Mourinho, somou o quinto triunfo seguido na Liga espanhola de futebol, ao vencer o Valência (3-0), e passou a somar os mesmos 30 pontos do FC Barcelona na liderança.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "4a54b150c2065e995808",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-08T00:45:58+00:00"
+ },
+ {
+  "title": "Sporting vence com golaço de Suárez na estreia de Paulo Fonseca - RTP",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56OWE3WHZYV2M0RkM3OHFBam5yN3ppUUU3dGszRDFJc2t6Y01HVmNrdl9wMDBENUp5TGxvV3pNbWNVR285RHM3MFJfZl9rMWxSMURDM3dEWVNwUTIyaG9wNWoxanhCY2ZsZGlENmFMcjcyY2dMcXdZ?oc=5",
+  "source": "Sporting — todas as modalidades",
+  "published": "2026-11-07T22:44:06+00:00",
+  "summary": " Sporting vence com golaço de Suárez na estreia de Paulo Fonseca    RTP ",
+  "sport": "Sporting",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Sporting: Sporting"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "0c5b7ed4c91d560514c4",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP"
+  ],
+  "competicoes": [],
+  "modalidade": "sporting",
+  "local": "",
+  "arquivado_em": "2026-11-08T00:45:58+00:00"
  }
 ]

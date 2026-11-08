@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-07T20:58:04+00:00",
- "total": 2480,
+ "actualizado": "2026-11-08T00:45:58+00:00",
+ "total": 2489,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
   "2026-10": 1092,
-  "2026-11": 223
+  "2026-11": 232
  },
  "atletas": {
   "Tadej Pogačar": 209,
@@ -19,8 +19,8 @@
   "Miguel Oliveira": 18,
   "Lewis Hamilton": 15,
   "Mathieu van der Poel": 14,
+  "Lando Norris": 11,
   "Mondo Duplantis": 10,
-  "Lando Norris": 9,
   "Charles Leclerc": 8,
   "Isaac Nader": 5,
   "Jakob Ingebrigtsen": 5,
@@ -35,7 +35,7 @@
   "Victor Wembanyama": 1
  },
  "clubes": {
-  "Sporting CP": 194,
+  "Sporting CP": 196,
   "Portugal (selecções)": 154
  },
  "competicoes": {
@@ -50,7 +50,7 @@
   "Liga Europa": 30,
   "Taça de Portugal": 26,
   "Jogos Olímpicos": 22,
-  "Fórmula 1": 18,
+  "Fórmula 1": 19,
   "Giro d'Italia": 17,
   "NBA": 7,
   "WNBA": 5,
@@ -68,9 +68,9 @@
  },
  "modalidades": {
   "ciclismo": 934,
-  "geral": 601,
-  "futebol": 537,
-  "automobilismo": 56,
+  "geral": 602,
+  "futebol": 542,
+  "automobilismo": 58,
   "atletismo": 45,
   "hóquei": 36,
   "portugal": 33,
@@ -84,8 +84,8 @@
   "andebol": 14,
   "ginástica": 12,
   "golfe": 11,
+  "sporting": 10,
   "boxe": 9,
-  "sporting": 9,
   "canoagem": 8,
   "ténis de mesa": 5,
   "críquete": 4,
@@ -98,13 +98,13 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 1151,
+  "RTP Desporto": 1158,
   "Cyclingnews": 567,
-  "BBC Sport": 395,
+  "BBC Sport": 396,
   "Ciclismo watchlist": 309,
   "Portugal olímpico": 33,
   "Atletismo watchlist": 16,
-  "Sporting — todas as modalidades": 9
+  "Sporting — todas as modalidades": 10
  },
  "locais": {}
 }
