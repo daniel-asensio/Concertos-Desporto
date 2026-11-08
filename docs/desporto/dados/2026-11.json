@@ -5816,7 +5816,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/alverca-volta-a-pontuar-com-empate-1-1-na-reccao-ao-casa-pia_e1777629",
   "source": "RTP Desporto",
   "published": "2026-11-07T17:27:24+00:00",
-  "summary": "  \n      O Alverca voltou hoje a pontuar na I Liga portuguesa de futebol, após duas derrotas consecutivas, ao empatar 1-1 na receção ao Casa Pia, em jogo da 11.ª jornada da prova.\n ",
+  "summary": "  \n      O Alverca voltou a pontuar na I Liga portuguesa de futebol, após duas derrotas consecutivas, ao empatar 1-1 na receção ao Casa Pia, em jogo da 11.ª jornada da prova.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -6294,5 +6294,158 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-11-08T07:29:16+00:00"
+ },
+ {
+  "title": "'It’s disrespectful to steal the biggest moment of my career' - Marie Schreiber condemns Euro cyclocross relegation",
+  "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/its-disrespectful-to-steal-the-biggest-moment-of-my-career-marie-schreiber-condemns-euro-cyclocross-relegation/",
+  "source": "Cyclingnews",
+  "published": "2026-11-08T10:01:22+00:00",
+  "summary": "\n                             The Luxembourg rider refused to attend the podium ceremony \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: remo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "e3273b6d3b280e3d1dbb",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-08T15:21:50+00:00"
+ },
+ {
+  "title": "I haven't thrown anyone under the bus - Khawaja",
+  "url": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-08T10:04:01+00:00",
+  "summary": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: vela"
+  ],
+  "where_to_watch": [],
+  "id": "6fff73c85ec369837c8f",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-08T15:21:50+00:00"
+ },
+ {
+  "title": "Walsh-inspired Australia crush irate Samoa to reach World Cup final",
+  "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cqd0914z959do?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-08T11:45:42+00:00",
+  "summary": "Reece Walsh scores a hat-trick as Australia reach the Men's Rugby League World Cup final by overwhelming a Samoa side left fuming by a series of refereeing calls against them.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "7ec636ff9675a8e7c558",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-11-08T15:21:50+00:00"
+ },
+ {
+  "title": "Portugal fecha Mundial de trampolins com medalha de bronze em all-around",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-fecha-mundial-de-trampolins-com-medalha-de-bronze-em-all-around_d1777707",
+  "source": "RTP Desporto",
+  "published": "2026-11-08T11:57:50+00:00",
+  "summary": "  \n      Portugal conquistou este domingo a medalha de bronze na disciplina de all-around do Campeonato do Mundo de trampolins, encerrando a participação em Nanjing, na China, com três \"metais\".\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: campeonato do mundo"
+  ],
+  "where_to_watch": [],
+  "id": "4a8e0a6e1b60a28b00b2",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Campeonato do Mundo"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-08T15:21:50+00:00"
+ },
+ {
+  "title": "Queniano Vincent Kigen e etíope Ergat Heshe vencem Maratona do Porto",
+  "url": "https://www.rtp.pt/noticias/atletismo/queniano-vincent-kigen-e-etiope-ergat-heshe-vencem-maratona-do-porto_d1777709",
+  "source": "RTP Desporto",
+  "published": "2026-11-08T12:36:28+00:00",
+  "summary": "  \n      O queniano Vincent Kipkorir Kigen e a etíope Ergat Kahsay Heshe venceram hoje a 22.ª Maratona do Porto, numa edição em que Fernando Serrão e Miriam Martins foram os melhores portugueses.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: atletismo"
+  ],
+  "where_to_watch": [],
+  "id": "c81bff9a8abbd9a06123",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "atletismo",
+  "local": "",
+  "arquivado_em": "2026-11-08T15:21:50+00:00"
+ },
+ {
+  "title": "Australia reach World Cup final after Fiji scare",
+  "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6vg02klk084o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-08T12:39:01+00:00",
+  "summary": "Australia have reached their fifth successive Women's Rugby League World Cup final as they seek a fourth consecutive title - but they were made to work harder than anyone expected.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "07082bbd2bc6cc8e2bda",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-11-08T15:21:50+00:00"
  }
 ]
