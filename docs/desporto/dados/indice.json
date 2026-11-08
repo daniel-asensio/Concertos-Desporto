@@ -1,25 +1,25 @@
 {
- "actualizado": "2026-11-08T19:49:04+00:00",
- "total": 2513,
+ "actualizado": "2026-11-08T23:47:40+00:00",
+ "total": 2521,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
   "2026-10": 1092,
-  "2026-11": 256
+  "2026-11": 264
  },
  "atletas": {
-  "Tadej Pogačar": 210,
+  "Tadej Pogačar": 211,
   "Iúri Leitão": 115,
   "João Almeida": 50,
   "Remco Evenepoel": 44,
   "Wout van Aert": 28,
   "Demi Vollering": 25,
   "Max Verstappen": 24,
-  "Jonas Vingegaard": 22,
+  "Jonas Vingegaard": 23,
   "Miguel Oliveira": 18,
   "Lewis Hamilton": 15,
+  "Lando Norris": 14,
   "Mathieu van der Poel": 14,
-  "Lando Norris": 12,
   "Mondo Duplantis": 10,
   "Charles Leclerc": 8,
   "Isaac Nader": 5,
@@ -35,8 +35,8 @@
   "Victor Wembanyama": 1
  },
  "clubes": {
-  "Sporting CP": 197,
-  "Portugal (selecções)": 156
+  "Sporting CP": 198,
+  "Portugal (selecções)": 157
  },
  "competicoes": {
   "Campeonato do Mundo": 356,
@@ -50,7 +50,7 @@
   "Liga Europa": 30,
   "Taça de Portugal": 26,
   "Jogos Olímpicos": 22,
-  "Fórmula 1": 19,
+  "Fórmula 1": 20,
   "Giro d'Italia": 17,
   "NBA": 7,
   "MotoGP": 5,
@@ -67,10 +67,10 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 937,
+  "ciclismo": 938,
   "geral": 610,
-  "futebol": 545,
-  "automobilismo": 59,
+  "futebol": 548,
+  "automobilismo": 61,
   "atletismo": 46,
   "hóquei": 36,
   "portugal": 34,
@@ -80,11 +80,11 @@
   "basquetebol": 22,
   "motociclismo": 22,
   "voleibol": 18,
+  "andebol": 16,
   "surf": 16,
-  "andebol": 15,
   "ginástica": 12,
   "golfe": 11,
-  "sporting": 10,
+  "sporting": 11,
   "boxe": 9,
   "canoagem": 8,
   "ténis de mesa": 5,
@@ -98,13 +98,13 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 1167,
+  "RTP Desporto": 1172,
   "Cyclingnews": 569,
-  "BBC Sport": 407,
-  "Ciclismo watchlist": 310,
+  "BBC Sport": 408,
+  "Ciclismo watchlist": 311,
   "Portugal olímpico": 34,
   "Atletismo watchlist": 16,
-  "Sporting — todas as modalidades": 10
+  "Sporting — todas as modalidades": 11
  },
  "locais": {}
 }
