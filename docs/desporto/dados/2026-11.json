@@ -6579,7 +6579,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/paulo-fonseca-estreia-se-ao-leme-do-sporting-com-vitoria_v1777724",
   "source": "RTP Desporto",
   "published": "2026-11-08T13:54:47+00:00",
-  "summary": "  \n      O golo frente ao Moreirense foi de Luis Suárez.\n ",
+  "summary": "  \n      O golo frente ao Moreirense foi de Luis Suárez. ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -6906,7 +6906,7 @@
   "url": "https://www.rtp.pt/noticias/motores/marco-bezzecchi-vence-no-qatar-e-adia-titulo-de-motogp-para-portimao_d1777754",
   "source": "RTP Desporto",
   "published": "2026-11-08T17:50:56+00:00",
-  "summary": "  \n      O piloto italiano Marco Bezzecchi (Aprilia) venceu este domingo o Grande Prémio do Qatar de MotoGP, 20.ª ronda da temporada, e adiou a decisão do título para a penúltima jornada, em Portugal, dentro de duas semanas.\n ",
+  "summary": "  \n      O piloto italiano Marco Bezzecchi (Aprilia) venceu este domingo o Grande Prémio do Qatar de MotoGP, 20ª ronda da temporada, e adiou a decisão do título para a penúltima jornada, em Portugal, dentro de duas semanas. ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -7108,7 +7108,7 @@
   "url": "https://www.rtp.pt/noticias/futebol-internacional/bis-de-fermin-lopez-abate-atletico-e-fc-barcelona-lidera-isolado-em-espanha_d1777780",
   "source": "RTP Desporto",
   "published": "2026-11-08T22:28:51+00:00",
-  "summary": "  \n      Um ‘bis’ do futebolista Fermín Lopez deu hoje a vitória ao FC Barcelona sobre o Atlético de Madrid (2-1), que permitiu a reviravolta ao líder no encontro de encerramento da 12.ª jornada da Liga espanhola.\n ",
+  "summary": "  \n      Um ‘bis’ do futebolista Fermín Lopez deu hoje a vitória ao FC Barcelona sobre o Atlético de Madrid (2-1), que permitiu a reviravolta ao líder no encontro de encerramento da 12.ª jornada da Liga espanhola. ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -7179,5 +7179,59 @@
   "modalidade": "automobilismo",
   "local": "",
   "arquivado_em": "2026-11-09T06:51:15+00:00"
+ },
+ {
+  "title": "\"Tadej Pogacar poderia ter ficado paralítico, a recuperação será longa\" pais de Pogacar revelam preocupação com o esloveno - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOG9FcXY3RTlKek13cWJsOWNaSXZmTzhkZlBvQkxENXQ2TTd2Z2RZVzYwNFh1R3N4djBJakFQN3JfN015TXlXdjR5bUxsY2Z5b2pOTFU0WUlLYWdkMDFxcm9xV3dZZzdBaFBVb094MmdxZzBROEtZY2JRSkJCR2xWZVJLeVF0azV1dXpBWWFQLWtYR1c2aktKd2VKYTN4TnlSeGQxVGljbUtHVHA3MEhTZkd4WTNjTDZmZGkwSVd2c3hVZEtaNlQ0bHF2eTNFQV9rMUlEdmpYV0FMTXlyUS1BczVhM05kQUt5TDczTw?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-11-09T07:30:00+00:00",
+  "summary": " \"Tadej Pogacar poderia ter ficado paralítico, a recuperação será longa\" pais de Pogacar revelam preocupação com o esloveno    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Modalidade olímpica: ciclismo, vela"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "5582901a55af7062250f",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-09T17:38:41+00:00"
+ },
+ {
+  "title": "Andebol. Portugal empata com Espanha na Taça Euro",
+  "url": "https://www.rtp.pt/noticias/desporto/andebol-portugal-empata-com-espanha-na-taca-euro_v1777818",
+  "source": "RTP Desporto",
+  "published": "2026-11-09T07:58:47+00:00",
+  "summary": "  \n      Portugal arrancou um empate épico a 37 frente a Espanha, em Vigo, na Taça Euro. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: andebol"
+  ],
+  "where_to_watch": [],
+  "id": "1b078e2a64838356e7b2",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "andebol",
+  "local": "",
+  "arquivado_em": "2026-11-09T17:38:41+00:00"
  }
 ]
