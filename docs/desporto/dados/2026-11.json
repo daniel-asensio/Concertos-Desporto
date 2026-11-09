@@ -6930,6 +6930,30 @@
   "arquivado_em": "2026-11-08T19:49:04+00:00"
  },
  {
+  "title": "Benfica vence na Amadora com golo de Pavlidis no último suspiro",
+  "url": "https://www.rtp.pt/noticias/desporto/benfica-vence-na-amadora-com-golo-de-pavlidis-no-ultimo-suspiro_e1777757",
+  "source": "RTP Desporto",
+  "published": "2026-11-08T18:10:16+00:00",
+  "summary": "  \n      Um golo de Pavlidis nos descontos garantiu domingo o triunfo do Benfica por 3-2 na visita ao Estrela da Amadora, em jogo da 11.ª jornada da I Liga portuguesa de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "df748abdb1e1969b46d3",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-09T06:51:15+00:00"
+ },
+ {
   "title": "Estrela - Benfica",
   "url": "https://www.rtp.pt/noticias/desporto/estrela-benfica_e1777757",
   "source": "RTP Desporto",
@@ -7078,5 +7102,82 @@
   "modalidade": "automobilismo",
   "local": "",
   "arquivado_em": "2026-11-08T23:47:40+00:00"
+ },
+ {
+  "title": "Bis de Fermín Lopez abate Atlético e FC Barcelona lidera isolado em Espanha",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/bis-de-fermin-lopez-abate-atletico-e-fc-barcelona-lidera-isolado-em-espanha_d1777780",
+  "source": "RTP Desporto",
+  "published": "2026-11-08T22:28:51+00:00",
+  "summary": "  \n      Um ‘bis’ do futebolista Fermín Lopez deu hoje a vitória ao FC Barcelona sobre o Atlético de Madrid (2-1), que permitiu a reviravolta ao líder no encontro de encerramento da 12.ª jornada da Liga espanhola.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "28d2bd7334f6ff1a4e06",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-09T06:51:15+00:00"
+ },
+ {
+  "title": "Portugal ineficaz termina Finalíssima de futsal no último lugar",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-ineficaz-termina-finalissima-de-futsal-no-ultimo-lugar_d1777784",
+  "source": "RTP Desporto",
+  "published": "2026-11-08T22:47:46+00:00",
+  "summary": "  \n      A seleção portuguesa de futsal terminou a Finalíssima no quarto e último lugar depois de ter perdido hoje frente à Argentina por 3-1, num jogo em que foi pouco eficaz.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 15,
+  "reasons": [
+   "Portugal: seleção portuguesa",
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "9dc77adb510ebadffc07",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-09T06:51:15+00:00"
+ },
+ {
+  "title": "Norris sparkles in Sao Paulo despite firework mishap",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-08T23:44:53+00:00",
+  "summary": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Lando Norris"
+  ],
+  "where_to_watch": [],
+  "id": "7b791b48c7460c0aae9a",
+  "atletas": [
+   "Lando Norris"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-11-09T06:51:15+00:00"
  }
 ]

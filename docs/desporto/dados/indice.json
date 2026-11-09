@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-08T23:47:40+00:00",
- "total": 2521,
+ "actualizado": "2026-11-09T06:51:15+00:00",
+ "total": 2525,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
   "2026-10": 1092,
-  "2026-11": 264
+  "2026-11": 268
  },
  "atletas": {
   "Tadej Pogačar": 211,
@@ -17,8 +17,8 @@
   "Max Verstappen": 24,
   "Jonas Vingegaard": 23,
   "Miguel Oliveira": 18,
+  "Lando Norris": 15,
   "Lewis Hamilton": 15,
-  "Lando Norris": 14,
   "Mathieu van der Poel": 14,
   "Mondo Duplantis": 10,
   "Charles Leclerc": 8,
@@ -36,7 +36,7 @@
  },
  "clubes": {
   "Sporting CP": 198,
-  "Portugal (selecções)": 157
+  "Portugal (selecções)": 158
  },
  "competicoes": {
   "Campeonato do Mundo": 356,
@@ -68,9 +68,9 @@
  },
  "modalidades": {
   "ciclismo": 938,
-  "geral": 610,
-  "futebol": 548,
-  "automobilismo": 61,
+  "geral": 611,
+  "futebol": 550,
+  "automobilismo": 62,
   "atletismo": 46,
   "hóquei": 36,
   "portugal": 34,
@@ -98,9 +98,9 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 1172,
+  "RTP Desporto": 1175,
   "Cyclingnews": 569,
-  "BBC Sport": 408,
+  "BBC Sport": 409,
   "Ciclismo watchlist": 311,
   "Portugal olímpico": 34,
   "Atletismo watchlist": 16,
