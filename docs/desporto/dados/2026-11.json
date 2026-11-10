@@ -7639,17 +7639,16 @@
   "url": "https://www.rtp.pt/noticias/desporto/portugal-vence-afeganistao-por-2-0-e-esta-na-final-olimpica-de-futsal_v1778043",
   "source": "RTP Desporto",
   "published": "2026-11-10T08:55:47+00:00",
-  "summary": "  \n      Portugal vai lutar pela medalha de ouro no futsal nos Jogos Olímpicos da Juventude, em Dakar.\n ",
+  "summary": "  \n       ",
   "sport": "geral",
   "kind": "news",
   "start": null,
   "end": null,
   "location": "",
-  "score": 17,
+  "score": 15,
   "reasons": [
    "Portugal: Portugal vence",
-   "Grandes eventos: Jogos Olímpicos, final",
-   "Modalidade olímpica: luta"
+   "Grandes eventos: final"
   ],
   "where_to_watch": [],
   "id": "f89672198be090154294",
@@ -7657,9 +7656,7 @@
   "clubes": [
    "Portugal (selecções)"
   ],
-  "competicoes": [
-   "Jogos Olímpicos"
-  ],
+  "competicoes": [],
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-11-10T17:57:18+00:00"
@@ -7718,5 +7715,112 @@
   "modalidade": "ciclismo",
   "local": "",
   "arquivado_em": "2026-11-10T17:57:18+00:00"
+ },
+ {
+  "title": "World Cup finalists England still feel short of best",
+  "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ckzd6dmm5z19o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-10T13:58:00+00:00",
+  "summary": "England are into the Wheelchair Rugby League World Cup final after thrashing Australia 86-18 - but still have not hit peak form, according to try-scorer Rob Hawkins.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "c50897ca8a344ad62e1a",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-11-10T23:31:20+00:00"
+ },
+ {
+  "title": "England hammer Australia to reach final",
+  "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cm5ynyez127xo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-10T16:32:17+00:00",
+  "summary": "Rob Hawkins scores five tries as England hammer Australia 86-18 to reach the Wheelchair Rugby League World Cup final.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "289769887e7de2a17d24",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-11-10T23:31:20+00:00"
+ },
+ {
+  "title": "Liga das Nações: Alberto Costa quer agarrar oportunidade com \"unhas e dentes\"",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/liga-das-nacoes-alberto-costa-quer-agarrar-oportunidade-com-unhas-e-dentes_d1778194",
+  "source": "RTP Desporto",
+  "published": "2026-11-10T17:41:37+00:00",
+  "summary": "  \n      O defesa Alberto Costa, estreante em convocatórias na seleção portuguesa, quer “agarrar com unhas e dentes” a oportunidade concedida por Jorge Jesus para os jogos da Liga das Nações e lamentou a ausência de Cristiano Ronaldo.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Portugal: seleção portuguesa"
+  ],
+  "where_to_watch": [],
+  "id": "a212c558448d9950ef2d",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-10T23:31:20+00:00"
+ },
+ {
+  "title": "Porque é que Tadej Pogacar é o melhor? A ciência que explica o êxito do Caníbal - TopCycling",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeXpzRkJORUVYVnhiWUtZRkpRR3VtekpiaTA5bXMyeGN0Z0hZd054Qm1oLUVwNk14SkZIOXBHU2pJOGNRa25sMzhCSEZXN2lENVFxYWVQdjlpakw1aW9XVUhfa05fUUhhWVM0anM0dWcydHlDRFBua0JRSjZITnRBVjNQS0FJem1KZXJIb0dMc2xOQkNhbGF3?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-11-10T17:54:02+00:00",
+  "summary": " Porque é que Tadej Pogacar é o melhor? A ciência que explica o êxito do Caníbal    TopCycling ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "77419629617e6ef3784a",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-10T23:31:20+00:00"
  }
 ]
