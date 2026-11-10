@@ -7212,7 +7212,7 @@
  },
  {
   "title": "Andebol. Portugal empata com Espanha na Taça Euro",
-  "url": "https://www.rtp.pt/noticias/desporto/andebol-portugal-empata-com-espanha-na-taca-euro_v1777818",
+  "url": "https://www.rtp.pt/noticias/andebol/andebol-portugal-empata-com-espanha-na-taca-euro_v1777818",
   "source": "RTP Desporto",
   "published": "2026-11-09T07:58:47+00:00",
   "summary": "  \n      Portugal arrancou um empate épico a 37 frente a Espanha, em Vigo, na Taça Euro. ",
@@ -7233,5 +7233,324 @@
   "modalidade": "andebol",
   "local": "",
   "arquivado_em": "2026-11-09T17:38:41+00:00"
+ },
+ {
+  "title": "Os segredos do sucesso de Pogacar - SAPO",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYTJoMGstTllIMVRGQWpMa0JXQm9xdlFEemVmbVpXa1pvTXJYOTBGY3JZUV9KR1hUdk8yczh4b0VmQ19PWTlvdVNjVkZnMi1XYUpMbHBEekNGRzhpQ084NWk4VmFadldwTUFYSWpZellydjlwc3FzdUhhWUlnNEJTeXR2RHdzRVR4?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-11-09T10:00:00+00:00",
+  "summary": " Os segredos do sucesso de Pogacar    SAPO ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Pogacar"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "68808fe1f27e43b0b9ce",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-10T01:38:15+00:00"
+ },
+ {
+  "title": "Flávio Nazinho chamado à seleção portuguesa",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/flavio-nazinho-chamado-a-selecao-portuguesa_d1777858",
+  "source": "RTP Desporto",
+  "published": "2026-11-09T12:47:59+00:00",
+  "summary": "  \n      Flávio Nazinho foi hoje chamado à seleção portuguesa, de acordo com o seu clube, o Mónaco, no dia que Portugal arranca o estágio para os últimos dois jogos da fase de grupos da Liga das Nações de futebol.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Portugal: seleção portuguesa",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "3f5c03323e9aa70812dc",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-10T01:38:15+00:00"
+ },
+ {
+  "title": "Portugal vai lutar pelo ouro no futsal e já garantiu cinco medalhas",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-vai-lutar-pelo-ouro-no-futsal-e-ja-garantiu-cinco-medalhas_d1777866",
+  "source": "RTP Desporto",
+  "published": "2026-11-09T12:51:24+00:00",
+  "summary": "  \n      Portugal vai lutar pelo título masculino de futsal nos Jogos Olímpicos da Juventude, depois de hoje ter derrotado o Afeganistão por 2-0 na primeira meia-final, garantindo a quinta medalha da Missão lusa em Dakar2026.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: Jogos Olímpicos, final",
+   "Modalidade olímpica: luta"
+  ],
+  "where_to_watch": [],
+  "id": "eedbd372365f73eaaaee",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Jogos Olímpicos"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-10T01:38:15+00:00"
+ },
+ {
+  "title": "Marianne Vos, Lotte Kopecky, Mathieu van der Poel, and Maddy Nutt among stars set to headline Rouleur Live in London",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/marianne-vos-lotte-kopecky-mathieu-van-der-poel-and-maddy-nutt-among-stars-set-to-headline-rouleur-live-in-london/",
+  "source": "Cyclingnews",
+  "published": "2026-11-09T12:56:05+00:00",
+  "summary": "\n                             Running from November 12-14, dozens of cycling stars will descend on London, along with over 80 brand exhibitors \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 6,
+  "reasons": [
+   "Ciclismo — referências: Mathieu van der Poel, Lotte Kopecky"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "e3dbdc67a80878c52831",
+  "atletas": [
+   "Mathieu van der Poel",
+   "Lotte Kopecky"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-10T01:38:15+00:00"
+ },
+ {
+  "title": "Três baixas na seleção. Gonçalo Inácio regressa e Nazinho estreia-se",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/tres-baixas-na-selecao-goncalo-inacio-regressa-e-nazinho-estreia-se_d1777884",
+  "source": "RTP Desporto",
+  "published": "2026-11-09T14:03:58+00:00",
+  "summary": "  \n      A Federação Portuguesa de Futebol confirmou a chamada de Flávio Nazinho, que havia sido revelada pelo clube que representa, o Mónaco. Anunciou também o retorno de Gonçalo Inácio, cujo nome não integrava a primeira lista de 28 jogadores eleitos por Jorge Jesus.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: vela, futebol"
+  ],
+  "where_to_watch": [],
+  "id": "4376612986d83c8407e1",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-10T01:38:15+00:00"
+ },
+ {
+  "title": "The heavy defeat that ended Robinson's Aberdeen tenure",
+  "url": "https://www.bbc.co.uk/sport/videos/c3dxw181eqejo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-09T17:10:00+00:00",
+  "summary": "Watch the best of the action as Hibernian thrash Aberdeen 4-0 in what would proved to be Stephen Robinson's final match in charge. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "79375d697c35a2fb2c47",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-10T01:38:15+00:00"
+ },
+ {
+  "title": "Kane and Bellingham air strong views in England World Cup review",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-09T17:30:23+00:00",
+  "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "48988636bf7388619b8d",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-10T01:38:15+00:00"
+ },
+ {
+  "title": "Man Utd yet to make decision on Carrick's future",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-09T17:49:05+00:00",
+  "summary": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "6a2ddc15956a3cd2aa30",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-10T01:38:15+00:00"
+ },
+ {
+  "title": "Pau Cubarsí eleito Golden Boy de 2026",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/pau-cubarsi-eleito-golden-boy-de-2026_d1777938",
+  "source": "RTP Desporto",
+  "published": "2026-11-09T18:25:35+00:00",
+  "summary": "  \n      O central espanhol Pau Cubarsí, jogador do FC Barcelona, conquistou o prémio Golden Boy, atribuído pelo Tuttosport ao melhor jogador sub-21 a atuar nas ligas europeias, anunciou o jornal desportivo italiano, numa cerimónia realizada em Sassuolo.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "6f1aaa7ec86f6631aa56",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-10T01:38:15+00:00"
+ },
+ {
+  "title": "Nuno Mendes e Vitinha no ‘onze’ do ano da FIFPro",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/nuno-mendes-e-vitinha-no-onze-do-ano-da-fifpro_d1777939",
+  "source": "RTP Desporto",
+  "published": "2026-11-09T18:33:42+00:00",
+  "summary": "  \n      Os portugueses Nuno Mendes e Vitinha, que alinham nos franceses do Paris Saint-Germain, integram o melhor ‘onze’ de 2026 da Federação Internacional de Associações de Futebolistas Profissionais (FIFPro), anunciou hoje o organismo.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "a1821d2e97fee9edd6ef",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-10T01:38:15+00:00"
+ },
+ {
+  "title": "Dakar2026: Futsal garante quinta medalha a Portugal",
+  "url": "https://www.rtp.pt/noticias/outras-modalidades/dakar2026-futsal-garante-quinta-medalha-a-portugal_d1777943",
+  "source": "RTP Desporto",
+  "published": "2026-11-09T18:46:06+00:00",
+  "summary": "  \n      A equipa portuguesa ficou hoje mais perto do sonho de sagrar-se campeã olímpica do torneio masculino de futsal, ao apurar-se para a final de Dakar2026, onde Maria Clara Pires alcançou o melhor resultado de sempre do atletismo nacional.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 17,
+  "reasons": [
+   "Portugal: equipa portuguesa",
+   "Grandes eventos: final",
+   "Modalidade olímpica: atletismo"
+  ],
+  "where_to_watch": [],
+  "id": "58cd5ff590842973e92b",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "atletismo",
+  "local": "",
+  "arquivado_em": "2026-11-10T01:38:15+00:00"
+ },
+ {
+  "title": "Inside a WorldTour pro's off-season: Watching NBA with Remco, much-needed days on the couch, and exhausting wind tunnel tests - Luke Tuckwell's column",
+  "url": "https://www.cyclingnews.com/pro-cycling/inside-a-worldtour-pros-off-season-watching-nba-with-remco-much-needed-days-on-the-couch-and-exhausting-wind-tunnel-tests-luke-tuckwells-column/",
+  "source": "Cyclingnews",
+  "published": "2026-11-09T20:23:33+00:00",
+  "summary": "\n                             Red Bull-Bora-Hansgrohe rider and Cyclingnews columnist details his time off the bike, why he's sad to say goodbye to the 2026 season, and why wind tunnel testing is both brutal and rewarding \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: WorldTour"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas",
+   "NBA League Pass",
+   "Sport TV — jogos seleccionados"
+  ],
+  "id": "4cca419a1bb65e8ceea4",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "WorldTour",
+   "NBA"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-10T01:38:15+00:00"
  }
 ]

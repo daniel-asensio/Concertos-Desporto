@@ -1,14 +1,14 @@
 {
- "actualizado": "2026-11-09T17:38:41+00:00",
- "total": 2527,
+ "actualizado": "2026-11-10T01:38:15+00:00",
+ "total": 2539,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
   "2026-10": 1092,
-  "2026-11": 270
+  "2026-11": 282
  },
  "atletas": {
-  "Tadej Pogačar": 212,
+  "Tadej Pogačar": 213,
   "Iúri Leitão": 115,
   "João Almeida": 50,
   "Remco Evenepoel": 44,
@@ -19,16 +19,16 @@
   "Miguel Oliveira": 18,
   "Lando Norris": 15,
   "Lewis Hamilton": 15,
-  "Mathieu van der Poel": 14,
+  "Mathieu van der Poel": 15,
   "Mondo Duplantis": 10,
   "Charles Leclerc": 8,
   "Isaac Nader": 5,
   "Jakob Ingebrigtsen": 5,
   "Neemias Queta": 5,
   "Pedro Pichardo": 5,
+  "Lotte Kopecky": 4,
   "Rui Costa": 4,
   "António Morgado": 3,
-  "Lotte Kopecky": 3,
   "A'ja Wilson": 1,
   "Eliud Kipchoge": 1,
   "Patrícia Mamona": 1,
@@ -36,7 +36,7 @@
  },
  "clubes": {
   "Sporting CP": 198,
-  "Portugal (selecções)": 158
+  "Portugal (selecções)": 160
  },
  "competicoes": {
   "Campeonato do Mundo": 356,
@@ -44,15 +44,15 @@
   "Liga dos Campeões": 107,
   "Campeonato da Europa": 69,
   "Tour de France": 69,
-  "Taça do Mundo": 51,
-  "WorldTour": 41,
+  "Taça do Mundo": 52,
+  "WorldTour": 42,
   "Il Lombardia": 39,
   "Liga Europa": 30,
   "Taça de Portugal": 26,
-  "Jogos Olímpicos": 22,
+  "Jogos Olímpicos": 23,
   "Fórmula 1": 20,
   "Giro d'Italia": 17,
-  "NBA": 7,
+  "NBA": 8,
   "MotoGP": 5,
   "WNBA": 5,
   "WRC": 4,
@@ -67,11 +67,11 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 939,
-  "geral": 611,
-  "futebol": 550,
+  "ciclismo": 942,
+  "geral": 617,
+  "futebol": 552,
   "automobilismo": 62,
-  "atletismo": 46,
+  "atletismo": 47,
   "hóquei": 36,
   "portugal": 34,
   "rugby": 31,
@@ -98,10 +98,10 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 1176,
-  "Cyclingnews": 569,
-  "BBC Sport": 409,
-  "Ciclismo watchlist": 312,
+  "RTP Desporto": 1182,
+  "Cyclingnews": 571,
+  "BBC Sport": 412,
+  "Ciclismo watchlist": 313,
   "Portugal olímpico": 34,
   "Atletismo watchlist": 16,
   "Sporting — todas as modalidades": 11
