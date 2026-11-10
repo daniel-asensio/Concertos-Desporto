@@ -1,14 +1,14 @@
 {
- "actualizado": "2026-11-10T10:00:10+00:00",
- "total": 2541,
+ "actualizado": "2026-11-10T17:57:18+00:00",
+ "total": 2545,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
   "2026-10": 1092,
-  "2026-11": 284
+  "2026-11": 288
  },
  "atletas": {
-  "Tadej Pogačar": 213,
+  "Tadej Pogačar": 214,
   "Iúri Leitão": 115,
   "João Almeida": 50,
   "Remco Evenepoel": 44,
@@ -36,20 +36,20 @@
  },
  "clubes": {
   "Sporting CP": 198,
-  "Portugal (selecções)": 160
+  "Portugal (selecções)": 161
  },
  "competicoes": {
-  "Campeonato do Mundo": 356,
+  "Campeonato do Mundo": 357,
   "Vuelta a España": 160,
   "Liga dos Campeões": 107,
   "Campeonato da Europa": 69,
   "Tour de France": 69,
   "Taça do Mundo": 52,
-  "WorldTour": 42,
+  "WorldTour": 44,
   "Il Lombardia": 39,
   "Liga Europa": 30,
   "Taça de Portugal": 26,
-  "Jogos Olímpicos": 23,
+  "Jogos Olímpicos": 24,
   "Fórmula 1": 20,
   "Giro d'Italia": 17,
   "NBA": 8,
@@ -67,8 +67,8 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 942,
-  "geral": 618,
+  "ciclismo": 944,
+  "geral": 620,
   "futebol": 553,
   "automobilismo": 62,
   "atletismo": 47,
@@ -98,10 +98,10 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 1183,
-  "Cyclingnews": 571,
+  "RTP Desporto": 1185,
+  "Cyclingnews": 572,
   "BBC Sport": 413,
-  "Ciclismo watchlist": 313,
+  "Ciclismo watchlist": 314,
   "Portugal olímpico": 34,
   "Atletismo watchlist": 16,
   "Sporting — todas as modalidades": 11
