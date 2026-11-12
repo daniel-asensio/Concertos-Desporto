@@ -8225,7 +8225,7 @@
   "url": "https://www.rtp.pt/noticias/outras-modalidades/judoca-joana-santos-sagra-se-campea-em-57-kg-nos-europeus-para-surdos_d1778541",
   "source": "RTP Desporto",
   "published": "2026-11-11T21:17:00+00:00",
-  "summary": "  \n      A judoca portuguesa Joana Santos sagrou-se hoje campeã em -57 kg nos Europeus para surdos, a decorrerem em Baku, numa competição na qual venceu no último combate a russa Aleksandra Buidina.\n ",
+  "summary": "  \n       ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -8243,5 +8243,167 @@
   "modalidade": "judo",
   "local": "",
   "arquivado_em": "2026-11-11T22:48:11+00:00"
+ },
+ {
+  "title": "Workaholic with a tattooed throat – meet The Merthyr Mexican",
+  "url": "https://www.bbc.co.uk/sport/boxing/articles/c607303x7yedo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-12T04:56:22+00:00",
+  "summary": "Welsh boxer Gavin Gwynne faces Zelfa Barrett at Wembley on 14 November as he aims for an unlikely world title shot. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: boxe"
+  ],
+  "where_to_watch": [],
+  "id": "2b71b6b03bcf1df2e11b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-12T12:55:38+00:00"
+ },
+ {
+  "title": "O triunvirato da Seleção",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/o-triunvirato-da-selecao_d1778618",
+  "source": "RTP Desporto",
+  "published": "2026-11-12T09:43:07+00:00",
+  "summary": "  \n      Aos 32 anos, Bernardo Silva é o novo capitão da Seleção portuguesa de futebol, mas durante a liderança do médio do Real Madrid a braçadeira promete ser partilhada com Bruno Fernandes e Ruben Dias, depois de quase duas décadas do ‘monopólio’ de Cristiano Ronaldo.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 10,
+  "reasons": [
+   "Portugal: seleção portuguesa",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "1216ae1fe6e36b34ba19",
+  "atletas": [],
+  "clubes": [
+   "Portugal (selecções)"
+  ],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-12T12:55:38+00:00"
+ },
+ {
+  "title": "'I don't get often very emotional' – Tadej Pogačar highlights a teammate's Tour de France stage win as 'one of the best days of my career'",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-dont-get-often-very-emotional-tadej-pogacar-highlights-a-teammates-tour-de-france-stage-win-as-one-of-the-best-days-of-my-career/",
+  "source": "Cyclingnews",
+  "published": "2026-11-12T10:37:56+00:00",
+  "summary": "\n                             'It’s something very beautiful and I feel very privileged' Del Toro says of Pogačar's support \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 13,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Ciclismo — grandes provas: Tour de France"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "183c7c3177e9b53620ba",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Tour de France"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-12T12:55:38+00:00"
+ },
+ {
+  "title": "Michael Carrick despedido do Manchester United",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/michael-carrick-despedido-do-manchester-united_d1778637",
+  "source": "RTP Desporto",
+  "published": "2026-11-12T10:49:43+00:00",
+  "summary": "  \n      O treinador Michael Carrick foi despedido pelo Manchester United, após oito encontros sem vencer na Liga inglesa de futebol, anunciou o clube onde jogam Bruno Fernandes e Diogo Dalot.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "448c5a7695bd4ddfd2d7",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-12T12:55:38+00:00"
+ },
+ {
+  "title": "`Duplo-duplo` de Queta em nova vitória dos Celtics",
+  "url": "https://www.rtp.pt/noticias/basquetebol/duplo-duplo-de-queta-em-nova-vitoria-dos-celtics_d1778639",
+  "source": "RTP Desporto",
+  "published": "2026-11-12T11:04:25+00:00",
+  "summary": "  \n      O português Neemias Queta conseguiu na quarta-feira o seu primeiro ‘duplo-duplo’ da temporada, no triunfo dos Boston Celtics em casa dos Toronto Raptors, por 98-93, em jogo da NBA.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Basquetebol — referências: Neemias Queta",
+   "Modalidade olímpica: basquetebol"
+  ],
+  "where_to_watch": [],
+  "id": "93242488abe614160283",
+  "atletas": [
+   "Neemias Queta"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "NBA"
+  ],
+  "modalidade": "basquetebol",
+  "local": "",
+  "arquivado_em": "2026-11-12T12:55:38+00:00"
+ },
+ {
+  "title": "BBC to show England-France wheelchair World Cup final",
+  "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c8dx16rnrpkxo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-12T11:30:15+00:00",
+  "summary": "England's bid to retain the Wheelchair Rugby League World Cup will be shown live on the BBC on Friday.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "efa6b3e868e26a47d381",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "rugby",
+  "local": "",
+  "arquivado_em": "2026-11-12T12:55:38+00:00"
  }
 ]
