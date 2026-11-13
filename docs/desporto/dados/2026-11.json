@@ -8575,7 +8575,7 @@
  },
  {
   "title": "Flávio Nazinho confessa \"viver bem o momento\" de estreia por Portugal",
-  "url": "https://www.rtp.pt/noticias/selecao-nacional/flavio-nazinho-confessa-viver-bem-o-momento-de-estreia-por-portugal_d1778748",
+  "url": "https://www.rtp.pt/noticias/ligadasnacoes/flavio-nazinho-confessa-viver-bem-o-momento-de-estreia-por-portugal_d1778748",
   "source": "RTP Desporto",
   "published": "2026-11-12T17:10:00+00:00",
   "summary": "  \n      O defesa Flávio Nazinho, um dos estreantes na convocatória da seleção portuguesa de futebol, disse hoje “viver bem o momento” e ainda desconhecer quem envergará a camisola sete, deixada vaga após Cristiano Ronaldo ter abandonado oficialmente a equipa.\n ",
@@ -8715,6 +8715,33 @@
   "arquivado_em": "2026-11-12T20:55:50+00:00"
  },
  {
+  "title": "Champions feminina. Benfica vence Áustria de Viena e ascende ao nono lugar",
+  "url": "https://www.rtp.pt/noticias/sporting/champions-feminina-benfica-vence-austria-de-viena-e-ascende-ao-nono-lugar_d1778764",
+  "source": "RTP Desporto",
+  "published": "2026-11-12T18:29:37+00:00",
+  "summary": "  \n      O Benfica somou esta quinta-feira a segunda vitória em quatro jogos na fase de liga da Liga dos Campeões feminina de futebol, ao vencer o Áustria Viena por 3-1, no Estádio da Luz, em encontro da quarta jornada.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 12,
+  "reasons": [
+   "Sporting: Sporting",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "2443ee3bfcad56b44dd8",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-13T01:56:15+00:00"
+ },
+ {
   "title": "Liga Nações. Esloveno Rade Obrenovic é o árbitro do Portugal-Dinamarca",
   "url": "https://www.rtp.pt/noticias/selecao-nacional/liga-nacoes-esloveno-rade-obrenovic-e-o-arbitro-do-portugal-dinamarca_d1778768",
   "source": "RTP Desporto",
@@ -8737,5 +8764,30 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-11-12T20:55:50+00:00"
+ },
+ {
+  "title": "Luís Freire quer Portugal à altura dos melhores no caminho para o Euro2027 de sub-21",
+  "url": "https://www.rtp.pt/noticias/selecao-nacional/luis-freire-quer-portugal-a-altura-dos-melhores-no-caminho-para-o-euro2027-de-sub-21_d1778780",
+  "source": "RTP Desporto",
+  "published": "2026-11-12T20:25:24+00:00",
+  "summary": "  \n      O selecionador português de futebol de sub-21, Luís Freire, considerou hoje que o encontro particular com a Inglaterra, bicampeã europeia, representa uma oportunidade para “competir contra os melhores” para preparar a fase final do Euro2027.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: final",
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "34b129f2bb8b080237bb",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-13T01:56:15+00:00"
  }
 ]
