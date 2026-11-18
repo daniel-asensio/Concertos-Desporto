@@ -11592,7 +11592,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/bruno-fernandes-inaugura-o-marcador_v1779844",
   "source": "RTP Desporto",
   "published": "2026-11-17T20:06:47+00:00",
-  "summary": "  \n      O médio da seleção nacional Bruno Fernandes marcou o golo inaugural da partida. ",
+  "summary": "  \n      O médio da seleção nacional Bruno Fernandes marcou o golo inaugural da partida.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -11701,7 +11701,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/vitinha-fizemos-um-jogo-muito-capaz_v1779865",
   "source": "RTP Desporto",
   "published": "2026-11-17T22:07:47+00:00",
-  "summary": "  \n      Vitinha considerou que Portugal teve algumas dificuldades em controlar o jogo contra um País de Gales \"lutador\". O médio do Paris Saint-Germain acrescentou que Portugal fez \"um jogo muito capaz\", chamando a atenção para a reviravolta conseguida num terreno difícil. ",
+  "summary": "  \n      Vitinha considerou que Portugal teve algumas dificuldades em controlar o jogo contra um País de Gales \"lutador\". O médio do Paris Saint-Germain acrescentou que Portugal fez \"um jogo muito capaz\", chamando a atenção para a reviravolta conseguida num terreno difícil.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -11725,7 +11725,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/dalot-queremos-ganhar-a-liga-das-nacoes_v1779866",
   "source": "RTP Desporto",
   "published": "2026-11-17T22:19:48+00:00",
-  "summary": "  \n      O defesa da seleção nacional Diogo Dalot esperava um \"jogo difícil, num campo difícil\" contra um adversário que a jogar em casa causa dificuldades com jogo direto. ",
+  "summary": "  \n      O defesa da seleção nacional Diogo Dalot esperava um \"jogo difícil, num campo difícil\" contra um adversário que a jogar em casa causa dificuldades com jogo direto.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -11820,5 +11820,131 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-11-18T04:32:41+00:00"
+ },
+ {
+  "title": "The 3pm football blackout: Outdated or still relevant in 2026?",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-18T06:27:11+00:00",
+  "summary": "After 60 years, is time finally running out on the 3pm blackout in football?",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "f03d0c79d44a29700242",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-18T14:15:40+00:00"
+ },
+ {
+  "title": "Torreense volta ao Jamor para iniciar defesa da Taça perante o Benfica",
+  "url": "https://www.rtp.pt/noticias/taca-de-portugal/torreense-volta-ao-jamor-para-iniciar-defesa-da-taca-perante-o-benfica_d1779933",
+  "source": "RTP Desporto",
+  "published": "2026-11-18T09:44:42+00:00",
+  "summary": "  \n      O Torreense inicia no domingo a defesa do inédito troféu na Taça de Portugal defrontando o Benfica, recordista de títulos, no encerramento da quarta eliminatória da edição de 2026/27.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Portugal: Portugal defronta"
+  ],
+  "where_to_watch": [],
+  "id": "9a56e96849d03cdef1df",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça de Portugal"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-18T14:15:40+00:00"
+ },
+ {
+  "title": "GP de Portugal sem Oliveira mas com provável consagração de Márquez",
+  "url": "https://www.rtp.pt/noticias/motores/gp-de-portugal-sem-oliveira-mas-com-provavel-consagracao-de-marquez_d1779934",
+  "source": "RTP Desporto",
+  "published": "2026-11-18T09:52:48+00:00",
+  "summary": "  \n      O Grande Prémio de Portugal de MotoGP disputa-se este fim de semana pela primeira vez, desde a chegada ao Algarve, em 2020, sem a presença de Miguel Oliveira numa ronda que pode consagrar o espanhol Marc Márquez (Ducati) campeão mundial.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Miguel Oliveira"
+  ],
+  "where_to_watch": [],
+  "id": "7b80de6e6bcea9bb8deb",
+  "atletas": [
+   "Miguel Oliveira"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "MotoGP"
+  ],
+  "modalidade": "motociclismo",
+  "local": "",
+  "arquivado_em": "2026-11-18T14:15:40+00:00"
+ },
+ {
+  "title": "Japonês Kozo Tashima entrega candidatura à presidência da FIFA",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/japones-kozo-tashima-entrega-candidatura-a-presidencia-da-fifa_d1779936",
+  "source": "RTP Desporto",
+  "published": "2026-11-18T09:58:14+00:00",
+  "summary": "  \n      O candidato do Japão à liderança da FIFA, Kozo Tashima, disse hoje que espera transformar a federação numa \"organização que inspire maior confiança\".\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "574fca5461ec5d6b4990",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-18T14:15:40+00:00"
+ },
+ {
+  "title": "Explosive Bancroft sandpaper claims heap pressure on Cummins",
+  "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-18T10:35:19+00:00",
+  "summary": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: vela"
+  ],
+  "where_to_watch": [],
+  "id": "e8522b40bb45cf232237",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-18T14:15:40+00:00"
  }
 ]
