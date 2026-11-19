@@ -12135,10 +12135,10 @@
  },
  {
   "title": "Ex-guarda-redes do Sporting Antonio Adán termina carreira aos 39 anos",
-  "url": "https://www.rtp.pt/noticias/sporting/ex-guarda-redes-do-sporting-antonio-adan-termina-carreira-aos-39-anos_d1780004",
+  "url": "https://www.rtp.pt/noticias/futebol-nacional/ex-guarda-redes-do-sporting-antonio-adan-termina-carreira-aos-39-anos_d1780004",
   "source": "RTP Desporto",
   "published": "2026-11-18T15:15:37+00:00",
-  "summary": "  \n      O guarda-redes espanhol Antonio Adán, que representou o Sporting durante quatro épocas e se sagrou bicampeão português, terminou a carreira no futebol profissional, aos 39 anos, anunciou hoje o veterano guardião nas redes sociais.\n ",
+  "summary": "  \n      O guarda-redes espanhol Antonio Adán, que representou o Sporting durante quatro épocas e se sagrou bicampeão português, terminou a carreira no futebol profissional, aos 39 anos, anunciou hoje o veterano guardião nas redes sociais. ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -12218,7 +12218,7 @@
  },
  {
   "title": "Altimira diz que Paulo Fonseca trouxe “nova energia” ao balneário do Sporting",
-  "url": "https://www.rtp.pt/noticias/futebol-nacional/altimira-diz-que-paulo-fonseca-trouxe-nova-energia-ao-balneario-do-sporting_d1780027",
+  "url": "https://www.rtp.pt/noticias/1a-liga/altimira-diz-que-paulo-fonseca-trouxe-nova-energia-ao-balneario-do-sporting_d1780027",
   "source": "RTP Desporto",
   "published": "2026-11-18T16:27:29+00:00",
   "summary": "  \n      A chegada de Paulo Fonseca trouxe uma “nova energia” ao balneário do Sporting, revelou hoje Altimira, médio dos vice-campeões nacionais de futebol, à margem de uma sessão de autógrafos, em Alcochete. ",
@@ -12247,7 +12247,7 @@
  },
  {
   "title": "Treinador do Benfica assume \"boas dores de cabeça\" para fazer `onze`",
-  "url": "https://www.rtp.pt/noticias/benfica/treinador-do-benfica-assume-boas-dores-de-cabeca-para-fazer-onze_d1780029",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/treinador-do-benfica-assume-boas-dores-de-cabeca-para-fazer-onze_d1780029",
   "source": "RTP Desporto",
   "published": "2026-11-18T17:37:00+00:00",
   "summary": "  \n      O treinador Ivan Baptista reconheceu esta quarta-feira ter \"boas dores de cabeça\" para escolher o `onze` titular do Benfica, algo que tem \"dado muitos frutos\" à equipa na fase de liga da Liga dos Campeões feminina de futebol. ",
@@ -12301,6 +12301,32 @@
   "arquivado_em": "2026-11-18T22:07:13+00:00"
  },
  {
+  "title": "Ward close to new Republic of Ireland deal as Noonan returns",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c6782xedd985o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-18T18:06:04+00:00",
+  "summary": "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "821f1a4d1d1e9f0292e2",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Taça do Mundo"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-19T03:39:45+00:00"
+ },
+ {
   "title": "Primož Roglič will continue racing into 2027 as new team for 'final chapter' is finally revealed",
   "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/primoz-roglic-will-continue-racing-into-2027-as-new-team-for-final-chapter-is-finally-revealed/",
   "source": "Cyclingnews",
@@ -12352,5 +12378,29 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-11-18T22:07:13+00:00"
+ },
+ {
+  "title": "Vítor Matos substitui compatriota Hugo Oliveira no comando técnico do Estrasburgo",
+  "url": "https://www.rtp.pt/noticias/futebol-internacional/vitor-matos-substitui-compatriota-hugo-oliveira-no-comando-tecnico-do-estrasburgo_d1780110",
+  "source": "RTP Desporto",
+  "published": "2026-11-18T22:19:43+00:00",
+  "summary": "  \n      O português Vítor Matos vai treinar o Estrasburgo, após deixar o comando técnico dos galeses do Swansea, substituindo no cargo o compatriota Hugo Oliveira, anunciou hoje o atual 13.º posicionado da Liga francesa de futebol. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 2,
+  "reasons": [
+   "Modalidade olímpica: futebol"
+  ],
+  "where_to_watch": [],
+  "id": "b88ab988aefef5b3c5c3",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "futebol",
+  "local": "",
+  "arquivado_em": "2026-11-19T03:39:45+00:00"
  }
 ]
