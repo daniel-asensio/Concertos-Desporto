@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-19T03:39:45+00:00",
- "total": 2722,
+ "actualizado": "2026-11-19T13:29:14+00:00",
+ "total": 2726,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
   "2026-10": 1092,
-  "2026-11": 465
+  "2026-11": 469
  },
  "atletas": {
   "Tadej Pogačar": 231,
@@ -15,10 +15,10 @@
   "Wout van Aert": 29,
   "Demi Vollering": 27,
   "Jonas Vingegaard": 26,
-  "Max Verstappen": 24,
+  "Max Verstappen": 25,
   "Miguel Oliveira": 19,
+  "Lewis Hamilton": 17,
   "Mathieu van der Poel": 17,
-  "Lewis Hamilton": 16,
   "Lando Norris": 15,
   "Mondo Duplantis": 10,
   "Charles Leclerc": 8,
@@ -50,8 +50,8 @@
   "Liga Europa": 30,
   "Taça de Portugal": 28,
   "Jogos Olímpicos": 26,
-  "Fórmula 1": 21,
-  "Giro d'Italia": 17,
+  "Fórmula 1": 22,
+  "Giro d'Italia": 18,
   "NBA": 11,
   "MotoGP": 6,
   "WNBA": 5,
@@ -67,10 +67,10 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 983,
+  "ciclismo": 984,
   "geral": 674,
   "futebol": 602,
-  "automobilismo": 63,
+  "automobilismo": 65,
   "atletismo": 48,
   "hóquei": 42,
   "rugby": 40,
@@ -82,8 +82,8 @@
   "voleibol": 19,
   "surf": 18,
   "andebol": 17,
+  "golfe": 13,
   "ginástica": 12,
-  "golfe": 12,
   "sporting": 12,
   "boxe": 10,
   "canoagem": 8,
@@ -99,8 +99,8 @@
  },
  "fontes": {
   "RTP Desporto": 1288,
-  "Cyclingnews": 593,
-  "BBC Sport": 443,
+  "Cyclingnews": 594,
+  "BBC Sport": 446,
   "Ciclismo watchlist": 331,
   "Portugal olímpico": 38,
   "Atletismo watchlist": 17,

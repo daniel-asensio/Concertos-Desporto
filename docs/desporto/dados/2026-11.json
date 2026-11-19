@@ -12402,5 +12402,115 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-11-19T03:39:45+00:00"
+ },
+ {
+  "title": "UK firms owed thousands as Saudi-backed LIV paid golfers millions",
+  "url": "https://www.bbc.co.uk/sport/golf/articles/cw7vpv793n24o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-19T06:37:40+00:00",
+  "summary": "A BBC Sport investigation has found bills to UK companies were already overdue when LIV Golf made its final payments to players and executives before filing for bankruptcy.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: final",
+   "Modalidade olímpica: golfe"
+  ],
+  "where_to_watch": [],
+  "id": "57d14d988934f8f89698",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "golfe",
+  "local": "",
+  "arquivado_em": "2026-11-19T13:29:14+00:00"
+ },
+ {
+  "title": "No trust problem with Ferrari team - Hamilton",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/cr8683z1wdp2o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-19T06:56:13+00:00",
+  "summary": "Lewis Hamilton says Ferrari are \"super united\" despite two recent incidents in which the British driver ignored a team call to pit for fresh tyres.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Lewis Hamilton"
+  ],
+  "where_to_watch": [],
+  "id": "74bd96de43c730af0be9",
+  "atletas": [
+   "Lewis Hamilton"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-11-19T13:29:14+00:00"
+ },
+ {
+  "title": "Verstappen 'trusts' F1 over Middle East decision",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/c6n0l14rjlw4o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-19T07:11:36+00:00",
+  "summary": "Max Verstappen says he trusts in Formula 1 after their decision to end the season in the Middle East, despite the ongoing conflicts in the area. ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Max Verstappen"
+  ],
+  "where_to_watch": [
+   "DAZN"
+  ],
+  "id": "fe423139fe5f6a6bce6d",
+  "atletas": [
+   "Max Verstappen"
+  ],
+  "clubes": [],
+  "competicoes": [
+   "Fórmula 1"
+  ],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-11-19T13:29:14+00:00"
+ },
+ {
+  "title": "'A bold new visual era' for the maglia rosa as MAAP strikes deal to produce Giro d'Italia leaders' jerseys",
+  "url": "https://www.cyclingnews.com/pro-cycling/a-bold-new-visual-era-for-the-maglia-rosa-as-maap-strikes-deal-to-produce-giro-d-italia-leaders-jerseys/",
+  "source": "Cyclingnews",
+  "published": "2026-11-19T08:00:00+00:00",
+  "summary": "\n                             Young Australian company signs a multi-year partnership across all RCS races \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Ciclismo — grandes provas: Giro d'Italia"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "0761a7ae9317bbc667b6",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Giro d'Italia"
+  ],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-19T13:29:14+00:00"
  }
 ]
