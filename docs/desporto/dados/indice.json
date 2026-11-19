@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-19T13:29:14+00:00",
- "total": 2726,
+ "actualizado": "2026-11-19T22:16:27+00:00",
+ "total": 2740,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
   "2026-10": 1092,
-  "2026-11": 469
+  "2026-11": 483
  },
  "atletas": {
   "Tadej Pogačar": 231,
@@ -13,7 +13,7 @@
   "João Almeida": 51,
   "Remco Evenepoel": 49,
   "Wout van Aert": 29,
-  "Demi Vollering": 27,
+  "Demi Vollering": 28,
   "Jonas Vingegaard": 26,
   "Max Verstappen": 25,
   "Miguel Oliveira": 19,
@@ -21,8 +21,8 @@
   "Mathieu van der Poel": 17,
   "Lando Norris": 15,
   "Mondo Duplantis": 10,
+  "Neemias Queta": 9,
   "Charles Leclerc": 8,
-  "Neemias Queta": 8,
   "Isaac Nader": 5,
   "Jakob Ingebrigtsen": 5,
   "Pedro Pichardo": 5,
@@ -35,7 +35,7 @@
   "Victor Wembanyama": 1
  },
  "clubes": {
-  "Sporting CP": 208,
+  "Sporting CP": 210,
   "Portugal (selecções)": 191
  },
  "competicoes": {
@@ -44,15 +44,15 @@
   "Liga dos Campeões": 111,
   "Campeonato da Europa": 77,
   "Tour de France": 75,
-  "Taça do Mundo": 61,
-  "WorldTour": 49,
+  "Taça do Mundo": 62,
+  "WorldTour": 51,
   "Il Lombardia": 39,
   "Liga Europa": 30,
-  "Taça de Portugal": 28,
+  "Taça de Portugal": 29,
   "Jogos Olímpicos": 26,
   "Fórmula 1": 22,
-  "Giro d'Italia": 18,
-  "NBA": 11,
+  "Giro d'Italia": 19,
+  "NBA": 12,
   "MotoGP": 6,
   "WNBA": 5,
   "WRC": 4,
@@ -67,15 +67,15 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 984,
-  "geral": 674,
-  "futebol": 602,
+  "ciclismo": 988,
+  "geral": 679,
+  "futebol": 605,
   "automobilismo": 65,
-  "atletismo": 48,
+  "atletismo": 49,
   "hóquei": 42,
   "rugby": 40,
   "portugal": 38,
-  "basquetebol": 27,
+  "basquetebol": 28,
   "judo": 26,
   "triatlo": 24,
   "motociclismo": 23,
@@ -98,9 +98,9 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 1288,
-  "Cyclingnews": 594,
-  "BBC Sport": 446,
+  "RTP Desporto": 1297,
+  "Cyclingnews": 598,
+  "BBC Sport": 447,
   "Ciclismo watchlist": 331,
   "Portugal olímpico": 38,
   "Atletismo watchlist": 17,
