@@ -15083,5 +15083,57 @@
   "modalidade": "geral",
   "local": "",
   "arquivado_em": "2026-11-22T08:09:54+00:00"
+ },
+ {
+  "title": "Verstappen wins extraordinary race as Ferraris collide",
+  "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-22T06:27:06+00:00",
+  "summary": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Automobilismo — referências: Max Verstappen"
+  ],
+  "where_to_watch": [],
+  "id": "1ce9d50b334cf3009c65",
+  "atletas": [
+   "Max Verstappen"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "automobilismo",
+  "local": "",
+  "arquivado_em": "2026-11-22T16:25:21+00:00"
+ },
+ {
+  "title": "‘Showing off for Selena Gomez’ - Wembanyama hits 50 points in Spurs win",
+  "url": "https://www.bbc.co.uk/sport/basketball/articles/c6x20yeqg18vo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-22T07:42:24+00:00",
+  "summary": "San Antonio Spurs star Victor Wembanyama hits 50 points as his side beats the New Orleans Pelicans 114-91.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 5,
+  "reasons": [
+   "Basquetebol — referências: Victor Wembanyama"
+  ],
+  "where_to_watch": [],
+  "id": "815cfc4f290e4ac23f85",
+  "atletas": [
+   "Victor Wembanyama"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "basquetebol",
+  "local": "",
+  "arquivado_em": "2026-11-22T16:25:21+00:00"
  }
 ]
