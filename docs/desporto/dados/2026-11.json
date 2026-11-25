@@ -17490,7 +17490,7 @@
   "url": "https://www.rtp.pt/noticias/desporto/paulo-fonseca-somar-pontos-para-continuar-na-competicao_v1781409",
   "source": "RTP Desporto",
   "published": "2026-11-24T21:26:47+00:00",
-  "summary": "  \n      O treinador do Sporting, Paulo Fonseca, disse desconfiar da fragilidade do Manchester United na Liga dos Campeões em futebol e lembrou que os ingleses estão recheados de grandes valores, com destaque para Bruno Fernandes. ",
+  "summary": "  \n      O treinador do Sporting, Paulo Fonseca, disse desconfiar da fragilidade do Manchester United na Liga dos Campeões em futebol e lembrou que os ingleses estão recheados de grandes valores, com destaque para Bruno Fernandes.\n ",
   "sport": "geral",
   "kind": "news",
   "start": null,
@@ -17539,5 +17539,193 @@
   "modalidade": "futebol",
   "local": "",
   "arquivado_em": "2026-11-25T05:29:38+00:00"
+ },
+ {
+  "title": "Are Man Utd this season's Tottenham?",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-25T06:22:36+00:00",
+  "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "4c26702136e7d812386b",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-25T17:24:35+00:00"
+ },
+ {
+  "title": "Sporting recebe Manchester United na estreia de Fonseca e Pochettino",
+  "url": "https://www.rtp.pt/noticias/sporting/sporting-recebe-manchester-united-na-estreia-de-fonseca-e-pochettino_d1781498",
+  "source": "RTP Desporto",
+  "published": "2026-11-25T09:24:55+00:00",
+  "summary": "  \n      O Sporting recebe hoje o Manchester United, em jogo da quinta jornada da Liga dos Campeões, que marca a estreia, na competição, do treinador Paulo Fonseca na equipa portuguesa e do argentino Mauricio Pochettino na inglesa.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 18,
+  "reasons": [
+   "Sporting: Sporting",
+   "Portugal: equipa portuguesa"
+  ],
+  "where_to_watch": [
+   "Sport TV — confirmar jornada"
+  ],
+  "id": "247f1433a83b6034ff32",
+  "atletas": [],
+  "clubes": [
+   "Sporting CP",
+   "Portugal (selecções)"
+  ],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-25T17:24:35+00:00"
+ },
+ {
+  "title": "Real de Mourinho segue imparável, FC Porto luta pelo play-off",
+  "url": "https://www.rtp.pt/noticias/liga-dos-campeoes/real-de-mourinho-segue-imparavel-fc-porto-luta-pelo-play-off_d1781500",
+  "source": "RTP Desporto",
+  "published": "2026-11-25T09:32:14+00:00",
+  "summary": "  \n      O Real Madrid, como novo triunfo, continua imparável na Liga dos Campeões e ficou praticamente apurado para os oitavos de final, enquanto o FC Porto confirmou que está na luta pelo play-off.\n ",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 9,
+  "reasons": [
+   "Grandes eventos: final",
+   "Modalidade olímpica: luta"
+  ],
+  "where_to_watch": [],
+  "id": "6db202b305d1aa1da653",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [
+   "Liga dos Campeões"
+  ],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-25T17:24:35+00:00"
+ },
+ {
+  "title": "Northants begin T20 Blast defence at Hampshire",
+  "url": "https://www.bbc.co.uk/sport/cricket/articles/c9e853vm3613o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-25T10:00:50+00:00",
+  "summary": "Northamptonshire Steelbacks will begin their T20 Blast defence at Hampshire, in a repeat of last season's final.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "cad78a845b670260ca7e",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-25T17:24:35+00:00"
+ },
+ {
+  "title": "McCague 'understands' St Eunan's anger amid score controversy",
+  "url": "https://www.bbc.co.uk/sport/articles/cqy7rne2dzy2o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC Sport",
+  "published": "2026-11-25T11:23:43+00:00",
+  "summary": "Scotstown manager David McCague says he \"understands\" why St Eunan's have lodged a formal objection after the decision to award his side's late extra-time equaliser in their Ulster Club SFC semi-final win at Brewster Park on Saturday.",
+  "sport": "geral",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [],
+  "id": "97733e3c712f22fef4a8",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "geral",
+  "local": "",
+  "arquivado_em": "2026-11-25T17:24:35+00:00"
+ },
+ {
+  "title": "'His experience is a true asset' – Romain Bardet welcomes former DS Matt Winston on board at Decathlon CMA CGM",
+  "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/his-experience-is-a-true-asset-romain-bardet-welcomes-former-ds-matt-winston-on-board-at-decathlon-cma-cgm/",
+  "source": "Cyclingnews",
+  "published": "2026-11-25T12:37:54+00:00",
+  "summary": "\n                             Duo had previously worked together during Bardet's final racing years at Picnic PostNL \n                                                                                                            ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 7,
+  "reasons": [
+   "Grandes eventos: final"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "25d68348833b7108c382",
+  "atletas": [],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-25T17:24:35+00:00"
+ },
+ {
+  "title": "Ex-gregário de Tadej Pogacar vive drama e pode encerrar a carreira \"isso me fez questionar se vale a pena continuar\" - Giro do ciclismo",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcU1IbC1PRjB6dGJEanBQSEFQdXpKRVg4RmplNm5reFdWbzZhWVF2bHVHYU45aktmNGhoOURrbzdBUFNXUE9fbU0tdmdpMUpBX2pyNFprYTRkN29FTFF4TGdpYkp0dHdFYmpLSUpxdFFscV9Fd0YxTHZoVmwxSzg1cmNtMXhzOGxMcWNaUWtVdDE3c05LRGd3azJRczY4b2h2ZkZOSXlmYk1BYTZUSmFrZFNIQnIydExNZFQtVm00WnN4VmVXOXc2bGlqUFhzWnhNRGlndU5GX2hGdVY1RXc?oc=5",
+  "source": "Ciclismo watchlist",
+  "published": "2026-11-25T13:53:31+00:00",
+  "summary": " Ex-gregário de Tadej Pogacar vive drama e pode encerrar a carreira \"isso me fez questionar se vale a pena continuar\"    Giro do ciclismo ",
+  "sport": "ciclismo",
+  "kind": "news",
+  "start": null,
+  "end": null,
+  "location": "",
+  "score": 8,
+  "reasons": [
+   "Ciclismo — referências: Tadej Pogačar, Pogacar",
+   "Modalidade olímpica: ciclismo"
+  ],
+  "where_to_watch": [
+   "Eurosport / Max",
+   "RTP — algumas provas"
+  ],
+  "id": "17489961ecc60dea6aec",
+  "atletas": [
+   "Tadej Pogačar"
+  ],
+  "clubes": [],
+  "competicoes": [],
+  "modalidade": "ciclismo",
+  "local": "",
+  "arquivado_em": "2026-11-25T17:24:35+00:00"
  }
 ]
