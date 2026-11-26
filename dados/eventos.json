@@ -60,7 +60,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/manel-cruz-peixe-porto-17129",
     "imagem": null,
     "primeira_vez": "2026-10-29",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-29",
     "tentativas_enriquecimento": 1
@@ -327,6 +327,28 @@
     "ultima_vez": "2026-09-05",
     "ativo": false,
     "enriquecido_em": "2026-09-05",
+    "tentativas_enriquecimento": 1
+  },
+  "027c4e6ced6232c07b48b4d4": {
+    "id": "027c4e6ced6232c07b48b4d4",
+    "titulo": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-26/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo",
+    "categoria": "música",
+    "data": "2026-11-27",
+    "hora": "10:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2025/03/Antonio-JorgeSilvaUma-Deriva-Atlantida-L-CCB-4K.jpg",
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
     "tentativas_enriquecimento": 1
   },
   "0282099260addbbe3d34c9a7": {
@@ -611,7 +633,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-13",
     "tentativas_enriquecimento": 1
@@ -831,7 +853,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -853,7 +875,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-18",
     "tentativas_enriquecimento": 3
@@ -880,6 +902,28 @@
     "enriquecido_em": "2026-11-02",
     "tentativas_enriquecimento": 3
   },
+  "052382d53a4e0ec040acef52": {
+    "id": "052382d53a4e0ec040acef52",
+    "titulo": "Visitas Guiadas",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-26/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Visitas Guiadas",
+    "categoria": "música",
+    "data": "2026-11-26",
+    "hora": "15:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/ExpoDeriva_31MulheresPub8834_ritacarmo.jpg",
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
+  },
   "0525a39e5a4e72e65a945b34": {
     "id": "0525a39e5a4e72e65a945b34",
     "titulo": "Mimi Froes",
@@ -897,7 +941,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -919,7 +963,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/11/May-I-Help-You_MAC_CCB2-creditoAntonioJorgeSilva-scaled.jpg",
     "primeira_vez": "2026-09-05",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-05",
     "tentativas_enriquecimento": 1
@@ -1228,7 +1272,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/joao-paulo-rodrigues-porto-14307",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1250,7 +1294,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/terceirocicloservicoeducativoprogramvinculardestaque.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1382,7 +1426,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -1580,7 +1624,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2021/04/2000x940_MercadoSET26.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1756,7 +1800,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-09",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-09",
     "tentativas_enriquecimento": 1
@@ -1910,7 +1954,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ricardo-ribeiro-porto-12191",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -1932,7 +1976,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/sir-el-tom-lisboa-10988",
     "imagem": null,
     "primeira_vez": "2026-11-08",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
@@ -2175,7 +2219,7 @@
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/11/AngelaFerreira.HereIStand1_MACCCB2026creditoTiagoCasanova.jpg",
     "primeira_vez": "2026-11-11",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-11-11",
     "tentativas_enriquecimento": 1
   },
@@ -2240,7 +2284,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/capitao-fausto-porto-17106",
     "imagem": null,
     "primeira_vez": "2026-10-27",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-27",
     "tentativas_enriquecimento": 1
@@ -2264,8 +2308,8 @@
     "primeira_vez": "2026-11-25",
     "ultima_vez": "2026-11-25",
     "ativo": true,
-    "enriquecido_em": "2026-11-25",
-    "tentativas_enriquecimento": 1
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 2
   },
   "0bbd222930d5359e75f0359b": {
     "id": "0bbd222930d5359e75f0359b",
@@ -2329,7 +2373,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/toy-porto-13880",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2355,6 +2399,28 @@
     "ativo": false,
     "enriquecido_em": "2026-09-18",
     "tentativas_enriquecimento": 3
+  },
+  "0bf69f82c9562c8fc473f4f8": {
+    "id": "0bf69f82c9562c8fc473f4f8",
+    "titulo": "Concerto De Ano Novo 20270102",
+    "link": "https://casadamusica.com/event/concerto-de-ano-novo-20270102/",
+    "fonte": "Casa da Música",
+    "kind": "Porto",
+    "artista": "Ano Novo 20270102",
+    "categoria": "música",
+    "data": "2027-01-02",
+    "hora": "18:00",
+    "data_texto": null,
+    "sala": "Casa da Música",
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
   },
   "0c09b5fdf40d82491268ed67": {
     "id": "0c09b5fdf40d82491268ed67",
@@ -2417,10 +2483,32 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-04",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-06",
     "tentativas_enriquecimento": 3
+  },
+  "0c51a2d755eae481ff00e3c1": {
+    "id": "0c51a2d755eae481ff00e3c1",
+    "titulo": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-26/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "PARAÍSO, HOJE",
+    "categoria": "música",
+    "data": "2026-11-27",
+    "hora": "10:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2026/07/Paraisohoje.jpg",
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
   },
   "0c5dad079c3714d7d1b73892": {
     "id": "0c5dad079c3714d7d1b73892",
@@ -2461,7 +2549,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/kadebostany-porto-15685",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -2703,7 +2791,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/joao-farinha-paulo-figueiredo-porto-16379",
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -2747,7 +2835,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-22",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-22",
     "tentativas_enriquecimento": 1
@@ -2857,7 +2945,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -2989,7 +3077,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-16",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -3012,7 +3100,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-12",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -3167,7 +3255,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/11/48-Mac_25out-Museu_creditoJafuno.jpg",
     "primeira_vez": "2026-11-14",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-14",
     "tentativas_enriquecimento": 1
@@ -3233,7 +3321,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2024/10/ServicoEducativo2888_ritacarmo-1-e1730983416520.jpg",
     "primeira_vez": "2026-11-25",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-25",
     "tentativas_enriquecimento": 1
@@ -3321,7 +3409,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -3387,7 +3475,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/eden-lewis-ii-porto-17301",
     "imagem": null,
     "primeira_vez": "2026-11-09",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-09",
     "tentativas_enriquecimento": 1
@@ -3563,7 +3651,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/al-di-meola-porto-12110",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -3629,7 +3717,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/06/Maat_2000x940-1.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -3761,7 +3849,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -3849,7 +3937,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-03",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-18",
     "tentativas_enriquecimento": 3
@@ -4025,7 +4113,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/11/exposicaoTUNGAdestaque.jpg",
     "primeira_vez": "2026-11-14",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-14",
     "tentativas_enriquecimento": 1
@@ -4047,7 +4135,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -4223,7 +4311,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -4311,7 +4399,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-26",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -4378,7 +4466,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-11",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-11",
     "tentativas_enriquecimento": 1
@@ -4532,7 +4620,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -4576,7 +4664,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/black-heritage-choir-porto-12980",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -4598,7 +4686,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-03",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-05",
     "tentativas_enriquecimento": 3
@@ -4664,7 +4752,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/clarisse-e-os-desviados-porto-17306",
     "imagem": null,
     "primeira_vez": "2026-11-09",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-09",
     "tentativas_enriquecimento": 1
@@ -4691,6 +4779,28 @@
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
     "titulo_original": "16 Nov 2026 19:00 Clube de Leituras Dançadas"
+  },
+  "16c6101195d3040d962e973f": {
+    "id": "16c6101195d3040d962e973f",
+    "titulo": "Premio Casa Da Musica Conservatorio De Musica Do Porto 20261215",
+    "link": "https://casadamusica.com/event/premio-casa-da-musica-conservatorio-de-musica-do-porto-20261215/",
+    "fonte": "Casa da Música",
+    "kind": "Porto",
+    "artista": "Premio Casa Da Musica Conservatorio De Musica Do Porto 20261215",
+    "categoria": "música",
+    "data": "2026-12-15",
+    "hora": "19:30",
+    "data_texto": null,
+    "sala": "Casa da Música",
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
   },
   "170052334b0b373f6055a25c": {
     "id": "170052334b0b373f6055a25c",
@@ -4754,7 +4864,7 @@
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/03/Antonio-JorgeSilvaUma-Deriva-Atlantida-L-CCB-4K.jpg",
     "primeira_vez": "2026-11-11",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-11-11",
     "tentativas_enriquecimento": 1
   },
@@ -4775,7 +4885,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/day-trippers-porto-16221",
     "imagem": null,
     "primeira_vez": "2026-09-06",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-06",
     "tentativas_enriquecimento": 1
@@ -4819,7 +4929,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/milhanas-porto-17164",
     "imagem": null,
     "primeira_vez": "2026-10-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-31",
     "tentativas_enriquecimento": 1
@@ -4886,7 +4996,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2024/10/ServicoEducativo2892_ritacarmo.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -4996,7 +5106,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/alcest-porto-16313",
     "imagem": null,
     "primeira_vez": "2026-09-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-13",
     "tentativas_enriquecimento": 1
@@ -5084,7 +5194,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -5216,7 +5326,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 3
@@ -5304,7 +5414,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-10",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-10",
     "tentativas_enriquecimento": 1
@@ -5392,7 +5502,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/great-straits-porto-14757",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -5634,7 +5744,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/tiago-bettencourt-toranja-porto-14969",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -6030,7 +6140,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/youn-sun-nah-porto-14040",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -6272,7 +6382,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-23",
     "tentativas_enriquecimento": 3
@@ -6294,7 +6404,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/grupo-compay-segundo-porto-17082",
     "imagem": null,
     "primeira_vez": "2026-10-24",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-24",
     "tentativas_enriquecimento": 1
@@ -6316,7 +6426,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/2000x940_Feriasnatal_PatriciaTrindade.jpg",
     "primeira_vez": "2026-10-02",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-02",
     "tentativas_enriquecimento": 1
@@ -6360,7 +6470,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -6536,7 +6646,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/torquoise-porto-17520",
     "imagem": null,
     "primeira_vez": "2026-11-22",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-22",
     "tentativas_enriquecimento": 1
@@ -6602,7 +6712,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/traitrs-porto-17290",
     "imagem": null,
     "primeira_vez": "2026-11-08",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
@@ -6624,7 +6734,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/primeirociclo215-MAC-museu-abertocreditoJafuno.jpg",
     "primeira_vez": "2026-09-04",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
@@ -6668,7 +6778,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-16",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-16",
     "tentativas_enriquecimento": 1
@@ -6756,7 +6866,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -6822,7 +6932,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/royal-film-concert-orchestra-porto-16241",
     "imagem": null,
     "primeira_vez": "2026-09-09",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-09",
     "tentativas_enriquecimento": 1
@@ -6954,7 +7064,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/rodrigo-y-gabriela-porto-14364",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -6998,7 +7108,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/05/website_2000x940.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -7064,7 +7174,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/chico-chico-porto-16969",
     "imagem": null,
     "primeira_vez": "2026-10-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-18",
     "tentativas_enriquecimento": 1
@@ -7108,7 +7218,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -7333,6 +7443,28 @@
     "enriquecido_em": "2026-09-12",
     "tentativas_enriquecimento": 1
   },
+  "256f81e980f20bc5d3aecb15": {
+    "id": "256f81e980f20bc5d3aecb15",
+    "titulo": "Quarteto De Cordas De Matosinhos 20261217 2",
+    "link": "https://casadamusica.com/event/quarteto-de-cordas-de-matosinhos-20261217-2/",
+    "fonte": "Casa da Música",
+    "kind": "Porto",
+    "artista": "Quarteto De Cordas De Matosinhos 20261217 2",
+    "categoria": "música",
+    "data": "2026-12-17",
+    "hora": "19:30",
+    "data_texto": null,
+    "sala": "Casa da Música",
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
+  },
   "2570c346e9b590e7987eb60f": {
     "id": "2570c346e9b590e7987eb60f",
     "titulo": "PCR",
@@ -7350,7 +7482,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/pcr-porto-17100",
     "imagem": null,
     "primeira_vez": "2026-10-27",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-27",
     "tentativas_enriquecimento": 1
@@ -7394,7 +7526,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-16",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -7593,7 +7725,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/luis-trigacheiro-porto-17359",
     "imagem": null,
     "primeira_vez": "2026-11-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-13",
     "tentativas_enriquecimento": 1
@@ -7835,7 +7967,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/11/48-Mac_25out-Museu_creditoJafuno.jpg",
     "primeira_vez": "2026-11-14",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-14",
     "tentativas_enriquecimento": 1
@@ -7945,7 +8077,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/coelho-radioactivo-porto-17157",
     "imagem": null,
     "primeira_vez": "2026-10-30",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-30",
     "tentativas_enriquecimento": 1
@@ -8036,6 +8168,28 @@
     "ultima_vez": "2026-10-16",
     "ativo": false,
     "enriquecido_em": "2026-09-23",
+    "tentativas_enriquecimento": 1
+  },
+  "28899a0e5a44a5de627bd3b6": {
+    "id": "28899a0e5a44a5de627bd3b6",
+    "titulo": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-26/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Terceiro Ciclo e Secundário",
+    "categoria": "música",
+    "data": "2026-11-27",
+    "hora": "10:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/terceirocicloservicoeducativoprogramvinculardestaque.jpg",
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
     "tentativas_enriquecimento": 1
   },
   "28969c4cbeeb2372fbd9c4f4": {
@@ -8143,7 +8297,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-18",
     "tentativas_enriquecimento": 1
@@ -8165,7 +8319,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/Entrada-do-museu-MACCCB.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -8495,7 +8649,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ryley-walker-porto-17414",
     "imagem": null,
     "primeira_vez": "2026-11-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-18",
     "tentativas_enriquecimento": 1
@@ -8627,7 +8781,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/11/9.ZipZapCircusSchool_Angela-Ferreira©PedroJafuno.jpg",
     "primeira_vez": "2026-11-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-13",
     "tentativas_enriquecimento": 1
@@ -8891,7 +9045,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -8913,7 +9067,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 3
@@ -9090,7 +9244,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/paus-porto-13752",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -9112,7 +9266,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/gwenifer-raymond-porto-16686",
     "imagem": null,
     "primeira_vez": "2026-09-30",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-30",
     "tentativas_enriquecimento": 1
@@ -9178,7 +9332,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/sheherazaad-porto-16127",
     "imagem": null,
     "primeira_vez": "2026-09-04",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
@@ -9288,7 +9442,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 3
@@ -9332,7 +9486,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/smorra-porto-16400",
     "imagem": null,
     "primeira_vez": "2026-09-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-18",
     "tentativas_enriquecimento": 1
@@ -9685,7 +9839,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/mafalda-veiga-porto-17267",
     "imagem": null,
     "primeira_vez": "2026-11-06",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-06",
     "tentativas_enriquecimento": 1
@@ -9707,7 +9861,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/11/Museu-MACCCB-2-scaled.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -9905,7 +10059,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -10191,7 +10345,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/sara-correia-porto-13523",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -10345,7 +10499,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/joao-vasco-pedro-lopes-fernando-costa-porto-10734",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-08-31",
     "tentativas_enriquecimento": 1
@@ -10631,7 +10785,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -10653,7 +10807,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 3
@@ -11005,7 +11159,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -11225,7 +11379,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -11688,7 +11842,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/eliana-glass-porto-13216",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -11755,7 +11909,7 @@
     "imagem": null,
     "primeira_vez": "2026-11-02",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-11-02",
     "tentativas_enriquecimento": 1
   },
@@ -11776,7 +11930,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-03",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 3
@@ -11996,7 +12150,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 3
@@ -12128,7 +12282,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -12150,7 +12304,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 3
@@ -12414,7 +12568,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -12458,7 +12612,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -12480,7 +12634,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/ensino-especialmuseumacccb-e1726737805568.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -12656,7 +12810,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -12701,7 +12855,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/mark-delman-lisboa-15445",
     "imagem": null,
     "primeira_vez": "2026-11-08",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
@@ -12833,7 +12987,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-02",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 3
@@ -12855,7 +13009,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/cock-robin-porto-15281",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -12943,7 +13097,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/bardino-porto-17344",
     "imagem": null,
     "primeira_vez": "2026-11-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-13",
     "tentativas_enriquecimento": 1
@@ -13075,7 +13229,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 3
@@ -13097,7 +13251,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/guga-porto-14035",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -13229,7 +13383,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/apollo-brown-skyzoo-porto-16933",
     "imagem": null,
     "primeira_vez": "2026-10-15",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-15",
     "tentativas_enriquecimento": 1
@@ -13361,7 +13515,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/08/2000x940_musicanomuseu_AhoraQuintet.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -13581,7 +13735,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/baleia-baleia-baleia-porto-17550",
     "imagem": null,
     "primeira_vez": "2026-11-25",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-25",
     "tentativas_enriquecimento": 1
@@ -13603,7 +13757,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/hesse-kassel-porto-17342",
     "imagem": null,
     "primeira_vez": "2026-11-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-13",
     "tentativas_enriquecimento": 1
@@ -13669,7 +13823,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -13713,7 +13867,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -13824,7 +13978,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/napa-porto-17491",
     "imagem": null,
     "primeira_vez": "2026-11-22",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-22",
     "tentativas_enriquecimento": 1
@@ -13890,7 +14044,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/tiago-nacarato-porto-12967",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -13956,7 +14110,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/04/DiaMuseus3102┬®RitaCarmo.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -14000,7 +14154,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/the-watch-porto-14346",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -14022,7 +14176,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 3
@@ -14088,7 +14242,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/esmae-big-band-porto-16457",
     "imagem": null,
     "primeira_vez": "2026-09-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-18",
     "tentativas_enriquecimento": 1
@@ -14198,7 +14352,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/the-beatles-symphonic-fantasy-lisboa-12513",
     "imagem": null,
     "primeira_vez": "2026-11-23",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-23",
     "tentativas_enriquecimento": 1
@@ -14291,6 +14445,28 @@
     "enriquecido_em": "2026-11-25",
     "tentativas_enriquecimento": 3
   },
+  "4927b2434ac0a69875ec2658": {
+    "id": "4927b2434ac0a69875ec2658",
+    "titulo": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-26-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "fonte": "BLITZ Agenda",
+    "kind": "Agenda nacional",
+    "artista": "Todos os concertos marcados para",
+    "categoria": "música",
+    "data": null,
+    "hora": null,
+    "data_texto": null,
+    "sala": null,
+    "cidade": null,
+    "distrito": null,
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": null,
+    "tentativas_enriquecimento": 1
+  },
   "4929a3abb6719bb2b8b31727": {
     "id": "4929a3abb6719bb2b8b31727",
     "titulo": "Educação Inclusiva - Centro Cultural de Belém",
@@ -14330,7 +14506,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/turno-porto-17439",
     "imagem": null,
     "primeira_vez": "2026-11-19",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-19",
     "tentativas_enriquecimento": 1
@@ -14484,7 +14660,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/icaro-purpura-porto-16995",
     "imagem": null,
     "primeira_vez": "2026-10-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-18",
     "tentativas_enriquecimento": 1
@@ -14594,7 +14770,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/sean-riley-the-slowriders-porto-14080",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -14660,7 +14836,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/francois-j-bonnet-stephen-o-malley-porto-16993",
     "imagem": null,
     "primeira_vez": "2026-10-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-18",
     "tentativas_enriquecimento": 1
@@ -14704,7 +14880,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/tota-porto-16994",
     "imagem": null,
     "primeira_vez": "2026-10-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-18",
     "tentativas_enriquecimento": 1
@@ -14946,7 +15122,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2024/09/museumacccbcreditoEstelleValente-1.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -15078,7 +15254,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 3
@@ -15254,7 +15430,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/carlao-porto-16723",
     "imagem": null,
     "primeira_vez": "2026-10-01",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-01",
     "tentativas_enriquecimento": 1
@@ -15342,7 +15518,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-19",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 1
@@ -15364,7 +15540,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/will-samson-porto-17305",
     "imagem": null,
     "primeira_vez": "2026-11-09",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-09",
     "tentativas_enriquecimento": 1
@@ -15606,7 +15782,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/11/SerPosModernoPortugalcreditoamoreiras1985-arquivo-pedro.jpg",
     "primeira_vez": "2026-11-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-13",
     "tentativas_enriquecimento": 1
@@ -15738,7 +15914,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -15782,7 +15958,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-12",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-12",
     "tentativas_enriquecimento": 1
@@ -16046,7 +16222,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/soen-lisboa-13141",
     "imagem": null,
     "primeira_vez": "2026-11-08",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
@@ -16090,7 +16266,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -16266,7 +16442,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-13",
     "tentativas_enriquecimento": 1
@@ -16288,7 +16464,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -16310,7 +16486,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -16376,7 +16552,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/diles-que-no-me-maten-porto-17252",
     "imagem": null,
     "primeira_vez": "2026-11-05",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-05",
     "tentativas_enriquecimento": 1
@@ -16464,7 +16640,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -16486,7 +16662,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -16574,7 +16750,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/elba-ramalho-porto-14896",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -16596,7 +16772,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/03/Antonio-JorgeSilvaUma-Deriva-Atlantida-L-CCB-4K.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -16751,7 +16927,7 @@
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/07/Paraisohoje.jpg",
     "primeira_vez": "2026-11-11",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-11-11",
     "tentativas_enriquecimento": 1
   },
@@ -16794,7 +16970,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/barbara-tinoco-porto-17490",
     "imagem": null,
     "primeira_vez": "2026-11-22",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-22",
     "tentativas_enriquecimento": 1
@@ -16882,7 +17058,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/city-of-the-sun-porto-14788",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -17036,7 +17212,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/fresno-porto-15598",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -17058,7 +17234,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/holocausto-canibal-porto-16691",
     "imagem": null,
     "primeira_vez": "2026-09-30",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-30",
     "tentativas_enriquecimento": 1
@@ -17080,7 +17256,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-16",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -17126,7 +17302,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-13",
     "tentativas_enriquecimento": 1
@@ -17368,7 +17544,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/quim-roscas-zeca-estacionancio-porto-17394",
     "imagem": null,
     "primeira_vez": "2026-11-15",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-15",
     "tentativas_enriquecimento": 1
@@ -17478,7 +17654,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/vizinhos-lisboa-10071",
     "imagem": null,
     "primeira_vez": "2026-11-08",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
@@ -17610,7 +17786,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -17896,7 +18072,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/salvador-sobral-porto-15124",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -17918,7 +18094,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-04",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
@@ -17962,7 +18138,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/efterklang-lisboa-13303",
     "imagem": null,
     "primeira_vez": "2026-11-23",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-23",
     "tentativas_enriquecimento": 1
@@ -18116,7 +18292,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/al-di-meola-lisboa-14076",
     "imagem": null,
     "primeira_vez": "2026-11-08",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
@@ -18138,7 +18314,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -18160,7 +18336,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-15",
     "tentativas_enriquecimento": 3
@@ -18272,8 +18448,8 @@
     "primeira_vez": "2026-11-25",
     "ultima_vez": "2026-11-25",
     "ativo": true,
-    "enriquecido_em": "2026-11-25",
-    "tentativas_enriquecimento": 1
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 2
   },
   "5ca8cc31d3d48dfd4a3b0c35": {
     "id": "5ca8cc31d3d48dfd4a3b0c35",
@@ -18292,7 +18468,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -18844,8 +19020,8 @@
     "primeira_vez": "2026-11-25",
     "ultima_vez": "2026-11-25",
     "ativo": true,
-    "enriquecido_em": "2026-11-25",
-    "tentativas_enriquecimento": 1
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 2
   },
   "5f6c9019647ae562410e80fc": {
     "id": "5f6c9019647ae562410e80fc",
@@ -18952,7 +19128,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/06/instalacao-artistica-de-james-webb_edited.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -19238,7 +19414,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-22",
     "tentativas_enriquecimento": 3
@@ -19260,7 +19436,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/david-fonseca-lisboa-10791",
     "imagem": null,
     "primeira_vez": "2026-11-08",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
@@ -19370,7 +19546,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/the-pineapple-thief-porto-16264",
     "imagem": null,
     "primeira_vez": "2026-09-10",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-10",
     "tentativas_enriquecimento": 1
@@ -19612,7 +19788,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/02/Primeira-infancia-ARTISTA-PLASTICO-POR-UM-DIA-MACcreditoJafuno.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-01",
     "tentativas_enriquecimento": 1
@@ -19744,7 +19920,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -19788,7 +19964,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-20",
     "tentativas_enriquecimento": 3
@@ -19876,7 +20052,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/il-volo-porto-10068",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -19964,7 +20140,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/06/NovaEra_2000x940-1.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -20052,7 +20228,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/01/Museu-em-partilhamuseumacccb-2.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -20118,7 +20294,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -20250,7 +20426,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/akapellah-porto-17462",
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -20338,7 +20514,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/linda-martini-porto-17078",
     "imagem": null,
     "primeira_vez": "2026-10-24",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-24",
     "tentativas_enriquecimento": 1
@@ -20492,7 +20668,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/cristina-branco-porto-17530",
     "imagem": null,
     "primeira_vez": "2026-11-22",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-22",
     "tentativas_enriquecimento": 1
@@ -20778,7 +20954,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/joep-beving-porto-16439",
     "imagem": null,
     "primeira_vez": "2026-09-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-18",
     "tentativas_enriquecimento": 1
@@ -20998,7 +21174,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -21086,7 +21262,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -21152,7 +21328,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/dominguinho-porto-14051",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -21372,7 +21548,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/resistencia-porto-11320",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -21592,7 +21768,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/retimbrar-porto-17440",
     "imagem": null,
     "primeira_vez": "2026-11-19",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-19",
     "tentativas_enriquecimento": 1
@@ -21790,7 +21966,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-10",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-10",
     "tentativas_enriquecimento": 1
@@ -21834,7 +22010,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-21",
     "tentativas_enriquecimento": 1
@@ -21856,7 +22032,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -21922,7 +22098,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/cara-de-espelho-porto-16406",
     "imagem": null,
     "primeira_vez": "2026-09-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-18",
     "tentativas_enriquecimento": 1
@@ -21944,7 +22120,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/bruno-de-seda-porto-17304",
     "imagem": null,
     "primeira_vez": "2026-11-09",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-09",
     "tentativas_enriquecimento": 1
@@ -21967,7 +22143,7 @@
     "imagem": null,
     "primeira_vez": "2026-11-07",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-11-07",
     "tentativas_enriquecimento": 1
   },
@@ -21988,7 +22164,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/hmb-tim-lisboa-12979",
     "imagem": null,
     "primeira_vez": "2026-11-08",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
@@ -22010,7 +22186,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-24",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-24",
     "tentativas_enriquecimento": 1
@@ -22297,7 +22473,7 @@
     "imagem": null,
     "primeira_vez": "2026-10-16",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-10-16",
     "tentativas_enriquecimento": 1
   },
@@ -22450,7 +22626,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -22582,7 +22758,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/11/2.ZurichMonAmourcreditoWalterMair_Markli_imGut_05.jpg",
     "primeira_vez": "2026-11-19",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-19",
     "tentativas_enriquecimento": 1
@@ -22626,7 +22802,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/11/2.ZurichMonAmourcreditoWalterMair_Markli_imGut_05.jpg",
     "primeira_vez": "2026-11-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-13",
     "tentativas_enriquecimento": 1
@@ -22670,7 +22846,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/gui-aly-porto-17260",
     "imagem": null,
     "primeira_vez": "2026-11-05",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-05",
     "tentativas_enriquecimento": 1
@@ -22692,7 +22868,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/tomoko-sauvage-porto-17333",
     "imagem": null,
     "primeira_vez": "2026-11-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-13",
     "tentativas_enriquecimento": 1
@@ -22802,7 +22978,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-15",
     "tentativas_enriquecimento": 3
@@ -22849,6 +23025,28 @@
     "ultima_vez": "2026-09-18",
     "ativo": false,
     "enriquecido_em": "2026-09-18",
+    "tentativas_enriquecimento": 1
+  },
+  "7361dbe21b61c97f645e13e5": {
+    "id": "7361dbe21b61c97f645e13e5",
+    "titulo": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-26/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Primeiro Ciclo",
+    "categoria": "música",
+    "data": "2026-11-27",
+    "hora": "10:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/primeirociclo215-MAC-museu-abertocreditoJafuno.jpg",
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
     "tentativas_enriquecimento": 1
   },
   "73719c9b6db13ef2398c5a5c": {
@@ -22961,6 +23159,28 @@
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
   },
+  "744919e7d6151e4876a517e8": {
+    "id": "744919e7d6151e4876a517e8",
+    "titulo": "Fischer-Z",
+    "link": "https://agendadopedro.pt/concertos/fischer-z-lisboa-17583/",
+    "fonte": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto",
+    "artista": "Fischer-Z",
+    "categoria": "música",
+    "data": "2027-10-04",
+    "hora": null,
+    "data_texto": null,
+    "sala": "Aula Magna",
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
+  },
   "7487a4b1adba4cbbdefa56eb": {
     "id": "7487a4b1adba4cbbdefa56eb",
     "titulo": "Jorge Palma | 3 Palmas na Mão",
@@ -23000,7 +23220,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/the-glenn-miller-orchestra-porto-12293",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -23022,7 +23242,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/06/2000x940_InesFilipe_2.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -23044,7 +23264,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/alt-j-cascais-17531",
     "imagem": null,
     "primeira_vez": "2026-11-24",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-24",
     "tentativas_enriquecimento": 1
@@ -23110,7 +23330,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/lisbon-film-orchestra-porto-15444",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -23308,7 +23528,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -23398,7 +23618,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-30",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-01",
     "tentativas_enriquecimento": 3
@@ -23420,7 +23640,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ana-carolina-porto-13545",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-02",
     "tentativas_enriquecimento": 1
@@ -23552,7 +23772,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/kula-shaker-porto-17282",
     "imagem": null,
     "primeira_vez": "2026-11-08",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
@@ -23948,7 +24168,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/agir-paulo-de-carvalho-porto-15312",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -24036,7 +24256,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2020/03/visitasguiadasCCB©ritacarmo-7-scaled-e1695222526987.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -24058,7 +24278,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-20",
     "tentativas_enriquecimento": 3
@@ -24212,7 +24432,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ao-porto-12520",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -24388,7 +24608,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-01",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-03",
     "tentativas_enriquecimento": 3
@@ -24564,7 +24784,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-18",
     "tentativas_enriquecimento": 1
@@ -25049,7 +25269,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -25093,7 +25313,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/yo-diablo-porto-17441",
     "imagem": null,
     "primeira_vez": "2026-11-19",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-19",
     "tentativas_enriquecimento": 1
@@ -25335,7 +25555,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/01/Museu-em-partilhamuseumacccb-2.jpg",
     "primeira_vez": "2026-11-15",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-16",
     "tentativas_enriquecimento": 2
@@ -25384,6 +25604,28 @@
     "enriquecido_em": "2026-10-28",
     "tentativas_enriquecimento": 1
   },
+  "802e5f690fcf448a8777721e": {
+    "id": "802e5f690fcf448a8777721e",
+    "titulo": "Treze Raios",
+    "link": "https://agendadopedro.pt/concertos/treze-raios-porto-17572/",
+    "fonte": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto",
+    "artista": "Treze Raios",
+    "categoria": "música",
+    "data": "2026-12-27",
+    "hora": null,
+    "data_texto": null,
+    "sala": "Mouco",
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": "https://agendadopedro.pt/concertos/treze-raios-porto-17572",
+    "imagem": null,
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
+  },
   "804631afb5e2a662505a0ae0": {
     "id": "804631afb5e2a662505a0ae0",
     "titulo": "Primeira Infância - Centro Cultural de Belém",
@@ -25423,11 +25665,33 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-02",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
     "titulo_original": "Centro Cultural Olga Cadaval 03 Jan 2027 17:00 Concerto de Ano Novo"
+  },
+  "80aeca0763b83343adf06568": {
+    "id": "80aeca0763b83343adf06568",
+    "titulo": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-26/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Primeira Infância",
+    "categoria": "música",
+    "data": "2026-11-27",
+    "hora": "08:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2026/02/Primeira-infancia-ARTISTA-PLASTICO-POR-UM-DIA-MACcreditoJafuno.jpg",
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
   },
   "80cc643c090dd87e4cb070fe": {
     "id": "80cc643c090dd87e4cb070fe",
@@ -25490,7 +25754,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/programavincular2026_27.jpg",
     "primeira_vez": "2026-11-02",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-02",
     "tentativas_enriquecimento": 1
@@ -25842,7 +26106,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/antonio-zambujo-miguel-araujo-porto-14236",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -25908,7 +26172,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/steve-hackett-porto-16401",
     "imagem": null,
     "primeira_vez": "2026-09-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-18",
     "tentativas_enriquecimento": 1
@@ -25996,7 +26260,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/antonio-zambujo-miguel-araujo-porto-14237",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-03",
     "tentativas_enriquecimento": 1
@@ -26150,7 +26414,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/rotting-christ-porto-17412",
     "imagem": null,
     "primeira_vez": "2026-11-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-18",
     "tentativas_enriquecimento": 1
@@ -26216,7 +26480,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0
@@ -26547,7 +26811,7 @@
     "imagem": "https://www.ccb.pt/wp-content/uploads/2024/09/museumacccbcreditoEstelleValente-1.jpg",
     "primeira_vez": "2026-11-11",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-11-11",
     "tentativas_enriquecimento": 1
   },
@@ -26634,7 +26898,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ganso-porto-16106",
     "imagem": null,
     "primeira_vez": "2026-09-03",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
@@ -26678,7 +26942,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -26832,7 +27096,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-03",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-21",
     "tentativas_enriquecimento": 3
@@ -26854,7 +27118,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/web-porto-14082",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
@@ -27010,7 +27274,7 @@
     "imagem": null,
     "primeira_vez": "2026-10-16",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-10-16",
     "tentativas_enriquecimento": 1
   },
@@ -27053,7 +27317,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/pz-porto-16996",
     "imagem": null,
     "primeira_vez": "2026-10-18",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-18",
     "tentativas_enriquecimento": 1
@@ -27075,7 +27339,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/nuki-porto-16854",
     "imagem": null,
     "primeira_vez": "2026-10-09",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-09",
     "tentativas_enriquecimento": 1
@@ -27141,7 +27405,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
@@ -27207,7 +27471,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-21",
     "tentativas_enriquecimento": 3
@@ -27317,7 +27581,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
@@ -27779,7 +28043,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/maria-bc-porto-14347",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
@@ -27801,7 +28065,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/mono-porto-16025",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
@@ -27911,7 +28175,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/worakls-porto-14242",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
@@ -27999,7 +28263,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/anabela-porto-17493",
     "imagem": null,
     "primeira_vez": "2026-11-22",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-22",
     "tentativas_enriquecimento": 1
@@ -28263,7 +28527,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
@@ -28353,8 +28617,8 @@
     "primeira_vez": "2026-11-25",
     "ultima_vez": "2026-11-25",
     "ativo": true,
-    "enriquecido_em": "2026-11-25",
-    "tentativas_enriquecimento": 1
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 2
   },
   "8efde692f85d44799df15cd1": {
     "id": "8efde692f85d44799df15cd1",
@@ -28549,7 +28813,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/11/16_FranciscaCarvalhodreditoAJS2025-copiar-scaled.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-04",
     "tentativas_enriquecimento": 1
@@ -28902,7 +29166,7 @@
     "imagem": null,
     "primeira_vez": "2026-08-31",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-09-21",
     "tentativas_enriquecimento": 3
   },
@@ -29165,7 +29429,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/fuck-it-porto-17211",
     "imagem": null,
     "primeira_vez": "2026-11-01",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-01",
     "tentativas_enriquecimento": 1
@@ -29209,7 +29473,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -29275,7 +29539,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-23",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-25",
     "tentativas_enriquecimento": 3
@@ -29385,7 +29649,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/besta-porto-17101",
     "imagem": null,
     "primeira_vez": "2026-10-27",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-27",
     "tentativas_enriquecimento": 1
@@ -29825,7 +30089,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/smorra-porto-16311",
     "imagem": null,
     "primeira_vez": "2026-09-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-13",
     "tentativas_enriquecimento": 1
@@ -30089,7 +30353,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/al-di-meola-porto-13546",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-05",
     "tentativas_enriquecimento": 1
@@ -30177,7 +30441,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-28",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-28",
     "tentativas_enriquecimento": 1
@@ -30265,7 +30529,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/hatsune-miku-lisboa-12850",
     "imagem": null,
     "primeira_vez": "2026-11-08",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
@@ -30309,7 +30573,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/vozes-da-radio-porto-16261",
     "imagem": null,
     "primeira_vez": "2026-09-10",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-10",
     "tentativas_enriquecimento": 1
@@ -30442,7 +30706,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-21",
     "tentativas_enriquecimento": 3
@@ -30464,7 +30728,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/the-calling-porto-16760",
     "imagem": null,
     "primeira_vez": "2026-10-03",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-03",
     "tentativas_enriquecimento": 1
@@ -30486,7 +30750,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -30509,7 +30773,7 @@
     "imagem": null,
     "primeira_vez": "2026-10-15",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-10-15",
     "tentativas_enriquecimento": 1
   },
@@ -30684,7 +30948,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/fernando-daniel-porto-17013",
     "imagem": null,
     "primeira_vez": "2026-10-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-21",
     "tentativas_enriquecimento": 1
@@ -31234,7 +31498,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/07/Maruja-Mallo-Basuras-1930.-Coleccion-Centro-de-Arte-Fundacion-Maria-Jose-Jove-credito-VEGAP.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-05",
     "tentativas_enriquecimento": 1
@@ -31542,7 +31806,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/cat-soup-porto-17552",
     "imagem": null,
     "primeira_vez": "2026-11-25",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-25",
     "tentativas_enriquecimento": 1
@@ -31917,7 +32181,7 @@
     "imagem": null,
     "primeira_vez": "2026-11-08",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
   },
@@ -32158,7 +32422,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-21",
     "tentativas_enriquecimento": 3
@@ -32510,7 +32774,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-04",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-06",
     "tentativas_enriquecimento": 3
@@ -32554,7 +32818,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-22",
     "tentativas_enriquecimento": 3
@@ -32598,7 +32862,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-02",
     "tentativas_enriquecimento": 3
@@ -32664,7 +32928,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/11/Exposicaoenokura.jpg",
     "primeira_vez": "2026-11-14",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-14",
     "tentativas_enriquecimento": 1
@@ -32708,7 +32972,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-30",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-30",
     "tentativas_enriquecimento": 1
@@ -32906,7 +33170,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-05",
     "tentativas_enriquecimento": 1
@@ -33060,7 +33324,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -33148,7 +33412,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -33171,7 +33435,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-02",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-05",
     "tentativas_enriquecimento": 1
@@ -33347,7 +33611,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/unsafe-space-garden-porto-17519",
     "imagem": null,
     "primeira_vez": "2026-11-22",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-22",
     "tentativas_enriquecimento": 1
@@ -33436,7 +33700,7 @@
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/PreescolarServicoEducativo3663_ritacarmo.jpg",
     "primeira_vez": "2026-11-11",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-11-11",
     "tentativas_enriquecimento": 1
   },
@@ -33457,7 +33721,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-05",
     "tentativas_enriquecimento": 1
@@ -33611,7 +33875,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-06",
     "tentativas_enriquecimento": 1
@@ -33677,7 +33941,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/gnr-porto-17037",
     "imagem": null,
     "primeira_vez": "2026-10-23",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-23",
     "tentativas_enriquecimento": 1
@@ -33699,7 +33963,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-21",
     "tentativas_enriquecimento": 3
@@ -33721,7 +33985,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/dj-symphonic-porto-16242",
     "imagem": null,
     "primeira_vez": "2026-09-09",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-09",
     "tentativas_enriquecimento": 1
@@ -33835,6 +34099,28 @@
     "ativo": false,
     "enriquecido_em": "2026-09-22",
     "tentativas_enriquecimento": 3
+  },
+  "b03c5d898a4a5a134906f00f": {
+    "id": "b03c5d898a4a5a134906f00f",
+    "titulo": "Fischer-Z",
+    "link": "https://agendadopedro.pt/concertos/fischer-z-porto-17582/",
+    "fonte": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto",
+    "artista": "Fischer-Z",
+    "categoria": "música",
+    "data": "2027-10-05",
+    "hora": null,
+    "data_texto": null,
+    "sala": "Coliseu",
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
   },
   "b04dbf94098d53045ea74825": {
     "id": "b04dbf94098d53045ea74825",
@@ -33968,6 +34254,28 @@
     "enriquecido_em": "2026-09-11",
     "tentativas_enriquecimento": 1
   },
+  "b0df7cda12117cae9cd48648": {
+    "id": "b0df7cda12117cae9cd48648",
+    "titulo": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-26/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Ângela Ferreira",
+    "categoria": "música",
+    "data": "2026-11-27",
+    "hora": "10:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2025/11/AngelaFerreira.HereIStand1_MACCCB2026creditoTiagoCasanova.jpg",
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
+  },
   "b0f17700e18a6346357e6b78": {
     "id": "b0f17700e18a6346357e6b78",
     "titulo": "World Ballet Day 2026",
@@ -34030,7 +34338,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -34316,7 +34624,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-06",
     "tentativas_enriquecimento": 1
@@ -34536,7 +34844,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/marquise-porto-17551",
     "imagem": null,
     "primeira_vez": "2026-11-25",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-25",
     "tentativas_enriquecimento": 1
@@ -34603,7 +34911,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/this-will-destroy-you-porto-16023",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-06",
     "tentativas_enriquecimento": 1
@@ -34669,7 +34977,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-06",
     "tentativas_enriquecimento": 1
@@ -34779,7 +35087,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/06/2000x940_MusicaNoMuseu_TramasSonoras_MarcoFernandes-1.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-06",
     "tentativas_enriquecimento": 1
@@ -34999,7 +35307,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/11/10_creditoMarisol-Escobar_Untitled-1974_colored-pencil-and-collage-on-paper.-Bequest-of-Marisol-2016.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-06",
     "tentativas_enriquecimento": 1
@@ -35131,7 +35439,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/freya-skye-lisboa-13064",
     "imagem": null,
     "primeira_vez": "2026-11-08",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
@@ -35153,7 +35461,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ute-lemper-porto-17081",
     "imagem": null,
     "primeira_vez": "2026-10-24",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-24",
     "tentativas_enriquecimento": 1
@@ -35246,6 +35554,28 @@
     "enriquecido_em": "2026-10-24",
     "tentativas_enriquecimento": 1
   },
+  "b7ba5edf9ec9e8260aa3cc81": {
+    "id": "b7ba5edf9ec9e8260aa3cc81",
+    "titulo": "Paradise Lost ᛫ Voivod ᛫ Dool",
+    "link": "https://agendadopedro.pt/concertos/paradise-lost-lisboa-17558/",
+    "fonte": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto",
+    "artista": "Paradise Lost ᛫ Voivod ᛫ Dool",
+    "categoria": "música",
+    "data": "2027-11-07",
+    "hora": null,
+    "data_texto": null,
+    "sala": "Coliseu dos Recreios",
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": "https://agendadopedro.pt/concertos/paradise-lost-lisboa-17558",
+    "imagem": null,
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
+  },
   "b7be0ae5bf1386184881f522": {
     "id": "b7be0ae5bf1386184881f522",
     "titulo": "Festas de aniversário para crianças no Museu CCB, Lisboa",
@@ -35285,7 +35615,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/segundocicloservicoeducativoprogramavincular.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-06",
     "tentativas_enriquecimento": 1
@@ -35396,7 +35726,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/tindersticks-porto-17141",
     "imagem": null,
     "primeira_vez": "2026-10-29",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-29",
     "tentativas_enriquecimento": 1
@@ -35572,7 +35902,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/08/29_performance-Mutantes_BoCa_CCB-2024_creditobrunosimao-scaled.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-06",
     "tentativas_enriquecimento": 1
@@ -35748,7 +36078,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/oswaldo-montenegro-porto-16611",
     "imagem": null,
     "primeira_vez": "2026-09-25",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-25",
     "tentativas_enriquecimento": 1
@@ -35770,7 +36100,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/siloe-porto-14992",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-06",
     "tentativas_enriquecimento": 1
@@ -36034,7 +36364,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/luis-represas-50-anos-porto-13526",
     "imagem": null,
     "primeira_vez": "2026-09-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-13",
     "tentativas_enriquecimento": 1
@@ -36144,7 +36474,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-06",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-06",
     "tentativas_enriquecimento": 1
@@ -36320,7 +36650,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/jane-monheit-porto-15739",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-07",
     "tentativas_enriquecimento": 1
@@ -36518,7 +36848,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-12",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-12",
     "tentativas_enriquecimento": 1
@@ -36785,7 +37115,7 @@
     "ultima_vez": "2026-11-24",
     "ativo": true,
     "enriquecido_em": null,
-    "tentativas_enriquecimento": 2
+    "tentativas_enriquecimento": 3
   },
   "bf26ce75304e172ac485919a": {
     "id": "bf26ce75304e172ac485919a",
@@ -36804,7 +37134,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-11",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-22",
     "tentativas_enriquecimento": 3
@@ -36870,7 +37200,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/11/exposicao-cindy-sher-copiar.jpg",
     "primeira_vez": "2026-11-20",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-20",
     "tentativas_enriquecimento": 1
@@ -36980,7 +37310,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -37090,7 +37420,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/this-will-destroy-you-lisboa-16022",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-07",
     "tentativas_enriquecimento": 1
@@ -37178,7 +37508,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -37333,7 +37663,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-22",
     "tentativas_enriquecimento": 3
@@ -37531,7 +37861,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ze-amaro-porto-14106",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-07",
     "tentativas_enriquecimento": 1
@@ -37619,7 +37949,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-03",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-22",
     "tentativas_enriquecimento": 3
@@ -37641,7 +37971,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/PreescolarServicoEducativo3663_ritacarmo.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-07",
     "tentativas_enriquecimento": 1
@@ -37729,7 +38059,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-23",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-23",
     "tentativas_enriquecimento": 1
@@ -37817,7 +38147,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/samuel-uria-porto-17494",
     "imagem": null,
     "primeira_vez": "2026-11-22",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-22",
     "tentativas_enriquecimento": 1
@@ -38015,7 +38345,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/132-ARTISTA-PLASTICO-POR-UM-DIA-MACcreditoJafuno.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-07",
     "tentativas_enriquecimento": 1
@@ -38081,7 +38411,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/jose-el-marques-porto-16864",
     "imagem": null,
     "primeira_vez": "2026-10-10",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-10",
     "tentativas_enriquecimento": 1
@@ -38257,7 +38587,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-07",
     "tentativas_enriquecimento": 1
@@ -38565,7 +38895,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ana-lua-caiano-porto-14298",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-07",
     "tentativas_enriquecimento": 1
@@ -38653,7 +38983,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-22",
     "tentativas_enriquecimento": 3
@@ -38741,7 +39071,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-15",
     "tentativas_enriquecimento": 3
@@ -38785,7 +39115,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/orquestra-filarmonia-das-beiras-porto-17362",
     "imagem": null,
     "primeira_vez": "2026-11-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-13",
     "tentativas_enriquecimento": 1
@@ -38873,7 +39203,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-07",
     "tentativas_enriquecimento": 1
@@ -38983,7 +39313,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/nouvelle-vague-porto-15508",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -39027,7 +39357,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-10",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-10",
     "tentativas_enriquecimento": 1
@@ -39181,7 +39511,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -39269,11 +39599,33 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1,
     "titulo_original": "Com orquestra 22 Dez 2026 20:00 A Bela Adormecida"
+  },
+  "ca874225b238ca6d07eb3224": {
+    "id": "ca874225b238ca6d07eb3224",
+    "titulo": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-26/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Pré-escolar",
+    "categoria": "música",
+    "data": "2026-11-27",
+    "hora": "10:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/PreescolarServicoEducativo3663_ritacarmo.jpg",
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
   },
   "cae36738820e59822b65671c": {
     "id": "cae36738820e59822b65671c",
@@ -39314,7 +39666,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/evols-porto-17060",
     "imagem": null,
     "primeira_vez": "2026-10-23",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-23",
     "tentativas_enriquecimento": 1
@@ -39446,7 +39798,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-22",
     "tentativas_enriquecimento": 3
@@ -39534,7 +39886,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/diego-el-cigala-porto-16824",
     "imagem": null,
     "primeira_vez": "2026-10-07",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-07",
     "tentativas_enriquecimento": 1
@@ -39622,7 +39974,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/OlhosMultiplos1_LuainaHimid©AntonioJorgeSilva-scaled.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -39710,7 +40062,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -39754,7 +40106,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -39801,6 +40153,28 @@
     "ultima_vez": "2026-11-25",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
+    "tentativas_enriquecimento": 1
+  },
+  "cd0dcd0e9f2c4f579c07443f": {
+    "id": "cd0dcd0e9f2c4f579c07443f",
+    "titulo": "Concerto De Ano Novo 20270103",
+    "link": "https://casadamusica.com/event/concerto-de-ano-novo-20270103/",
+    "fonte": "Casa da Música",
+    "kind": "Porto",
+    "artista": "Ano Novo 20270103",
+    "categoria": "música",
+    "data": "2027-01-03",
+    "hora": "18:00",
+    "data_texto": null,
+    "sala": "Casa da Música",
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": null,
+    "imagem": null,
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
     "tentativas_enriquecimento": 1
   },
   "cd744b942d65cb02c8da9d7a": {
@@ -39886,7 +40260,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/klangkuenstler-porto-14952",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -40128,7 +40502,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/09/mac-ccb-museu-arte-contemporanea-lisboa-cover-abertura-2400x1128-01.png",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -40172,7 +40546,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/harry-waters-band-porto-17533",
     "imagem": null,
     "primeira_vez": "2026-11-24",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-24",
     "tentativas_enriquecimento": 1
@@ -40216,7 +40590,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/04/1200-ARTISTA-PLASTICO-POR-UM-DIA-MACcreditoJafuno.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -40260,7 +40634,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-07",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-07",
     "tentativas_enriquecimento": 1
@@ -40282,7 +40656,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/d-zrt-porto-15566",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -40326,7 +40700,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/salvador-sobral-porto-17532",
     "imagem": null,
     "primeira_vez": "2026-11-24",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-24",
     "tentativas_enriquecimento": 1
@@ -40350,8 +40724,8 @@
     "primeira_vez": "2026-11-25",
     "ultima_vez": "2026-11-25",
     "ativo": true,
-    "enriquecido_em": "2026-11-25",
-    "tentativas_enriquecimento": 1
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 2
   },
   "cfcede362fb17b364e6e5e9a": {
     "id": "cfcede362fb17b364e6e5e9a",
@@ -40370,7 +40744,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/11/19_NeilBeloufacreditoAgostinoOsio.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -40678,7 +41052,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/snarky-puppy-porto-16473",
     "imagem": null,
     "primeira_vez": "2026-09-19",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 1
@@ -40898,7 +41272,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -40986,7 +41360,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/antonio-zambujo-miguel-araujo-porto-14239",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -41251,7 +41625,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-22",
     "tentativas_enriquecimento": 3
@@ -41493,7 +41867,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/generation-abba-porto-17004",
     "imagem": null,
     "primeira_vez": "2026-10-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-21",
     "tentativas_enriquecimento": 1
@@ -41537,7 +41911,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -41559,7 +41933,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -41691,7 +42065,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/11/May-I-Help-You_MAC_CCB2-creditoAntonioJorgeSilva-scaled.jpg",
     "primeira_vez": "2026-10-29",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-29",
     "tentativas_enriquecimento": 1
@@ -41736,7 +42110,7 @@
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/segundocicloservicoeducativoprogramavincular.jpg",
     "primeira_vez": "2026-11-11",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-11-11",
     "tentativas_enriquecimento": 1
   },
@@ -41757,7 +42131,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/elvira-porto-15168",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -41801,7 +42175,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-10",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-10",
     "tentativas_enriquecimento": 1
@@ -41955,7 +42329,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/obscura-porto-13323",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -42087,7 +42461,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/antonio-zambujo-miguel-araujo-porto-14240",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-08",
     "tentativas_enriquecimento": 1
@@ -42241,7 +42615,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-22",
     "tentativas_enriquecimento": 3
@@ -42263,7 +42637,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/night-in-athens-porto-17140",
     "imagem": null,
     "primeira_vez": "2026-10-29",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-29",
     "tentativas_enriquecimento": 1
@@ -42329,7 +42703,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-11",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-22",
     "tentativas_enriquecimento": 3
@@ -42439,7 +42813,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/onceim-porto-16869",
     "imagem": null,
     "primeira_vez": "2026-10-10",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-10",
     "tentativas_enriquecimento": 1
@@ -42638,7 +43012,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-22",
     "tentativas_enriquecimento": 3
@@ -42726,7 +43100,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-23",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-25",
     "tentativas_enriquecimento": 3
@@ -42814,7 +43188,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/programavincular2026_27.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-09",
     "tentativas_enriquecimento": 1
@@ -42836,7 +43210,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -42902,7 +43276,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-13",
     "tentativas_enriquecimento": 1
@@ -42990,7 +43364,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-13",
     "tentativas_enriquecimento": 1
@@ -43034,7 +43408,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-10-10",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-12",
     "tentativas_enriquecimento": 3
@@ -43081,6 +43455,28 @@
     "ultima_vez": "2026-10-16",
     "ativo": false,
     "enriquecido_em": "2026-10-05",
+    "tentativas_enriquecimento": 1
+  },
+  "dd801bd0e52d6982c7e15b64": {
+    "id": "dd801bd0e52d6982c7e15b64",
+    "titulo": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-26/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Visitas Guiadas",
+    "categoria": "música",
+    "data": "2026-11-27",
+    "hora": "08:00",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2024/09/museumacccbcreditoEstelleValente-1.jpg",
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
     "tentativas_enriquecimento": 1
   },
   "ddbcd568f3e7859406386648": {
@@ -43257,7 +43653,7 @@
     "ultima_vez": "2026-11-25",
     "ativo": true,
     "enriquecido_em": null,
-    "tentativas_enriquecimento": 1
+    "tentativas_enriquecimento": 2
   },
   "dec60779d09839dc52bba6cc": {
     "id": "dec60779d09839dc52bba6cc",
@@ -43386,7 +43782,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/janeiro-porto-16498",
     "imagem": null,
     "primeira_vez": "2026-09-19",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 1
@@ -43496,7 +43892,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -43584,7 +43980,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-10",
     "tentativas_enriquecimento": 1
@@ -43606,7 +44002,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/de-oliveira-porto-17155",
     "imagem": null,
     "primeira_vez": "2026-10-30",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-30",
     "tentativas_enriquecimento": 1
@@ -43650,7 +44046,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2025/03/Antonio-JorgeSilvaUma-Deriva-Atlantida-L-CCB-4K.jpg",
     "primeira_vez": "2026-11-22",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-22",
     "tentativas_enriquecimento": 1
@@ -43848,7 +44244,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-10",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-10",
     "tentativas_enriquecimento": 1
@@ -43914,7 +44310,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -44046,7 +44442,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/luisa-sonza-porto-13013",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-10",
     "tentativas_enriquecimento": 1
@@ -44178,7 +44574,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -44200,7 +44596,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-10",
     "tentativas_enriquecimento": 1
@@ -44222,7 +44618,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/slift-porto-13306",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-10",
     "tentativas_enriquecimento": 1
@@ -44376,7 +44772,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/chico-chico-porto-12567",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-10",
     "tentativas_enriquecimento": 1
@@ -44662,7 +45058,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-10",
     "tentativas_enriquecimento": 1
@@ -44706,7 +45102,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/budda-power-blues-porto-16704",
     "imagem": null,
     "primeira_vez": "2026-10-01",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-01",
     "tentativas_enriquecimento": 1
@@ -44728,7 +45124,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/miguel-carmona-porto-16305",
     "imagem": null,
     "primeira_vez": "2026-09-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-13",
     "tentativas_enriquecimento": 1
@@ -44816,7 +45212,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-10",
     "tentativas_enriquecimento": 1
@@ -45103,7 +45499,7 @@
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/primeirociclo215-MAC-museu-abertocreditoJafuno.jpg",
     "primeira_vez": "2026-11-11",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-11-11",
     "tentativas_enriquecimento": 1
   },
@@ -45168,7 +45564,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-10",
     "tentativas_enriquecimento": 1
@@ -45520,7 +45916,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/11/7.doce-da-casa_credito-francisco-ascensão.jpg",
     "primeira_vez": "2026-11-14",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-14",
     "tentativas_enriquecimento": 1
@@ -45564,7 +45960,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/setima-legiao-porto-17495",
     "imagem": null,
     "primeira_vez": "2026-11-22",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-22",
     "tentativas_enriquecimento": 1
@@ -45630,7 +46026,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2024/04/MAC_CCB_h5925┬creditoRitaCarmo.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-10",
     "tentativas_enriquecimento": 1
@@ -45718,7 +46114,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-22",
     "tentativas_enriquecimento": 3
@@ -45828,7 +46224,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -45850,7 +46246,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/delfins-porto-17429",
     "imagem": null,
     "primeira_vez": "2026-11-19",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-19",
     "tentativas_enriquecimento": 1
@@ -46048,7 +46444,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/jaca-porto-17386",
     "imagem": null,
     "primeira_vez": "2026-11-15",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-15",
     "tentativas_enriquecimento": 1
@@ -46070,7 +46466,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/11/4.MARION-SCEMAMA-_DAVID-WOJNAROWICZ_UMA-HISTORIA-AMERICANA.png",
     "primeira_vez": "2026-11-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-13",
     "tentativas_enriquecimento": 1
@@ -46158,7 +46554,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-07",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-07",
     "tentativas_enriquecimento": 1
@@ -46268,7 +46664,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/ry-x-porto-16472",
     "imagem": null,
     "primeira_vez": "2026-09-19",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 1
@@ -46313,7 +46709,7 @@
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/terceirocicloservicoeducativoprogramvinculardestaque.jpg",
     "primeira_vez": "2026-11-11",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-11-11",
     "tentativas_enriquecimento": 1
   },
@@ -46379,7 +46775,7 @@
     "imagem": "https://www.ccb.pt/wp-content/uploads/2026/02/Primeira-infancia-ARTISTA-PLASTICO-POR-UM-DIA-MACcreditoJafuno.jpg",
     "primeira_vez": "2026-11-11",
     "ultima_vez": "2026-11-11",
-    "ativo": true,
+    "ativo": false,
     "enriquecido_em": "2026-11-11",
     "tentativas_enriquecimento": 1
   },
@@ -46576,7 +46972,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/angelo-freire-porto-15542",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-11",
     "tentativas_enriquecimento": 1
@@ -46620,7 +47016,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -46642,9 +47038,31 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-11",
+    "tentativas_enriquecimento": 1
+  },
+  "f0753d7d0ca39a9abbdda740": {
+    "id": "f0753d7d0ca39a9abbdda740",
+    "titulo": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-26/",
+    "fonte": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais",
+    "artista": "Segundo Ciclo",
+    "categoria": "música",
+    "data": "2026-11-26",
+    "hora": "13:30",
+    "data_texto": null,
+    "sala": "Centro Cultural de Belém",
+    "cidade": "Lisboa",
+    "distrito": "Lisboa",
+    "bilhetes": null,
+    "imagem": "https://www.ccb.pt/wp-content/uploads/2023/10/segundocicloservicoeducativoprogramavincular.jpg",
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
     "tentativas_enriquecimento": 1
   },
   "f089446c912d5af412f500f3": {
@@ -46708,7 +47126,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/joint-one-porto-16010",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-11",
     "tentativas_enriquecimento": 1
@@ -46730,7 +47148,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-22",
     "tentativas_enriquecimento": 3
@@ -46752,7 +47170,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-17",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-17",
     "tentativas_enriquecimento": 1
@@ -46774,7 +47192,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/sanguijuelas-del-guadiana-porto-17246",
     "imagem": null,
     "primeira_vez": "2026-11-04",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-04",
     "tentativas_enriquecimento": 1
@@ -46796,7 +47214,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/the-mission-porto-16099",
     "imagem": null,
     "primeira_vez": "2026-09-02",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-11",
     "tentativas_enriquecimento": 1
@@ -46884,7 +47302,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -46906,7 +47324,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2024/09/visitas-tematicas-1.jpg",
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-11",
     "tentativas_enriquecimento": 1
@@ -47016,7 +47434,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/nena-porto-12543",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-11",
     "tentativas_enriquecimento": 1
@@ -47214,7 +47632,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-04",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-06",
     "tentativas_enriquecimento": 3
@@ -47258,7 +47676,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/sara-correia-porto-10930",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-11",
     "tentativas_enriquecimento": 1
@@ -47302,7 +47720,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-11",
     "tentativas_enriquecimento": 1
@@ -47522,7 +47940,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/uhf-porto-16478",
     "imagem": null,
     "primeira_vez": "2026-09-19",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 1
@@ -47610,7 +48028,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-30",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-30",
     "tentativas_enriquecimento": 1
@@ -47698,7 +48116,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/antonio-zambujo-miguel-araujo-porto-14238",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-11",
     "tentativas_enriquecimento": 1
@@ -47830,7 +48248,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": null,
     "tentativas_enriquecimento": 0,
@@ -47853,7 +48271,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/mark-lennon-porto-15293",
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-11",
     "tentativas_enriquecimento": 1
@@ -47941,7 +48359,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-19",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-19",
     "tentativas_enriquecimento": 1
@@ -48029,7 +48447,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/mariza-porto-16881",
     "imagem": null,
     "primeira_vez": "2026-10-13",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-13",
     "tentativas_enriquecimento": 1
@@ -48117,7 +48535,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/leo-middea-porto-16542",
     "imagem": null,
     "primeira_vez": "2026-09-23",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-23",
     "tentativas_enriquecimento": 1
@@ -48183,7 +48601,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/luis-trigacheiro-porto-17492",
     "imagem": null,
     "primeira_vez": "2026-11-22",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-22",
     "tentativas_enriquecimento": 1
@@ -48271,7 +48689,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-11",
     "tentativas_enriquecimento": 1
@@ -48337,7 +48755,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-16",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-16",
     "tentativas_enriquecimento": 1
@@ -48540,6 +48958,28 @@
     "enriquecido_em": "2026-10-21",
     "tentativas_enriquecimento": 1
   },
+  "fac8c35dc113f82282680993": {
+    "id": "fac8c35dc113f82282680993",
+    "titulo": "Mastodon ᛫ Monolord",
+    "link": "https://agendadopedro.pt/concertos/mastodon-lisboa-17571/",
+    "fonte": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto",
+    "artista": "Mastodon ᛫ Monolord",
+    "categoria": "música",
+    "data": "2027-03-20",
+    "hora": null,
+    "data_texto": null,
+    "sala": "Pavilhão Atlântico",
+    "cidade": "Porto",
+    "distrito": "Porto",
+    "bilhetes": "https://agendadopedro.pt/concertos/mastodon-lisboa-17571",
+    "imagem": null,
+    "primeira_vez": "2026-11-26",
+    "ultima_vez": "2026-11-26",
+    "ativo": true,
+    "enriquecido_em": "2026-11-26",
+    "tentativas_enriquecimento": 1
+  },
   "fb081ecb8dd3eadc96f68aa0": {
     "id": "fb081ecb8dd3eadc96f68aa0",
     "titulo": "The Neighbourhood ᛫ Nessa Barrett",
@@ -48601,7 +49041,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/tony-carreira-lisboa-11945",
     "imagem": null,
     "primeira_vez": "2026-11-08",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-08",
     "tentativas_enriquecimento": 1
@@ -48689,7 +49129,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/gnr-porto-17038",
     "imagem": null,
     "primeira_vez": "2026-10-23",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-10-23",
     "tentativas_enriquecimento": 1
@@ -48843,7 +49283,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-12",
     "tentativas_enriquecimento": 1
@@ -48931,7 +49371,7 @@
     "bilhetes": null,
     "imagem": "https://www.ccb.pt/wp-content/uploads/2023/05/website_2000x940.jpg",
     "primeira_vez": "2026-11-25",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-25",
     "tentativas_enriquecimento": 1
@@ -49019,7 +49459,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-08-31",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-23",
     "tentativas_enriquecimento": 3
@@ -49239,7 +49679,7 @@
     "bilhetes": "https://agendadopedro.pt/concertos/manel-cruz-porto-17541",
     "imagem": null,
     "primeira_vez": "2026-11-24",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-24",
     "tentativas_enriquecimento": 1
@@ -49459,7 +49899,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-11-21",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-11-21",
     "tentativas_enriquecimento": 1
@@ -49503,7 +49943,7 @@
     "bilhetes": null,
     "imagem": null,
     "primeira_vez": "2026-09-25",
-    "ultima_vez": "2026-11-25",
+    "ultima_vez": "2026-11-26",
     "ativo": true,
     "enriquecido_em": "2026-09-25",
     "tentativas_enriquecimento": 1
