@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-27T02:57:03+00:00",
- "total": 2973,
+ "actualizado": "2026-11-27T12:45:12+00:00",
+ "total": 2975,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
   "2026-10": 1091,
-  "2026-11": 717
+  "2026-11": 719
  },
  "atletas": {
   "Tadej Pogačar": 253,
@@ -23,7 +23,7 @@
   "Charles Leclerc": 10,
   "Mondo Duplantis": 10,
   "Neemias Queta": 10,
-  "Rui Costa": 6,
+  "Rui Costa": 7,
   "Isaac Nader": 5,
   "Jakob Ingebrigtsen": 5,
   "Pedro Pichardo": 5,
@@ -68,7 +68,7 @@
   "Western States": 1
  },
  "modalidades": {
-  "ciclismo": 1038,
+  "ciclismo": 1040,
   "geral": 742,
   "futebol": 689,
   "automobilismo": 76,
@@ -100,10 +100,10 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 1429,
+  "RTP Desporto": 1430,
   "Cyclingnews": 619,
   "BBC Sport": 495,
-  "Ciclismo watchlist": 359,
+  "Ciclismo watchlist": 360,
   "Portugal olímpico": 41,
   "Atletismo watchlist": 17,
   "Sporting — todas as modalidades": 13
