@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-27T22:06:19+00:00",
- "total": 2995,
+ "actualizado": "2026-11-28T03:59:17+00:00",
+ "total": 3000,
  "meses": {
   "2026-08": 56,
   "2026-09": 1109,
   "2026-10": 1091,
-  "2026-11": 739
+  "2026-11": 744
  },
  "atletas": {
   "Tadej Pogačar": 256,
@@ -35,7 +35,7 @@
   "Patrícia Mamona": 1
  },
  "clubes": {
-  "Sporting CP": 245,
+  "Sporting CP": 247,
   "Portugal (selecções)": 205
  },
  "competicoes": {
@@ -69,11 +69,11 @@
  },
  "modalidades": {
   "ciclismo": 1044,
-  "geral": 747,
-  "futebol": 697,
+  "geral": 750,
+  "futebol": 698,
   "automobilismo": 76,
   "atletismo": 51,
-  "hóquei": 44,
+  "hóquei": 45,
   "portugal": 41,
   "rugby": 40,
   "basquetebol": 33,
@@ -100,9 +100,9 @@
   "vela": 1
  },
  "fontes": {
-  "RTP Desporto": 1445,
+  "RTP Desporto": 1449,
   "Cyclingnews": 620,
-  "BBC Sport": 496,
+  "BBC Sport": 497,
   "Ciclismo watchlist": 363,
   "Portugal olímpico": 41,
   "Atletismo watchlist": 17,
